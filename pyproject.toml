@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "aoc-ranking"
+version = "0.1.0"
+description = ""
+authors = ["Iskandar Setiadi <iskandarsetiadi@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+isort = "^5.6.3"
+pytest = "^5.2"
+
+[tool.isort]
+line_length = "88"
+multi_line_output = "3"
+combine_as_imports = "1"
+include_trailing_comma = "True"
+
+[tool.poetry.scripts]
+aoc-ranking = "aoc_ranking.cmds.main:main"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
