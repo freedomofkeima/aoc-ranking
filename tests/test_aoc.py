@@ -1,8 +1,36 @@
 # -*- coding: utf-8 -*-
-import pytest
-from bs4 import BeautifulSoup
+import os
 
-from aoc_ranking.aoc import RankRecord, extract_data_from_line
+import pytest
+import requests
+from bs4 import BeautifulSoup
+from requests.models import Response
+
+from aoc_ranking.aoc import RankRecord, extract_data_from_line, get_scoreboard
+
+SCRIPT_PATH = os.path.abspath(os.path.dirname(__file__))
+
+
+@pytest.fixture
+def mocked_requests(monkeypatch):
+    def get(uri, *args, **kwargs):
+        r = Response()
+        if uri == "https://adventofcode.com/2020/leaderboard/day/1":
+            r.status_code = 200
+            # Read HTML file (a downloaded copy from real URL above)
+            path = os.path.join(SCRIPT_PATH, "files/2020-01.html")
+            f = open(path, "r")
+            r._content = str.encode(f.read())
+        else:
+            r.status_code = 400
+        return r
+
+    monkeypatch.setattr(requests, "get", get)
+
+
+def test_get_scoreboard(mocked_requests):
+    scoreboard = get_scoreboard(2020, 1)
+    assert len(scoreboard) == 200
 
 
 @pytest.mark.parametrize(
