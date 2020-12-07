@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,Kevin Wang,4015,https://lh3.googleusercontent.com/a-/AOh14GgvWUkf7SdaEzQCeyAnX4YvANQP5MHTrOsCt0ULukg=s96-c
 2,petertseng (AoC++),3379,https://avatars2.githubusercontent.com/u/346181?v=4
 3,Andrew Skalski,3197,https://lh4.googleusercontent.com/-5ZTnFxu1D6Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb8rrjaO68BvRUOwq54HDzwByr4Q/s96-c/photo.jpg

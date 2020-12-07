@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,betaveros (AoC++),3590,https://avatars0.githubusercontent.com/u/3482833?v=4
 2,David Wahler (AoC++),3373,https://avatars3.githubusercontent.com/u/548160?v=4
 3,Jonathan Paulson (AoC++),3173,https://lh3.googleusercontent.com/a-/AOh14Ggwcytj2hCn-TJFkrgFQ-KcWLC7bW_On-p9QWbuuw=s96-c

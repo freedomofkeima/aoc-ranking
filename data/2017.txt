@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,(anonymous user #193354),4247,
 2,xiaowuc1,4230,https://avatars3.githubusercontent.com/u/3413714?v=4
 3,Robert Xiao (AoC++),3848,https://avatars3.githubusercontent.com/u/75449?v=4

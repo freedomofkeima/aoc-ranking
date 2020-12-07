@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,Andrew Skalski,3327,https://lh4.googleusercontent.com/-5ZTnFxu1D6Q/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckb8rrjaO68BvRUOwq54HDzwByr4Q/s96-c/photo.jpg
 2,r_sreeram,3109,
 3,dougg3,2613,

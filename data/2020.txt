@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,xiaowuc1,1055,https://avatars3.githubusercontent.com/u/3413714?v=4
 2,betaveros (AoC++),963,https://avatars0.githubusercontent.com/u/3482833?v=4
 3,Robert Xiao,951,https://avatars3.githubusercontent.com/u/75449?v=4

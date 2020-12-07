@@ -1,3 +1,4 @@
+Rank,Name,Score,Avatar
 1,(anonymous user #193354),4238,
 2,betaveros (AoC++),4194,https://avatars0.githubusercontent.com/u/3482833?v=4
 3,Simon Parent,4150,https://avatars1.githubusercontent.com/u/7584490?v=4
