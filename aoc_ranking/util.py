@@ -17,6 +17,7 @@ def write_global_rank_to_file(year: int, data: List[GlobalScoreRecord]):
                 "Rank",
                 "Name",
                 "Score",
+                "Link",
                 "Avatar",
             ]
         )
@@ -26,6 +27,7 @@ def write_global_rank_to_file(year: int, data: List[GlobalScoreRecord]):
                     entity.rank,
                     entity.name,
                     entity.score,
+                    entity.link,
                     entity.photo_url if entity.photo_url else "",
                 ]
             )

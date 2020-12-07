@@ -29,6 +29,7 @@ EXCLUDE_DAY = {
 class RankRecord:
     rank: int
     name: str
+    link: Optional[str] = None
     photo_url: Optional[str] = None
 
 
@@ -37,6 +38,7 @@ class GlobalScoreRecord:
     rank: int
     name: str
     score: int
+    link: Optional[str] = None
     photo_url: Optional[str] = None
 
 
@@ -60,15 +62,20 @@ def get_scoreboard(year: int, day: int) -> List[RankRecord]:
 def extract_data_from_line(entity: element.Tag) -> RankRecord:
     data = MATCHER.match(entity.get_text())
     rank, name = data.group(1), data.group(2)
+    href_tags = entity.find_all(href=True)
+    link = None
+    for a in href_tags:
+        if "github" in a["href"] or "twitter" in a["href"]:
+            link = a["href"]
     photo_url = entity.select("span.leaderboard-userphoto")[0].find()
     if photo_url:
         photo_url = photo_url.get("src")
-    return RankRecord(int(rank), name, photo_url)
+    return RankRecord(int(rank), name, link, photo_url)
 
 
 def tally(results: Dict[Tuple, int], scoreboard: List[RankRecord]) -> Dict[Tuple, int]:
     for i in range(100):
-        key = (scoreboard[i].name, scoreboard[i].photo_url)
+        key = (scoreboard[i].name, scoreboard[i].link, scoreboard[i].photo_url)
         score = 100 - i
         if key in results:
             results[key] += score
@@ -108,6 +115,6 @@ def generate_global_rank(data: Dict[Tuple, int]) -> List[GlobalScoreRecord]:
             duplicate = 0
         else:
             duplicate = duplicate + 1
-        results.append(GlobalScoreRecord(rank, key[0], score, key[1]))
+        results.append(GlobalScoreRecord(rank, key[0], score, key[1], key[2]))
         previous_score = score
     return results
