@@ -25,9 +25,34 @@
     <a class="github-fork-ribbon right-bottom fixed" href="https://github.com/freedomofkeima/aoc-ranking" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
     <div class="container-fluid">
 
-      <h2>Advent of Code Ranking (2020)</h2>
+      <h2>Advent of Code Ranking</h2>
 
-      <div id='table-container'></div>
+      <h3>Year:</h3>
+      <form name="yearForm">
+          <label>2020</label>
+          <input type="radio" name="year" value="2020" checked="checked" />
+          <label>2019</label>
+          <input type="radio" name="year" value="2019" />
+          <label>2018</label>
+          <input type="radio" name="year" value="2018" /><br/>
+          <!--
+          <label>2017</label>
+          <input type="radio" name="year" value="2017" />
+          <label>2016</label>
+          <input type="radio" name="year" value="2016" />
+          <label>2015</label>
+          <input type="radio" name="year" value="2015" />
+          -->
+      </form>
+
+      <div id='table-container-2020'></div>
+      <div id='table-container-2019'></div>
+      <div id='table-container-2018'></div>
+      <!--
+      <div id='table-container-2017'></div>
+      <div id='table-container-2016'></div>
+      <div id='table-container-2015'></div>
+      -->
 
     </div><!-- /.container -->
 
@@ -50,6 +75,27 @@
 
 
     <script type="text/javascript">
+      var rad = document.yearForm.year;
+      var prev = null;
+      for (var i = 0; i < rad.length; i++) {
+          rad[i].addEventListener('change', function() {
+            (prev) ? console.log(prev.value): null;
+            if (this !== prev) {
+                for (var j = 0; j < rad.length; j++) {
+                    var x = document.getElementById("table-container-" + rad[j].value);
+                    x.style.display = "none";
+                }
+                var y = document.getElementById("table-container-" + this.value);
+                y.style.display = "block";
+                prev = this;
+            }
+            console.log(this.value)
+          });
+      }
+      for (var i = 2018; i < 2020; i++) {
+          document.getElementById("table-container-" + i).style.display = "none";
+      }
+
       function format_link(link){
         if (link)
           return "<img src='" + link + "' height='20'/>";
@@ -57,14 +103,16 @@
           return "";
       }
 
-      CsvToHtmlTable.init({
-        csv_path: 'data/2020.txt',
-        element: 'table-container',
-        allow_download: true,
-        csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
-        custom_formatting: [[3, format_link]]
-      });
+      for (var i = 2018; i < 2021; i++) {
+          CsvToHtmlTable.init({
+            csv_path: 'data/' + i + '.txt',
+            element: 'table-container-' + i,
+            allow_download: true,
+            csv_options: {separator: ',', delimiter: '"'},
+            datatables_options: {"paging": false},
+            custom_formatting: [[3, format_link]]
+          });
+      }
     </script>
   </body>
 </html>
