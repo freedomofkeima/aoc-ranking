@@ -6,6 +6,8 @@ authors = ["Iskandar Setiadi <iskandarsetiadi@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+beautifulsoup4 = "^4.9.3"
+requests = "^2.25.0"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
