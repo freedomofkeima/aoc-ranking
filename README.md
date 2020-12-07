@@ -1,5 +1,7 @@
 # Advent of Code Ranking
 
+[![CircleCI](https://circleci.com/gh/freedomofkeima/aoc-ranking/tree/master.svg?style=shield)](https://circleci.com/gh/freedomofkeima/aoc-ranking/tree/master)
+
 The goal is to show all non-zero score participants in one, global scoreboard.
 
 ## Requirements (Contributors)
