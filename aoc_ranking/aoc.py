@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 import re
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional
+from operator import itemgetter
+from typing import Dict, List, Optional, Tuple
 
 import requests
 from bs4 import BeautifulSoup, element
@@ -14,19 +15,29 @@ MATCHER = re.compile(
     r"[\s]*([0-9]{1,3})\)[\s]*Dec.+[0-9]{2}[\s]*[0-9]{2}:[0-9]{2}:[0-9]{2}[\s]*(.*)"
 )
 
+EXCLUDE_DAY = {
+    2020: [1],
+    2019: [],
+    2018: [6],
+    2017: [],
+    2016: [],
+    2015: [],
+}
+
 
 @dataclass
 class RankRecord:
     rank: int
     name: str
-    photo_tag: Optional[str] = None
+    photo_url: Optional[str] = None
 
-    def to_dict(self) -> Dict[str, Any]:
-        return {
-            "rank": self.rank,
-            "name": self.name,
-            "photo_tag": self.photo_tag if self.photo_tag else "",
-        }
+
+@dataclass
+class GlobalScoreRecord:
+    rank: int
+    name: str
+    score: int
+    photo_url: Optional[str] = None
 
 
 def get_scoreboard(year: int, day: int) -> List[RankRecord]:
@@ -49,7 +60,54 @@ def get_scoreboard(year: int, day: int) -> List[RankRecord]:
 def extract_data_from_line(entity: element.Tag) -> RankRecord:
     data = MATCHER.match(entity.get_text())
     rank, name = data.group(1), data.group(2)
-    photo_tag = entity.select("span.leaderboard-userphoto")[0].find()
-    if photo_tag:
-        photo_tag = photo_tag.get("src")
-    return RankRecord(int(rank), name, photo_tag)
+    photo_url = entity.select("span.leaderboard-userphoto")[0].find()
+    if photo_url:
+        photo_url = photo_url.get("src")
+    return RankRecord(int(rank), name, photo_url)
+
+
+def tally(results: Dict[Tuple, int], scoreboard: List[RankRecord]) -> Dict[Tuple, int]:
+    for i in range(100):
+        key = (scoreboard[i].name, scoreboard[i].photo_url)
+        score = 100 - i
+        if key in results:
+            results[key] += score
+        else:
+            results[key] = score
+    return results
+
+
+def calculate_global_scoreboard(year: int) -> Dict[Tuple, int]:
+    results = {}
+    for day in range(1, 26):
+        print(f"Processing year {year}, day {day}")
+        if day in EXCLUDE_DAY[year]:
+            print(f"  Skipping year {year}, day {day} because of technical problem")
+            continue
+        scoreboard = get_scoreboard(year=year, day=day)
+        if not scoreboard:
+            print(f"  Skipping year {year}, day {day} because scoreboard is empty")
+            continue
+        # Two stars
+        results = tally(results, scoreboard[:100])
+        # One star
+        results = tally(results, scoreboard[100:])
+    return results
+
+
+def generate_global_rank(data: Dict[Tuple, int]) -> List[GlobalScoreRecord]:
+    # Initialize
+    rank = 0
+    duplicate = 0
+    previous_score = -1
+    results = []
+    # Process
+    for key, score in sorted(data.items(), key=itemgetter(1), reverse=True):
+        if previous_score != score:
+            rank = rank + duplicate + 1
+            duplicate = 0
+        else:
+            duplicate = duplicate + 1
+        results.append(GlobalScoreRecord(rank, key[0], score, key[1]))
+        previous_score = score
+    return results

@@ -67,4 +67,4 @@ def test_extract_data_from_line(entity, expected):
     line = extract_data_from_line(soup.select("div.leaderboard-entry")[0])
     assert line.rank == expected.rank
     assert line.name == expected.name
-    assert line.photo_tag == expected.photo_tag
+    assert line.photo_url == expected.photo_url
