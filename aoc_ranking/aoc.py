@@ -19,13 +19,13 @@ MATCHER = re.compile(
 class RankRecord:
     rank: int
     name: str
-    photo: Optional[str]
+    photo_tag: Optional[str] = None
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "rank": self.rank,
             "name": self.name,
-            "photo": self.photo if self.photo else "",
+            "photo_tag": self.photo_tag if self.photo_tag else "",
         }
 
 
@@ -49,5 +49,7 @@ def get_scoreboard(year: int, day: int) -> List[RankRecord]:
 def extract_data_from_line(entity: element.Tag) -> RankRecord:
     data = MATCHER.match(entity.get_text())
     rank, name = data.group(1), data.group(2)
-    photo = entity.select("span.leaderboard-userphoto")[0].find()
-    return RankRecord(int(rank), name, photo)
+    photo_tag = entity.select("span.leaderboard-userphoto")[0].find()
+    if photo_tag:
+        photo_tag = photo_tag.get("src")
+    return RankRecord(int(rank), name, photo_tag)
