@@ -4,24 +4,24 @@ jobs:
     working_directory: ~/aoc-ranking
     docker:
       - image: circleci/python:3.9
-  steps:
-    - checkout
-    - restore_cache:
-        key: deps1-{{ .Branch }}
-    - run:
-        name: Build
-        command: |
-          python3 -m venv venv
-          . venv/bin/activate
-          pip install -U pip setuptools wheel
-          pip install poetry
-          poetry install
-    - save_cache:
-        key: deps1-{{ .Branch }}-{{ checksum "poetry.lock" }}
-        paths:
-          - "venv"
-    - run:
-        name: Test
-        command: |
-          . venv/bin/activate
-          poetry run pytest tests
+    steps:
+      - checkout
+      - restore_cache:
+          key: deps1-{{ .Branch }}
+      - run:
+          name: Build
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -U pip setuptools wheel
+            pip install poetry
+            poetry install
+      - save_cache:
+          key: deps1-{{ .Branch }}-{{ checksum "poetry.lock" }}
+          paths:
+            - "venv"
+      - run:
+          name: Test
+          command: |
+            . venv/bin/activate
+            poetry run pytest tests
