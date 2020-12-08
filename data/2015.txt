@@ -449,7 +449,7 @@ Rank,Name,Score,Link,Avatar
 448,zarvox,155,https://github.com/zarvox,https://avatars3.githubusercontent.com/u/307325?v=4
 449,Amit Gupta,154,,https://lh4.googleusercontent.com/-yl0RSJJ90KI/AAAAAAAAAAI/AAAAAAAABYE/-v1Mr-6gDls/photo.jpg
 449,rein,154,https://github.com/redeyes2015,https://avatars2.githubusercontent.com/u/93420?v=4
-449,Adam Urato,154,,https://lh6.googleusercontent.com/-VL2FCZdwb_0/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfZGNLfxkxHKuO_iI1kuhRSPTETOQ/photo.jpg
+449,Adam Urato,154,,https://lh6.googleusercontent.com/-VL2FCZdwb_0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmtN9KVglzY0MtLFodh4DzKc3VFig/s96-c/photo.jpg
 452,Jean-Karim Bockstael,153,https://github.com/jkbockstael,https://avatars3.githubusercontent.com/u/1963594?v=4
 452,SpinCobra,153,,https://avatars.githubusercontent.com/u/6767588?v=3
 454,tobiowo,152,,https://avatars.githubusercontent.com/u/1762224?v=3
@@ -583,7 +583,7 @@ Rank,Name,Score,Link,Avatar
 578,s,103,,https://avatars2.githubusercontent.com/u/567041?v=4
 583,owenso,102,,https://avatars.githubusercontent.com/u/8838401?v=3
 583,pdcamilleri,102,https://github.com/pdcamilleri,https://avatars2.githubusercontent.com/u/1164501?v=4
-583,Anurag Bakshi,102,,https://lh6.googleusercontent.com/-Eh2239ektWE/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reyigM-nSHgG1i1i8V4dCFfGoF2wQ/photo.jpg
+583,Anurag Bakshi,102,,https://lh6.googleusercontent.com/-Eh2239ektWE/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn40avoLybBPeAViAvkPcQ9E03Fow/s96-c/photo.jpg
 583,(anonymous user #47933),102,,
 587,Craig Peterson,101,https://github.com/captncraig,https://avatars2.githubusercontent.com/u/192540?v=4
 588,(anonymous user #361),100,,
@@ -662,7 +662,7 @@ Rank,Name,Score,Link,Avatar
 659,Ross Foley,78,,https://avatars0.githubusercontent.com/u/803732?v=4
 662,tylerjl,77,https://github.com/tylerjl,https://avatars1.githubusercontent.com/u/1733846?v=4
 662,cookieraid,77,,
-662,(anonymous user #38957),77,,
+662,Brian Risinger,77,,https://lh3.googleusercontent.com/a-/AOh14GgjOZwAEhAPl1Y-exwZprmVV1tB1TJiaoUWQMtA=s96-c
 662,Henry Rich,77,,https://lh3.googleusercontent.com/-JrhidHKzJjc/AAAAAAAAAAI/AAAAAAAAAAA/HMKs14qLf3s/photo.jpg
 662,Enoch Cheung,77,https://github.com/enochcheung,https://avatars2.githubusercontent.com/u/5355888?v=4
 667,(anonymous user #36138),75,,
@@ -731,7 +731,7 @@ Rank,Name,Score,Link,Avatar
 728,(anonymous user #862),60,,
 728,Tim Roberts,60,,https://lh3.googleusercontent.com/a-/AOh14Gj-0licYPhexj6Z3g-35Btlaqc28ZflCuHF76Zd=s96-c
 732,Jacky Lam,59,,https://lh3.googleusercontent.com/-jyaaVp8cK-o/AAAAAAAAAAI/AAAAAAAAABk/GNWxR4O_oCU/photo.jpg
-732,njx,59,,https://avatars.githubusercontent.com/u/697759?v=3
+732,njx,59,,https://avatars2.githubusercontent.com/u/697759?v=4
 732,aleedom,59,https://github.com/aleedom,https://avatars0.githubusercontent.com/u/6343381?v=4
 732,Luan Castro,59,https://github.com/castrolol,https://avatars.githubusercontent.com/u/2396226?v=3
 736,eamondaly,58,,https://avatars.githubusercontent.com/u/526398?v=3

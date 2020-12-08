@@ -410,7 +410,7 @@ Rank,Name,Score,Link,Avatar
 409,Kunal Shroff,99,,https://lh6.googleusercontent.com/-4i06XIJWQKk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAV3HVedhWqNSumb2ta8ZT0vvxHw/s96-c/photo.jpg
 410,Ben Greenman (AoC++),98,https://github.com/bennn,https://avatars0.githubusercontent.com/u/1731829?v=4
 410,gricey432,98,https://github.com/gricey432,https://avatars2.githubusercontent.com/u/1611345?v=4
-410,boombalabo,98,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
+410,boombalabo,98,,https://lh3.googleusercontent.com/-Fg9AxD9fnKI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksUpLYGQnwNcTjL4lrUUP5SLQ1ug/s96-c/photo.jpg
 410,Chip Turner (AoC++),98,,https://lh4.googleusercontent.com/-z04dTa3_x4I/AAAAAAAAAAI/AAAAAAAAAsc/S9twSQTwOmI/photo.jpg
 410,Ben Blum,98,,https://lh4.googleusercontent.com/-jMFtF1epq-U/AAAAAAAAAAI/AAAAAAAAA4g/QBcQ7oo6tjs/photo.jpg
 410,Denis Blanchette,98,,https://lh6.googleusercontent.com/-Aeo91wWQ5j0/AAAAAAAAAAI/AAAAAAAAAHc/bUQ8x6WF7kE/photo.jpg
@@ -556,7 +556,7 @@ Rank,Name,Score,Link,Avatar
 553,(anonymous user #245152),52,,
 553,m1el,52,,https://avatars2.githubusercontent.com/u/540652?v=4
 553,Shane Mc Cormack (AoC++),52,https://github.com/ShaneMcC,https://avatars3.githubusercontent.com/u/189723?v=4
-558,David Tracy,51,,https://lh3.googleusercontent.com/a-/AAuE7mCGJzjP3utHRx-1XYFJsen-hIlXOE8kjNqzarUzaQ
+558,David Tracy,51,,https://lh3.googleusercontent.com/a-/AOh14Ggh_PaTQGishnF9VE0ZTF-Z0uAFtWWiUV_pkuJq_Q=s96-c
 558,Alex Greaves,51,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 558,rahulsom,51,https://github.com/rahulsom,https://avatars3.githubusercontent.com/u/193047?v=4
 558,Benedikt Werner,51,https://github.com/benediktwerner,https://avatars0.githubusercontent.com/u/19309705?v=4

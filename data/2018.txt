@@ -443,7 +443,7 @@ Rank,Name,Score,Link,Avatar
 440,Víctor Oliva (AoC++),85,https://github.com/voliva,https://avatars2.githubusercontent.com/u/5365487?v=4
 443,Matt Goodrich (AoC++),84,https://github.com/mrgoodrich,https://avatars2.githubusercontent.com/u/10081869?v=4
 444,jonatan,83,https://github.com/namedots,https://avatars0.githubusercontent.com/u/6226741?v=4
-444,Scott Greenlay,83,,https://avatars2.githubusercontent.com/u/370871?v=4
+444,Scott Greenlay,83,https://github.com/sgreenlay,https://avatars2.githubusercontent.com/u/370871?v=4
 446,hawkjo,82,https://github.com/hawkjo,https://avatars1.githubusercontent.com/u/8432447?v=4
 446,Jamal,82,,https://avatars3.githubusercontent.com/u/6416083?v=4
 446,Olaf Gottschalk (AoC++),82,https://github.com/Zordid,https://avatars2.githubusercontent.com/u/4798822?v=4

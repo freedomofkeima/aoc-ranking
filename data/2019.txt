@@ -722,7 +722,7 @@ Rank,Name,Score,Link,Avatar
 719,Troy Unverdruss (AoC++),26,,https://avatars1.githubusercontent.com/u/5652368?v=4
 719,mb0x40,26,,
 719,CanGreenBeret,26,,
-719,lazear (AoC++),26,https://github.com/lazear,https://avatars0.githubusercontent.com/u/14057244?v=4
+719,(anonymous user #120003) (AoC++),26,,
 719,(anonymous user #499411),26,,
 719,Kehvarl (AoC++),26,,https://avatars3.githubusercontent.com/u/19617310?v=4
 719,jwalck (AoC++),26,,https://avatars2.githubusercontent.com/u/47205?v=4
