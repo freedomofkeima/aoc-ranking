@@ -56,7 +56,7 @@ Rank,Name,Score,Link,Avatar
 55,Sam Cappleman-Lynes,1075,,https://avatars3.githubusercontent.com/u/17862382?v=4
 56,algmyr,1063,https://github.com/algmyr,https://avatars1.githubusercontent.com/u/15268706?v=4
 57,(anonymous user #60233) (AoC++),1061,,
-58,Igor Naverniouk (AoC++),1057,,https://lh3.googleusercontent.com/a-/AAuE7mCebtLUNgzL-67e35i92sa3a2UgXaPi2gOpzYb7IA
+58,Igor Naverniouk (AoC++),1057,,https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c
 58,printfn,1057,https://github.com/printfn,https://avatars1.githubusercontent.com/u/1643883?v=4
 60,tianyi5309,1048,https://github.com/tianyi5309,https://avatars2.githubusercontent.com/u/12025225?v=4
 61,Jim Zhang,1022,,https://lh6.googleusercontent.com/-1N08od7pl4g/AAAAAAAAAAI/AAAAAAAAOJs/hKyfvJqfwCg/photo.jpg
@@ -414,7 +414,7 @@ Rank,Name,Score,Link,Avatar
 410,cyphase,94,,https://avatars1.githubusercontent.com/u/977850?v=4
 414,(anonymous user #374494),93,,
 414,kacredolo,93,https://github.com/kacredolo,https://avatars2.githubusercontent.com/u/8829008?v=4
-414,Andrew Walker,93,,https://lh3.googleusercontent.com/a-/AOh14GgSq4joQuUoToV5GLAelIW6CPK25WLetTTgP7Nv=s96-c
+414,Chuck Walker,93,,https://lh3.googleusercontent.com/a-/AOh14GgSq4joQuUoToV5GLAelIW6CPK25WLetTTgP7Nv=s96-c
 414,Maxim Kulikov (AoC++),93,https://github.com/maxlk,https://avatars1.githubusercontent.com/u/502245?v=4
 414,(anonymous user #239026),93,,
 414,(anonymous user #260995),93,,

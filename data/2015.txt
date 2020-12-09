@@ -13,7 +13,7 @@ Rank,Name,Score,Link,Avatar
 12,malisper,1913,https://github.com/malisper,https://avatars0.githubusercontent.com/u/6210567?v=4
 13,Joe LeGasse,1912,,https://avatars2.githubusercontent.com/u/1391698?v=4
 14,Talchas,1860,,https://lh6.googleusercontent.com/-Hk9mpUx0G9M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVjGINa08AIKqZIb-n_n57HPIjdg/s96-c/photo.jpg
-15,Igor Naverniouk,1804,,https://lh3.googleusercontent.com/a-/AAuE7mCebtLUNgzL-67e35i92sa3a2UgXaPi2gOpzYb7IA
+15,Igor Naverniouk,1804,,https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c
 16,balidani,1737,https://github.com/balidani,https://avatars2.githubusercontent.com/u/1805302?v=4
 17,etotheipi1,1699,,
 18,dsemi,1616,,https://avatars0.githubusercontent.com/u/1354293?v=4
@@ -880,7 +880,7 @@ Rank,Name,Score,Link,Avatar
 876,al3ksandar,27,,https://avatars.githubusercontent.com/u/3715617?v=3
 876,Jimmacle,27,,
 876,(anonymous user #32039),27,,
-876,aspurdy,27,,https://avatars3.githubusercontent.com/u/1298496?v=4
+876,(anonymous user #9322),27,,
 883,ccipriano,26,,
 883,noah chen,26,,https://lh4.googleusercontent.com/-lZLj4M7Mt5Y/AAAAAAAAAAI/AAAAAAAAOYA/yQWmG9C58YQ/photo.jpg
 883,(anonymous user #6961),26,,
@@ -1011,7 +1011,7 @@ Rank,Name,Score,Link,Avatar
 1005,Luboš Bretschneider,2,,https://lh3.googleusercontent.com/a-/AOh14Ggk5T5Wk7dLwDh86I1fod3h7duYP3vuSTmLCLUIhqM=s96-c
 1005,Antti Kangasrääsiö,2,,https://lh3.googleusercontent.com/-dNPFB7_Gnpw/AAAAAAAAAAI/AAAAAAAAB6w/YSjTvu3giwc/photo.jpg
 1005,Aaron Keller,2,,https://lh6.googleusercontent.com/-kWWMIFKtRag/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iF4ciNl4n0wkY6qw7dkrkjOfBN1A/mo/photo.jpg
-1005,Patrick Braasch,2,,https://lh3.googleusercontent.com/a-/AOh14GhiDJuXRI-yaPuNGqkG94UFra_gCdIk69wGIBSCCg
+1005,Patrick Braasch,2,,https://lh3.googleusercontent.com/a-/AOh14GhiDJuXRI-yaPuNGqkG94UFra_gCdIk69wGIBSCCg=s96-c
 1014,(anonymous user #540),1,,
 1014,kradical,1,https://github.com/kradical,https://avatars.githubusercontent.com/u/9980985?v=3
 1014,leSpectre,1,,
