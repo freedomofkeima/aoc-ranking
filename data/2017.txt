@@ -335,7 +335,7 @@ Rank,Name,Score,Link,Avatar
 333,Ian Su,132,,https://avatars0.githubusercontent.com/u/1822094?v=4
 335,relick,130,https://github.com/relick,https://avatars0.githubusercontent.com/u/935382?v=4
 335,DoctorBalanced,130,,
-337,Diego Becciolini,129,https://github.com/itizir,https://avatars3.githubusercontent.com/u/15924920?v=4
+337,itizir,129,https://github.com/itizir,https://avatars3.githubusercontent.com/u/15924920?v=4
 337,Tim Roberts,129,,https://lh3.googleusercontent.com/a-/AOh14Gj-0licYPhexj6Z3g-35Btlaqc28ZflCuHF76Zd=s96-c
 339,Joel Harmon,127,,https://lh5.googleusercontent.com/-gn7k9p4zb-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3AVki5UparsfFkZwXcMGAaCb-dQ/s96-c/photo.jpg
 339,Jeremy Vercillo,127,,https://avatars3.githubusercontent.com/u/38958?v=4

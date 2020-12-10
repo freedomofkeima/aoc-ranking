@@ -95,7 +95,7 @@ Rank,Name,Score,Link,Avatar
 94,Talchas,861,,https://lh6.googleusercontent.com/-Hk9mpUx0G9M/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmVjGINa08AIKqZIb-n_n57HPIjdg/s96-c/photo.jpg
 95,balidani,851,https://github.com/balidani,https://avatars2.githubusercontent.com/u/1805302?v=4
 95,Tyson Boucher,851,,https://lh3.googleusercontent.com/a-/AOh14Gg8x7-CV27bBsp0RfCQeQPCy9nxLi27R5JXH-ERyg=s96-c
-97,Diego Becciolini (AoC++),849,https://github.com/itizir,https://avatars3.githubusercontent.com/u/15924920?v=4
+97,itizir (AoC++),849,https://github.com/itizir,https://avatars3.githubusercontent.com/u/15924920?v=4
 98,Scott Peters,845,,https://lh3.googleusercontent.com/-cz4GsgEYkNQ/AAAAAAAAAAI/AAAAAAAAAAA/GolJpTa12Xc/photo.jpg
 99,@CHz16,832,,http://pbs.twimg.com/profile_images/1066279558960185346/pdxjrzvi.jpg
 100,Chris Mohr,831,https://github.com/ChrisPMohr,https://avatars0.githubusercontent.com/u/4406927?v=4
