@@ -270,7 +270,7 @@ Rank,Name,Score,Link,Avatar
 269,fnuttplus,255,,https://avatars2.githubusercontent.com/u/4671570?v=4
 270,@jsbluethree,254,https://twitter.com/jsbluethree,http://pbs.twimg.com/profile_images/667830516641603588/Qr58sw_t.png
 270,Hugh Brown,254,https://github.com/hughdbrown,https://avatars3.githubusercontent.com/u/90322?v=4
-270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/AOh14GjD5NvH7WXGAj6qSe_nZwO3T_q2Xe2JYbkIL0BPpnVk41l7toRHqX59aPE7gYHi5ytuK1u7Xjf-PK25B2giCrVEoP1HmZTGJSB-AVXm5K5JTTzNNzw6jZitTRBm8vfYd2xME0DTjxEGTFeRODykgwc2bOYWemMXfBl7KOxUHaxFfRqkWFK9PnOPH43ZLRJZCh4qmCQDEYrPt1VsIfneLT
+270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
 273,Slezak2007,253,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ
 274,Greg Yardley,249,https://twitter.com/gyardley,http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg
 275,Evgeni-M,247,,https://avatars.githubusercontent.com/u/9858333?v=3
@@ -892,7 +892,7 @@ Rank,Name,Score,Link,Avatar
 888,Chen-Yu Yang,25,,https://lh4.googleusercontent.com/-xHwVSrkVCUQ/AAAAAAAAAAI/AAAAAAAABMI/iGQXUYX2SEk/photo.jpg
 888,Biendeo,25,https://github.com/Biendeo,https://avatars3.githubusercontent.com/u/425646?v=4
 888,marctrem,25,https://github.com/marctrem,https://avatars1.githubusercontent.com/u/1619947?v=4
-888,James Bridgwater,25,,https://lh5.googleusercontent.com/-zSsbqDBwy64/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcbaLVMGTvpeyXVxRlF5JY_Z0HT69Q/mo/photo.jpg
+888,James Bridgwater,25,,https://lh5.googleusercontent.com/-zSsbqDBwy64/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnP5c9B4y8K0zXkuFa3z2OotzRYYg/s96-c/photo.jpg
 895,Joe Linhoff,24,,https://lh6.googleusercontent.com/-ONqU-Dclkq0/AAAAAAAAAAI/AAAAAAAAKi4/ASOb-COr4m8/photo.jpg
 895,care89,24,,
 895,Kenneth Ruddick,24,https://github.com/KenRud,https://avatars1.githubusercontent.com/u/3013049?v=4

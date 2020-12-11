@@ -362,7 +362,7 @@ Rank,Name,Score,Link,Avatar
 361,Chris Egerton (AoC++),116,https://github.com/C0urante,https://avatars0.githubusercontent.com/u/8636148?v=4
 361,maket,116,,https://avatars1.githubusercontent.com/u/4502756?v=4
 361,Nathaniel Flath,116,,https://lh3.googleusercontent.com/a-/AOh14Gi41iCGKrIJu9qc7g5Dy0d3HD18dQdA1UC70w-9vg=s96-c
-364,jarhill0,114,https://github.com/jarhill0,https://avatars3.githubusercontent.com/u/10187488?v=4
+364,Joey Rees-Hill,114,https://github.com/jarhill0,https://avatars3.githubusercontent.com/u/10187488?v=4
 364,(anonymous user #450327),114,,
 366,Jean-Noël Monette,113,,https://avatars1.githubusercontent.com/u/5848752?v=4
 366,Tyler Schaltenbrand,113,,https://lh3.googleusercontent.com/a-/AOh14Gi-0LN3Hub3cK3EwJ_wlGwPzgjG1dnAM--GCJiv=s96-c

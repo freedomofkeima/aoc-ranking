@@ -360,7 +360,7 @@ Rank,Name,Score,Link,Avatar
 358,Brian Watkins,134,,https://lh3.googleusercontent.com/a-/AOh14GjW2oOr9eHDXtTpRHR4ck8uyOYmMltig30rvDJ3PA=s96-c
 360,David Choo,132,,https://lh3.googleusercontent.com/a-/AOh14Gji9rEUB-3-orWKsfuELqxJUoUh1Xwo3YhOG3xGgQ=s96-c
 360,sonneveld (AoC++),132,https://github.com/sonneveld,https://avatars1.githubusercontent.com/u/335451?v=4
-362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/AOh14GjD5NvH7WXGAj6qSe_nZwO3T_q2Xe2JYbkIL0BPpnVk41l7toRHqX59aPE7gYHi5ytuK1u7Xjf-PK25B2giCrVEoP1HmZTGJSB-AVXm5K5JTTzNNzw6jZitTRBm8vfYd2xME0DTjxEGTFeRODykgwc2bOYWemMXfBl7KOxUHaxFfRqkWFK9PnOPH43ZLRJZCh4qmCQDEYrPt1VsIfneLT
+362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
 363,Zeki Gurbuz,129,,https://avatars1.githubusercontent.com/u/36140950?v=4
 364,Dave Buchfuhrer (AoC++),128,,https://lh3.googleusercontent.com/a-/AOh14GgXkorhxGa-r9vDY5qin8lZThWXEXY5cBw7bYix=s96-c
 364,nmutalik (AoC++),128,https://github.com/nmutalik,https://avatars3.githubusercontent.com/u/2798587?v=4
@@ -551,7 +551,7 @@ Rank,Name,Score,Link,Avatar
 545,Kevin An,58,,https://lh4.googleusercontent.com/-Lr_guFecnqA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmZcCRfeHwBCbfVuyfym_lKY2bw2A/s96-c/photo.jpg
 551,Ian Collier,57,,https://lh3.googleusercontent.com/a-/AOh14GhHiq8r74oi5D3chpxmvG2JIwGvntTpqrlhSpGIpA=s96-c
 551,Paweł Obrok,57,https://github.com/obrok,https://avatars3.githubusercontent.com/u/130804?v=4
-551,jprotze,57,,https://avatars2.githubusercontent.com/u/6596486?v=4
+551,Joachim,57,,https://avatars2.githubusercontent.com/u/6596486?v=4
 551,Valokoodari (AoC++),57,https://github.com/Valokoodari,https://avatars3.githubusercontent.com/u/28293838?v=4
 555,Aesthetikx,56,https://github.com/Aesthetikx,https://avatars2.githubusercontent.com/u/1302406?v=4
 555,Sebastian Pauka (AoC++),56,,https://avatars3.githubusercontent.com/u/635580?v=4

@@ -325,7 +325,7 @@ Rank,Name,Score,Link,Avatar
 323,Josh Lee,139,,https://lh3.googleusercontent.com/a-/AOh14Gg-lYmiwMiyEfYu18iM5MAyIBWDqppbi5VUh6O8vmA=s96-c
 323,DanilaFe,139,https://github.com/DanilaFe,https://avatars2.githubusercontent.com/u/4361282?v=4
 323,deniska,139,,https://avatars3.githubusercontent.com/u/97346?v=4
-327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/AOh14GjD5NvH7WXGAj6qSe_nZwO3T_q2Xe2JYbkIL0BPpnVk41l7toRHqX59aPE7gYHi5ytuK1u7Xjf-PK25B2giCrVEoP1HmZTGJSB-AVXm5K5JTTzNNzw6jZitTRBm8vfYd2xME0DTjxEGTFeRODykgwc2bOYWemMXfBl7KOxUHaxFfRqkWFK9PnOPH43ZLRJZCh4qmCQDEYrPt1VsIfneLT
+327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
 327,Michal Maršálek,136,,https://lh3.googleusercontent.com/a-/AOh14GjCc14Q-yypgl3k_4WxIHp8U7vYlFdd-LFK-aw=s96-c
 327,(anonymous user #246102),136,,
 330,Sujeet Gholap,135,,https://lh4.googleusercontent.com/-LV99Z_3zcXc/AAAAAAAAAAI/AAAAAAAAeZs/11-fxdXCeMY/photo.jpg
@@ -657,7 +657,7 @@ Rank,Name,Score,Link,Avatar
 655,Artur Kozak,32,https://github.com/quezak,https://avatars0.githubusercontent.com/u/666206?v=4
 655,@tomsaunders,32,,http://pbs.twimg.com/profile_images/951317847879204866/rcnVw0RO.jpg
 655,geoffreyhale,32,https://github.com/geoffreyhale,https://avatars3.githubusercontent.com/u/3221283?v=4
-655,2020ehoward,32,https://github.com/evanphoward,https://avatars3.githubusercontent.com/u/28736707?v=4
+655,Evan Howard,32,https://github.com/evanphoward,https://avatars3.githubusercontent.com/u/28736707?v=4
 655,Fred Hebert,32,https://github.com/ferd,https://avatars2.githubusercontent.com/u/111141?v=4
 661,Adam Pianka,31,https://github.com/apianka,https://avatars2.githubusercontent.com/u/16678931?v=4
 661,rokob,31,,https://avatars2.githubusercontent.com/u/831355?v=4
