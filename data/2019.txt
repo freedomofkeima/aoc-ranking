@@ -162,7 +162,7 @@ Rank,Name,Score,Link,Avatar
 161,Peter Han,447,https://github.com/peterhaneve,https://avatars0.githubusercontent.com/u/29011570?v=4
 162,icicl,443,,https://avatars1.githubusercontent.com/u/37204445?v=4
 163,Rustywolf,438,,https://avatars2.githubusercontent.com/u/1646546?v=4
-164,Oleg Rudenko,433,,https://lh3.googleusercontent.com/a-/AAuE7mD2fECOO89bQB7NrcN9GAYw4ckZkzTvgJdGvJ_kvQ
+164,Oleg Rudenko,433,,https://lh3.googleusercontent.com/a-/AOh14Gh9Ntw94rwD0h89VaN_yLO9Q47ixxy0NkptSdkcpQ=s96-c
 165,Nick Frost (AoC++),428,https://github.com/nickfrostatx,https://avatars1.githubusercontent.com/u/839071?v=4
 165,ruuddotorg,428,,https://avatars0.githubusercontent.com/u/3401028?v=4
 167,msg555,426,,https://avatars1.githubusercontent.com/u/771072?v=4

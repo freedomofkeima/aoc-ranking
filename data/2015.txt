@@ -375,7 +375,7 @@ Rank,Name,Score,Link,Avatar
 373,not Thomas Krall,182,,https://lh3.googleusercontent.com/a-/AOh14GjTJ6eok0sC-InWwGT4cevJgsoQxYT2btLFppuQTw=s96-c
 373,Bruce Yang,182,,https://avatars.githubusercontent.com/u/9650587?v=3
 376,widgeonway,181,,
-377,Noah Pena,179,https://github.com/NoahPena,https://avatars.githubusercontent.com/u/5727823?v=3
+377,Noah Pena,179,https://github.com/NoahPena,https://avatars3.githubusercontent.com/u/5727823?v=4
 377,Brandon Pedersen,179,https://github.com/bpedman,https://avatars2.githubusercontent.com/u/528813?v=4
 377,Jonathan Bush,179,https://twitter.com/jononium,http://pbs.twimg.com/profile_images/641107001230012416/0Kv6Ted1.jpg
 377,Wes Evans,179,,https://lh3.googleusercontent.com/a-/AOh14GhSPfB4ZwgVY52f5mHdE3ATu54TCWRwc29f-f6U-g=s96-c
@@ -643,7 +643,7 @@ Rank,Name,Score,Link,Avatar
 642,spoage,83,https://github.com/spoage,https://avatars.githubusercontent.com/u/1179135?v=3
 642,clhuang,83,,https://avatars2.githubusercontent.com/u/1694228?v=4
 644,RakijaH,82,,
-644,@hythloday,82,https://twitter.com/hythloday,http://pbs.twimg.com/profile_images/1351262188/error_icon.png
+644,@hythloday,82,https://twitter.com/hythloday,http://pbs.twimg.com/profile_images/832693824606584833/DSIoCPxb.jpg
 644,Joseph Roque,82,https://github.com/josephroquedev,https://avatars1.githubusercontent.com/u/6619581?v=4
 644,Graham Holtslander,82,https://github.com/ghostlandr,https://avatars0.githubusercontent.com/u/8973794?v=4
 648,nschirmer,81,https://github.com/nschirmer,https://avatars.githubusercontent.com/u/4756654?v=3
