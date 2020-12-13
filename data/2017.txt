@@ -325,7 +325,7 @@ Rank,Name,Score,Link,Avatar
 323,Josh Lee,139,,https://lh3.googleusercontent.com/a-/AOh14Gg-lYmiwMiyEfYu18iM5MAyIBWDqppbi5VUh6O8vmA=s96-c
 323,DanilaFe,139,https://github.com/DanilaFe,https://avatars2.githubusercontent.com/u/4361282?v=4
 323,deniska,139,,https://avatars3.githubusercontent.com/u/97346?v=4
-327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
+327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/AOh14GgNW62Q99zMkF5DdY1lzWMy894mHBE6687TvYY_7Rot25cY-sHOEYudXMUTsTAbcF1xAH0-FXhlELlHk7WHs9mrVbW4JVmnRObOa6-vpTMmpWi40KTONMVzCCwag2qbIT_Q2K9GrB7-AE5lJrNk_ccjI-GQ8QeovXhsO5sTtyqg7Bqr4w1opqsxmkpjTutynuOcidfDVEw1vlwewWRoOa
 327,Michal Maršálek,136,,https://lh3.googleusercontent.com/a-/AOh14GjCc14Q-yypgl3k_4WxIHp8U7vYlFdd-LFK-aw=s96-c
 327,(anonymous user #246102),136,,
 330,Sujeet Gholap,135,,https://lh4.googleusercontent.com/-LV99Z_3zcXc/AAAAAAAAAAI/AAAAAAAAeZs/11-fxdXCeMY/photo.jpg
@@ -791,7 +791,7 @@ Rank,Name,Score,Link,Avatar
 787,th0114nd (AoC++),8,https://github.com/th0114nd,https://avatars0.githubusercontent.com/u/1399455?v=4
 787,Matt Cosand (AoC++),8,,https://avatars1.githubusercontent.com/u/1082784?v=4
 787,sunboshan (AoC++),8,https://github.com/sunboshan,https://avatars1.githubusercontent.com/u/4976854?v=4
-787,Kyle Lemons,8,,https://lh3.googleusercontent.com/a-/AAuE7mCrGfG0z3GeeaHVq0yiSXR9tsJV0D0J6Q556vfOVtY
+787,Kyle Lemons,8,,https://lh3.googleusercontent.com/a-/AOh14Ghu52OyEFtSH2V13rKu_adq9X_JrvL56yteR6UJa2w=s96-c
 787,Scott Lyle,8,,https://lh4.googleusercontent.com/-yEJ7WbLG5do/AAAAAAAAAAI/AAAAAAAAAEA/PfBevdP5b80/photo.jpg
 795,E S,7,,https://lh3.googleusercontent.com/a-/AAuE7mDAc0otMdqSh2vHS3cuRbryq8YY9xSr6MQ838nOqA
 795,Мария Семенова,7,,https://lh3.googleusercontent.com/a-/AOh14Gj8PgZ8qtZnAAkiSHEMLCTZwWxq2-y1_GgC5xNj

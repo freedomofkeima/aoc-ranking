@@ -128,7 +128,7 @@ Rank,Name,Score,Link,Avatar
 127,(anonymous user #14246),610,,
 127,hlian (AoC++),610,https://github.com/hlian,https://avatars2.githubusercontent.com/u/63533?v=4
 127,rennex,610,,https://avatars2.githubusercontent.com/u/449856?v=4
-130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
+130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/AOh14GgNW62Q99zMkF5DdY1lzWMy894mHBE6687TvYY_7Rot25cY-sHOEYudXMUTsTAbcF1xAH0-FXhlELlHk7WHs9mrVbW4JVmnRObOa6-vpTMmpWi40KTONMVzCCwag2qbIT_Q2K9GrB7-AE5lJrNk_ccjI-GQ8QeovXhsO5sTtyqg7Bqr4w1opqsxmkpjTutynuOcidfDVEw1vlwewWRoOa
 131,Joel Harmon,588,,https://lh5.googleusercontent.com/-gn7k9p4zb-U/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucl3AVki5UparsfFkZwXcMGAaCb-dQ/s96-c/photo.jpg
 131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars0.githubusercontent.com/u/4923417?v=4
 133,vaultah,585,https://github.com/vaultah,https://avatars3.githubusercontent.com/u/4944562?v=4
@@ -316,7 +316,7 @@ Rank,Name,Score,Link,Avatar
 315,George Georgiev,148,,https://lh3.googleusercontent.com/a-/AOh14GiLEwPWM9ygEcVWVTyew3CbGsrm774ggW5jxsJkrQ=s96-c
 315,Sergey Sharov,148,,https://lh6.googleusercontent.com/-eTkT5Ac_TlY/AAAAAAAAAAI/AAAAAAAABQ8/IQ0WNRZyYhg/photo.jpg
 317,xSke,146,https://github.com/xSke,https://avatars2.githubusercontent.com/u/16242158?v=4
-317,Kyle Lemons,146,,https://lh3.googleusercontent.com/a-/AAuE7mCrGfG0z3GeeaHVq0yiSXR9tsJV0D0J6Q556vfOVtY
+317,Kyle Lemons,146,,https://lh3.googleusercontent.com/a-/AOh14Ghu52OyEFtSH2V13rKu_adq9X_JrvL56yteR6UJa2w=s96-c
 317,mchill,146,https://github.com/mchill,https://avatars2.githubusercontent.com/u/13862873?v=4
 320,Kyle Hill,145,https://github.com/kylehill,https://avatars1.githubusercontent.com/u/661199?v=4
 321,Matej Marinko,143,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg

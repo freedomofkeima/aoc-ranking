@@ -270,7 +270,7 @@ Rank,Name,Score,Link,Avatar
 269,fnuttplus,255,,https://avatars2.githubusercontent.com/u/4671570?v=4
 270,@jsbluethree,254,https://twitter.com/jsbluethree,http://pbs.twimg.com/profile_images/667830516641603588/Qr58sw_t.png
 270,Hugh Brown,254,https://github.com/hughdbrown,https://avatars3.githubusercontent.com/u/90322?v=4
-270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/AOh14GhH4Hl0ozQIn1Ig6nF_Fy2336vbZKv91mOsyvNCcVg7enqrki5ISiG38b0-ikDz1_-hjTYlGSdX4yoMTCIe4aRB1eqyfRhQKsIyDrVlnW88RZ56xYGYGW5cwHhcE5O497H4YZG1PGkUP7GAqP808RI14tPRXF1C3R8YrYS7WpIIVNg8LDfpE1jgwLcQYC4goqV9mrFgfB3PpNcTuhH5fe
+270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/AOh14GgNW62Q99zMkF5DdY1lzWMy894mHBE6687TvYY_7Rot25cY-sHOEYudXMUTsTAbcF1xAH0-FXhlELlHk7WHs9mrVbW4JVmnRObOa6-vpTMmpWi40KTONMVzCCwag2qbIT_Q2K9GrB7-AE5lJrNk_ccjI-GQ8QeovXhsO5sTtyqg7Bqr4w1opqsxmkpjTutynuOcidfDVEw1vlwewWRoOa
 273,Slezak2007,253,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ
 274,Greg Yardley,249,https://twitter.com/gyardley,http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg
 275,Evgeni-M,247,,https://avatars.githubusercontent.com/u/9858333?v=3
@@ -433,7 +433,7 @@ Rank,Name,Score,Link,Avatar
 432,Matt Jennings,160,https://github.com/jennmat,https://avatars.githubusercontent.com/u/421779?v=3
 432,Jesse Chounard,160,,http://pbs.twimg.com/profile_images/1025045331979816960/4l5z1ekb.jpg
 432,RyanMcC,160,,https://avatars.githubusercontent.com/u/9652193?v=3
-432,Michael Hale,160,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
+432,Michael Hale,160,,https://lh3.googleusercontent.com/a-/AOh14GiW7avF4v39tSwADFTzzl_S22wXDlunLh2yazmFdA=s96-c
 436,icholy,159,,https://avatars1.githubusercontent.com/u/943597?v=4
 436,rosskyl,159,,https://avatars3.githubusercontent.com/u/9472151?v=4
 436,(anonymous user #947),159,,
@@ -566,7 +566,7 @@ Rank,Name,Score,Link,Avatar
 563,Berk Alyamach,109,,https://lh5.googleusercontent.com/-vLpkRop-PFY/AAAAAAAAAAI/AAAAAAAAAYs/d2dJ6v0QWS8/photo.jpg
 563,r-frederick,109,,https://avatars1.githubusercontent.com/u/13277581?v=4
 563,Shahar Talmi (AoC++),109,https://github.com/shahata,https://avatars3.githubusercontent.com/u/1764161?v=4
-563,(anonymous user #11078),109,,
+563,earncefs,109,,https://avatars1.githubusercontent.com/u/5458743?v=4
 563,Jakob Bergendahl,109,,https://avatars0.githubusercontent.com/u/36744?v=4
 570,Eric Aderhold,107,,https://lh3.googleusercontent.com/a-/AOh14GibcsGTgRt6rxidnZ4AHblBrs2k7O6M6dG4XIQimQ=s96-c
 570,randrews,107,https://github.com/randrews,https://avatars3.githubusercontent.com/u/74693?v=4
