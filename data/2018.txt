@@ -347,7 +347,7 @@ Rank,Name,Score,Link,Avatar
 345,Chenyang Yuan,126,,https://avatars0.githubusercontent.com/u/1674761?v=4
 347,Alex Cornellier,125,,https://lh3.googleusercontent.com/a-/AOh14Gij0mmV2-W3seYhpoq4j9LLu8HwmAQIMsMfdjTKdA=s96-c
 348,Arrain,123,https://github.com/Arrain,https://avatars3.githubusercontent.com/u/25259229?v=4
-349,(anonymous user #381635) (AoC++),122,,
+349,Ethan Morgan (AoC++),122,,https://lh3.googleusercontent.com/a-/AOh14GjY1S_6pBXdRF7lEtss2ghAqhj2-VZix51cBkDPTw=s96-c
 349,dqdt,122,,https://avatars0.githubusercontent.com/u/25258252?v=4
 349,Michael Chock,122,,https://lh3.googleusercontent.com/a-/AOh14Gh-i9zcXJ3_eVtvcsd9EjUWHxfGAbsdaFIPclBL7g=s96-c
 352,Kyle Stewart,120,,https://lh4.googleusercontent.com/-FQnaDVdcPBs/AAAAAAAAAAI/AAAAAAAAAJI/R0DXlrLkkG4/photo.jpg
@@ -612,7 +612,7 @@ Rank,Name,Score,Link,Avatar
 608,advanced_caveman,35,,
 608,SamWheating (AoC++),35,https://github.com/SamWheating,https://avatars2.githubusercontent.com/u/16950874?v=4
 613,John Lopez (AoC++),34,,https://lh3.googleusercontent.com/a-/AOh14Ggoiu96mRXg2b_5EnZQ_ZAqnU7ZcyOPRaqaNSj1GQ=s96-c
-613,Xin Wei Chow,34,,https://lh3.googleusercontent.com/a-/AAuE7mC9tP6XSz7kUWxjfvkQfkSr1mjGyE1GkpOvzURhDg
+613,Xin Wei Chow,34,,https://lh3.googleusercontent.com/a-/AOh14Giyu2DTPm8yfwh41VBeAbdbskPhxVXRQWnYLdx5pA=s96-c
 613,tony chang (AoC++),34,https://github.com/idealisms,https://avatars0.githubusercontent.com/u/175378?v=4
 613,darkterbear (AoC++),34,https://github.com/darkterbear,https://avatars0.githubusercontent.com/u/8009289?v=4
 613,EdwarDDay,34,https://github.com/EdwarDDay,https://avatars3.githubusercontent.com/u/4127904?v=4

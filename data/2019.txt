@@ -36,7 +36,7 @@ Rank,Name,Score,Link,Avatar
 35,ethframe,1418,https://github.com/ethframe,https://avatars0.githubusercontent.com/u/10119536?v=4
 36,jebouin (AoC++),1391,https://github.com/jebouin,https://avatars0.githubusercontent.com/u/23281929?v=4
 37,Thomas Steinke (AoC++),1381,https://github.com/Epiphane,https://avatars0.githubusercontent.com/u/2568722?v=4
-38,(anonymous user #381635) (AoC++),1365,,
+38,Ethan Morgan (AoC++),1365,,https://lh3.googleusercontent.com/a-/AOh14GjY1S_6pBXdRF7lEtss2ghAqhj2-VZix51cBkDPTw=s96-c
 38,Craig Gidney,1365,https://github.com/Strilanc,https://avatars1.githubusercontent.com/u/79941?v=4
 40,(anonymous user #44119),1361,,
 41,LukasGelbmann,1349,https://github.com/LukasGelbmann,https://avatars0.githubusercontent.com/u/34147627?v=4

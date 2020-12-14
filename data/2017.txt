@@ -17,7 +17,7 @@ Rank,Name,Score,Link,Avatar
 16,gengkev,2301,https://github.com/gengkev,https://avatars2.githubusercontent.com/u/548628?v=4
 17,Samuel Damashek,2226,,https://lh4.googleusercontent.com/-UbeoVC7ItAg/AAAAAAAAAAI/AAAAAAAAXHs/BR-xGMPVyhM/photo.jpg
 18,Jay Foad (AoC++),2168,https://github.com/jayfoad,https://avatars0.githubusercontent.com/u/108316?v=4
-19,Xin Wei Chow (AoC++),2061,,https://lh3.googleusercontent.com/a-/AAuE7mC9tP6XSz7kUWxjfvkQfkSr1mjGyE1GkpOvzURhDg
+19,Xin Wei Chow (AoC++),2061,,https://lh3.googleusercontent.com/a-/AOh14Giyu2DTPm8yfwh41VBeAbdbskPhxVXRQWnYLdx5pA=s96-c
 20,etotheipi1,2007,,
 21,daveagp (AoC++),1981,https://github.com/daveagp,https://avatars2.githubusercontent.com/u/1429912?v=4
 22,drysle,1877,,
