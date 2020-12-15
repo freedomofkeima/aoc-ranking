@@ -704,7 +704,7 @@ Rank,Name,Score,Link,Avatar
 700,coreydexter,29,,https://avatars2.githubusercontent.com/u/24769973?v=4
 700,Daniel Prilik,29,https://github.com/daniel5151,https://avatars3.githubusercontent.com/u/2389445?v=4
 700,Johan Lindell,29,,https://lh3.googleusercontent.com/a-/AOh14GjT7UN7KydUd8EXsVKs_bakC8iQkVbSRDU9aUWHXg=s96-c
-700,Jason,29,,https://lh3.googleusercontent.com/a-/AOh14GhqIgVPzmQhsILssIsMDChJ5oXESY2S4oMb5BwE=s96-c
+700,leppyr64,29,https://github.com/leppyr64,https://avatars2.githubusercontent.com/u/3968542?v=4
 707,Maerig,28,https://github.com/Maerig,https://avatars3.githubusercontent.com/u/677799?v=4
 707,Gab0,28,https://github.com/Gab0,https://avatars1.githubusercontent.com/u/6483729?v=4
 707,Maxime Goyette,28,,https://lh3.googleusercontent.com/a-/AOh14GgWXXFmLP-jhbtG2J5TTvHM9GmeyIF034VQN4DY=s96-c
