@@ -155,7 +155,7 @@ Rank,Name,Score,Link,Avatar
 154,kejadlen,478,https://github.com/kejadlen,https://avatars1.githubusercontent.com/u/8639?v=4
 155,azvchen,477,https://github.com/azvchen,https://avatars0.githubusercontent.com/u/13770768?v=4
 156,Mathieu Plourde (AoC++),471,https://github.com/matpl,https://avatars2.githubusercontent.com/u/6591764?v=4
-157,Sean Curtis,461,,https://lh6.googleusercontent.com/-WNFtk1iXqzM/AAAAAAAAAAI/AAAAAAAACKQ/MHmF25nC69o/photo.jpg
+157,Sean Curtis,461,,https://lh3.googleusercontent.com/a-/AOh14Gj9XUyuVoN1Jeg_4MeCg7tM9l4N0MhCY7jOfZCt-A=s96-c
 158,Magne Groenhuis (AoC++),455,,https://lh5.googleusercontent.com/-bP91jWfzvss/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-q4XIHjGEUyQ8BYO67Vd5HCgl8w/s96-c/photo.jpg
 158,uint0,455,,https://avatars3.githubusercontent.com/u/11325389?v=4
 160,(anonymous user #31658),451,,

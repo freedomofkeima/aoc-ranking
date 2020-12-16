@@ -254,7 +254,7 @@ Rank,Name,Score,Link,Avatar
 251,Tom Quinn,197,,https://lh4.googleusercontent.com/-ch_qcHRTNQE/AAAAAAAAAAI/AAAAAAAAFbc/tqCIgjmjcB0/photo.jpg
 251,Vivan Shah (AoC++),197,,https://lh3.googleusercontent.com/a-/AOh14GgBTfQb2SYMmqf-ZUP58c8ra-vTZFTZRKHur7X9fiE=s96-c
 251,Ralph Furmaniak,197,,https://avatars0.githubusercontent.com/u/14280263?v=4
-256,Sean Curtis,196,,https://lh6.googleusercontent.com/-WNFtk1iXqzM/AAAAAAAAAAI/AAAAAAAACKQ/MHmF25nC69o/photo.jpg
+256,Sean Curtis,196,,https://lh3.googleusercontent.com/a-/AOh14Gj9XUyuVoN1Jeg_4MeCg7tM9l4N0MhCY7jOfZCt-A=s96-c
 256,maymike321,196,https://github.com/maymike321,https://avatars3.githubusercontent.com/u/14062083?v=4
 258,jebouin (AoC++),193,https://github.com/jebouin,https://avatars0.githubusercontent.com/u/23281929?v=4
 258,@jordancurve,193,https://twitter.com/jordancurve,http://pbs.twimg.com/profile_images/910358581135986688/4hv1SLYK.jpg
@@ -488,7 +488,7 @@ Rank,Name,Score,Link,Avatar
 487,Vladimir Kuznetsov,68,https://github.com/mistakster,https://avatars2.githubusercontent.com/u/531671?v=4
 487,tinau n.,68,,https://lh3.googleusercontent.com/a-/AOh14Gi2kzJHLTXVXrFg_4jrqsedYvtBUmwRa2ek1yAJ=s96-c
 487,koljonen,68,https://github.com/koljonen,https://avatars2.githubusercontent.com/u/18589234?v=4
-487,Sasha M.,68,,https://avatars3.githubusercontent.com/u/22084974?v=4
+487,S. Verona Malone,68,,https://avatars3.githubusercontent.com/u/22084974?v=4
 487,Anders,68,,https://avatars2.githubusercontent.com/u/6595626?v=4
 487,kd7uiy (AoC++),68,,https://avatars3.githubusercontent.com/u/5951269?v=4
 493,Filip Młynarski,67,,https://lh3.googleusercontent.com/a-/AOh14GjWfTKtY9mRKMLRIpRohO0sZyVP09KrGsNMOOby
@@ -697,7 +697,7 @@ Rank,Name,Score,Link,Avatar
 695,ksmithut,24,https://github.com/ksmithut,https://avatars0.githubusercontent.com/u/1906967?v=4
 695,Daniel Lok,24,,https://avatars3.githubusercontent.com/u/28850773?v=4
 695,(anonymous user #225974),24,,
-695,(anonymous user #133237),24,,
+695,Arthur O'Dwyer,24,,https://lh3.googleusercontent.com/-RtixuiGDc8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoXZNbDt9rW-YR1RisviCAA9zBbg/s96-c/photo.jpg
 695,thegrandpoobah,24,https://github.com/thegrandpoobah,https://avatars1.githubusercontent.com/u/278023?v=4
 695,MareinK,24,https://github.com/MareinK,https://avatars3.githubusercontent.com/u/1388357?v=4
 702,fuzzums,23,,
