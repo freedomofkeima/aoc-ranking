@@ -839,7 +839,7 @@ Rank,Name,Score,Link,Avatar
 833,Keith Wissing (AoC++),10,https://github.com/keithwissing,https://avatars0.githubusercontent.com/u/1071094?v=4
 833,Ian Su,10,,https://lh3.googleusercontent.com/a-/AOh14Gh4mEYrrpbqJ_tNpl7WBspClhbY2Z7o9ZhVU7dn=s96-c
 840,(anonymous user #53774),9,,
-840,G NDA,9,,https://lh3.googleusercontent.com/a-/AOh14GgnFMgLhlX7wtbO14gwsLKf_3c8ykqr7lOoWQ-m
+840,G NDA,9,,https://lh3.googleusercontent.com/a-/AOh14GgnFMgLhlX7wtbO14gwsLKf_3c8ykqr7lOoWQ-m=s96-c
 840,epiphone,9,https://github.com/epiphone,https://avatars1.githubusercontent.com/u/1923531?v=4
 840,richzli,9,https://github.com/richzli,https://avatars0.githubusercontent.com/u/15951695?v=4
 840,Paul Horton,9,https://github.com/PaHorton,https://avatars2.githubusercontent.com/u/13230281?v=4
