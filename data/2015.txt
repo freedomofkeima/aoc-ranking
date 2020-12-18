@@ -153,7 +153,7 @@ Rank,Name,Score,Link,Avatar
 152,ns-szhang,438,,https://avatars.githubusercontent.com/u/10506518?v=3
 153,Samuel Massinon,435,,https://lh3.googleusercontent.com/a-/AAuE7mBpyBUMvHW0sYLkrg8CFzjaoTWM6VMYlcpOiGH6SnI
 154,(anonymous user #14246),432,,
-155,Evan Hertafeld,430,,https://lh3.googleusercontent.com/a-/AAuE7mDhSxZBNf_6NwZX67GddYu5MutiY2FCxeCoUkyG
+155,Evan Hertafeld,430,,https://lh3.googleusercontent.com/a-/AOh14GhYHHrY9rnFcWns8oVjumK7xYeiCiTHOt_rQH74=s96-c
 156,tehalynn,428,,
 157,Alex Beals,427,https://github.com/dado3212,https://avatars2.githubusercontent.com/u/8919256?v=4
 158,adriweb,426,https://github.com/adriweb,https://avatars1.githubusercontent.com/u/660896?v=4
@@ -319,7 +319,7 @@ Rank,Name,Score,Link,Avatar
 317,@keithmo,214,https://twitter.com/keithmo,http://pbs.twimg.com/profile_images/669416792268361728/ARomSMQp.jpg
 317,serges-newj,214,,https://avatars.githubusercontent.com/u/16350383?v=3
 320,Adam Proctor,213,https://github.com/aproctor,https://avatars1.githubusercontent.com/u/711967?v=4
-320,Christopher Osaki,213,,https://lh5.googleusercontent.com/-s7p8V8ZkExA/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-g_9iFUEcEiXsQ0VG3Qsonpxw7O6A/mo/photo.jpg
+320,Christopher Osaki,213,,https://lh5.googleusercontent.com/-s7p8V8ZkExA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclsDq-OxQC9VdRW8aI4RNxhnj-7qQ/s96-c/photo.jpg
 320,Andrew Parker,213,,https://lh3.googleusercontent.com/a-/AAuE7mDuaKuaJlPFk03DILmDeg3jFVC--ZQg8NmiwPLZjw
 323,Michael Berman,211,,https://lh4.googleusercontent.com/-Aa8byXw09oI/AAAAAAAAAAI/AAAAAAAAGac/1WfgBs20VfU/photo.jpg
 324,(anonymous user #339),210,,
@@ -370,7 +370,7 @@ Rank,Name,Score,Link,Avatar
 369,Ago Luberg,185,,https://lh3.googleusercontent.com/a-/AOh14GiMjXk50ASSS4DFtpv3P7v4DSJ9U4p_jMUDZHKJ=s96-c
 370,slippy0,184,https://github.com/slippy0,https://avatars.githubusercontent.com/u/885012?v=3
 371,Chris Pittman,183,,https://avatars1.githubusercontent.com/u/918414?v=4
-371,Jakob Hedman,183,https://github.com/spillevink,https://avatars.githubusercontent.com/u/2515271?v=3
+371,Jakob Hedman,183,https://github.com/JakeHedman,https://avatars0.githubusercontent.com/u/2515271?v=4
 373,kms70847,182,,https://avatars1.githubusercontent.com/u/5420261?v=4
 373,not Thomas Krall,182,,https://lh3.googleusercontent.com/a-/AOh14GjTJ6eok0sC-InWwGT4cevJgsoQxYT2btLFppuQTw=s96-c
 373,Bruce Yang,182,,https://avatars.githubusercontent.com/u/9650587?v=3
