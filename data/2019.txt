@@ -588,7 +588,7 @@ Rank,Name,Score,Link,Avatar
 587,Dylan Smith (AoC++),49,,https://lh3.googleusercontent.com/a-/AOh14GgVVHp0s4xgrkq0dIvrHBr2uuXSpuj4zKFZ1gET=s96-c
 587,zmzmdr,49,https://github.com/zmzmdr,https://avatars3.githubusercontent.com/u/11496137?v=4
 587,Daniele Venier,49,https://github.com/Danis98,https://avatars0.githubusercontent.com/u/3756869?v=4
-587,Areus Seiru,49,,https://lh3.googleusercontent.com/a-/AOh14GiuOVzLhmm88wnEkGlqG0cQkhsY2QaPtCgZTF0D=s96-c
+587,Areus,49,,https://lh3.googleusercontent.com/a-/AOh14GiuOVzLhmm88wnEkGlqG0cQkhsY2QaPtCgZTF0D=s96-c
 591,JustinZhengBC,48,https://github.com/JustinZhengBC,https://avatars1.githubusercontent.com/u/29615021?v=4
 591,akkaakka,48,,https://avatars2.githubusercontent.com/u/32450883?v=4
 593,Thomas Zumsteg,47,,https://lh3.googleusercontent.com/-kVsD8-RUG58/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck7BFhTXdlWl2AYXwg5qf4LYvCcqA/s96-c/photo.jpg

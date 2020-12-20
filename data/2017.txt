@@ -495,7 +495,7 @@ Rank,Name,Score,Link,Avatar
 493,(anonymous user #191871),67,,
 493,CanGreenBeret,67,,
 493,farafonoff,67,https://github.com/farafonoff,https://avatars2.githubusercontent.com/u/3719397?v=4
-493,Areus Seiru,67,,https://lh3.googleusercontent.com/a-/AOh14GiuOVzLhmm88wnEkGlqG0cQkhsY2QaPtCgZTF0D=s96-c
+493,Areus,67,,https://lh3.googleusercontent.com/a-/AOh14GiuOVzLhmm88wnEkGlqG0cQkhsY2QaPtCgZTF0D=s96-c
 493,TheNeuralBit,67,https://github.com/TheNeuralBit,https://avatars2.githubusercontent.com/u/675055?v=4
 499,Erik Dyrelius (AoC++),66,,https://lh3.googleusercontent.com/a-/AOh14Gi8iyWUqfiPc9g7r8vLYd_g2hFWgBAzSULoBr5eog=s96-c
 499,(anonymous user #226376),66,,

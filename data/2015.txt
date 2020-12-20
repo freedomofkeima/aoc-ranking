@@ -302,7 +302,7 @@ Rank,Name,Score,Link,Avatar
 301,Ryan Smith,226,,https://lh5.googleusercontent.com/-uzItW1IFKAA/AAAAAAAAAAI/AAAAAAAAGGY/Dt6Cd686CKU/photo.jpg
 301,Tag,226,,https://avatars1.githubusercontent.com/u/196823?v=4
 303,1337Flash,225,,https://avatars.githubusercontent.com/u/12778614?v=3
-304,(anonymous user #4874),224,,
+304,zosiu,224,https://github.com/zosiu,https://avatars1.githubusercontent.com/u/405732?v=4
 304,Sam,224,https://github.com/saemideluxe,https://avatars3.githubusercontent.com/u/3115209?v=4
 304,hanazuki,224,https://github.com/hanazuki,https://avatars.githubusercontent.com/u/1135690?v=3
 304,Martin Pärtel,224,https://github.com/mpartel,https://avatars3.githubusercontent.com/u/328952?v=4
