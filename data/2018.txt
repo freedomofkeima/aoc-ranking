@@ -516,7 +516,7 @@ Rank,Name,Score,Link,Avatar
 515,1lann,60,https://github.com/1lann,https://avatars2.githubusercontent.com/u/804919?v=4
 515,(anonymous user #334223),60,,
 515,thatfreakingguy,60,,
-515,Jon Payne (AoC++),60,,https://lh5.googleusercontent.com/-b_0gguatFos/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc-qTuAI-Aij1goTZY0ia3ht7muPA/photo.jpg
+515,Jon Payne (AoC++),60,,https://lh5.googleusercontent.com/-b_0gguatFos/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmrRldttIrbqv8UTUdTogFTUCKBZg/s96-c/photo.jpg
 519,81632641282565121024,59,,
 519,Brian Gates,59,,https://lh6.googleusercontent.com/-dqbmVx-2DfU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclTbmNdK4tPVIX6rt75i_zhW9jJMg/photo.jpg
 519,Chad Groft,59,https://github.com/clgroft,https://avatars0.githubusercontent.com/u/1514771?v=4
