@@ -453,7 +453,7 @@ Rank,Name,Score,Link,Avatar
 450,Galen Elias (AoC++),83,https://github.com/galenelias,https://avatars3.githubusercontent.com/u/2713311?v=4
 450,Michael Krause (AoC++),83,https://github.com/mikr,https://avatars1.githubusercontent.com/u/6121404?v=4
 450,Ryan Mentley (AoC++),83,https://github.com/RyanMentley,https://avatars1.githubusercontent.com/u/1098741?v=4
-455,Jack Tang,82,https://github.com/jackhftang,https://avatars3.githubusercontent.com/u/1190545?v=4
+455,Jack Tang,82,,https://avatars3.githubusercontent.com/u/1190545?v=4
 455,(anonymous user #216902),82,,
 457,Eugene Goodrich,81,,https://lh3.googleusercontent.com/a-/AOh14Ggl3FS3LA4LmV1Xk3sq45rVNkK9ll6yB6M-XtnN=s96-c
 458,hodduc,80,https://github.com/hodduc,https://avatars2.githubusercontent.com/u/1841490?v=4
