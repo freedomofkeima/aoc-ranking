@@ -668,7 +668,7 @@ Rank,Name,Score,Link,Avatar
 665,Lokesh Khandelwal,30,,https://lh3.googleusercontent.com/a-/AOh14GgK8rZKDHP1oQIp69x8OzRShveU5oU7gi5N1w_xrQ=s96-c
 668,albertchae (AoC++),29,,https://avatars3.githubusercontent.com/u/217050?v=4
 668,akerl (AoC++),29,https://github.com/akerl,https://avatars0.githubusercontent.com/u/491209?v=4
-668,Наталья Гинзбург,29,,https://lh3.googleusercontent.com/a-/AAuE7mA77gUSBY_Nu2VxPxzEADj8ykZ1OT0tvpUFXATxkQ
+668,Наталья Гинзбург,29,,https://lh3.googleusercontent.com/a-/AOh14GhuCsdiIAJsGqGSWC1mCAEnhx-lv9NX_N-zn6uEzg=s96-c
 668,NeonSky,29,https://github.com/NeonSky,https://avatars1.githubusercontent.com/u/5156981?v=4
 672,Ben Weinstein-Raun,28,https://github.com/benwr,https://avatars2.githubusercontent.com/u/198835?v=4
 672,Elaine Mou,28,,https://avatars0.githubusercontent.com/u/6691788?v=4
