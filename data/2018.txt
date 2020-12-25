@@ -651,7 +651,7 @@ Rank,Name,Score,Link,Avatar
 645,Rene Engbers (AoC++),29,,https://lh3.googleusercontent.com/a-/AAuE7mDgqUfazITwj6aP348xhAJiDdfni7tXmx8N3OvD3A
 645,Bill Rockenbeck,29,,https://lh3.googleusercontent.com/a-/AOh14Gj6smfUXnm3q7H8Ej2Vp3co5yORSb1vWU1Mb557=s96-c
 645,robostac (AoC++),29,https://github.com/robostac,https://avatars1.githubusercontent.com/u/5623460?v=4
-653,Merlin Katz,28,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q
+653,Merlin Katz,28,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q=s96-c
 653,Bryan Clair,28,,https://lh3.googleusercontent.com/a-/AOh14GhJoJhHdnx-p9N-zEfwgwTy74J4r5iXOfRjOz3L=s96-c
 653,(anonymous user #199604),28,,
 653,agent_who_glows (AoC++),28,,

@@ -244,7 +244,7 @@ Rank,Name,Score,Link,Avatar
 240,Joseph Laurendi,209,,https://avatars2.githubusercontent.com/u/176302?v=4
 244,Jon Staryuk (AoC++),208,https://github.com/jonstaryuk,https://avatars0.githubusercontent.com/u/4214270?v=4
 244,Maxim Buzdalov,208,,https://avatars0.githubusercontent.com/u/7038557?v=4
-246,Merlin Katz,207,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q
+246,Merlin Katz,207,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q=s96-c
 247,Pavel Egorov,205,https://github.com/xoposhiy,https://avatars2.githubusercontent.com/u/856752?v=4
 248,Dan Katz,203,,https://lh3.googleusercontent.com/a-/AOh14GhQYEn3nnOwFvPH2oWvBRKJl3OPdgcCIa_AgGqVTA=s96-c
 249,rennex,202,,https://avatars2.githubusercontent.com/u/449856?v=4
@@ -588,7 +588,7 @@ Rank,Name,Score,Link,Avatar
 585,Nik Ammerlaan,45,https://github.com/nikammerlaan,https://avatars0.githubusercontent.com/u/15852762?v=4
 588,(anonymous user #128119),44,,
 588,Erik Nelson,44,,https://lh6.googleusercontent.com/-mhbr93SsfZs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfbP3helCztpKd1S_wUNC09TwMI4Q/photo.jpg
-588,Lur,44,,https://avatars2.githubusercontent.com/u/3989535?v=4
+588,Lur,44,https://github.com/lurr,https://avatars2.githubusercontent.com/u/3989535?v=4
 588,xrisk,44,https://github.com/xrisk,https://avatars0.githubusercontent.com/u/10669859?v=4
 588,JoelCodes,44,https://github.com/JoelCodes,https://avatars1.githubusercontent.com/u/1128994?v=4
 588,Peter200lx (AoC++),44,https://github.com/Peter200lx,https://avatars3.githubusercontent.com/u/152634?v=4
@@ -724,7 +724,7 @@ Rank,Name,Score,Link,Avatar
 719,Nejc Ramovs (AoC++),20,,https://lh3.googleusercontent.com/a-/AOh14Gje7wSVMQ4EdxTlrurOfTIqQyejY76toC3V68g5TQ=s96-c
 719,Matt Perry,20,https://github.com/mattvperry,https://avatars3.githubusercontent.com/u/393869?v=4
 725,Adam Silkey,19,,https://lh3.googleusercontent.com/a-/AOh14GhJ0XbskTsFDlR_WkNXyvNaU6nM9HjA4sEqn4qh=s96-c
-725,Brae Webb,19,,https://avatars.githubusercontent.com/u/4517252?v=3
+725,Brae Webb,19,,https://avatars1.githubusercontent.com/u/4517252?v=4
 725,Ben Greene,19,,https://lh3.googleusercontent.com/a-/AOh14GhChE21OgmGTx80aapWckwDs-hnWjqAE2F90QOEqw=s96-c
 725,(anonymous user #216078),19,,
 729,Michael Rose,18,,https://lh4.googleusercontent.com/-4i6z59SqG2c/AAAAAAAAAAI/AAAAAAAAAC4/CfScQgmIdVk/photo.jpg

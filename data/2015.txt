@@ -763,7 +763,7 @@ Rank,Name,Score,Link,Avatar
 758,akajb84,52,https://github.com/akajb84,https://avatars0.githubusercontent.com/u/3442754?v=4
 758,theotherhand,52,,
 758,ornerylawn,52,https://github.com/ornerylawn,https://avatars2.githubusercontent.com/u/1689726?v=4
-758,Jon Palin,52,,https://lh4.googleusercontent.com/-NohAyXtY9gk/AAAAAAAAAAI/AAAAAAAAAQU/AMZuucmwV56JH5PR0vqqVU1S6nyeBiLsaQ/s96-c/photo.jpg
+758,Jon Palin (AoC++),52,,https://lh4.googleusercontent.com/-NohAyXtY9gk/AAAAAAAAAAI/AAAAAAAAAQU/AMZuucmwV56JH5PR0vqqVU1S6nyeBiLsaQ/s96-c/photo.jpg
 766,MonkeyBrain4U,51,,
 766,Nadav Luzzato,51,,https://lh6.googleusercontent.com/-cfWIIM_ohIo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-j06hd5GwOeSR-49Z7sinQ_ZuB9hg/mo/photo.jpg
 766,(anonymous user #10795),51,,
