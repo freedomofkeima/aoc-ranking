@@ -27,32 +27,14 @@
 
       <h2>Advent of Code Ranking</h2>
 
-      <h3>Year:</h3>
       <form name="yearForm">
-          <label>2020</label>
-          <input type="radio" name="year" value="2020" checked="checked" />
-          <label>2019</label>
-          <input type="radio" name="year" value="2019" />
-          <label>2018</label>
-          <input type="radio" name="year" value="2018" /><br/>
-          <!--
-          <label>2017</label>
-          <input type="radio" name="year" value="2017" />
-          <label>2016</label>
-          <input type="radio" name="year" value="2016" />
-          <label>2015</label>
-          <input type="radio" name="year" value="2015" />
-          -->
+        <label style="font-size: large;">
+          <b>Year:</b>
+          <select name="year"></select>
+        </label>
       </form>
 
-      <div id='table-container-2020'></div>
-      <div id='table-container-2019'></div>
-      <div id='table-container-2018'></div>
-      <!--
-      <div id='table-container-2017'></div>
-      <div id='table-container-2016'></div>
-      <div id='table-container-2015'></div>
-      -->
+      <div id="table-containers"></div>
 
     </div><!-- /.container -->
 
@@ -75,51 +57,64 @@
 
 
     <script type="text/javascript">
-      var rad = document.yearForm.year;
-      var prev = null;
-      for (var i = 0; i < rad.length; i++) {
-          rad[i].addEventListener('change', function() {
-            (prev) ? console.log(prev.value): null;
-            if (this !== prev) {
-                for (var j = 0; j < rad.length; j++) {
-                    var x = document.getElementById("table-container-" + rad[j].value);
-                    x.style.display = "none";
-                }
-                var y = document.getElementById("table-container-" + this.value);
-                y.style.display = "block";
-                prev = this;
+        var years = [], today = new Date(), initialized = {};
+        for (var j = 2015; j < today.getFullYear() + (today.getMonth() == 11); j++) {
+            years.push(j);
+            initialized[j] = false;
+
+            var container = document.createElement("div");
+            container.id = "table-container-" + j;
+            container.style.display = "none";
+            document.getElementById("table-containers").appendChild(container);
+
+            var option = document.createElement("option");
+            option.value = j;
+            option.appendChild(document.createTextNode(j));
+            document.yearForm.year.prepend(option);
+        }
+
+        var prev = today.getFullYear().toString();
+        document.yearForm.year.value = prev;
+        document.yearForm.year.addEventListener('change', function() {
+            if (this.value !== prev) {
+                switch_year(this.value);
+                prev = this.value;
             }
-            console.log(this.value)
-          });
-      }
-      for (var i = 2018; i < 2020; i++) {
-          document.getElementById("table-container-" + i).style.display = "none";
-      }
+        });
 
-      function format_link(link){
-         if (link)
-          return "<a href='" + link + "' target='_blank'>Link</a>";
-        else
-          return "";
-      }
+        function format_link(link){
+            if (link)
+                return "<a href='" + link + "' target='_blank'>Link</a>";
+            else
+                return "";
+        }
 
-      function format_avatar(link){
-        if (link)
-          return "<img src='" + link + "' height='30'/>";
-        else
-          return "";
-      }
+        function format_avatar(link){
+            if (link)
+                return "<img src='" + link + "' height='30'/>";
+            else
+                return "";
+        }
 
-      for (var i = 2018; i < 2021; i++) {
-          CsvToHtmlTable.init({
-            csv_path: 'data/' + i + '.txt',
-            element: 'table-container-' + i,
-            allow_download: true,
-            csv_options: {separator: ',', delimiter: '"'},
-            datatables_options: {"paging": false},
-            custom_formatting: [[3, format_link], [4, format_avatar]]
-          });
-      }
+        function switch_year(year) {
+            if (!initialized[year]) {
+                CsvToHtmlTable.init({
+                    csv_path: 'data/' + year + '.txt',
+                    element: 'table-container-' + year,
+                    allow_download: true,
+                    csv_options: {separator: ',', delimiter: '"'},
+                    datatables_options: {"paging": false},
+                    custom_formatting: [[3, format_link], [4, format_avatar]]
+                });
+                initialized[year] = true;
+            }
+            for (var i of years) {
+                document.getElementById("table-container-" + i).style.display = "none";
+            }
+            document.getElementById("table-container-" + year).style.display = "block";
+        }
+
+        switch_year(today.getFullYear())
     </script>
   </body>
 </html>
