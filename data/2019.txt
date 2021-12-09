@@ -616,7 +616,7 @@ Rank,Name,Score,Link,Avatar
 614,James Sun,42,,https://lh3.googleusercontent.com/a-/AOh14Ghq7dcuzGqdX7wxsgJ67WCDKVu2efF7EP34E-O_=s96-c
 614,virodoran,42,,https://avatars3.githubusercontent.com/u/1269298?v=4
 617,(anonymous user #381579),41,,
-617,Nicholas Hollander (AoC++),41,https://github.com/nhhollander,https://avatars0.githubusercontent.com/u/31573882?v=4
+617,Nicholas Hollander (AoC++),41,https://github.com/nhhollander,https://avatars.githubusercontent.com/u/31573882?v=4
 617,sergei_mar,41,,https://avatars.githubusercontent.com/u/58443007?v=4
 617,Justin Kaufman (AoC++),41,https://github.com/akaritakai,https://avatars.githubusercontent.com/u/2447416?v=4
 621,lucy,40,https://github.com/lucy,https://avatars2.githubusercontent.com/u/1666345?v=4
