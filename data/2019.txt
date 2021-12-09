@@ -500,7 +500,7 @@ Rank,Name,Score,Link,Avatar
 498,Sukasa,72,,https://avatars3.githubusercontent.com/u/1186656?v=4
 498,(anonymous user #148112),72,,
 498,Sławek Biel (AoC++),72,,https://avatars.githubusercontent.com/u/12817106?v=4
-502,Jacob Lambert,71,https://github.com/jdlambert,https://avatars3.githubusercontent.com/u/5317977?v=4
+502,Jacob Lambert,71,https://github.com/jdlambert,https://avatars.githubusercontent.com/u/5317977?v=4
 502,Tom Dryer,71,,https://lh3.googleusercontent.com/a-/AOh14Gh4xTeBcGUceIO7G3qbV1WD8_9ZyDydMXuRdKTiLg=s96-c
 502,jomipo123 (AoC++),71,,https://avatars.githubusercontent.com/u/4860131?v=4
 502,Kevin Scannell,71,https://github.com/kscanne,https://avatars.githubusercontent.com/u/407115?v=4
@@ -710,7 +710,7 @@ Rank,Name,Score,Link,Avatar
 707,Maxime Goyette,28,,https://lh3.googleusercontent.com/a-/AOh14GgWXXFmLP-jhbtG2J5TTvHM9GmeyIF034VQN4DY=s96-c
 707,@xAndy,28,https://github.com/ydnax,https://avatars.githubusercontent.com/u/676264?v=4
 707,crum (AoC++),28,https://github.com/crum,https://avatars.githubusercontent.com/u/1051540?v=4
-707,Eric Fritz,28,,https://avatars3.githubusercontent.com/u/103087?v=4
+707,Eric Fritz,28,,https://avatars.githubusercontent.com/u/103087?v=4
 707,Lars Brünjes,28,,https://lh3.googleusercontent.com/a-/AOh14GgRq2wNfboG8xoUdQ7wFOMLJLrmAKuQ0XN9K-nMGOQ=s96-c
 714,Peter Toth (AoC++),27,https://github.com/peter-roland-toth,https://avatars.githubusercontent.com/u/2871375?v=4
 714,Jacob G.,27,https://github.com/jhg023,https://avatars.githubusercontent.com/u/18515648?v=4
@@ -816,7 +816,7 @@ Rank,Name,Score,Link,Avatar
 811,Joseph Gleason (AoC++),13,,https://lh3.googleusercontent.com/a-/AOh14GgLBnLn9TSh1cC25svLId3TUDXng7-n2actwYyp=s96-c
 811,Zevenberge,13,https://github.com/Zevenberge,https://avatars.githubusercontent.com/u/11715098?v=4
 817,nomatteus (AoC++),12,https://github.com/nomatteus,https://avatars.githubusercontent.com/u/89686?v=4
-817,Mark Polyakov,12,https://github.com/markasoftware,https://avatars2.githubusercontent.com/u/6380084?v=4
+817,Mark Polyakov,12,https://github.com/markasoftware,https://avatars.githubusercontent.com/u/6380084?v=4
 817,(anonymous user #388914),12,,
 817,yammajr,12,,
 817,lingxz,12,,https://avatars.githubusercontent.com/u/14090705?v=4

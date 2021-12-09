@@ -241,7 +241,7 @@ Rank,Name,Score,Link,Avatar
 240,Gjosiah,209,,https://avatars3.githubusercontent.com/u/6678278?v=4
 240,Alex Crimi,209,,https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c
 240,Stephen,209,,https://avatars0.githubusercontent.com/u/1426848?v=4
-240,Joseph Laurendi,209,,https://avatars2.githubusercontent.com/u/176302?v=4
+240,Joseph Laurendi,209,,https://avatars.githubusercontent.com/u/176302?v=4
 244,Jon Staryuk (AoC++),208,https://github.com/jonstaryuk,https://avatars.githubusercontent.com/u/4214270?v=4
 244,Maxim Buzdalov,208,,https://avatars0.githubusercontent.com/u/7038557?v=4
 246,Merlin Katz,207,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q=s96-c

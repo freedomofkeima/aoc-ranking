@@ -605,7 +605,7 @@ Rank,Name,Score,Link,Avatar
 604,alexis2b,94,https://github.com/alexis2b,https://avatars0.githubusercontent.com/u/879014?v=4
 604,Kit Langton,94,,https://avatars.githubusercontent.com/u/7587245?v=4
 606,@RedaReinhart,93,,http://pbs.twimg.com/profile_images/3737728683/4a151f3c3bd947fcce4120ace84209f7.jpeg
-606,Nick Robson,93,https://github.com/nickrobson,https://avatars1.githubusercontent.com/u/11308077?v=4
+606,Nick Robson,93,https://github.com/nickrobson,https://avatars.githubusercontent.com/u/11308077?v=4
 606,Stuart Turner,93,https://github.com/viceroypenguin,https://avatars.githubusercontent.com/u/1992555?v=4
 609,(anonymous user #384),92,,
 609,Barney Boisvert (AoC++),92,https://github.com/barneyb,https://avatars.githubusercontent.com/u/82654?v=4

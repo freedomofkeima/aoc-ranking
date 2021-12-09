@@ -109,7 +109,7 @@ Rank,Name,Score,Link,Avatar
 108,Søren Fuglede Jørgensen (AoC++),215,https://github.com/fuglede,https://avatars.githubusercontent.com/u/6169306?v=4
 109,larry,214,,
 110,Alex Oro (AoC++),211,,https://lh3.googleusercontent.com/a-/AOh14GjEcMxAaY3d3qk1QLdHMckmIa1IQDAWo4V6ohLj=s96-c
-110,glguy,211,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
+110,glguy (AoC++),211,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
 112,Yosuke Sameshima,210,,https://avatars.githubusercontent.com/u/1277890?v=4
 113,Gabriel Kanegae,209,https://github.com/KanegaeGabriel,https://avatars.githubusercontent.com/u/10405276?v=4
 113,InternetPerson10,209,,https://avatars.githubusercontent.com/u/58873475?v=4
@@ -511,7 +511,7 @@ Rank,Name,Score,Link,Avatar
 508,jholman (AoC++),6,,https://avatars.githubusercontent.com/u/172523?v=4
 508,Boris Skurikhin,6,,https://lh3.googleusercontent.com/a-/AOh14Gj53NBj9YmsWgCgxiy4nlZh3hdgnN53XFTiHKMp3A=s96-c
 508,(anonymous user #1823453),6,,
-508,jogloran,6,,https://avatars.githubusercontent.com/u/460730?v=4
+508,Daniel Tse,6,https://github.com/jogloran,https://avatars.githubusercontent.com/u/460730?v=4
 514,John Hornibrook,5,,https://lh3.googleusercontent.com/a/AATXAJyJeSF_2IVU9sOe5y2LLkGaYwTg6oCtXAIA-lLr=s96-c
 514,e36freak (AoC++),5,,https://avatars.githubusercontent.com/u/630749?v=4
 514,Valokoodari (AoC++),5,https://github.com/Valokoodari,https://avatars.githubusercontent.com/u/28293838?v=4
