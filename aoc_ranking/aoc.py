@@ -17,11 +17,7 @@ MATCHER = re.compile(
 
 EXCLUDE_DAY = {
     2020: [1],
-    2019: [],
     2018: [6],
-    2017: [],
-    2016: [],
-    2015: [],
 }
 
 
@@ -88,7 +84,7 @@ def calculate_global_scoreboard(year: int) -> Dict[Tuple, int]:
     results = {}
     for day in range(1, 26):
         print(f"Processing year {year}, day {day}")
-        if day in EXCLUDE_DAY[year]:
+        if year in EXCLUDE_DAY and day in EXCLUDE_DAY[year]:
             print(f"  Skipping year {year}, day {day} because of technical problem")
             continue
         scoreboard = get_scoreboard(year=year, day=day)

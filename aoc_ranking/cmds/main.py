@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import datetime
 import logging
 import sys
 
@@ -10,7 +11,8 @@ def main():
     # Logging
     logging.basicConfig(stream=sys.stdout, level=logging.INFO)
     # Generate cache
-    for year in range(2015, 2021):
+    now = datetime.datetime.now()
+    for year in range(2015, now.year + (now.month == 12)):
         data = calculate_global_scoreboard(year)
         results = generate_global_rank(data)
         write_global_rank_to_file(year, results)
