@@ -696,7 +696,7 @@ Rank,Name,Score,Link,Avatar
 691,(anonymous user #628737),30,,
 691,cole,30,,https://avatars0.githubusercontent.com/u/19613273?v=4
 691,inzanity,30,,https://avatars.githubusercontent.com/u/1822811?v=4
-691,Borja Sotomayor (AoC++),30,,https://avatars.githubusercontent.com/u/448918?v=4
+691,Borja Sotomayor (AoC++),30,https://github.com/borjasotomayor,https://avatars.githubusercontent.com/u/448918?v=4
 691,haaawk,30,https://github.com/haaawk,https://avatars.githubusercontent.com/u/1311149?v=4
 700,jelder,29,,http://pbs.twimg.com/profile_images/2709620581/33127c63c67a37fd5bcf00d97d49e7d9.png
 700,(anonymous user #553988),29,,

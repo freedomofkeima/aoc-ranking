@@ -101,7 +101,7 @@ Rank,Name,Score,Link,Avatar
 100,Andrew He,603,,https://lh3.googleusercontent.com/-bCLg3s1Bmro/AAAAAAAAAAI/AAAAAAAABxc/aquyMPtR8yc/photo.jpg
 101,Greg Millam,592,,https://avatars.githubusercontent.com/u/12141175?v=3
 102,Michal Forišek,590,,https://lh3.googleusercontent.com/a-/AOh14GhUwWiSd0q32YQR6kzUehfHDWkWXVw1VxFUdNqUHi0=s96-c
-103,bufordsharkley,584,https://github.com/bufordsharkley,https://avatars0.githubusercontent.com/u/4923417?v=4
+103,bufordsharkley,584,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 104,Chris Moyer,564,https://twitter.com/CDMoyer,http://pbs.twimg.com/profile_images/421641487051272192/IfEg0PgG.jpeg
 105,MrPingouin1,560,,
 106,Marco Jäger,554,,https://lh3.googleusercontent.com/a-/AOh14Ggx1DLvQ1nOqnSMX2k3Mchh0j7JNQIqksbrhffW37E=s96-c

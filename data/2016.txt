@@ -130,7 +130,7 @@ Rank,Name,Score,Link,Avatar
 127,rennex,610,,https://avatars2.githubusercontent.com/u/449856?v=4
 130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/AOh14Ggua9alNX4EZoSbIkkSrQY6Y7HCGlfw4xKFBfZjHLSNK8m_cfWqJsvv2peO4XAc4Lb9aL9IJxAT6gRqoAm8DsClDReGyHDJt3lwkYpG-wr26Wwx9tbu-d0bYf0VAPJL0gbogMbG5UphIq1Zc5hkZY
 131,Joel Harmon,588,,https://lh3.googleusercontent.com/a/AATXAJz9F2kDIdKi9ph3k4NyanRIyK_D_tYLhSi2649G=s96-c
-131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars0.githubusercontent.com/u/4923417?v=4
+131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 133,vaultah,585,https://github.com/vaultah,https://avatars3.githubusercontent.com/u/4944562?v=4
 134,Thomas McConville,583,,https://lh6.googleusercontent.com/-TyxtJn3oBX8/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gxMYRzNHwRVenfeqkbgMYTWA2q2w/mo/photo.jpg
 135,Aneurysm9 (AoC++),582,https://github.com/Aneurysm9,https://avatars.githubusercontent.com/u/473616?v=4
@@ -495,7 +495,7 @@ Rank,Name,Score,Link,Avatar
 493,AlexKart86,63,https://github.com/AlexKart86,https://avatars0.githubusercontent.com/u/9786317?v=4
 493,balrok,63,https://github.com/balrok,https://avatars.githubusercontent.com/u/29128?v=4
 493,kittychi (AoC++),63,,https://avatars2.githubusercontent.com/u/2585729?v=4
-493,Mike Welsh,63,,https://avatars0.githubusercontent.com/u/36278?v=4
+493,Mike Welsh,63,,https://avatars.githubusercontent.com/u/36278?v=4
 498,Greg Millam,62,,https://avatars.githubusercontent.com/u/178209?v=3
 498,JamesB41 (AoC++),62,,https://avatars.githubusercontent.com/u/474403?v=4
 498,jkjustjoshing,62,,https://avatars.githubusercontent.com/u/813192?v=4

@@ -300,7 +300,7 @@ Rank,Name,Score,Link,Avatar
 298,Becojo (AoC++),159,https://github.com/Becojo,https://avatars.githubusercontent.com/u/172889?v=4
 298,jgblight,159,,https://avatars1.githubusercontent.com/u/2576935?v=4
 298,Mike Forrest (AoC++),159,,https://lh3.googleusercontent.com/a-/AOh14Gi5tSvi5UiayfHukUItY239TuKv9Hre4pAZh0qNfg=s96-c
-302,Jan Štola,158,,https://lh4.googleusercontent.com/-7uBzd3EZQtc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucneCIokspPZSBhDA_U6FcveAgaviA/s96-c/photo.jpg
+302,Jan Štola,158,,https://lh3.googleusercontent.com/a/AATXAJwRLcshfwe8nL0IZqdRNz_q10uROe4dxqvJM7dz=s96-c
 303,aragaer,157,https://github.com/aragaer,https://avatars.githubusercontent.com/u/53614?v=4
 303,fylion (AoC++),157,,https://avatars.githubusercontent.com/u/1339326?v=4
 305,Dave Gwilt (AoC++),156,,https://lh3.googleusercontent.com/a-/AOh14GjyKoVyHXLgBETqYYJflZdTMdMh1QfRKkhncYIm=s96-c
@@ -580,7 +580,7 @@ Rank,Name,Score,Link,Avatar
 576,casieber,46,https://github.com/casieber,https://avatars.githubusercontent.com/u/5363253?v=4
 576,(anonymous user #224385),46,,
 576,Ronald Cruz,46,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-576,Mark Swanson,46,,https://lh6.googleusercontent.com/-j85dULJbwQo/AAAAAAAAAAI/AAAAAAAAAE4/Nw64_UgTi7g/photo.jpg
+576,Mark Swanson,46,,https://lh3.googleusercontent.com/a-/AOh14GinojkSmLKsCZ8pV04d5flyDBWTKJV-k24xVXZz0Q=s96-c
 576,erocs (AoC++),46,,https://avatars.githubusercontent.com/u/700680?v=4
 576,TheMightyZeus,46,,https://avatars3.githubusercontent.com/u/7672450?v=4
 585,knkski,45,https://github.com/knkski,https://avatars.githubusercontent.com/u/20422884?v=4
@@ -628,7 +628,7 @@ Rank,Name,Score,Link,Avatar
 622,Manuel Bucher,38,,https://avatars.githubusercontent.com/u/32333867?v=4
 622,Owen Gillespie,38,,https://lh3.googleusercontent.com/a/AATXAJxmxJpX2p3Q8SBEJrxgbAFRDTWvzW68kRFWHhkt=s96-c
 622,Michal Brašna,38,,https://lh3.googleusercontent.com/a-/AOh14Gjuk_kGiOh6-gY3Ed9DgZpIGA8sXIqdjExXzwegug=s96-c
-622,drubinstein,38,,https://avatars0.githubusercontent.com/u/577149?v=4
+622,drubinstein,38,,https://avatars.githubusercontent.com/u/577149?v=4
 631,PantherMan594,37,https://github.com/PantherMan594,https://avatars0.githubusercontent.com/u/2984600?v=4
 631,Clinton Curry,37,,https://lh3.googleusercontent.com/a/AATXAJwp3D54EborWqKb-FyOmCyvBUhTl_Y4XHtLdnX7=s96-c
 631,williewillus,37,https://github.com/williewillus,https://avatars.githubusercontent.com/u/2015032?v=4
@@ -657,7 +657,7 @@ Rank,Name,Score,Link,Avatar
 655,Artur Kozak,32,https://github.com/quezak,https://avatars0.githubusercontent.com/u/666206?v=4
 655,@tomsaunders,32,,http://pbs.twimg.com/profile_images/951317847879204866/rcnVw0RO.jpg
 655,geoffreyhale,32,https://github.com/geoffreyhale,https://avatars3.githubusercontent.com/u/3221283?v=4
-655,Evan Howard,32,https://github.com/evanphoward,https://avatars.githubusercontent.com/u/28736707?v=4
+655,Evan Howard (AoC++),32,https://github.com/evanphoward,https://avatars.githubusercontent.com/u/28736707?v=4
 655,Fred Hebert,32,https://github.com/ferd,https://avatars.githubusercontent.com/u/111141?v=4
 661,Adam Pianka,31,https://github.com/apianka,https://avatars.githubusercontent.com/u/16678931?v=4
 661,rokob,31,,https://avatars2.githubusercontent.com/u/831355?v=4
