@@ -306,7 +306,7 @@ Rank,Name,Score,Link,Avatar
 305,ffutop,164,https://github.com/ffutop,https://avatars.githubusercontent.com/u/16443058?v=4
 306,Dormi,162,,https://avatars.githubusercontent.com/u/32986987?v=4
 306,ethannicholas,162,,https://avatars1.githubusercontent.com/u/6773880?v=4
-306,jacobly0,162,,https://avatars0.githubusercontent.com/u/15544577?v=4
+306,jacobly0,162,,https://avatars.githubusercontent.com/u/15544577?v=4
 309,echojc,161,https://github.com/echojc,https://avatars.githubusercontent.com/u/191427?v=4
 310,Patrick Hogg (AoC++),160,https://github.com/morgoth1145,https://avatars.githubusercontent.com/u/7890416?v=4
 311,Jonathan Ho,159,,https://lh3.googleusercontent.com/a-/AOh14GjIw7jgBhrYLR16B_05Q10mUzLnrYCozeT8nJjt1A=s96-c

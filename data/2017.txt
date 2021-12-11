@@ -589,7 +589,7 @@ Rank,Name,Score,Link,Avatar
 588,(anonymous user #128119),44,,
 588,Erik Nelson,44,,https://lh6.googleusercontent.com/-mhbr93SsfZs/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfbP3helCztpKd1S_wUNC09TwMI4Q/photo.jpg
 588,Lur,44,https://github.com/lurr,https://avatars.githubusercontent.com/u/3989535?v=4
-588,xrisk,44,https://github.com/xrisk,https://avatars0.githubusercontent.com/u/10669859?v=4
+588,xrisk,44,https://github.com/xrisk,https://avatars.githubusercontent.com/u/10669859?v=4
 588,JoelCodes,44,https://github.com/JoelCodes,https://avatars1.githubusercontent.com/u/1128994?v=4
 588,Peter200lx (AoC++),44,https://github.com/Peter200lx,https://avatars.githubusercontent.com/u/152634?v=4
 594,fnuttplus,43,,https://avatars.githubusercontent.com/u/4671570?v=4

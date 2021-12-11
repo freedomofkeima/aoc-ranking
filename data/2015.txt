@@ -252,7 +252,7 @@ Rank,Name,Score,Link,Avatar
 251,Rob Biedenharn,278,https://github.com/rab,https://avatars.githubusercontent.com/u/21304?v=4
 251,tomKPZ,278,,https://avatars.githubusercontent.com/u/9124077?v=4
 253,elguillaume,276,,
-253,Momin Khan,276,https://github.com/foolmoron,https://avatars.githubusercontent.com/u/1753413?v=4
+253,foolmoron,276,https://github.com/foolmoron,https://avatars.githubusercontent.com/u/1753413?v=4
 255,David Glick,274,https://github.com/davisagli,https://avatars.githubusercontent.com/u/49014?v=4
 256,favrik,272,https://github.com/favrik,https://avatars0.githubusercontent.com/u/57216?v=4
 257,pgao,270,https://github.com/pgao,https://avatars2.githubusercontent.com/u/850144?v=4
@@ -916,7 +916,7 @@ Rank,Name,Score,Link,Avatar
 910,Marty Neal,19,,https://lh3.googleusercontent.com/a-/AOh14GiifN5Oc6aABCIvRdUx4uS7OnSJtnnALvnOYgKt=s96-c
 910,Chad Sellers,19,,https://lh3.googleusercontent.com/-t2HPrkwKp9A/AAAAAAAAAAI/AAAAAAAAAkk/NEk3XVcfaTc/photo.jpg
 917,Tony Weston,18,,https://lh4.googleusercontent.com/-T3O7v6LTFC8/AAAAAAAAAAI/AAAAAAAAAAA/Dk19B_jcVBo/photo.jpg
-917,Cedric Bourneville (Ced),18,,https://lh3.googleusercontent.com/a-/AOh14GiEoOXVjq-O7BaYkoNRBN4en7JgOrMTxBp4jHbYaw=s96-c
+917,(anonymous user #928),18,,
 917,Tina Femea,18,,https://lh6.googleusercontent.com/-myJojZjlw7E/AAAAAAAAAAI/AAAAAAAAASk/bXEh8IdyX24/photo.jpg
 917,Nathaniel Lovin,18,,https://lh3.googleusercontent.com/a-/AAuE7mAigowZ2icao7_QCMkbkJuudaeWXWuTC66XMZDM
 917,Ярослав Свиридов,18,,https://lh3.googleusercontent.com/a-/AOh14Gj-0a9wP_z8yd6cEKbCGwDBBZUc_LyGoIO4Btgm=s96-c

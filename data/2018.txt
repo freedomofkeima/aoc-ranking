@@ -161,7 +161,7 @@ Rank,Name,Score,Link,Avatar
 160,Areesh Mittal,371,,https://lh3.googleusercontent.com/a-/AOh14Gj9-9TICziy51cHWGtkuIPJhuTP7AYInCSkd079xA=s96-c
 161,Mike Forrest (AoC++),365,,https://lh3.googleusercontent.com/a-/AOh14Gi5tSvi5UiayfHukUItY239TuKv9Hre4pAZh0qNfg=s96-c
 162,hyper-neutrino,363,https://github.com/hyper-neutrino,https://avatars.githubusercontent.com/u/25677805?v=4
-163,jacobly0,358,,https://avatars0.githubusercontent.com/u/15544577?v=4
+163,jacobly0,358,,https://avatars.githubusercontent.com/u/15544577?v=4
 164,Niak,357,,https://lh3.googleusercontent.com/a-/AOh14GjBm611R1zHUOPARqjd0L50_XX3ZOnejatU-u79=s96-c
 165,sblom,353,https://github.com/sblom,https://avatars.githubusercontent.com/u/31878?v=4
 166,Tong Wei,351,,https://lh3.googleusercontent.com/a-/AAuE7mATCaZFdki6iLMTEdUPechyxMqwb8PXQ8SGacKN
