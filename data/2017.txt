@@ -43,7 +43,7 @@ Rank,Name,Score,Link,Avatar
 42,Tris Emmy Wilson (AoC++),1422,https://github.com/an-empty-string,https://avatars.githubusercontent.com/u/681716?v=4
 43,sparkyb (AoC++),1412,https://github.com/sparkyb,https://avatars.githubusercontent.com/u/558826?v=4
 44,Ambrose Feinstein,1389,,https://lh3.googleusercontent.com/a-/AOh14Ggk12tXSSI63IN_lGo-ZxN0vD_RxA6xyAtVg1rdEQ=s96-c
-45,toraora,1385,https://github.com/toraora,https://avatars0.githubusercontent.com/u/5341921?v=4
+45,toraora,1385,https://github.com/toraora,https://avatars.githubusercontent.com/u/5341921?v=4
 46,Thai Pangsakulyanont,1381,https://github.com/dtinth,https://avatars.githubusercontent.com/u/193136?v=4
 47,VeeArr (AoC++),1372,,
 48,Kevin Yap (AoC++),1344,https://github.com/iKevinY,https://avatars.githubusercontent.com/u/2434728?v=4
@@ -407,7 +407,7 @@ Rank,Name,Score,Link,Avatar
 404,Aliaksei Danchanka,101,,https://lh3.googleusercontent.com/a/AATXAJxoo57wnpkDm505BimOpT98gnRQNI4isBIMPYq2=s96-c
 407,Kevin Scannell (AoC++),100,https://github.com/kscanne,https://avatars.githubusercontent.com/u/407115?v=4
 407,chrzhang,100,https://github.com/chrzhang,https://avatars3.githubusercontent.com/u/5836555?v=4
-409,Kunal Shroff,99,,https://lh6.googleusercontent.com/-4i06XIJWQKk/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckAV3HVedhWqNSumb2ta8ZT0vvxHw/s96-c/photo.jpg
+409,Kunal Shroff,99,,https://lh3.googleusercontent.com/a/AATXAJxq0-5HBpGx5NgaSZdHC6x5wAT7V4X5mbX4Liuo=s96-c
 410,Ben Greenman (AoC++),98,https://github.com/bennn,https://avatars.githubusercontent.com/u/1731829?v=4
 410,gricey432,98,https://github.com/gricey432,https://avatars2.githubusercontent.com/u/1611345?v=4
 410,boombalabo,98,,https://lh3.googleusercontent.com/-Fg9AxD9fnKI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucksUpLYGQnwNcTjL4lrUUP5SLQ1ug/s96-c/photo.jpg
@@ -706,7 +706,7 @@ Rank,Name,Score,Link,Avatar
 702,David Kiger,23,,https://lh3.googleusercontent.com/a/AATXAJxzb56DSmc97X_NanvGLm0Bp5FyfTnTtoMe4loz=s96-c
 702,AlienRenders,23,https://github.com/AlienRenders,https://avatars3.githubusercontent.com/u/19353864?v=4
 702,Paul Hodgson,23,,https://lh3.googleusercontent.com/a/AATXAJzvlfW-31vajjeCLvJBHtjVHGfv1JKefOxUsbT2=s96-c
-702,Timotius Sakti,23,,https://lh5.googleusercontent.com/-lTLxBr1IN6c/AAAAAAAAAAI/AAAAAAAABO8/AMZuucn6EwGqt2nPBjH-mGWwjtj4XvICfA/s96-c/photo.jpg
+702,Timotius Sakti,23,,https://lh3.googleusercontent.com/a/AATXAJwR49KxVeFXmwbPHsZuf9XS9l9fNLkOGBR97S8u1A=s96-c
 702,Teddy Katz,23,https://github.com/not-an-aardvark,https://avatars.githubusercontent.com/u/11638619?v=3
 702,raynald,23,https://github.com/raynald,https://avatars.githubusercontent.com/u/5963111?v=4
 702,Ryan Widmaier (AoC++),23,,https://lh3.googleusercontent.com/a/AATXAJx1u8qVTcuxDIFm7grSBTXUWNEdfe4vFQ0GIxfz=s96-c

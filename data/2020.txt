@@ -367,7 +367,7 @@ Rank,Name,Score,Link,Avatar
 366,Lukáš Gajdošech,120,,https://lh3.googleusercontent.com/a/AATXAJw05AyImyAQ0ahbClUBpjBBjGKsoSu5g26NXtgr=s96-c
 367,r_sreeram (AoC++),119,,
 368,@matthewhuang97 (AoC++),118,https://twitter.com/matthewhuang97,http://pbs.twimg.com/profile_images/1125997762539954177/aYIbPDsq.png
-368,Leo DiPerna,118,,https://lh3.googleusercontent.com/a-/AOh14GjNX9klRbiIcXPx37_SX9hDkiRXysy7hT5Oz8lw-Q=s96-c
+368,dipernalz,118,https://github.com/dipernalz,https://avatars.githubusercontent.com/u/49345519?v=4
 368,Vanessa Heckman (AoC++),118,,https://lh3.googleusercontent.com/a-/AOh14GgkOj37IlmnAmfM81lg21JKka7-H5RyQZ98qEE6kw=s96-c
 371,Aaron-Pierce,117,,https://avatars.githubusercontent.com/u/7394894?v=4
 372,kjsatz,116,https://github.com/kjsatz,https://avatars.githubusercontent.com/u/13790237?v=4
@@ -535,7 +535,7 @@ Rank,Name,Score,Link,Avatar
 533,shloak,56,,https://avatars.githubusercontent.com/u/8756124?v=4
 533,throwaway25813,56,,
 533,Bradon Zhang,56,https://github.com/BradonZhang,https://avatars.githubusercontent.com/u/10603251?v=4
-537,rdkbrady,55,https://github.com/rdkbrady,https://avatars2.githubusercontent.com/u/6564565?v=4
+537,rdkbrady,55,https://github.com/ryan-kasi,https://avatars.githubusercontent.com/u/6564565?v=4
 537,bengdahl,55,https://github.com/bengdahl,https://avatars.githubusercontent.com/u/19270795?v=4
 537,mpsijm,55,https://github.com/mpsijm,https://avatars.githubusercontent.com/u/9739541?v=4
 537,Ishan Mundra (AoC++),55,,https://lh4.googleusercontent.com/-rUEeTRvjXj0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckziDml--K5jd4qLxhkXa_Xon9paQ/s96-c/photo.jpg

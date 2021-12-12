@@ -586,7 +586,7 @@ Rank,Name,Score,Link,Avatar
 585,jabdownsmash,41,https://github.com/jabdownsmash,https://avatars0.githubusercontent.com/u/2124824?v=4
 585,Péter Szendrei,41,,https://lh3.googleusercontent.com/a-/AOh14GiiUzZhdXyuO8SIlcvwAdNLi3CeIM9gqPVfDk35zg=s96-c
 585,slothmaster,41,,https://avatars1.githubusercontent.com/u/1166164?v=4
-588,Albert,40,,https://avatars1.githubusercontent.com/u/5471528?v=4
+588,Albert,40,,https://avatars.githubusercontent.com/u/5471528?v=4
 588,Василий Кравец,40,,https://lh3.googleusercontent.com/a-/AOh14Gj8eu-sgug3-l6SI0LBZ51yNPwq46DaJ2ACKQAniw=s96-c
 590,randrews (AoC++),39,https://github.com/randrews,https://avatars.githubusercontent.com/u/74693?v=4
 590,Ryryme,39,,https://avatars0.githubusercontent.com/u/38364327?v=4
