@@ -164,7 +164,7 @@ Rank,Name,Score,Link,Avatar
 162,mkigikm,416,https://github.com/mkigikm,https://avatars.githubusercontent.com/u/10255509?v=4
 164,Ben Jones,415,,https://lh6.googleusercontent.com/-sT0RGMyeYHU/AAAAAAAAAAI/AAAAAAAACf0/pSfmdBSAQIg/photo.jpg
 165,jamie,414,https://github.com/jamie,https://avatars.githubusercontent.com/u/1093?v=4
-166,Joshua Shanks,413,,https://avatars2.githubusercontent.com/u/62661?v=4
+166,Joshua Shanks,413,,https://avatars.githubusercontent.com/u/62661?v=4
 166,ANTRat,413,https://github.com/ANTRat,https://avatars0.githubusercontent.com/u/177834?v=4
 168,Austin Kong,411,https://github.com/austinstkong,https://avatars.githubusercontent.com/u/7272064?v=3
 169,Isaac Mounce,409,,https://lh4.googleusercontent.com/-Cg-rHGtIr8Y/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdmsggSvPs6Jouwv8VMENoYU6OQag/photo.jpg

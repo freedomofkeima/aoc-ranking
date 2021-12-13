@@ -380,7 +380,7 @@ Rank,Name,Score,Link,Avatar
 379,tblock007,105,https://github.com/tblock007,https://avatars.githubusercontent.com/u/11383570?v=4
 380,Daniel Cheng,104,,https://lh3.googleusercontent.com/a-/AAuE7mDjTl_Ird_clWbaZPnjSlMgmdXJlL8GrJt7NNHX8Q
 380,Bartholomew Furrow,104,,https://lh3.googleusercontent.com/a-/AOh14GhsIpvlg7UyzluwEC16WSOvpmpDq7pTc_wg36VV-wA=s96-c
-380,Arthur Tomlin,104,,https://avatars1.githubusercontent.com/u/488181?v=4
+380,Arthur Tomlin,104,,https://avatars.githubusercontent.com/u/488181?v=4
 380,Jimmy Mårdell (AoC++),104,,https://avatars.githubusercontent.com/u/849617?v=4
 380,Hampus Skystedt,104,,https://lh3.googleusercontent.com/a/AATXAJwj-y4YOf0hBLIqZU0P-Z8GXgg-hrKFtFHRhCYC=s96-c
 385,peff,103,https://github.com/peff,https://avatars2.githubusercontent.com/u/45925?v=4
@@ -764,7 +764,7 @@ Rank,Name,Score,Link,Avatar
 754,rabuf,12,https://github.com/rabuf,https://avatars.githubusercontent.com/u/155763?v=4
 754,fnuecke,12,,https://avatars1.githubusercontent.com/u/514903?v=4
 754,slemsvamp,12,https://github.com/slemsvamp,https://avatars.githubusercontent.com/u/16758869?v=4
-766,Lokathor,11,https://github.com/Lokathor,https://avatars3.githubusercontent.com/u/5456384?v=4
+766,Lokathor,11,https://github.com/Lokathor,https://avatars.githubusercontent.com/u/5456384?v=4
 766,(anonymous user #418513),11,,
 766,MarshallOfSound,11,https://github.com/MarshallOfSound,https://avatars.githubusercontent.com/u/6634592?v=4
 766,Ningning,11,,https://avatars2.githubusercontent.com/u/8849050?v=4

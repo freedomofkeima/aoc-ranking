@@ -582,7 +582,7 @@ Rank,Name,Score,Link,Avatar
 576,Ronald Cruz,46,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 576,Mark Swanson,46,,https://lh3.googleusercontent.com/a-/AOh14GinojkSmLKsCZ8pV04d5flyDBWTKJV-k24xVXZz0Q=s96-c
 576,erocs (AoC++),46,,https://avatars.githubusercontent.com/u/700680?v=4
-576,TheMightyZeus,46,,https://avatars3.githubusercontent.com/u/7672450?v=4
+576,TheMightyZeus,46,,https://avatars.githubusercontent.com/u/7672450?v=4
 585,knkski,45,https://github.com/knkski,https://avatars.githubusercontent.com/u/20422884?v=4
 585,Pontus Walck (AoC++),45,,https://avatars.githubusercontent.com/u/1211119?v=4
 585,Nik Ammerlaan,45,https://github.com/nikammerlaan,https://avatars.githubusercontent.com/u/15852762?v=4

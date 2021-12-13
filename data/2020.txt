@@ -183,7 +183,7 @@ Rank,Name,Score,Link,Avatar
 182,Henry Heffan,352,,https://lh6.googleusercontent.com/-eJDR9yEinGM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktBDAgnp75DhmeTmDUwRsLVcqDjg/s96-c/photo.jpg
 183,Golovanov399,349,,https://avatars.githubusercontent.com/u/8750641?v=4
 184,Nick Gavalas,348,https://github.com/ngavalas,https://avatars.githubusercontent.com/u/4701284?v=4
-185,grekiki,345,https://github.com/grekiki,https://avatars.githubusercontent.com/u/16437969?v=4
+185,grekiki,345,,https://avatars.githubusercontent.com/u/16437969?v=4
 186,ZorbaTHut,341,,
 187,Level 51,337,,https://avatars.githubusercontent.com/u/3511593?v=4
 188,maneframe (AoC++),335,,https://avatars.githubusercontent.com/u/2111401?v=4
