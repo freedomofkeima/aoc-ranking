@@ -287,7 +287,7 @@ Rank,Name,Score,Link,Avatar
 286,Bryan Clair,184,,https://lh3.googleusercontent.com/a-/AOh14GhJoJhHdnx-p9N-zEfwgwTy74J4r5iXOfRjOz3L=s96-c
 287,Lopsidation,182,,
 288,Keegan Carruthers-Smith (AoC++),181,https://github.com/keegancsmith,https://avatars.githubusercontent.com/u/187831?v=4
-289,Alan Chang,179,https://github.com/tcode2k16,https://avatars1.githubusercontent.com/u/18071645?v=4
+289,Alan Chang,179,https://github.com/tcode2k16,https://avatars.githubusercontent.com/u/18071645?v=4
 289,Lunderberg,179,,https://avatars.githubusercontent.com/u/3888575?v=4
 289,jannic (AoC++),179,,https://avatars.githubusercontent.com/u/232606?v=4
 292,Colin Stewart,178,,https://avatars.githubusercontent.com/u/19819605?v=4

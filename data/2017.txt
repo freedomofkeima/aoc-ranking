@@ -631,7 +631,7 @@ Rank,Name,Score,Link,Avatar
 622,drubinstein,38,,https://avatars.githubusercontent.com/u/577149?v=4
 631,PantherMan594,37,https://github.com/PantherMan594,https://avatars0.githubusercontent.com/u/2984600?v=4
 631,Clinton Curry,37,,https://lh3.googleusercontent.com/a/AATXAJwp3D54EborWqKb-FyOmCyvBUhTl_Y4XHtLdnX7=s96-c
-631,williewillus,37,https://github.com/williewillus,https://avatars.githubusercontent.com/u/2015032?v=4
+631,Vincent Lee,37,https://github.com/williewillus,https://avatars.githubusercontent.com/u/2015032?v=4
 631,AndroidWargames,37,https://github.com/AndroidWargames,https://avatars2.githubusercontent.com/u/7952774?v=4
 631,mount butts,37,,https://lh3.googleusercontent.com/a/AATXAJwaLZGiWsMU4uy7ubTXk5iJNQoHZATnYFgjYBNj=s96-c
 636,Daniel Lee,36,,https://lh3.googleusercontent.com/-BBewh49fyLc/AAAAAAAAAAI/AAAAAAAACQU/AMZuucloezXR8qHm4qpWmB7t1I1fK1WJLA/s96-c/photo.jpg
@@ -826,7 +826,7 @@ Rank,Name,Score,Link,Avatar
 823,Quelklef,3,https://github.com/Quelklef,https://avatars.githubusercontent.com/u/14851215?v=4
 823,ncmiller (AoC++),3,,https://avatars.githubusercontent.com/u/921187?v=4
 823,kindermoumoute (AoC++),3,https://github.com/kindermoumoute,https://avatars.githubusercontent.com/u/10092554?v=4
-823,Bert Sarens,3,,https://lh5.googleusercontent.com/-MI_LzP5WPHs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckQMLWOtgEmeg4BNxsj-oqRcqg_JQ/s96-c/photo.jpg
+823,Bert Sarens,3,,https://lh3.googleusercontent.com/a/AATXAJzSv6P_XekC19XirwGwsZtAZPTwdzJs4xWeoEiM=s96-c
 829,pjreiniger,2,,https://avatars.githubusercontent.com/u/10381694?v=4
 829,ivceh,2,https://github.com/ivceh,https://avatars.githubusercontent.com/u/29973757?v=4
 829,Emil Tarazi,2,,https://lh3.googleusercontent.com/a/AATXAJzjFnJVk-9bGffeLYD-R25IX25PfIItsbHrHxm1ZjA=s96-c

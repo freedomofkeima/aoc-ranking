@@ -328,7 +328,7 @@ Rank,Name,Score,Link,Avatar
 325,wlandry,139,,
 328,vin bia,137,,https://lh5.googleusercontent.com/-SOk7Lxn0xqE/AAAAAAAAAAI/AAAAAAAAAec/emQ23DJKQJI/photo.jpg
 329,kms70847,135,,https://avatars.githubusercontent.com/u/5420261?v=4
-329,codebje,135,https://github.com/codebje,https://avatars0.githubusercontent.com/u/1438959?v=4
+329,codebje,135,https://github.com/codebje,https://avatars.githubusercontent.com/u/1438959?v=4
 331,Joseph Weinkam,134,,https://lh3.googleusercontent.com/a/AATXAJxj7yeUBBJG91Y8V8MCroNZuWllfWW098dfPmfZ=s96-c
 331,kacredolo,134,https://github.com/kacredolo,https://avatars2.githubusercontent.com/u/8829008?v=4
 333,Bradcomp,133,https://github.com/Bradcomp,https://avatars.githubusercontent.com/u/6647517?v=4
@@ -568,7 +568,7 @@ Rank,Name,Score,Link,Avatar
 566,RZachLamberty,38,https://github.com/RZachLamberty,https://avatars.githubusercontent.com/u/6100896?v=4
 566,Greg Fuller,38,,https://lh3.googleusercontent.com/a-/AOh14GiDx9NJrxNTpfdrf4GyG8ti9CumBX6fUhOfGU0N=s96-c
 566,Shaw T,38,https://github.com/tanx8,https://avatars.githubusercontent.com/u/3608475?v=3
-566,williewillus,38,https://github.com/williewillus,https://avatars.githubusercontent.com/u/2015032?v=4
+566,Vincent Lee,38,https://github.com/williewillus,https://avatars.githubusercontent.com/u/2015032?v=4
 571,blinkityblank,37,,https://avatars2.githubusercontent.com/u/6036839?v=4
 571,ziegfried,37,https://github.com/ziegfried,https://avatars.githubusercontent.com/u/64849?v=4
 571,monk-time,37,https://github.com/monk-time,https://avatars0.githubusercontent.com/u/7759622?v=4
@@ -715,7 +715,7 @@ Rank,Name,Score,Link,Avatar
 712,drbr,3,https://github.com/drbr,https://avatars.githubusercontent.com/u/8692338?v=4
 715,Leandro González Vallejo,2,,https://lh6.googleusercontent.com/-zg6ygr5evYA/AAAAAAAAAAI/AAAAAAAAATU/CGTEOkgBECE/photo.jpg
 715,mpapierski,2,https://github.com/mpapierski,https://avatars.githubusercontent.com/u/327556?v=4
-715,Mark Zorn,2,,https://lh3.googleusercontent.com/a-/AAuE7mBTqWT0_2JSuJPDQXqyL3DoK_2-gPi_9DaSEDTtpg
+715,Mark Zorn,2,,https://lh3.googleusercontent.com/a-/AOh14GjCLCOq1ElfImdqIsIk5LdkM6asMbFB0_d-GygknQ=s96-c
 715,Tóth Balázs,2,,https://lh4.googleusercontent.com/-xWVPPYQMuxM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckfCSjOKhS2x6DsiTGPEV8fC1frFA/s96-c/photo.jpg
 719,(anonymous user #56115),1,,
 719,m1el,1,,https://avatars.githubusercontent.com/u/540652?v=4

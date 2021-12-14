@@ -185,7 +185,7 @@ Rank,Name,Score,Link,Avatar
 184,EthanNicholas,369,,
 185,ludic,366,,
 186,@iscoresports,365,https://twitter.com/iscoresports,http://pbs.twimg.com/profile_images/1241478020/iscoresports_twitter.png
-186,Aymen Djellal,365,,https://lh5.googleusercontent.com/-Iv7qyJRv8Lc/AAAAAAAAAAI/AAAAAAAACDQ/m5hb_mvV394/photo.jpg
+186,Aymen Djellal,365,,https://lh3.googleusercontent.com/a-/AOh14Ghe2XeaA3Q7Q2hJkftu0bF-BvxeosmqDZJi4ZYPTw=s96-c
 188,Chris Penner,363,,https://lh3.googleusercontent.com/-5YILzyP6eko/AAAAAAAAAAI/AAAAAAAAAC4/FZj9MflHaAI/photo.jpg
 189,Peter Ingleby,362,,https://lh4.googleusercontent.com/-Iqo3DMoNo1I/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jDReq2WsRmfbkFLW_lxGPtnxqoCA/mo/photo.jpg
 190,Justin Vanderheide,360,,https://lh3.googleusercontent.com/a-/AOh14Gj3EcOpd44S34gg3JAHXS2FWOotz3B7e5_5wKOfpg=s96-c
@@ -363,7 +363,7 @@ Rank,Name,Score,Link,Avatar
 360,Raj Pandita,188,,https://lh3.googleusercontent.com/-NoL14LzfJPc/AAAAAAAAAAI/AAAAAAAAACQ/eU6dtcrw5QQ/photo.jpg
 363,opqdonut,187,,https://avatars.githubusercontent.com/u/207385?v=4
 363,gtllama,187,,
-363,codebje,187,https://github.com/codebje,https://avatars0.githubusercontent.com/u/1438959?v=4
+363,codebje,187,https://github.com/codebje,https://avatars.githubusercontent.com/u/1438959?v=4
 366,Dan Christensen,186,,https://lh3.googleusercontent.com/a-/AOh14Gjujc1Pa8IyKheQ5wM_TNaTCKFdmB9WiQD_awN6=s96-c
 366,wision,186,https://github.com/wision,https://avatars.githubusercontent.com/u/4619737?v=4
 366,Jerry Towler,186,https://github.com/jatowler,https://avatars.githubusercontent.com/u/3451580?v=4
@@ -951,7 +951,7 @@ Rank,Name,Score,Link,Avatar
 948,Evan Ackmann,12,,https://lh3.googleusercontent.com/a-/AOh14GibZMhuEhfiRdi5aOqs0ymd93Lz0L1LxbN3vgkBJQ=s96-c
 951,FredrikAugust,11,https://github.com/FredrikAugust,https://avatars.githubusercontent.com/u/7691547?v=4
 951,QuadDrummer,11,,
-951,Mark Zorn,11,,https://lh3.googleusercontent.com/a-/AAuE7mBTqWT0_2JSuJPDQXqyL3DoK_2-gPi_9DaSEDTtpg
+951,Mark Zorn,11,,https://lh3.googleusercontent.com/a-/AOh14GjCLCOq1ElfImdqIsIk5LdkM6asMbFB0_d-GygknQ=s96-c
 951,jsachs,11,https://github.com/jsachs,https://avatars.githubusercontent.com/u/954072?v=3
 951,mjhanninen,11,,https://avatars0.githubusercontent.com/u/82970?v=4
 956,Tomás Ferreira,10,,https://lh3.googleusercontent.com/-IcON4VQhdfY/AAAAAAAAAAI/AAAAAAAAAEk/ByVJ2D97d8Y/photo.jpg
@@ -971,7 +971,7 @@ Rank,Name,Score,Link,Avatar
 967,Jon Goodger,7,https://github.com/Virakal,https://avatars0.githubusercontent.com/u/1770590?v=4
 967,RoamingFox,7,,
 967,Henry Zhang,7,https://github.com/henry-alakazhang,https://avatars0.githubusercontent.com/u/8922125?v=4
-967,Heinrich Lee Yu,7,https://github.com/engwan,https://avatars3.githubusercontent.com/u/300588?v=4
+967,Heinrich Lee Yu,7,https://github.com/engwan,https://avatars.githubusercontent.com/u/300588?v=4
 967,TheDgtl,7,,https://avatars.githubusercontent.com/u/565558?v=4
 967,Blueyleader,7,,
 976,mikro86000,6,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
