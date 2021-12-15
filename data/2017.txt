@@ -9,7 +9,7 @@ Rank,Name,Score,Link,Avatar
 8,ethframe,3104,https://github.com/ethframe,https://avatars.githubusercontent.com/u/10119536?v=4
 9,orez-,3103,https://github.com/orez-,https://avatars.githubusercontent.com/u/1037028?v=4
 10,Michael Fogleman (AoC++),2929,https://github.com/fogleman,https://avatars.githubusercontent.com/u/520208?v=4
-11,Lewin Gan (AoC++),2840,,https://lh5.googleusercontent.com/-aAweOzy9Tu4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfyFm1woAK7AnmsjBh5soEEZ4QPSw/photo.jpg
+11,Lewin Gan (AoC++),2840,,https://lh3.googleusercontent.com/a/AATXAJxRQPx12BEy8DnNoz6D0v_3WjfOMDWE_2U9FUOc=s96-c
 12,mcpower,2838,https://twitter.com/mcpowr,http://pbs.twimg.com/profile_images/540516549035978752/uxSXOmKr.png
 13,glguy (AoC++),2546,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
 14,Brandon Zhang,2387,,https://lh3.googleusercontent.com/a-/AOh14Gj7Ts3QALUrH64Qr0GUIbTedWQN-VVK7hr-0mal=s96-c

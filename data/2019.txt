@@ -412,7 +412,7 @@ Rank,Name,Score,Link,Avatar
 411,div er,106,https://twitter.com/freedom_div0r,http://pbs.twimg.com/profile_images/1306244916989833216/kaq1vvhU.png
 411,Arthur Rudolph,106,,https://lh3.googleusercontent.com/a-/AOh14GgwSO-c0ucMdfHtUKohBC3_NpADBu-5wULDpa335Q=s96-c
 411,Evan Jeffrey,106,,https://avatars.githubusercontent.com/u/1690140?v=4
-411,leer,106,,http://pbs.twimg.com/profile_images/1464961013451661313/Fp_Cnd5h.jpg
+411,leer,106,,http://pbs.twimg.com/profile_images/1470456496202809344/lgqbzWmP.png
 411,(anonymous user #468053) (AoC++),106,,
 416,Alex Stephens,105,,https://lh3.googleusercontent.com/a-/AOh14Gh-rKJv_K6b3-M_f6RaNUOAXRvY3IMrPBMPQilmnec=s96-c
 417,nvojkovic (AoC++),104,https://github.com/nvojkovic,https://avatars.githubusercontent.com/u/7647364?v=4
@@ -489,7 +489,7 @@ Rank,Name,Score,Link,Avatar
 488,sblom (AoC++),76,https://github.com/sblom,https://avatars.githubusercontent.com/u/31878?v=4
 488,mgersh,76,,https://avatars.githubusercontent.com/u/2846855?v=4
 490,StevePER,75,,https://avatars0.githubusercontent.com/u/8556898?v=4
-491,Jan Kuipers,74,,https://lh5.googleusercontent.com/-RtJ4bt6gOvo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmClaaSIl-98wxY8GkKzKEISqjrBA/s96-c/photo.jpg
+491,Jan Kuipers,74,,https://lh3.googleusercontent.com/a/AATXAJy_6sJPubwA86Kt0PcsjGQu8rza52kvRxea687r=s96-c
 491,Mustafa Haddara (AoC++),74,https://github.com/MustafaHaddara,https://avatars.githubusercontent.com/u/11722214?v=4
 491,PaulTaykalo,74,,https://avatars0.githubusercontent.com/u/119268?v=4
 491,David Kim,74,,https://avatars.githubusercontent.com/u/33339104?v=4

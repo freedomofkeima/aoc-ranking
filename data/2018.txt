@@ -90,7 +90,7 @@ Rank,Name,Score,Link,Avatar
 89,Craig Gidney,797,https://github.com/Strilanc,https://avatars.githubusercontent.com/u/79941?v=4
 90,Max Jäger (AoC++),792,,https://lh3.googleusercontent.com/a-/AOh14GiyYGLhGypSWcAf3BtLN5Y97wy1OYwSSD0i-_YwrMQ=s96-c
 91,jebouin (AoC++),775,https://github.com/jebouin,https://avatars.githubusercontent.com/u/23281929?v=4
-92,Lewin Gan,771,,https://lh5.googleusercontent.com/-aAweOzy9Tu4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfyFm1woAK7AnmsjBh5soEEZ4QPSw/photo.jpg
+92,Lewin Gan,771,,https://lh3.googleusercontent.com/a/AATXAJxRQPx12BEy8DnNoz6D0v_3WjfOMDWE_2U9FUOc=s96-c
 93,Toni Fadjukoff (AoC++),757,,https://avatars.githubusercontent.com/u/777453?v=4
 94,(anonymous user #230381),746,,
 95,Unihedron (AoC++),741,https://github.com/Unihedro,https://avatars.githubusercontent.com/u/5595067?v=4

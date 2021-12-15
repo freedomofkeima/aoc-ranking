@@ -289,7 +289,7 @@ Rank,Name,Score,Link,Avatar
 288,cadetstar,171,https://github.com/cadetstar,https://avatars.githubusercontent.com/u/247453?v=4
 289,UnrelatedString,170,,https://avatars.githubusercontent.com/u/33167175?v=4
 289,Karl Jiang,170,,https://avatars0.githubusercontent.com/u/12506837?v=4
-291,Jan Kuipers,167,,https://lh5.googleusercontent.com/-RtJ4bt6gOvo/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmClaaSIl-98wxY8GkKzKEISqjrBA/s96-c/photo.jpg
+291,Jan Kuipers,167,,https://lh3.googleusercontent.com/a/AATXAJy_6sJPubwA86Kt0PcsjGQu8rza52kvRxea687r=s96-c
 292,A5rocks,166,https://github.com/A5rocks,https://avatars.githubusercontent.com/u/40616000?v=4
 292,Dante (Sponsor),166,https://github.com/c-dante,https://avatars.githubusercontent.com/u/6332726?v=4
 294,Chris Trevisan,165,,https://lh3.googleusercontent.com/a-/AOh14GjlD4BQAoxNyoiGTC9tasadUkjbcPjtzbJX3LoD=s96-c
@@ -530,7 +530,7 @@ Rank,Name,Score,Link,Avatar
 528,Henrico Pops (AoC++),57,,https://lh3.googleusercontent.com/a-/AOh14GgGA5xlN1TLmscAuLSHZNFN_VL-QgV5YUGWenYGNqY=s96-c
 528,mRabitsky,57,https://github.com/mRabitsky,https://avatars.githubusercontent.com/u/10282161?v=4
 528,WU Yong 吴咏,57,https://github.com/wustudent,https://avatars.githubusercontent.com/u/11211749?v=4
-528,leer,57,,http://pbs.twimg.com/profile_images/1464961013451661313/Fp_Cnd5h.jpg
+528,leer,57,,http://pbs.twimg.com/profile_images/1470456496202809344/lgqbzWmP.png
 533,octylFractal,56,https://github.com/octylFractal,https://avatars.githubusercontent.com/u/2093023?v=4
 533,shloak,56,,https://avatars.githubusercontent.com/u/8756124?v=4
 533,throwaway25813,56,,

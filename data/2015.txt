@@ -50,7 +50,7 @@ Rank,Name,Score,Link,Avatar
 49,lukechampine,931,https://github.com/lukechampine,https://avatars.githubusercontent.com/u/3344749?v=4
 50,(anonymous user #7648),929,,
 51,Raven Black,924,,https://lh4.googleusercontent.com/-GOtE4_IDM78/AAAAAAAAAAI/AAAAAAAAAEI/L1PA8rWoAxk/photo.jpg
-52,(anonymous user #3367),922,,
+52,Avery Crespi,922,https://github.com/averycrespi,https://avatars.githubusercontent.com/u/9702999?v=4
 53,Shane Mc Cormack (AoC++),887,https://github.com/ShaneMcC,https://avatars.githubusercontent.com/u/189723?v=4
 53,0x0dea,887,,https://avatars.githubusercontent.com/u/11608949?v=3
 55,Jeremy Rans,879,,https://lh4.googleusercontent.com/-JvAvvKWmLZM/AAAAAAAAAAI/AAAAAAAAAUE/PWEd09rHJVk/photo.jpg
@@ -191,7 +191,7 @@ Rank,Name,Score,Link,Avatar
 190,Justin Vanderheide,360,,https://lh3.googleusercontent.com/a-/AOh14Gj3EcOpd44S34gg3JAHXS2FWOotz3B7e5_5wKOfpg=s96-c
 191,(anonymous user #18301),358,,
 191,Thomas Lamb,358,https://github.com/tclamb,https://avatars3.githubusercontent.com/u/1987615?v=4
-191,tonyta,358,https://github.com/tonyta,https://avatars2.githubusercontent.com/u/5795302?v=4
+191,tonyta,358,https://github.com/tonyta,https://avatars.githubusercontent.com/u/5795302?v=4
 194,aburnson,357,https://github.com/aburnson,https://avatars.githubusercontent.com/u/9678001?v=3
 195,Константин К,356,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 196,Dwayne Towell,352,,https://lh3.googleusercontent.com/a/AATXAJzsZ6s4am3EgHdJ-HaloD-53Hu4fxeCxMTZ5z7KEw=s96-c
@@ -274,7 +274,7 @@ Rank,Name,Score,Link,Avatar
 273,Slezak2007,253,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c
 274,Greg Yardley,249,https://twitter.com/gyardley,http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg
 275,Evgeni-M,247,,https://avatars.githubusercontent.com/u/9858333?v=3
-275,Scott Handelman,247,,https://lh3.googleusercontent.com/a-/AOh14Gh7IZhcPl_ZZhdV-AhV3-c6NrCDue8YmIirLDpH=s96-c
+275,Scott Handelman,247,,https://lh3.googleusercontent.com/a-/AOh14GiZ2a81dLYCINd6mYxeJ8-59-vG0fYZkPpMPwylpQ=s96-c
 277,Jonathan J. Helmus,246,https://github.com/jjhelmus,https://avatars0.githubusercontent.com/u/1050278?v=4
 278,Adam Pantel,244,,https://lh5.googleusercontent.com/-dPQAjPDOMm0/AAAAAAAAAAI/AAAAAAAAGgY/59Lrv1AvsRc/photo.jpg
 278,JoggyFrazzle,244,,
@@ -415,7 +415,7 @@ Rank,Name,Score,Link,Avatar
 412,Matt Thomas,169,https://github.com/mattypiper,https://avatars1.githubusercontent.com/u/332011?v=4
 415,(anonymous user #296),168,,
 415,William Andrew Burnson,168,https://github.com/burnson,https://avatars.githubusercontent.com/u/1053998?v=3
-417,(anonymous user #12554),167,,
+417,dastbe,167,https://github.com/dastbe,https://avatars.githubusercontent.com/u/634735?v=4
 417,Boo,167,,http://abs.twimg.com/sticky/default_profile_images/default_profile_5.png
 419,Irfaan Khalid,166,https://github.com/IrfaanKhalid,https://avatars1.githubusercontent.com/u/13040818?v=4
 419,Buzz627,166,https://github.com/Buzz627,https://avatars3.githubusercontent.com/u/6876080?v=4
@@ -716,7 +716,7 @@ Rank,Name,Score,Link,Avatar
 710,Stickerpants,63,https://github.com/Stickerpants,https://avatars0.githubusercontent.com/u/2053862?v=4
 710,f-koehler,63,https://github.com/f-koehler,https://avatars.githubusercontent.com/u/5512292?v=4
 717,wrzazg,62,,
-717,Rijir,62,,https://avatars0.githubusercontent.com/u/6622091?v=4
+717,Rijir,62,,https://avatars.githubusercontent.com/u/6622091?v=4
 717,Alexandr Raskin,62,,https://lh5.googleusercontent.com/-JpZ2xesURn8/AAAAAAAAAAI/AAAAAAAAASo/SP94jry9jho/photo.jpg
 717,Eddie Parker,62,,https://avatars.githubusercontent.com/u/1141487?v=3
 717,smarlow,62,,https://avatars.githubusercontent.com/u/2413035?v=4
