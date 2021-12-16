@@ -180,7 +180,7 @@ Rank,Name,Score,Link,Avatar
 179,Brent Yorgey,341,,https://lh3.googleusercontent.com/a-/AOh14Gidm-8LSHLh1ToqsPwNsPzf7pdkv-kx18FlxJGNOw=s96-c
 180,Ben Jones,339,https://github.com/benjones,https://avatars0.githubusercontent.com/u/203206?v=4
 181,Justin Leong,338,https://github.com/omegaphoenix,https://avatars.githubusercontent.com/u/10361461?v=4
-182,Thomas R,337,,https://lh6.googleusercontent.com/-9-WG0kT-qDU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfqln1xpxVtAni3C2q3OEYVxg6ZDg/mo/photo.jpg
+182,Thomas R,337,,https://lh3.googleusercontent.com/a/AATXAJzUn7UbABaBCc6HZeFqky5Kyf-zh14F6aSyLKaT=s96-c
 183,David Zheng,335,,https://lh3.googleusercontent.com/a-/AOh14GhqJMtdVUCrQaIqG5NbpvVAobqZ_K8jjdz60sZVgA=s96-c
 184,Voileexperiments,331,,https://avatars.githubusercontent.com/u/14909989?v=3
 185,mlc,329,https://github.com/mlc,https://avatars.githubusercontent.com/u/1211?v=4

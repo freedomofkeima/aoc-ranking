@@ -129,7 +129,7 @@ Rank,Name,Score,Link,Avatar
 128,stringham,544,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
 129,Tim Vermeulen (AoC++),521,https://github.com/timvermeulen,https://avatars.githubusercontent.com/u/2904179?v=4
 130,Kate Miháliková (AoC++),511,https://github.com/katemihalikova,https://avatars.githubusercontent.com/u/7225023?v=4
-131,Samu Jussila,505,,https://lh3.googleusercontent.com/a-/AAuE7mD9DXQXS9yPNvRy1SILhJi2BKw5JsfrXcff-zv0SA
+131,Samu Jussila,505,,https://lh3.googleusercontent.com/a-/AOh14Gj-MuToA4DdII617DPIcDkJ-piH4x7gDcdOA0CFaA=s96-c
 132,sguest (AoC++),501,https://github.com/sguest,https://avatars.githubusercontent.com/u/5026610?v=4
 132,zirkonit,501,,https://avatars1.githubusercontent.com/u/10399841?v=4
 134,funnything,497,https://github.com/funnything,https://avatars0.githubusercontent.com/u/608296?v=4

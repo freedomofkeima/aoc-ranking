@@ -183,7 +183,7 @@ Rank,Name,Score,Link,Avatar
 182,jorisvr,403,https://github.com/jorisvr,https://avatars2.githubusercontent.com/u/6183894?v=4
 183,connorjayr,395,https://github.com/connorjayr,https://avatars.githubusercontent.com/u/5413757?v=4
 184,Jarik Rens,392,,https://lh6.googleusercontent.com/-p_QW8CAx7Vc/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdyTPj9BI_ZWFIZqJh92rJLXnnpvw/photo.jpg
-185,Samu Jussila,391,,https://lh3.googleusercontent.com/a-/AAuE7mD9DXQXS9yPNvRy1SILhJi2BKw5JsfrXcff-zv0SA
+185,Samu Jussila,391,,https://lh3.googleusercontent.com/a-/AOh14Gj-MuToA4DdII617DPIcDkJ-piH4x7gDcdOA0CFaA=s96-c
 186,(anonymous user #260995),390,,
 187,Neal Wu,389,https://github.com/nealwu,https://avatars.githubusercontent.com/u/726075?v=4
 188,Elmer Le,386,,https://lh3.googleusercontent.com/a-/AAuE7mBc6fzV5-H7YX6tdMO1mzX7GP3pQxiT5SBMqn6D
