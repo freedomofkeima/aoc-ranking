@@ -275,7 +275,7 @@ Rank,Name,Score,Link,Avatar
 274,Greg Yardley,249,https://twitter.com/gyardley,http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg
 275,Evgeni-M,247,,https://avatars.githubusercontent.com/u/9858333?v=3
 275,Scott Handelman,247,,https://lh3.googleusercontent.com/a-/AOh14GiZ2a81dLYCINd6mYxeJ8-59-vG0fYZkPpMPwylpQ=s96-c
-277,Jonathan J. Helmus,246,https://github.com/jjhelmus,https://avatars0.githubusercontent.com/u/1050278?v=4
+277,Jonathan J. Helmus,246,https://github.com/jjhelmus,https://avatars.githubusercontent.com/u/1050278?v=4
 278,Adam Pantel,244,,https://lh5.googleusercontent.com/-dPQAjPDOMm0/AAAAAAAAAAI/AAAAAAAAGgY/59Lrv1AvsRc/photo.jpg
 278,JoggyFrazzle,244,,
 278,Branimir Filipović,244,,https://lh3.googleusercontent.com/a-/AOh14GgEkSOW8d0ZGGY-GCX7wLksUxPw9GDTwFgvOn9SyQ=s96-c

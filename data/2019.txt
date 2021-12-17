@@ -364,7 +364,7 @@ Rank,Name,Score,Link,Avatar
 363,Zeki Gurbuz,129,,https://avatars.githubusercontent.com/u/36140950?v=4
 364,Dave Buchfuhrer (AoC++),128,,https://lh3.googleusercontent.com/a-/AOh14Gh3l6IvAqdPPz48RPs046Qt09eL4cL933UBCrn0ZFY=s96-c
 364,nmutalik (AoC++),128,https://github.com/nmutalik,https://avatars.githubusercontent.com/u/2798587?v=4
-364,digitalagedragon,128,,https://avatars0.githubusercontent.com/u/38578268?v=4
+364,digitalagedragon,128,,https://avatars.githubusercontent.com/u/38578268?v=4
 364,aditsu,128,,https://lh3.googleusercontent.com/a/AATXAJzoHKKQ9mVvJCRqYxZZYLmvEPOr63oiAPhcnb3jIQ=s96-c
 368,Joshua Martinez,127,,https://lh3.googleusercontent.com/a-/AOh14Giy1Nl6XoB2oHXayOXEwgBEwV2xYi_0f3GOeHluc9A=s96-c
 368,Jonathan Wase,127,,https://lh3.googleusercontent.com/a/AATXAJwCwbIqWDkbUjjWnW812otjw0LGzm5ayxF1grv9=s96-c
