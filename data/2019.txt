@@ -349,7 +349,7 @@ Rank,Name,Score,Link,Avatar
 347,Laguana,141,,https://avatars.githubusercontent.com/u/4579237?v=4
 349,hgarrereyn,140,https://github.com/hgarrereyn,https://avatars3.githubusercontent.com/u/4087148?v=4
 349,Stef,140,https://github.com/stefsiekman,https://avatars.githubusercontent.com/u/3659668?v=4
-351,lthistle,139,,https://avatars1.githubusercontent.com/u/26513277?v=4
+351,lthistle,139,,https://avatars.githubusercontent.com/u/26513277?v=4
 352,jeanlorc,138,,https://avatars1.githubusercontent.com/u/34285815?v=4
 353,William Li,137,,https://lh3.googleusercontent.com/a-/AOh14GhGinU3cXXzW7_nNdzfr1qYN3MwNooINYNSlJuP7w=s96-c
 353,(anonymous user #51076),137,,
@@ -594,7 +594,7 @@ Rank,Name,Score,Link,Avatar
 593,Thomas Zumsteg,47,,https://lh3.googleusercontent.com/a/AATXAJyvHHaBOFPvFKe4WrnbJrE3x-ZBTgl7Na3bwst-=s96-c
 594,Alexerson,46,,https://avatars.githubusercontent.com/u/5081356?v=4
 594,(anonymous user #130597),46,,
-594,Ashley Kim,46,,https://avatars2.githubusercontent.com/u/9636374?v=4
+594,Ashley Kim,46,,https://avatars.githubusercontent.com/u/9636374?v=4
 594,Michael Fatemi,46,,https://lh3.googleusercontent.com/a-/AAuE7mC8wz9O5kOXJ6g4AkEuTBHz4SGmJftb2zV3Veaf
 594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/AATXAJzyGDARdZXi4KdR6dy0PeBbYs7h9CML7kWWiWAl=s96-c
 594,(anonymous user #772758),46,,
@@ -746,7 +746,7 @@ Rank,Name,Score,Link,Avatar
 740,Olivier Bellone,22,https://github.com/olivierbellone,https://avatars.githubusercontent.com/u/14116796?v=4
 740,pancelor,22,https://github.com/pancelor,https://avatars.githubusercontent.com/u/11308928?v=4
 740,Olaf Gottschalk (AoC++),22,https://github.com/Zordid,https://avatars.githubusercontent.com/u/4798822?v=4
-740,Robert Antonio,22,,http://pbs.twimg.com/profile_images/1252565347917586434/1qjlhDDk.jpg
+740,Robert Antonio,22,https://twitter.com/rkaldy,http://pbs.twimg.com/profile_images/1252565347917586434/1qjlhDDk.jpg
 740,bbeck,22,,https://avatars.githubusercontent.com/u/21999?v=4
 750,Chris Charles (AoC++),21,https://github.com/charlch,https://avatars.githubusercontent.com/u/5228452?v=4
 750,c-Viorel (AoC++),21,https://github.com/c-Viorel,https://avatars.githubusercontent.com/u/7532336?v=4

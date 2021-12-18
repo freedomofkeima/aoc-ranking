@@ -771,7 +771,7 @@ Rank,Name,Score,Link,Avatar
 766,Peter Steiwer,11,https://github.com/psteiwer,https://avatars.githubusercontent.com/u/24307254?v=4
 766,Josh Stone (AoC++),11,https://github.com/cuviper,https://avatars.githubusercontent.com/u/36186?v=4
 772,dyniec,10,,https://avatars1.githubusercontent.com/u/7108963?v=4
-772,Jean-Michel MORANI,10,,https://lh5.googleusercontent.com/-J7rtwwQkYi4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn_CmETePNb5Zb0I3NrKGyO303jPQ/s96-c/photo.jpg
+772,Jean-Michel MORANI,10,,https://lh3.googleusercontent.com/a/AATXAJwUgvjbYIb1jk9cHEHCepwcD5soI7bGZcaaM3K0=s96-c
 772,JNRowe,10,https://github.com/JNRowe,https://avatars2.githubusercontent.com/u/61381?v=4
 772,(anonymous user #264793),10,,
 772,dmunz,10,,https://avatars.githubusercontent.com/u/12734923?v=4

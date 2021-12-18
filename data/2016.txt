@@ -161,7 +161,7 @@ Rank,Name,Score,Link,Avatar
 160,(anonymous user #31658),451,,
 161,Sean Clarke,445,https://github.com/sclarke,https://avatars1.githubusercontent.com/u/1771093?v=4
 162,Daniel Lee (AoC++),438,,https://lh3.googleusercontent.com/-BBewh49fyLc/AAAAAAAAAAI/AAAAAAAACQU/AMZuucloezXR8qHm4qpWmB7t1I1fK1WJLA/s96-c/photo.jpg
-163,Adam Fitzgarrald,437,,https://lh3.googleusercontent.com/a-/AAuE7mC1B94qdIDhiOD4ML-W9NtWX2AOu-LoYVZ-YemljKY
+163,Adam Fitzgarrald,437,,https://lh3.googleusercontent.com/a-/AOh14GjmNa_OoZpOSETY4R9vSVQQ8DX1_gHxLPKIuwB4L5o=s96-c
 164,Max Jäger (AoC++),435,,https://lh3.googleusercontent.com/a-/AOh14GiyYGLhGypSWcAf3BtLN5Y97wy1OYwSSD0i-_YwrMQ=s96-c
 165,@fenomas,425,https://twitter.com/fenomas,http://pbs.twimg.com/profile_images/1214850374865014784/BbQY40Xz.png
 166,Jacob Dennerlein,408,,https://lh3.googleusercontent.com/a-/AOh14GhXAMoJs_4Ja7CuHiX0mXPMCplODgANAqYiWMBZiA=s96-c

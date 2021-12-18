@@ -207,7 +207,7 @@ Rank,Name,Score,Link,Avatar
 205,Chouser,336,https://twitter.com/chrishouser,http://pbs.twimg.com/profile_images/570248395362844672/EWfuxLj_.jpeg
 205,SimonPrins (AoC++),336,,https://avatars.githubusercontent.com/u/6427655?v=4
 208,g-p-g,335,https://github.com/g-p-g,https://avatars.githubusercontent.com/u/6975605?v=3
-209,Katharine,334,https://github.com/Katharine,https://avatars.githubusercontent.com/u/110792?v=4
+209,Katharine Berry,334,https://github.com/Katharine,https://avatars.githubusercontent.com/u/110792?v=4
 210,Joseph Emmons,333,,https://avatars.githubusercontent.com/u/4185329?v=3
 211,Benjamin Geiger,332,,https://lh3.googleusercontent.com/a-/AOh14Gh0VUZSjX-ZAs5LXGEx8ChORCZRWRf26vZ_O-yX3uGCwLEoIul_fxK188Y2BOee8R31PnG-t7gN6vup6-CxuuOZo-_dbp6RAt7c7yD2xIDXZuZiesy0-3r1Bexy_8FxqoPzts6vfs7bElwkTVDye9
 212,Juven Ardine,331,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg

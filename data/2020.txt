@@ -477,7 +477,7 @@ Rank,Name,Score,Link,Avatar
 475,el-iot,73,,https://avatars.githubusercontent.com/u/29724281?v=4
 475,vstrimaitis (AoC++),73,https://github.com/vstrimaitis,https://avatars.githubusercontent.com/u/14166032?v=4
 478,Tommy Graves,72,https://github.com/TAGraves,https://avatars1.githubusercontent.com/u/2263711?v=4
-478,Thomas Collingwood,72,,https://lh4.googleusercontent.com/-OZhbLVOsw3o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmE7YUcO7_S_4vddVMyZzi73vZeDg/s96-c/photo.jpg
+478,(anonymous user #703053),72,,
 478,Sunny Guan,72,https://github.com/sunnyguan,https://avatars.githubusercontent.com/u/19920441?v=4
 478,Jace Brewster,72,,https://lh3.googleusercontent.com/a-/AOh14Gi_Wpsb97pi9frYjSChaICdkXELjMvSeRMUQvfyrg=s96-c
 482,wrCisco (AoC++),71,https://github.com/wrCisco,https://avatars.githubusercontent.com/u/9026776?v=4
