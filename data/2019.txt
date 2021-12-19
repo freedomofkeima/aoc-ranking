@@ -562,7 +562,7 @@ Rank,Name,Score,Link,Avatar
 560,isnbh0,55,,https://avatars.githubusercontent.com/u/5154439?v=4
 560,101100 (AoC++),55,https://github.com/101100,https://avatars.githubusercontent.com/u/1799685?v=4
 560,mjsir911,55,https://github.com/mjsir911,https://avatars.githubusercontent.com/u/17185986?v=4
-560,Andrey,55,,https://avatars.githubusercontent.com/u/968130?v=4
+560,Andrey,55,https://github.com/andreyrmg,https://avatars.githubusercontent.com/u/968130?v=4
 565,Just Luke,54,,https://lh3.googleusercontent.com/a-/AOh14Gjd-cxizfbw_jH8UOul_wcRo_u8CD_H3cfwraQl=s96-c
 565,hotdoglover86,54,https://github.com/hotdoglover86,https://avatars0.githubusercontent.com/u/56283269?v=4
 565,Justin Kao,54,,https://lh4.googleusercontent.com/-sHxjePimKrY/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclZdh1GwDXVtWzoEKq_ZzB_uOWQMw/s96-c/photo.jpg
