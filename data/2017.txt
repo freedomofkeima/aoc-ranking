@@ -453,7 +453,7 @@ Rank,Name,Score,Link,Avatar
 450,Galen Elias (AoC++),83,https://github.com/galenelias,https://avatars.githubusercontent.com/u/2713311?v=4
 450,Michael Krause (AoC++),83,https://github.com/mikr,https://avatars.githubusercontent.com/u/6121404?v=4
 450,Ryan Mentley (AoC++),83,https://github.com/RyanMentley,https://avatars.githubusercontent.com/u/1098741?v=4
-455,Jack Tang,82,https://github.com/jackhftang,https://avatars.githubusercontent.com/u/1190545?v=4
+455,Jack Tang,82,,https://avatars.githubusercontent.com/u/1190545?v=4
 455,(anonymous user #216902),82,,
 457,Eugene Goodrich,81,,https://lh3.googleusercontent.com/a-/AOh14Ggl3FS3LA4LmV1Xk3sq45rVNkK9ll6yB6M-XtnN=s96-c
 458,hodduc,80,https://github.com/hodduc,https://avatars2.githubusercontent.com/u/1841490?v=4
@@ -465,7 +465,7 @@ Rank,Name,Score,Link,Avatar
 464,xpfio,78,https://github.com/xpfio,https://avatars.githubusercontent.com/u/25933183?v=4
 464,Patrick Brans,78,,https://lh3.googleusercontent.com/a-/AOh14GgyoSiexER5p4n60tYxFeT-r22k36-CRAJh3MZshw=s96-c
 464,(anonymous user #188256),78,,
-467,jinchengJL,77,,https://avatars2.githubusercontent.com/u/1554216?v=4
+467,jinchengJL,77,,https://avatars.githubusercontent.com/u/1554216?v=4
 468,Burritoman53,76,,
 468,Stephen Longfield (AoC++),76,,https://lh3.googleusercontent.com/a-/AOh14Gj7QfMfCe9P18Q4bWQAgT9fJqHaFqk8P2gqP2X8sg=s96-c
 470,Moor Xu,75,,https://lh3.googleusercontent.com/-00xttRe_Uz4/AAAAAAAAAAI/AAAAAAAAAsk/lQyDeeiC4IY/photo.jpg

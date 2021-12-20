@@ -250,7 +250,7 @@ Rank,Name,Score,Link,Avatar
 246,Jinpyo Kim,213,,https://lh3.googleusercontent.com/a-/AOh14GgzJPvkrn9gb9T4-rnscWZCOSk1i4-UI2KckX4T=s96-c
 246,(anonymous user #436598),213,,
 251,messa,210,https://github.com/messa,https://avatars.githubusercontent.com/u/115487?v=4
-252,NathanClaus (AoC++),208,,https://avatars1.githubusercontent.com/u/1071530?v=4
+252,NathanClaus (AoC++),208,,https://avatars.githubusercontent.com/u/1071530?v=4
 252,Oleg Godovykh (AoC++),208,https://github.com/0legg,https://avatars.githubusercontent.com/u/2427681?v=4
 254,sguest (AoC++),205,https://github.com/sguest,https://avatars.githubusercontent.com/u/5026610?v=4
 255,1lann,201,https://github.com/1lann,https://avatars.githubusercontent.com/u/804919?v=4
