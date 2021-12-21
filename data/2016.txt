@@ -705,7 +705,7 @@ Rank,Name,Score,Link,Avatar
 701,nobbd,6,,https://avatars0.githubusercontent.com/u/5907251?v=4
 705,rafl,5,,https://avatars.githubusercontent.com/u/25669?v=4
 705,Nickolas Menezes,5,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-705,Pavle Jonoski,5,,https://lh3.googleusercontent.com/a-/AAuE7mAOADV0r4LZU97UBBv5-NlcaL0EkXWvpsuObHnp
+705,Pavle Jonoski,5,,https://lh3.googleusercontent.com/a-/AOh14GjvPj2oh1xE6S1d3zf1Q_KwHidsFkttnzQuyS6y=s96-c
 705,Allan K,5,,http://pbs.twimg.com/profile_images/65770259/1227562068700.jpg
 705,thomz12,5,,https://lh3.googleusercontent.com/a-/AOh14GjZ0RbQ1JykOhj17epS-unw_TRcCIC4tqv1IszkM2A=s96-c
 710,Michael Whitley,4,,https://lh3.googleusercontent.com/a-/AOh14GjyYNw4djwp99cw4a3uFGd2V7vbhBoxKdcr27Egq-A=s96-c

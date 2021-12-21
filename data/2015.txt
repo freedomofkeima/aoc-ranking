@@ -832,7 +832,7 @@ Rank,Name,Score,Link,Avatar
 829,Tim Huddle,36,https://github.com/kaiyote,https://avatars.githubusercontent.com/u/4969500?v=4
 829,Nick Ashley,36,https://github.com/nickashley,https://avatars.githubusercontent.com/u/449016?v=3
 829,Gil4,36,,
-834,Spicychckn,35,,https://avatars1.githubusercontent.com/u/1421210?v=4
+834,Spicychckn,35,,https://avatars.githubusercontent.com/u/1421210?v=4
 834,(anonymous user #48734),35,,
 834,gertk,35,,
 837,Pavan Nikhilesh,34,,https://lh3.googleusercontent.com/-AD5XqFWt0kU/AAAAAAAAAAI/AAAAAAAALtg/lkqD8g4yLOs/photo.jpg
