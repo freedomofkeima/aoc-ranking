@@ -405,11 +405,11 @@ Rank,Name,Score,Link,Avatar
 403,MegaAmoonguss,99,,
 405,Pedro Alvito,98,,https://lh3.googleusercontent.com/a-/AOh14GhIwMnGTM5AjSTGZwcd3Xrti7clFF-lcZELCsrYss4=s96-c
 405,ewdurbin (AoC++),98,https://github.com/ewdurbin,https://avatars3.githubusercontent.com/u/1200832?v=4
-405,Daniel Roy (AoC++),98,,https://lh6.googleusercontent.com/-F5d4r6GXS-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmz9boGlEmxqN9TwvXwuFaoqWwbaQ/s96-c/photo.jpg
+405,Daniel Roy (AoC++),98,,https://lh3.googleusercontent.com/a/AATXAJzuJ5BBsGgqY1obnWQRAlZ5OhqFaqTxC-XP33uY=s96-c
 408,Hart Sturgeon-Reed,97,,https://lh5.googleusercontent.com/--Lztc3lAOXs/AAAAAAAAAAI/AAAAAAAAFRo/gVrCbE6GS1Y/photo.jpg
 408,not-inept,97,https://github.com/not-inept,https://avatars3.githubusercontent.com/u/2974730?v=4
 408,Matt Shepcar,97,,https://lh3.googleusercontent.com/a/AATXAJx6RQw8kLQ_1uFSFavtFeoTrb6CH5GVvAbzk6sq=s96-c
-408,Patrik Simic,97,https://github.com/Patrik64,https://avatars.githubusercontent.com/u/888425?v=4
+408,Patrik Simic,97,https://github.com/patrik64,https://avatars.githubusercontent.com/u/888425?v=4
 412,(anonymous user #123814),95,,
 413,AiryShift,94,https://github.com/AiryShift,https://avatars1.githubusercontent.com/u/7923565?v=4
 414,pvande,93,,https://avatars.githubusercontent.com/u/2350?v=4

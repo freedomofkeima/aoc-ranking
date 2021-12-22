@@ -95,7 +95,7 @@ Rank,Name,Score,Link,Avatar
 94,(anonymous user #230381),746,,
 95,Unihedron (AoC++),741,https://github.com/Unihedro,https://avatars.githubusercontent.com/u/5595067?v=4
 96,aropan,737,https://github.com/aropan,https://avatars.githubusercontent.com/u/1968460?v=4
-97,Erik Amirell Eklöf,735,,https://lh3.googleusercontent.com/a/AATXAJwgn0XELYMXpKyM1vrhLpey7iZtKF4tYNfet4dzLw=s96-c
+97,Erik Amirell Eklöf,735,,https://lh3.googleusercontent.com/a-/AOh14GhC3GLnMIL_tPsaUyhujpf5cbBSQlrGDuiO29kq-Q=s96-c
 98,huzecong,733,https://github.com/huzecong,https://avatars.githubusercontent.com/u/5766101?v=4
 99,m4tx,729,https://github.com/m4tx,https://avatars.githubusercontent.com/u/3128220?v=4
 100,Tigran Saluev,723,https://github.com/Saluev,https://avatars0.githubusercontent.com/u/2435301?v=4
@@ -405,7 +405,7 @@ Rank,Name,Score,Link,Avatar
 404,Chris Philip,98,,https://avatars.githubusercontent.com/u/4066500?v=4
 405,Michael Schertenleib,97,,https://lh3.googleusercontent.com/a/AATXAJxspISwiArKWG31EGMEyy8kaY53vScHJ-Hcb3AVWQ=s96-c
 405,twattanawaroon,97,,https://avatars.githubusercontent.com/u/5386360?v=4
-407,Daniel Roy (AoC++),96,,https://lh6.googleusercontent.com/-F5d4r6GXS-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmz9boGlEmxqN9TwvXwuFaoqWwbaQ/s96-c/photo.jpg
+407,Daniel Roy (AoC++),96,,https://lh3.googleusercontent.com/a/AATXAJzuJ5BBsGgqY1obnWQRAlZ5OhqFaqTxC-XP33uY=s96-c
 408,Wojciech Rychlik,95,,https://lh3.googleusercontent.com/a-/AOh14GiKAjfQE6ybqFMU6zf2VUvSWO6FT25qOg5Qk7NT=s96-c
 408,mebeim (AoC++),95,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4
 410,zqvt,94,,
@@ -688,7 +688,7 @@ Rank,Name,Score,Link,Avatar
 682,Chokladmunk,23,,https://avatars.githubusercontent.com/u/11578056?v=4
 682,LysanderGG,23,https://github.com/LysanderGG,https://avatars.githubusercontent.com/u/677006?v=4
 689,kuhlmanngj,22,,https://avatars.githubusercontent.com/u/10100968?v=4
-689,pyelias,22,,https://avatars3.githubusercontent.com/u/23106955?v=4
+689,pyelias,22,,https://avatars.githubusercontent.com/u/23106955?v=4
 689,lewinski (AoC++),22,https://github.com/lewinski,https://avatars.githubusercontent.com/u/61409?v=4
 689,(anonymous user #434749),22,,
 689,Ben Soh,22,,https://avatars2.githubusercontent.com/u/11772455?v=4

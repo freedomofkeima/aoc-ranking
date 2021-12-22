@@ -678,7 +678,7 @@ Rank,Name,Score,Link,Avatar
 672,DSouzaM,28,,https://avatars0.githubusercontent.com/u/6363768?v=4
 672,(anonymous user #288028),28,,
 672,Maxim Kulikov (AoC++),28,https://github.com/maxlk,https://avatars1.githubusercontent.com/u/502245?v=4
-680,Daniel Roy (AoC++),27,,https://lh6.googleusercontent.com/-F5d4r6GXS-8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmz9boGlEmxqN9TwvXwuFaoqWwbaQ/s96-c/photo.jpg
+680,Daniel Roy (AoC++),27,,https://lh3.googleusercontent.com/a/AATXAJzuJ5BBsGgqY1obnWQRAlZ5OhqFaqTxC-XP33uY=s96-c
 680,HookyQR (AoC++),27,https://github.com/HookyQR,https://avatars.githubusercontent.com/u/14353068?v=4
 680,Andrei Navumenka,27,,https://lh3.googleusercontent.com/a-/AOh14GjXLkfgH1vEp1fVJq-kHwVtHskVtLYdxMNWFVZCkE4=s96-c
 680,Ante Šikić,27,,https://lh5.googleusercontent.com/-t48gvN97qAU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcCxd8xdv8hG8XhE-_02Xniv1ndgw/photo.jpg

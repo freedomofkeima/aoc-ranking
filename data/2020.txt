@@ -104,7 +104,7 @@ Rank,Name,Score,Link,Avatar
 103,jes,585,https://github.com/jes,https://avatars.githubusercontent.com/u/297425?v=4
 104,Sp3000,578,,https://lh3.googleusercontent.com/a-/AOh14Giyz4aPr3jVYLbmZMptZz0Cn0UMiG211ZROpEfe2w=s96-c
 105,ManyPinkHats,575,,http://pbs.twimg.com/profile_images/881506067963797504/6jJCCNTX.jpg
-106,Erik Amirell Eklöf,572,,https://lh3.googleusercontent.com/a/AATXAJwgn0XELYMXpKyM1vrhLpey7iZtKF4tYNfet4dzLw=s96-c
+106,Erik Amirell Eklöf,572,,https://lh3.googleusercontent.com/a-/AOh14GhC3GLnMIL_tPsaUyhujpf5cbBSQlrGDuiO29kq-Q=s96-c
 107,coolcomputery,571,https://github.com/coolcomputery,https://avatars.githubusercontent.com/u/52200199?v=4
 108,monster860,570,https://github.com/monster860,https://avatars2.githubusercontent.com/u/3681297?v=4
 109,Timothy Elling,569,,https://lh3.googleusercontent.com/a-/AOh14GjXNNjl8O7s7vAxTVKt4Iu46SqLoRMzAyeOG2qgh3U=s96-c
@@ -277,7 +277,7 @@ Rank,Name,Score,Link,Avatar
 276,Nnnes,183,https://github.com/Nnnes,https://avatars.githubusercontent.com/u/28599170?v=4
 277,(anonymous user #1149354),182,,
 277,Sean Burton,182,,https://lh5.googleusercontent.com/-fMdorsG3MCI/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckWDxm85YMhcaxKilLThYButn0QOg/s96-c/photo.jpg
-279,Nicholas Ma,181,,https://avatars.githubusercontent.com/u/3681957?v=4
+279,nicholasjma,181,https://github.com/nicholasjma,https://avatars.githubusercontent.com/u/3681957?v=4
 280,ncfavier (AoC++),180,https://github.com/ncfavier,https://avatars.githubusercontent.com/u/4323933?v=4
 281,Michael Goldwasser,178,,https://avatars.githubusercontent.com/u/3654371?v=4
 281,Tis_awesomeness,178,https://github.com/Tisawesomeness,https://avatars.githubusercontent.com/u/17386338?v=4
