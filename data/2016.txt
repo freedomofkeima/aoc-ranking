@@ -471,7 +471,7 @@ Rank,Name,Score,Link,Avatar
 470,Emil Lundberg,70,https://github.com/emlun,https://avatars.githubusercontent.com/u/1367758?v=4
 471,Jacob Mischka,69,https://github.com/jacobmischka,https://avatars.githubusercontent.com/u/3939997?v=4
 471,Jaydeep Singh,69,,https://lh3.googleusercontent.com/a/AATXAJyGsRrmyr07SYQzwkQx-6YIjeehMfowWeWg7rZ6Xg=s96-c
-471,Jamie Fraser,69,https://github.com/thejfraser,https://avatars3.githubusercontent.com/u/8804229?v=4
+471,Jamie Fraser,69,https://github.com/thejfraser,https://avatars.githubusercontent.com/u/8804229?v=4
 471,dfloer (AoC++),69,,https://avatars3.githubusercontent.com/u/2497726?v=4
 471,Paul Wicks,69,https://github.com/pwicks86,https://avatars.githubusercontent.com/u/56168?v=4
 476,Maurits van der Schee (AoC++),68,https://github.com/mevdschee,https://avatars.githubusercontent.com/u/1288217?v=4

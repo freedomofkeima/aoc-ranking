@@ -129,7 +129,7 @@ Rank,Name,Score,Link,Avatar
 128,Kevin Yap (AoC++),501,https://github.com/iKevinY,https://avatars.githubusercontent.com/u/2434728?v=4
 129,VeeArr (AoC++),500,,
 130,Ambrose Feinstein,494,,https://lh3.googleusercontent.com/a-/AOh14Ggk12tXSSI63IN_lGo-ZxN0vD_RxA6xyAtVg1rdEQ=s96-c
-131,(anonymous user #1080715),486,,
+131,drebelsky,486,,https://avatars.githubusercontent.com/u/4641927?v=4
 132,jebouin (AoC++),484,https://github.com/jebouin,https://avatars.githubusercontent.com/u/23281929?v=4
 133,(anonymous user #14124),478,,
 134,Rafał Burczyński,477,,https://lh3.googleusercontent.com/a/AATXAJwBeY4BMKaz7-niYfyAoalS-crdqjLWFb7ALTlj3Q=s96-c

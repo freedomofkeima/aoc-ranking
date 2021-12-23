@@ -234,7 +234,7 @@ Rank,Name,Score,Link,Avatar
 233,jlmcmchl,298,,
 234,(anonymous user #32268),296,,
 235,Vilsol,295,https://github.com/Vilsol,https://avatars.githubusercontent.com/u/1759390?v=4
-235,Alex Malecker,295,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
+235,Alex Malecker,295,,https://lh3.googleusercontent.com/a/AATXAJwPVK6iX_exO91_Gxw3pbabSbFNfdC65adUf1mz=s96-c
 237,(anonymous user #362),293,,
 238,marchelzo,288,,
 239,aimWithReason,286,,

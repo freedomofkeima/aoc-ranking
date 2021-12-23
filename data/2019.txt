@@ -525,7 +525,7 @@ Rank,Name,Score,Link,Avatar
 521,Kunal Marwaha (AoC++),64,https://github.com/marwahaha,https://avatars.githubusercontent.com/u/2541209?v=4
 525,cmears,63,,https://avatars.githubusercontent.com/u/955423?v=4
 526,zirkonit,62,,https://avatars1.githubusercontent.com/u/10399841?v=4
-526,rpeng,62,,https://avatars2.githubusercontent.com/u/575174?v=4
+526,rpeng,62,,https://avatars.githubusercontent.com/u/575174?v=4
 526,starfys (AoC++),62,,https://avatars2.githubusercontent.com/u/6138955?v=4
 526,Andrew Magee,62,,https://avatars3.githubusercontent.com/u/1762255?v=4
 526,Amon Al-Khatib,62,,https://avatars.githubusercontent.com/u/8504888?v=4
