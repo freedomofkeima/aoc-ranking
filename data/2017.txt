@@ -79,7 +79,7 @@ Rank,Name,Score,Link,Avatar
 78,andyleap,969,https://github.com/andyleap,https://avatars.githubusercontent.com/u/1445195?v=4
 79,kristjan (AoC++),964,https://github.com/kristjan,https://avatars0.githubusercontent.com/u/34301?v=4
 80,Jayson Zhu,943,,https://avatars3.githubusercontent.com/u/1828869?v=4
-81,Ji An Yang (AoC++),941,,https://lh4.googleusercontent.com/-AN15gk5jEHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaRkDB7QM_iOnW6HnBzGlafKLleQ/s96-c/photo.jpg
+81,Ji An Yang (AoC++),941,,https://lh3.googleusercontent.com/a/AATXAJwfag0Nk4XxpiG5ZHpTfvDKpsvaibZQDXuhMSev=s96-c
 81,Nick Frost (AoC++),941,https://github.com/nickfrostatx,https://avatars.githubusercontent.com/u/839071?v=4
 83,Ivan Kazmenko,919,,https://lh3.googleusercontent.com/a-/AAuE7mBYRvoZzDt-bXqOZQ5_O1vLqrYZ4zftKhTDJF9i
 84,okready,906,,https://avatars.githubusercontent.com/u/423952?v=4

@@ -28,7 +28,7 @@ Rank,Name,Score,Link,Avatar
 27,Peter Ruibal (AoC++),1877,https://github.com/fmoo,https://avatars1.githubusercontent.com/u/143504?v=4
 28,Brandon Zhang,1840,,https://lh3.googleusercontent.com/a-/AOh14Gj7Ts3QALUrH64Qr0GUIbTedWQN-VVK7hr-0mal=s96-c
 29,@vyrin (AoC++),1832,https://twitter.com/vyrin,http://pbs.twimg.com/profile_images/74639564/colin-goggles3.jpg
-30,Ji An Yang,1816,,https://lh4.googleusercontent.com/-AN15gk5jEHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaRkDB7QM_iOnW6HnBzGlafKLleQ/s96-c/photo.jpg
+30,Ji An Yang,1816,,https://lh3.googleusercontent.com/a/AATXAJwfag0Nk4XxpiG5ZHpTfvDKpsvaibZQDXuhMSev=s96-c
 31,Daniel Tomkins,1809,,https://lh6.googleusercontent.com/-qlfn7P6gelY/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gOiNp46_w-Te1bHO7MgvaGz2-cVg/mo/photo.jpg
 32,Igor Naverniouk (AoC++),1803,,https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c
 33,Daniel Rejment (AoC++),1727,https://github.com/rejment,https://avatars.githubusercontent.com/u/522718?v=4

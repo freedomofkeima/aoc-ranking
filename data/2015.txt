@@ -41,7 +41,7 @@ Rank,Name,Score,Link,Avatar
 40,(anonymous user #19765),1100,,
 41,asterite,1082,https://github.com/asterite,https://avatars.githubusercontent.com/u/209371?v=4
 42,orez-,1077,https://github.com/orez-,https://avatars.githubusercontent.com/u/1037028?v=4
-43,Elliott Sales de Andrade,1063,https://github.com/QuLogic,https://avatars.githubusercontent.com/u/302469?v=3
+43,Elliott Sales de Andrade,1063,https://github.com/QuLogic,https://avatars.githubusercontent.com/u/302469?v=4
 44,Caleb Robinson,1047,https://github.com/calebrob6,https://avatars.githubusercontent.com/u/1088078?v=4
 45,David Grenier,987,,https://lh4.googleusercontent.com/-ZVKoleb5SE0/AAAAAAAAAAI/AAAAAAAAAGU/cIXhAxdF5gQ/photo.jpg
 46,Stuart MacGillivray (AoC++),973,,https://lh3.googleusercontent.com/a-/AOh14Ghx-4qxz3UwVS7yD8kURwsXYhk1THoR3aXSMrhK=s96-c

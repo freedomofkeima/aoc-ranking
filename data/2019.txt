@@ -50,7 +50,7 @@ Rank,Name,Score,Link,Avatar
 49,mcpower,1310,https://twitter.com/mcpowr,http://pbs.twimg.com/profile_images/540516549035978752/uxSXOmKr.png
 50,Jouni K. Seppänen (AoC++) (Sponsor),1301,https://github.com/jkseppan,https://avatars.githubusercontent.com/u/92814?v=4
 51,Green Lightning (AoC++),1294,https://github.com/GreenLightning,https://avatars.githubusercontent.com/u/1459067?v=4
-52,grekiki,1293,,https://avatars.githubusercontent.com/u/16437969?v=4
+52,GregorKikelj,1293,https://github.com/GregorKikelj,https://avatars.githubusercontent.com/u/96022003?v=4
 53,Erik Amirell Eklöf,1282,,https://lh3.googleusercontent.com/a-/AOh14GhC3GLnMIL_tPsaUyhujpf5cbBSQlrGDuiO29kq-Q=s96-c
 54,Søren Fuglede Jørgensen,1264,https://github.com/fuglede,https://avatars.githubusercontent.com/u/6169306?v=4
 55,Joshua Wise (AoC++),1238,,https://avatars.githubusercontent.com/u/87427?v=4

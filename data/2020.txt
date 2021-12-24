@@ -183,7 +183,7 @@ Rank,Name,Score,Link,Avatar
 182,Henry Heffan,352,,https://lh6.googleusercontent.com/-eJDR9yEinGM/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucktBDAgnp75DhmeTmDUwRsLVcqDjg/s96-c/photo.jpg
 183,Golovanov399,349,,https://avatars.githubusercontent.com/u/8750641?v=4
 184,Nick Gavalas,348,https://github.com/ngavalas,https://avatars.githubusercontent.com/u/4701284?v=4
-185,grekiki,345,,https://avatars.githubusercontent.com/u/16437969?v=4
+185,GregorKikelj,345,https://github.com/GregorKikelj,https://avatars.githubusercontent.com/u/96022003?v=4
 186,ZorbaTHut,341,,
 187,Level 51,337,,https://avatars.githubusercontent.com/u/3511593?v=4
 188,maneframe (AoC++),335,,https://avatars.githubusercontent.com/u/2111401?v=4
@@ -388,7 +388,7 @@ Rank,Name,Score,Link,Avatar
 386,JuanPotato,107,https://github.com/JuanPotato,https://avatars.githubusercontent.com/u/9531780?v=4
 388,Mike Marcelais (AoC++),106,,https://lh3.googleusercontent.com/a/AATXAJzi4ajama5cuSuHwwKE3SngifyiCDxQJf9Lk9nr=s96-c
 389,Ross Dempsey,103,,https://lh6.googleusercontent.com/-cReWyYwB0eY/AAAAAAAAAAI/AAAAAAAAEyc/AMZuucnq9PL08gNsHQwoVJXqNAoFpdvTww/s96-c/photo.jpg
-389,sonata «pathétique»,103,https://github.com/sonataop13,https://avatars1.githubusercontent.com/u/66851124?v=4
+389,sonata «pathétique»,103,https://github.com/sonataop13,https://avatars.githubusercontent.com/u/66851124?v=4
 391,Stephen Longfield (AoC++),102,,https://lh3.googleusercontent.com/a-/AOh14Gj7QfMfCe9P18Q4bWQAgT9fJqHaFqk8P2gqP2X8sg=s96-c
 392,nathan-yan,101,https://github.com/nathan-yan,https://avatars.githubusercontent.com/u/23247388?v=4
 392,Gustav Kalander,101,,https://lh3.googleusercontent.com/a/AATXAJwVeES5zkWX-1Bor7NDuhnpmLec5eRochcvRplF=s96-c
@@ -502,7 +502,7 @@ Rank,Name,Score,Link,Avatar
 499,Joseph H,66,,https://lh3.googleusercontent.com/a/AATXAJw_q9GXfbyMyDWPr36msKBAs745BG0qS23XKX7F=s96-c
 499,DanilaFe,66,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
 499,travis meade,66,,https://lh3.googleusercontent.com/a-/AOh14GiPU6HSWxR8dzFuO5T3WdXF4hIPcubbfbdCfkyUpw=s96-c
-499,Adib Surani,66,https://github.com/adibsurani,https://avatars.githubusercontent.com/u/6822159?v=4
+499,Adib Surani,66,https://github.com/AdibSurani,https://avatars.githubusercontent.com/u/6822159?v=4
 505,八起,65,,https://avatars2.githubusercontent.com/u/51730465?v=4
 505,Toby Craig,65,https://github.com/tobycraig,https://avatars.githubusercontent.com/u/1301771?v=4
 505,HitchH1k3r,65,,https://avatars.githubusercontent.com/u/4319482?v=4

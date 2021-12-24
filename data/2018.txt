@@ -110,7 +110,7 @@ Rank,Name,Score,Link,Avatar
 109,Magnus Holm,643,https://github.com/judofyr,https://avatars.githubusercontent.com/u/499?v=4
 110,Green Lightning (AoC++),640,https://github.com/GreenLightning,https://avatars.githubusercontent.com/u/1459067?v=4
 111,Matthew Reeder,638,,https://lh3.googleusercontent.com/a/AATXAJyH-KqDBFeJhfjteL40iDo4-D_IIAxvJ2rOHvm8=s96-c
-112,Ji An Yang (AoC++),635,,https://lh4.googleusercontent.com/-AN15gk5jEHQ/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnaRkDB7QM_iOnW6HnBzGlafKLleQ/s96-c/photo.jpg
+112,Ji An Yang (AoC++),635,,https://lh3.googleusercontent.com/a/AATXAJwfag0Nk4XxpiG5ZHpTfvDKpsvaibZQDXuhMSev=s96-c
 113,okready,634,,https://avatars.githubusercontent.com/u/423952?v=4
 114,ecnerwala,628,https://github.com/ecnerwala,https://avatars.githubusercontent.com/u/7088371?v=4
 115,Elliott Jin (AoC++),609,,https://avatars.githubusercontent.com/u/4276679?v=4
@@ -681,7 +681,7 @@ Rank,Name,Score,Link,Avatar
 679,Chicken-Bones,24,https://github.com/Chicken-Bones,https://avatars.githubusercontent.com/u/388233?v=4
 679,slovb,24,,https://avatars.githubusercontent.com/u/14249140?v=4
 682,nevivurn,23,https://github.com/nevivurn,https://avatars.githubusercontent.com/u/7698349?v=4
-682,pbnjay,23,https://github.com/pbnjay,https://avatars1.githubusercontent.com/u/161552?v=4
+682,pbnjay,23,https://github.com/pbnjay,https://avatars.githubusercontent.com/u/161552?v=4
 682,mlc,23,https://github.com/mlc,https://avatars.githubusercontent.com/u/1211?v=4
 682,Avongard,23,,https://lh3.googleusercontent.com/a/AATXAJxmbeGjMNR6eT5tF6TDg-tNgo2isM13ftZ3ZQt8=s96-c
 682,James Jiang,23,,https://avatars.githubusercontent.com/u/35517309?v=4
