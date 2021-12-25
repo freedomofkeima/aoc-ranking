@@ -463,7 +463,7 @@ Rank,Name,Score,Link,Avatar
 460,zerowidth (AoC++),79,https://github.com/zerowidth,https://avatars.githubusercontent.com/u/3999?v=4
 460,Jess3Jane,79,https://github.com/Jess3Jane,https://avatars2.githubusercontent.com/u/4605927?v=4
 464,xpfio,78,https://github.com/xpfio,https://avatars.githubusercontent.com/u/25933183?v=4
-464,Patrick Brans,78,,https://lh3.googleusercontent.com/a-/AOh14GgyoSiexER5p4n60tYxFeT-r22k36-CRAJh3MZshw=s96-c
+464,(anonymous user #255211),78,,
 464,(anonymous user #188256),78,,
 467,jinchengJL,77,,https://avatars.githubusercontent.com/u/1554216?v=4
 468,Burritoman53,76,,

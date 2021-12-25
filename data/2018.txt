@@ -197,7 +197,7 @@ Rank,Name,Score,Link,Avatar
 196,Matt Boehm (AoC++),277,,https://lh3.googleusercontent.com/a-/AOh14Gg16To8SVmE0T_e5qyZqzL4s8OqFtt1y3bWI_H8WQ=s96-c
 197,Winston Ewert,276,,https://lh3.googleusercontent.com/a-/AOh14GhNCuG1RxsDGomnl3SE7WYCni4IAdkYYRDZEkg_VA=s96-c
 198,(anonymous user #505111),275,,
-199,Patrick Brans,268,,https://lh3.googleusercontent.com/a-/AOh14GgyoSiexER5p4n60tYxFeT-r22k36-CRAJh3MZshw=s96-c
+199,(anonymous user #255211),268,,
 199,clorton (AoC++),268,https://github.com/clorton,https://avatars.githubusercontent.com/u/10873335?v=4
 201,chun-ho,266,,https://avatars1.githubusercontent.com/u/43391726?v=4
 202,(anonymous user #390615),265,,
@@ -469,7 +469,7 @@ Rank,Name,Score,Link,Avatar
 468,Zack M. Davis,75,https://github.com/zackmdavis,https://avatars2.githubusercontent.com/u/1076988?v=4
 468,Pablo Dal Lago,75,,https://lh3.googleusercontent.com/a-/AOh14Gi29SAWntDWaVdWGVxbetJB6EwBNjSx1CHRAC_2HA=s96-c
 468,mpcowan,75,https://github.com/mpcowan,https://avatars.githubusercontent.com/u/1246035?v=4
-471,Bolivar Pereira,74,,https://lh4.googleusercontent.com/-Ia5WOYv7OYw/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3re6QoBuPsUxKGdZAOxLytDAGe9OGg/photo.jpg
+471,Bolivar Pereira,74,,https://lh3.googleusercontent.com/a/AATXAJzeWUdQwCHzJDSterWqAuuI_MwThmINUHyGLenJ=s96-c
 471,Theydidthemadlibs,74,,
 471,fnuttplus (AoC++),74,,https://avatars.githubusercontent.com/u/4671570?v=4
 474,ahinz,73,,https://avatars.githubusercontent.com/u/596798?v=4

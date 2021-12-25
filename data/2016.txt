@@ -299,7 +299,7 @@ Rank,Name,Score,Link,Avatar
 298,(anonymous user #134775),158,,
 298,Caspar Wilfred (AoC++),158,,https://lh3.googleusercontent.com/a-/AOh14Ghgb6aCFhaBvEhD15OQ85pQQb97fC1iRVHeppUvrw=s96-c
 300,tterrag,157,https://github.com/tterrag1098,https://avatars.githubusercontent.com/u/3751664?v=4
-301,baygross,156,,https://avatars1.githubusercontent.com/u/276831?v=4
+301,baygross,156,,https://avatars.githubusercontent.com/u/276831?v=4
 302,Evan Salter (AoC++),155,,https://avatars0.githubusercontent.com/u/10549733?v=4
 302,Vid Drobnič,155,https://github.com/viddrobnic,https://avatars.githubusercontent.com/u/5161200?v=4
 302,Michael Bayles,155,https://github.com/mikebayles,https://avatars.githubusercontent.com/u/3979846?v=4

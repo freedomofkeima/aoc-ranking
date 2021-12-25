@@ -467,7 +467,7 @@ Rank,Name,Score,Link,Avatar
 466,Michelle Dobbs (AoC++),76,,https://lh3.googleusercontent.com/a-/AOh14GjM-mIfOxcOcPM4VSuK-HfNwfU3GWHki1bFo6AzDg=s96-c
 467,pkasting (AoC++),75,https://github.com/pkasting,https://avatars.githubusercontent.com/u/13443095?v=4
 467,algmyr,75,https://github.com/algmyr,https://avatars.githubusercontent.com/u/15268706?v=4
-467,Gymhgy,75,https://github.com/Gymhgy,https://avatars2.githubusercontent.com/u/49801033?v=4
+467,Gymhgy,75,https://github.com/Gymhgy,https://avatars.githubusercontent.com/u/49801033?v=4
 467,Ben Frankel,75,,https://avatars1.githubusercontent.com/u/12173779?v=4
 467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a-/AOh14GjkkzcD83Crk2CDJEoN2IE53ulIyfdDMZf0OWz-IQ=s96-c
 467,pazabo,75,,https://avatars3.githubusercontent.com/u/222909?v=4
@@ -806,7 +806,7 @@ Rank,Name,Score,Link,Avatar
 803,UnderKoen (AoC++),10,https://github.com/UnderKoen,https://avatars.githubusercontent.com/u/15718297?v=4
 803,Ovidiu Firescu (AoC++),10,,https://lh3.googleusercontent.com/a-/AOh14GhbXoDP_0mjLHw-zkl8Yv3K5MEjpnchEes_jlpi=s96-c
 803,annie-qiu26,10,,https://avatars3.githubusercontent.com/u/30778029?v=4
-803,Patrick Brans,10,,https://lh3.googleusercontent.com/a-/AOh14GgyoSiexER5p4n60tYxFeT-r22k36-CRAJh3MZshw=s96-c
+803,(anonymous user #255211),10,,
 803,acpotluri,10,,https://avatars.githubusercontent.com/u/42557491?v=4
 803,Valokoodari (AoC++),10,https://github.com/Valokoodari,https://avatars.githubusercontent.com/u/28293838?v=4
 811,Artun Duman,9,,https://lh3.googleusercontent.com/-Ij3W5VLnj70/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmMSfS59nXMk-ZQNB0mYwLOk_-pyQ/s96-c/photo.jpg

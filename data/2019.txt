@@ -394,7 +394,7 @@ Rank,Name,Score,Link,Avatar
 390,stringham,114,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
 394,Joshua Berne,113,,https://lh3.googleusercontent.com/a/AATXAJy5K-Tg7XdV1zuGKcqivSR0JKRuGpGRgmKW7RjL=s96-c
 394,Maxim Kulikov,113,https://github.com/maxlk,https://avatars1.githubusercontent.com/u/502245?v=4
-396,Patrick Brans,112,,https://lh3.googleusercontent.com/a-/AOh14GgyoSiexER5p4n60tYxFeT-r22k36-CRAJh3MZshw=s96-c
+396,(anonymous user #255211),112,,
 396,elhu (AoC++),112,https://github.com/elhu,https://avatars.githubusercontent.com/u/578161?v=4
 398,AlphaKretin,111,,https://avatars.githubusercontent.com/u/20607854?v=4
 398,gogoprog,111,https://github.com/gogoprog,https://avatars.githubusercontent.com/u/1249453?v=4
