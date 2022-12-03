@@ -39,7 +39,7 @@ Rank,Name,Score,Link,Avatar
 38,Golovanov399,1442,,https://avatars.githubusercontent.com/u/8750641?v=4
 39,Oliver Ni (AoC++),1433,https://github.com/oliver-ni,https://avatars.githubusercontent.com/u/20295134?v=4
 40,Joshua Chen,1411,,https://lh3.googleusercontent.com/a/ALm5wu2uLTK_wx_vLK5XRb8GwKtVoOsWyfmfhKTy16Qs=s96-c
-41,Thai Pangsakulyanont (AoC++),1366,https://github.com/dtinth,https://avatars.githubusercontent.com/u/193136?v=4
+41,dtinth (AoC++),1366,https://github.com/dtinth,https://avatars.githubusercontent.com/u/193136?v=4
 42,peter50216,1334,https://github.com/peter50216,https://avatars.githubusercontent.com/u/891109?v=4
 43,Maxwell Zen,1322,https://github.com/MaxwellZen,https://avatars.githubusercontent.com/u/41096494?v=4
 44,arknave (AoC++),1263,https://github.com/arknave,https://avatars.githubusercontent.com/u/1834647?v=4
@@ -80,7 +80,7 @@ Rank,Name,Score,Link,Avatar
 79,Erik Szalay,829,,https://lh3.googleusercontent.com/a/ALm5wu1KbTDVQhSOBroPHMILhYQXKB8UzEoLht9LinRh=s96-c
 80,Xavier Cooney,828,,https://lh3.googleusercontent.com/a/ALm5wu3mVBXodRtpsOGt0SDreoNyAGN-yc7i_moZqHdfHw=s96-c
 81,qpwoeirut,827,https://github.com/qpwoeirut,https://avatars.githubusercontent.com/u/19750159?v=4
-82,Roman Elizarov (Sponsor),821,https://github.com/elizarov,https://avatars.githubusercontent.com/u/478679?v=4
+82,Roman Elizarov,821,https://github.com/elizarov,https://avatars.githubusercontent.com/u/478679?v=4
 83,nim-ka,816,https://github.com/nim-ka,https://avatars.githubusercontent.com/u/35317534?v=4
 84,drebelsky,810,,https://avatars.githubusercontent.com/u/4641927?v=4
 85,Max Murin,806,,https://avatars.githubusercontent.com/u/18634257?v=4
@@ -180,7 +180,7 @@ Rank,Name,Score,Link,Avatar
 178,hltk,323,https://github.com/hltk,https://avatars.githubusercontent.com/u/47699780?v=4
 178,Lukas Huwald (AoC++),323,https://github.com/vanHavel,https://avatars.githubusercontent.com/u/9655322?v=4
 181,Davis Yoshida,320,,https://lh3.googleusercontent.com/a/ALm5wu2I_3X3ndk130FUdR9M34y3T-9xgwnXk6MI_yLrRg=s96-c
-182,Clancy Woodburn,319,,https://lh3.googleusercontent.com/a-/AOh14GjkkzcD83Crk2CDJEoN2IE53ulIyfdDMZf0OWz-IQ=s96-c
+182,Clancy Woodburn,319,,https://lh3.googleusercontent.com/a/ALm5wu0f4_-rBCW0tLlEC8VrmqLLkkV3JmarPd3vihJc1Q=s96-c
 182,Jan Verbeek,319,https://github.com/blyxxyz,https://avatars.githubusercontent.com/u/15526524?v=4
 184,Talchas,318,,https://lh3.googleusercontent.com/a/ALm5wu3y3KN2DLAd1trYTgA5mwcJbHG4dRDZYJ7PAUYk=s96-c
 185,Anshuman Dash (AoC++),317,https://github.com/Anshuman-UCSB,https://avatars.githubusercontent.com/u/56092891?v=4
@@ -213,7 +213,7 @@ Rank,Name,Score,Link,Avatar
 212,(anonymous user #952277),258,,
 213,Nick Frost (AoC++),253,https://github.com/slashnick,https://avatars.githubusercontent.com/u/839071?v=4
 214,quentinmit,251,https://github.com/quentinmit,https://avatars.githubusercontent.com/u/115761?v=4
-215,Vincent Galloro,248,,https://lh3.googleusercontent.com/a/AATXAJyWNENvzSsvY6y5kg7o2HE8xVvTHhaiqqJ-DGRIZw=s96-c
+215,Vincent Galloro,248,,https://lh3.googleusercontent.com/a/ALm5wu3jeJzuLtS4zPSJZ6WCUvySa1VEu1YeIZjP_JrBBg=s96-c
 215,ElectraMiner,248,,
 217,mrkeldon,246,,https://avatars.githubusercontent.com/u/2236689?v=4
 217,Jouni K. Seppänen (AoC++) (Sponsor),246,https://github.com/jkseppan,https://avatars.githubusercontent.com/u/92814?v=4
@@ -230,7 +230,7 @@ Rank,Name,Score,Link,Avatar
 229,miriam-rittenberg,233,,https://avatars.githubusercontent.com/u/48919424?v=4
 230,a-e-k,232,https://github.com/a-e-k,https://avatars.githubusercontent.com/u/12691591?v=4
 231,sampersand,231,https://github.com/sampersand,https://avatars.githubusercontent.com/u/6655027?v=4
-232,Ivan Galakhov (AoC++),229,https://github.com/igalakhov,https://avatars.githubusercontent.com/u/25856165?v=4
+232,(anonymous user #645585) (AoC++),229,,
 232,Brian Dean,229,,https://lh3.googleusercontent.com/a/ALm5wu2_hVwPbqgSnlsIhCitVS_nEgOytOtXL6A-DcI=s96-c
 234,It's a Shill,228,,http://pbs.twimg.com/profile_images/1570682357211881474/ojnsMu0I.jpg
 235,(anonymous user #643659),227,,
@@ -375,7 +375,7 @@ Rank,Name,Score,Link,Avatar
 374,(anonymous user #434737),125,,
 374,elu00,125,https://github.com/elu00,https://avatars.githubusercontent.com/u/22760246?v=4
 374,Simon Harms,125,,https://avatars.githubusercontent.com/u/43799451?v=4
-374,Ali Zahid Raja,125,,https://lh3.googleusercontent.com/a/ALm5wu05XBZuel8o_TbAo5gndgT0kYQoVntZAPIhV6cpsA=s96-c
+374,Ali Zahid Raja,125,https://github.com/alizahidraja,https://avatars.githubusercontent.com/u/47390576?v=4
 378,MatthewPiorko,124,https://github.com/MatthewPiorko,https://avatars.githubusercontent.com/u/15164699?v=4
 379,Rebecca Chen (AoC++),123,,https://avatars.githubusercontent.com/u/4142312?v=4
 380,mimo31,122,,https://avatars.githubusercontent.com/u/5254810?v=4
@@ -512,7 +512,7 @@ Rank,Name,Score,Link,Avatar
 511,leer,79,,http://pbs.twimg.com/profile_images/1582119615047483392/q7P4LS6v.jpg
 511,(anonymous user #1808658),79,,
 513,Tristan Rasmussen,78,,https://avatars.githubusercontent.com/u/4268960?v=4
-513,Will Liang,78,https://github.com/BitLorax,https://avatars.githubusercontent.com/u/34076345?v=4
+513,Will Liang,78,https://github.com/willjhliang,https://avatars.githubusercontent.com/u/34076345?v=4
 513,Mr Ranieri,78,,https://lh3.googleusercontent.com/a/ALm5wu0WEOcbJaBT0sJZorF8Sql2EZ1pVqVxeWzejkif=s96-c
 513,Jamas Enright,78,,https://lh3.googleusercontent.com/a/ALm5wu00xfy59xeEkv0XPlAV4wMPjAQll6RS-wBjJueSYw=s96-c
 517,sievers,77,,https://avatars.githubusercontent.com/u/338830?v=4
@@ -618,13 +618,13 @@ Rank,Name,Score,Link,Avatar
 615,winderica,55,,https://avatars.githubusercontent.com/u/13536040?v=4
 615,Nicholas Tarsis,55,,https://lh3.googleusercontent.com/a/ALm5wu0fqxD4MTI4dktNwBu4gDceEe6DJXvpuvDqm6bo=s96-c
 615,Rascal_Two (AoC++),55,https://github.com/RascalTwo,https://avatars.githubusercontent.com/u/9403665?v=4
-615,Bernát Tarján,55,,https://lh3.googleusercontent.com/a-/AOh14GhqDeZn5fBm_Ecsje5m1m_ZQO6S8VcaEEffjO6j=s96-c
+615,Bernát Tarján,55,,https://lh3.googleusercontent.com/a/ALm5wu3fM0CbL4BNu-do2UDrDycThIJ0uwGDAi007avB=s96-c
 621,Kingsley Zhong,54,,https://lh3.googleusercontent.com/a-/AOh14GgxkJIbS07dqY4Ma1pyFP6fUsCMGKVSH5eeBsxhDcw=s96-c
 621,Matthias Bilger (AoC++),54,https://github.com/m42e,https://avatars.githubusercontent.com/u/2410802?v=4
 621,Nathaniel Flath,54,,https://lh3.googleusercontent.com/a/ALm5wu1ej4mjZQ1PYasB2LivLbT1nltzc2cST3IJBSpxLF4=s96-c
 621,whaatt (AoC++),54,https://github.com/whaatt,https://avatars.githubusercontent.com/u/1908002?v=4
-621,William Wang,54,,https://lh3.googleusercontent.com/a-/AOh14GjpFuXNqT_NwYxfJIugs38L-9yyrMthCbXZOLXaCg=s96-c
-621,sheern,54,https://github.com/sheern,https://avatars.githubusercontent.com/u/20442261?v=4
+621,William Wang,54,,https://lh3.googleusercontent.com/a/ALm5wu2zbEdPN3Ct2LurINJ-gUhfHhR1fyMfVm3ia206Ew=s96-c
+621,sheern,54,,https://avatars.githubusercontent.com/u/20442261?v=4
 621,Daniel Johns (AoC++),54,,https://avatars.githubusercontent.com/u/1477628?v=4
 628,(anonymous user #994411),53,,
 628,(anonymous user #1569751),53,,
@@ -642,7 +642,7 @@ Rank,Name,Score,Link,Avatar
 641,(anonymous user #1125744),50,,
 641,parthsarin,50,,https://avatars.githubusercontent.com/u/5355724?v=4
 641,johnnyapol,50,https://github.com/johnnyapol,https://avatars.githubusercontent.com/u/5902494?v=4
-641,Xiongqi ZHANG (AoC++),50,,https://lh3.googleusercontent.com/a-/AOh14GhIyduMnTgFdK5YZ5j60J-5nuzN6jFLKBdQLbBjAA=s96-c
+641,Xiongqi ZHANG (AoC++),50,,https://lh3.googleusercontent.com/a/ALm5wu1FFzdTRgFVXzQ06zJXsSwbjvqHInxibJB9xzkcyA=s96-c
 641,Kate Yu (AoC++),50,,https://avatars.githubusercontent.com/u/5981363?v=4
 646,Siddhant Attavar,49,,https://lh3.googleusercontent.com/a/AATXAJzwqRnEjUvUsZqNMj7-tkgMrVAZbyo3YbtoEG5R=s96-c
 646,UnrelatedString,49,,https://avatars.githubusercontent.com/u/33167175?v=4
@@ -650,7 +650,7 @@ Rank,Name,Score,Link,Avatar
 646,Dennis Hu,49,,https://lh3.googleusercontent.com/a/ALm5wu3u-nsTPclEngmVXUt5bi4oM7vZNCHitvGUqwP5kw=s96-c
 650,Ryan Norris,48,https://github.com/rynorris,https://avatars.githubusercontent.com/u/3620166?v=4
 650,james-seymour,48,https://github.com/james-seymour,https://avatars.githubusercontent.com/u/85882329?v=4
-650,Hafnium780,48,,https://lh3.googleusercontent.com/a/ALm5wu20fi5w412TFBahy3xlpYTXCe_rxgHWImNZY3Pk-A=s96-c
+650,Hafnium780,48,https://github.com/Hafnium780,https://avatars.githubusercontent.com/u/97712621?v=4
 650,@yllan,48,https://twitter.com/yllan,http://pbs.twimg.com/profile_images/614453401192038400/pvulZ6Qb.png
 650,Philipp Seeger,48,https://github.com/yours-truly-phil,https://avatars.githubusercontent.com/u/26274860?v=4
 655,asishm,47,https://github.com/asishm,https://avatars.githubusercontent.com/u/1978117?v=4
@@ -660,7 +660,7 @@ Rank,Name,Score,Link,Avatar
 655,Jack Frost,47,https://github.com/jackfrost168,https://avatars.githubusercontent.com/u/28755420?v=4
 660,Aquaj (AoC++),46,https://github.com/Aquaj,https://avatars.githubusercontent.com/u/2871879?v=4
 660,Leo Tenenbaum,46,,https://lh3.googleusercontent.com/a/ALm5wu1jdVQ62aTNMt6LIF_ghQsJNf4uEsMPB3JoqEyN=s96-c
-660,William Feng,46,,https://lh3.googleusercontent.com/a/ALm5wu1RAIus7uT0UZZf6UFm4WYgK2y6B4cnKkVe84gSfA=s96-c
+660,William Y. Feng,46,,https://lh3.googleusercontent.com/a/ALm5wu1RAIus7uT0UZZf6UFm4WYgK2y6B4cnKkVe84gSfA=s96-c
 660,Joseph Swernofsky,46,,https://lh3.googleusercontent.com/a/ALm5wu3QukJlq5SzhZFplol3pAoY9wW_l9BWfJRialbl=s96-c
 660,sparkyb (AoC++),46,https://github.com/sparkyb,https://avatars.githubusercontent.com/u/558826?v=4
 660,Pete Ryland (AoC++),46,,https://lh3.googleusercontent.com/a/ALm5wu20ebuo3DdiW-Yvnnf99QRc2APaS7XXkhEHGW_nvP8=s96-c
@@ -692,7 +692,7 @@ Rank,Name,Score,Link,Avatar
 691,(anonymous user #1196343),41,,
 691,Jørn Lode,41,,https://avatars.githubusercontent.com/u/639444?v=4
 691,abailey2020,41,,https://avatars.githubusercontent.com/u/32140590?v=4
-691,maneframe (AoC++),41,,https://avatars.githubusercontent.com/u/2111401?v=4
+691,maneframe (AoC++),41,https://github.com/maneframe,https://avatars.githubusercontent.com/u/2111401?v=4
 691,PiErr0r,41,https://github.com/PiErr0r,https://avatars.githubusercontent.com/u/59120142?v=4
 691,shelerr,41,,https://avatars.githubusercontent.com/u/78213268?v=4
 697,Sunny Guan,40,https://github.com/sunnyguan,https://avatars.githubusercontent.com/u/19920441?v=4
@@ -718,8 +718,8 @@ Rank,Name,Score,Link,Avatar
 716,Dustin Bigham,38,,https://avatars.githubusercontent.com/u/8650580?v=4
 716,davidhao3300,38,,https://avatars.githubusercontent.com/u/5534398?v=4
 716,tomas sumsala,38,,https://lh3.googleusercontent.com/a/ALm5wu3x-GluMVtEvRSdvPk7LJFmdQ3ryBdrlZCsPiNL=s96-c
-716,Joshi,38,,https://lh3.googleusercontent.com/a/AATXAJzijG2oGooksKrvxUKEV0QqjnIcgHf0tIeKuGBT=s96-c
-716,Adrian Kłoskowski,38,,https://avatars.githubusercontent.com/u/78383794?v=4
+716,Joshi,38,,https://lh3.googleusercontent.com/a/ALm5wu1TtZPyE2n34WFkJvu7qI2njIqIbzu-LwtlcreV=s96-c
+716,Faust VIII,38,,https://avatars.githubusercontent.com/u/78383794?v=4
 722,Enterprize1 (AoC++),37,,https://avatars.githubusercontent.com/u/807215?v=4
 722,Dima Kamalov,37,,https://lh3.googleusercontent.com/a-/AFdZucqeyQ8tr_MkDNixiJ9mDW5CgKU9N4I46483o7nUwg=s96-c
 722,MeepMoop,37,https://github.com/MeepMoop,https://avatars.githubusercontent.com/u/12115280?v=4
@@ -784,7 +784,7 @@ Rank,Name,Score,Link,Avatar
 782,Zachary Barbanell,29,,https://lh3.googleusercontent.com/a/AATXAJxzfvLMvVt-DGFbYSfps5LiU8iYLFiiH-YwyF0=s96-c
 782,Josip Igrec (AoC++),29,https://github.com/Allypost,https://avatars.githubusercontent.com/u/5151543?v=4
 782,obiwac,29,https://github.com/obiwac,https://avatars.githubusercontent.com/u/11079650?v=4
-782,meritite,29,,http://pbs.twimg.com/profile_images/754136883966283776/DlLWvnoa.jpg
+782,Jessica Yuan,29,,https://lh3.googleusercontent.com/a/ALm5wu0NlknVlNtbcZnK5WnJF5kR8kwQNkQ_6V5ulbr1=s96-c
 782,(anonymous user #387166),29,,
 782,ysfoo,29,,https://avatars.githubusercontent.com/u/48265443?v=4
 782,autid,29,,
@@ -811,7 +811,7 @@ Rank,Name,Score,Link,Avatar
 808,Cory Forsyth (AoC++),26,https://github.com/bantic,https://avatars.githubusercontent.com/u/2023?v=4
 808,(anonymous user #1707746),26,,
 808,(anonymous user #1041060),26,,
-808,Daniel Below (AoC++) (Sponsor),26,https://github.com/DanielBelow,https://avatars.githubusercontent.com/u/3450743?v=4
+808,Daniel Below (AoC++),26,https://github.com/DanielBelow,https://avatars.githubusercontent.com/u/3450743?v=4
 814,Reed Hamilton (AoC++),25,,https://avatars.githubusercontent.com/u/49345456?v=4
 814,Sanjay,25,https://github.com/sanjaykenn,https://avatars.githubusercontent.com/u/33091631?v=4
 814,Egor Kulikov (AoC++),25,,https://lh3.googleusercontent.com/a/ALm5wu1C3bB4zfEvXaNgnQuPRnmtwcGUIdsdVlV0CZ3CTw=s96-c
@@ -891,7 +891,7 @@ Rank,Name,Score,Link,Avatar
 890,(anonymous user #63186),15,,
 890,Shiven Sinha,15,,https://avatars.githubusercontent.com/u/19777714?v=4
 890,acaulfie,15,,https://avatars.githubusercontent.com/u/46384828?v=4
-890,Pavel Kunyavskiy (Sponsor),15,https://github.com/kunyavskiy,https://avatars.githubusercontent.com/u/5610819?v=4
+890,Pavel Kunyavskiy,15,https://github.com/kunyavskiy,https://avatars.githubusercontent.com/u/5610819?v=4
 890,@kizuflux,15,https://twitter.com/kizuflux,http://pbs.twimg.com/profile_images/1455781022797234179/8jemkmUB.jpg
 890,(anonymous user #1197407),15,,
 890,xivaxy,15,,https://avatars.githubusercontent.com/u/5421101?v=4
@@ -944,14 +944,14 @@ Rank,Name,Score,Link,Avatar
 943,DylanDmitri,8,,https://avatars.githubusercontent.com/u/13950346?v=4
 943,dsemi (AoC++),8,,https://avatars.githubusercontent.com/u/1354293?v=4
 943,Mizuko,8,,https://avatars.githubusercontent.com/u/768865?v=4
-943,Marko Puza,8,,https://lh3.googleusercontent.com/a-/AOh14GiH7x-wROuM11KSL9zrRukZvYOpm7u7_zYPMsLgNA=s96-c
+943,Marko Puza,8,,https://lh3.googleusercontent.com/a/ALm5wu35YEgHahXvWFcLncU6gx3xCg30sft-b2mGuNgmvQ=s96-c
 943,Dan Wood (AoC++),8,https://github.com/valtism,https://avatars.githubusercontent.com/u/1286001?v=4
 943,Quajak,8,https://github.com/quajak,https://avatars.githubusercontent.com/u/8559822?v=4
 943,Caleb (AoC++),8,,https://avatars.githubusercontent.com/u/9067780?v=4
 943,Chris Breederveld,8,,https://lh3.googleusercontent.com/a/ALm5wu3KIpL_InQSAUjEfpwY4-rTKrBodoJgMElp75h24Q=s96-c
-943,Paul Menage (AoC++),8,,https://lh3.googleusercontent.com/a-/AOh14Ghlc_2e6yF8kZqc1f7e1FnrJckbhCAUW7kW0SNuqw=s96-c
+943,Paul Menage (AoC++),8,,https://lh3.googleusercontent.com/a/ALm5wu3f2u8W14zQ_mg75L_b4vkR2Tg54XblJesJZnjGrQ=s96-c
 952,DeXtroTip (AoC++),7,https://github.com/DeXtroTip,https://avatars.githubusercontent.com/u/21011087?v=4
-952,@allymonies,7,https://twitter.com/allymonies,http://pbs.twimg.com/profile_images/1452127914460422144/8wB2A14w.png
+952,@allymonies,7,https://twitter.com/allymonies,http://pbs.twimg.com/profile_images/1553628911723900929/oqLta7xH.jpg
 952,adventofk,7,,
 952,the-glu (AoC++),7,,https://avatars.githubusercontent.com/u/4920043?v=4
 952,Richard Fearn (AoC++),7,,https://avatars.githubusercontent.com/u/277842?v=4

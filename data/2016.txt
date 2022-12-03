@@ -58,12 +58,12 @@ Rank,Name,Score,Link,Avatar
 57,Jeremy Rans (AoC++),1223,,https://lh4.googleusercontent.com/-JvAvvKWmLZM/AAAAAAAAAAI/AAAAAAAAAUE/PWEd09rHJVk/photo.jpg
 58,Roderic Day,1211,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
 59,Paige Ruten,1205,https://github.com/paigeruten,https://avatars.githubusercontent.com/u/115779?v=4
-60,wmorganjr,1186,,https://avatars1.githubusercontent.com/u/241828?v=4
+60,wmorganjr,1186,,https://avatars.githubusercontent.com/u/241828?v=4
 61,Toni Fadjukoff,1181,,https://avatars.githubusercontent.com/u/777453?v=4
 62,fnuttplus,1179,,https://avatars.githubusercontent.com/u/4671570?v=4
 63,jacekrobak,1173,,
 64,Matt Boehm,1163,,https://lh3.googleusercontent.com/a-/AOh14Gg16To8SVmE0T_e5qyZqzL4s8OqFtt1y3bWI_H8WQ=s96-c
-65,Kevin Vick (AoC++),1157,,https://lh3.googleusercontent.com/a/AATXAJy_CwnToEgkw0xg0z885R3kiJ7zy3lCSewnYm4r=s96-c
+65,Kevin Vick (AoC++),1157,,https://lh3.googleusercontent.com/a/ALm5wu2unP8V1ExAYXAwVTDo9G_mB0h1ko8XQPzV6bJN=s96-c
 66,samczsun,1146,,https://avatars0.githubusercontent.com/u/10292550?v=4
 67,Joe LeGasse (AoC++),1137,,https://avatars.githubusercontent.com/u/1391698?v=4
 68,Ben Blum,1131,,https://lh3.googleusercontent.com/a-/AOh14GirN9ZDQ4ol-o-mWLjmJE5GNW4Mv1JTNKylCBtkwA=s96-c
@@ -186,7 +186,7 @@ Rank,Name,Score,Link,Avatar
 185,(anonymous user #44119),339,,
 186,Giedrius,335,https://github.com/GiedriusM,https://avatars.githubusercontent.com/u/4882339?v=4
 186,(anonymous user #139230),335,,
-186,DUznanski,335,https://github.com/DUznanski,https://avatars3.githubusercontent.com/u/913480?v=4
+186,DUznanski,335,https://github.com/DUznanski,https://avatars.githubusercontent.com/u/913480?v=4
 189,breadknock,324,,https://avatars.githubusercontent.com/u/3431563?v=3
 190,Frank Chu (AoC++),320,,https://lh5.googleusercontent.com/-LZFeXDzsjQw/AAAAAAAAAAI/AAAAAAAAfH4/pmdv84POaJI/photo.jpg
 191,Jiayu Yi (AoC++),319,https://github.com/yi-jiayu,https://avatars.githubusercontent.com/u/11734309?v=4
@@ -367,7 +367,7 @@ Rank,Name,Score,Link,Avatar
 366,Bollie,114,https://github.com/Bolukan,https://avatars.githubusercontent.com/u/2492902?v=4
 367,asterite,113,https://github.com/asterite,https://avatars.githubusercontent.com/u/209371?v=4
 367,scottholdren,113,,https://avatars.githubusercontent.com/u/4356658?v=3
-367,Dénes Bartha,113,,https://lh3.googleusercontent.com/a-/AOh14Ghs7_DiipgdxSzMrNjyD-DKIPV8E8OGleML6xSUnjM=s96-c
+367,Dénes Bartha,113,,https://lh3.googleusercontent.com/a/ALm5wu3s5FKf61PWeUpVRui4d4XgRFRGzjo0CrtxkpquCQE=s96-c
 367,Tom Saunders,113,,https://lh3.googleusercontent.com/a/ALm5wu176WaFTGbD7f2noI6xVuAcCmCmvDQuTQVguXO_Iw=s96-c
 367,Vivan Shah (AoC++),113,,https://lh3.googleusercontent.com/a-/AOh14GgBTfQb2SYMmqf-ZUP58c8ra-vTZFTZRKHur7X9fiE=s96-c
 367,Chris Johnson,113,,https://lh3.googleusercontent.com/a/ALm5wu116XpG9vpe6YwSccqvf75Ci5GSHiDCG81BxFUTqw=s96-c
@@ -550,7 +550,7 @@ Rank,Name,Score,Link,Avatar
 545,Henk Alkema,45,,https://lh3.googleusercontent.com/-j_IXFl3oiB4/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jI-QFHcm82H2AZeyD45yQaRBfGoQ/mo/photo.jpg
 550,@Eric_Dykstra (AoC++),44,https://twitter.com/Eric_Dykstra,http://pbs.twimg.com/profile_images/1059076440501571584/zOdqJq6q.jpg
 550,J lapp,44,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-550,Daniel Eriksson,44,https://github.com/belteshassar,https://avatars2.githubusercontent.com/u/12408997?v=4
+550,Daniel Eriksson,44,https://github.com/belteshassar,https://avatars.githubusercontent.com/u/12408997?v=4
 550,niklasekstrom,44,https://github.com/niklasekstrom,https://avatars.githubusercontent.com/u/6104627?v=4
 554,thedufer,43,https://github.com/thedufer,https://avatars.githubusercontent.com/u/21338?v=4
 554,James Bannerman,43,,https://lh6.googleusercontent.com/-5dEDCFah9Gk/AAAAAAAAAAI/AAAAAAAAABE/NS77lhrpsgI/photo.jpg
@@ -580,7 +580,7 @@ Rank,Name,Score,Link,Avatar
 579,Jake Swanson (AoC++),35,,https://lh3.googleusercontent.com/a/ALm5wu2__c05k64gHGwpJYpNXNIdseQoI18IwLw7_bSeRmM=s96-c
 580,pekdon,34,,https://avatars.githubusercontent.com/u/1024486?v=3
 580,Mark Rebuck,34,,https://avatars0.githubusercontent.com/u/254760?v=4
-580,(anonymous user #59839),34,,
+580,Primož Črnigoj,34,,https://lh3.googleusercontent.com/a/ALm5wu0A2wC2_bPaeTJJ-_MAkW4x-f1dPRVTlJz-rvuxFQ=s96-c
 583,Steve Shipsey,33,https://github.com/sshipsey,https://avatars.githubusercontent.com/u/3046978?v=4
 583,askkaz,33,,https://avatars.githubusercontent.com/u/7975721?v=4
 583,klackerz,33,,
