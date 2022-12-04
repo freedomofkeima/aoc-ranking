@@ -102,7 +102,7 @@ Rank,Name,Score,Link,Avatar
 101,mingmingrr,586,,https://avatars.githubusercontent.com/u/12855406?v=4
 101,Starwort,586,https://github.com/Starwort,https://avatars.githubusercontent.com/u/16487249?v=4
 103,jes,585,https://github.com/jes,https://avatars.githubusercontent.com/u/297425?v=4
-104,Sp3000,578,,https://lh3.googleusercontent.com/a-/AOh14Giyz4aPr3jVYLbmZMptZz0Cn0UMiG211ZROpEfe2w=s96-c
+104,Sp3000,578,,https://lh3.googleusercontent.com/a/ALm5wu007MmDtvGgeWkqMZMCL2RHaQsg_dit2Ofa6YvjhA=s96-c
 105,ManyPinkHats,575,,http://pbs.twimg.com/profile_images/881506067963797504/6jJCCNTX.jpg
 106,Erik Amirell Eklöf (Eae02),572,,https://lh3.googleusercontent.com/a/ALm5wu0qL-V4AuwuixcIMt7_bX4bS_XQwRDKCECnNK_SqA=s96-c
 107,coolcomputery,571,https://github.com/coolcomputery,https://avatars.githubusercontent.com/u/52200199?v=4
@@ -224,7 +224,7 @@ Rank,Name,Score,Link,Avatar
 221,Kunal Marwaha (AoC++),255,https://github.com/marwahaha,https://avatars.githubusercontent.com/u/2541209?v=4
 224,Jason Cannon (AoC++),253,https://github.com/JasonCannon,https://avatars.githubusercontent.com/u/15912342?v=4
 224,gwillen (AoC++),253,https://github.com/gwillen,https://avatars.githubusercontent.com/u/458997?v=4
-226,Joseph Wang,251,,https://avatars1.githubusercontent.com/u/23045873?v=4
+226,Joseph Wang,251,,https://avatars.githubusercontent.com/u/23045873?v=4
 227,Gabriel C,246,,https://lh3.googleusercontent.com/a-/AOh14Giqv826KTRJmzVw0LsFM87W35NAtchJTKYJQAayqw=s96-c
 227,(anonymous user #1087784),246,,
 227,Robert Burke,246,,https://lh3.googleusercontent.com/a-/AOh14GjHEqHardfsR0y7lWTOqZZ-Yz_TpOvSMgvKSylO=s96-c
