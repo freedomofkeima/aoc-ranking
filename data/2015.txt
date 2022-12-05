@@ -90,7 +90,7 @@ Rank,Name,Score,Link,Avatar
 89,Patrick Carroll,654,,https://lh3.googleusercontent.com/a-/AOh14GgzLrmIEREjlqMvSMGGaOFsQlM9eV60LXpQEHxa
 90,RidgeX,649,https://github.com/RidgeX,https://avatars.githubusercontent.com/u/5555168?v=4
 91,@geoffcanyon,641,,http://pbs.twimg.com/profile_images/2853792786/1a4e12f9a9d4f25007568ca333aab97f.jpeg
-92,@fenomas,638,https://twitter.com/fenomas,http://pbs.twimg.com/profile_images/1214850374865014784/BbQY40Xz.png
+92,@fenomas,638,https://twitter.com/fenomas,http://pbs.twimg.com/profile_images/1367132158712639495/GPfwyo5C.jpg
 92,Arnav Sastry,638,,http://pbs.twimg.com/profile_images/580494039809695744/FzGcdE0x.jpg
 94,Peter Ruibal,637,https://github.com/fmoo,https://avatars1.githubusercontent.com/u/143504?v=4
 95,Andrey Astrelin,622,,https://lh4.googleusercontent.com/-VdcPA-9JETE/AAAAAAAAAAI/AAAAAAAAAE8/y5YL9Ozw-WQ/photo.jpg
@@ -151,7 +151,7 @@ Rank,Name,Score,Link,Avatar
 150,RotaryProphet,445,https://github.com/RotaryProphet,https://avatars.githubusercontent.com/u/13052926?v=3
 151,starfys,440,,https://avatars2.githubusercontent.com/u/6138955?v=4
 152,ns-szhang,438,,https://avatars.githubusercontent.com/u/10506518?v=3
-153,Samuel Massinon,435,,https://lh3.googleusercontent.com/a/ALm5wu2Rmxj8_97nllG60ISYlgLJ4wYu-r2__UCzBfphOI4=s96-c
+153,Samuel Massinon,435,,https://lh3.googleusercontent.com/a/AEdFTp69P6BemfZe9A0n81vUsvmMWq_msH3UxeVZ-0Yj23Y=s96-c
 154,(anonymous user #14246),432,,
 155,Evan Hertafeld,430,,https://lh3.googleusercontent.com/a-/AOh14GhYHHrY9rnFcWns8oVjumK7xYeiCiTHOt_rQH74=s96-c
 156,tehalynn,428,,
@@ -292,7 +292,7 @@ Rank,Name,Score,Link,Avatar
 287,Tony Lownds,240,,https://lh3.googleusercontent.com/a-/AAuE7mDm-YRcx6-oqyOxvjK7Q9SMRCrR9uLzHXDozGm8ag
 292,doshmajhan,238,,https://avatars0.githubusercontent.com/u/9564131?v=4
 293,deignacio,234,https://github.com/deignacio,https://avatars.githubusercontent.com/u/74839?v=4
-294,Patrick Mylund Nielsen,232,https://github.com/patrickmn,https://avatars0.githubusercontent.com/u/72885?v=4
+294,Patrick Mylund Nielsen,232,https://github.com/patrickmn,https://avatars.githubusercontent.com/u/72885?v=4
 294,RZachLamberty,232,https://github.com/RZachLamberty,https://avatars.githubusercontent.com/u/6100896?v=4
 296,JP Verkamp,231,https://github.com/jpverkamp,https://avatars.githubusercontent.com/u/100453?v=4
 296,(anonymous user #39540),231,,

@@ -203,7 +203,7 @@ Rank,Name,Score,Link,Avatar
 201,Jeremy Yap,339,https://github.com/jeremyyap,https://avatars.githubusercontent.com/u/4056819?v=4
 203,Sampriti Panda,335,https://github.com/sampritipanda,https://avatars.githubusercontent.com/u/1736001?v=4
 204,Roderic Day,334,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
-205,Chad Keever,333,,https://lh5.googleusercontent.com/-nAtysUBtyrc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckeQAiRVC6fpJZKitXSD4Nfvi4aWA/s96-c/photo.jpg
+205,Chad Keever,333,,https://lh3.googleusercontent.com/a/ALm5wu0Y7oiindW3fQZKZhQXQEV2M7u-Efl656NraA_p=s96-c
 206,jorendorff (AoC++),332,https://github.com/jorendorff,https://avatars.githubusercontent.com/u/283361?v=4
 207,Asger Hautop Drewsen (AoC++),331,https://github.com/tyilo,https://avatars.githubusercontent.com/u/568036?v=4
 208,ncfavier,330,https://github.com/ncfavier,https://avatars.githubusercontent.com/u/4323933?v=4
@@ -309,7 +309,7 @@ Rank,Name,Score,Link,Avatar
 306,jacobly0,162,,https://avatars.githubusercontent.com/u/15544577?v=4
 309,echojc,161,https://github.com/echojc,https://avatars.githubusercontent.com/u/191427?v=4
 310,Patrick Hogg (AoC++),160,https://github.com/morgoth1145,https://avatars.githubusercontent.com/u/7890416?v=4
-311,Jonathan Ho,159,,https://lh3.googleusercontent.com/a/ALm5wu0B7ZPCwdaVpAPOZY6SNc2WIZvh4209EKu26C6Tqw=s96-c
+311,Jonathan Ho,159,,https://lh3.googleusercontent.com/a/AEdFTp6hVI3_P7JLT3lXZmDD6ywg0hrBdShyZ0wNWxCKvA=s96-c
 312,David Rorex,158,,https://avatars0.githubusercontent.com/u/28933677?v=4
 312,Matt Boehm,158,,https://lh3.googleusercontent.com/a-/AOh14Gg16To8SVmE0T_e5qyZqzL4s8OqFtt1y3bWI_H8WQ=s96-c
 312,Guillaume AMBAL,158,,https://lh3.googleusercontent.com/a/ALm5wu2pjm39hh39l47fU6MiXxXviCeJj6Ug9pamHUOp=s96-c
@@ -349,7 +349,7 @@ Rank,Name,Score,Link,Avatar
 347,Laguana,141,,https://avatars.githubusercontent.com/u/4579237?v=4
 349,hgarrereyn,140,https://github.com/hgarrereyn,https://avatars3.githubusercontent.com/u/4087148?v=4
 349,Stef,140,https://github.com/stefsiekman,https://avatars.githubusercontent.com/u/3659668?v=4
-351,lthistle,139,,https://avatars.githubusercontent.com/u/26513277?v=4
+351,Luke Thistlethwaite,139,https://github.com/lthistle,https://avatars.githubusercontent.com/u/26513277?v=4
 352,jeanlorc,138,,https://avatars1.githubusercontent.com/u/34285815?v=4
 353,William Li,137,,https://lh3.googleusercontent.com/a-/AOh14GhGinU3cXXzW7_nNdzfr1qYN3MwNooINYNSlJuP7w=s96-c
 353,(anonymous user #51076),137,,
@@ -414,7 +414,7 @@ Rank,Name,Score,Link,Avatar
 411,Evan Jeffrey,106,,https://avatars.githubusercontent.com/u/1690140?v=4
 411,leer,106,,http://pbs.twimg.com/profile_images/1582119615047483392/q7P4LS6v.jpg
 411,(anonymous user #468053) (AoC++),106,,
-416,Alex Stephens,105,,https://lh3.googleusercontent.com/a/ALm5wu2NaZrfAm3eMP9Q8HlPpiQ45Gytk_oGTKk2xaKgP9M=s96-c
+416,Alex Stephens,105,,https://lh3.googleusercontent.com/a/AEdFTp7U0l2rtUqntwuODHUZtu34TBPvgrlZCmY7xeUjH1M=s96-c
 417,nvojkovic (AoC++),104,https://github.com/nvojkovic,https://avatars.githubusercontent.com/u/7647364?v=4
 417,ddlatham (AoC++),104,,https://avatars.githubusercontent.com/u/210843?v=4
 419,lewinski (AoC++),103,https://github.com/lewinski,https://avatars.githubusercontent.com/u/61409?v=4
@@ -895,7 +895,7 @@ Rank,Name,Score,Link,Avatar
 890,Noeri Huisman (AoC++),3,https://github.com/mrxz,https://avatars.githubusercontent.com/u/8823461?v=4
 890,randName,3,https://github.com/randName,https://avatars3.githubusercontent.com/u/123800?v=4
 896,Tyler Sontag,2,https://github.com/sontat,https://avatars.githubusercontent.com/u/7821721?v=4
-896,David Garber,2,,https://lh3.googleusercontent.com/a/ALm5wu0ghUFJ73XI6U_VQQFu5x1K8IK2ygX1Nittav0S=s96-c
+896,David Garber,2,,https://lh3.googleusercontent.com/a/AEdFTp56aQhpTyDFgLiOQR_ogsb6BMg52DF3DXs4Z7jD=s96-c
 896,Chris Forrence (AoC++),2,https://github.com/chrisforrence,https://avatars0.githubusercontent.com/u/1347389?v=4
 896,Olaf Tomalka,2,https://github.com/ritave,https://avatars.githubusercontent.com/u/1614945?v=4
 896,Niklas Gustavsson (AoC++),2,https://github.com/protocol7,https://avatars.githubusercontent.com/u/70944?v=4

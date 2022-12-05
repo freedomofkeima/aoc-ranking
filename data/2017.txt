@@ -238,7 +238,7 @@ Rank,Name,Score,Link,Avatar
 237,Jeffrey Considine,215,https://github.com/jconsidi,https://avatars1.githubusercontent.com/u/870970?v=4
 238,Алексей Дубровин,214,,https://lh3.googleusercontent.com/a-/AOh14GheT8zf_pcW1IKIldWI6xie2UPTxizkX2TADM_uSg=s96-c
 239,Nolan Michniewicz,211,,https://lh3.googleusercontent.com/a-/AOh14Ggzv5pYEDbl4quD-rlF1ZndesPBL19UIBQaXkC8=s96-c
-240,Gjosiah,209,,https://avatars3.githubusercontent.com/u/6678278?v=4
+240,Gjosiah,209,,https://avatars.githubusercontent.com/u/6678278?v=4
 240,Alex Crimi,209,,https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c
 240,Stephen,209,,https://avatars0.githubusercontent.com/u/1426848?v=4
 240,Joseph Laurendi,209,,https://avatars.githubusercontent.com/u/176302?v=4
@@ -818,7 +818,7 @@ Rank,Name,Score,Link,Avatar
 816,readbrent,5,,https://avatars0.githubusercontent.com/u/11006955?v=4
 816,UsmannK,5,https://github.com/UsmannK,https://avatars.githubusercontent.com/u/8558782?v=4
 819,Aman Gupta,4,,https://lh3.googleusercontent.com/a/ALm5wu2sdIYP5j6kvxSDXHNeaHeZcugm2WugQgjFr0bg=s96-c
-819,George Samidare,4,,https://lh3.googleusercontent.com/a-/AOh14GgG7dK3YnOK-V5tgHyap8V6Qyw9f1F94dIChvZQMA=s96-c
+819,George Samidare,4,,https://lh3.googleusercontent.com/a/ALm5wu1hvqE8-HDOQhg9QG-fsY0ne-i_cHwNOymUzo9g4Q=s96-c
 819,(anonymous user #227312) (AoC++),4,,
 819,Ian Collier,4,,https://lh3.googleusercontent.com/a/ALm5wu1YxyJXMHx62yaJfAA4zl7N-DbDx12fEj2c4lSn6g=s96-c
 823,usandfriends,3,https://github.com/rgajrawala,https://avatars1.githubusercontent.com/u/3241922?v=4
@@ -830,7 +830,7 @@ Rank,Name,Score,Link,Avatar
 829,pjreiniger,2,,https://avatars.githubusercontent.com/u/10381694?v=4
 829,ivceh,2,https://github.com/ivceh,https://avatars.githubusercontent.com/u/29973757?v=4
 829,Emil Tarazi,2,,https://lh3.googleusercontent.com/a/AATXAJzjFnJVk-9bGffeLYD-R25IX25PfIItsbHrHxm1ZjA=s96-c
-829,Andrew Foote,2,,https://lh3.googleusercontent.com/-DE7LRlCn9js/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jqWL5SORtBwhzgCrjr_-mXnjtTbQ/mo/photo.jpg
+829,Andrew Foote,2,,https://avatars.githubusercontent.com/u/4284488?v=4
 829,DrPizza,2,https://github.com/DrPizza,https://avatars1.githubusercontent.com/u/301404?v=4
 829,Gabriel Moita (AoC++),2,https://github.com/skakim,https://avatars3.githubusercontent.com/u/19254830?v=4
 829,Selicre,2,https://github.com/Selicre,https://avatars0.githubusercontent.com/u/33335347?v=4
