@@ -52,7 +52,7 @@ Rank,Name,Score,Link,Avatar
 51,Scott Swingle,1318,,https://lh3.googleusercontent.com/a/ALm5wu0ALyI-0KAQMPGcou8_0iS8gdukyD5YWE2s92fY-Vk=s96-c
 52,swwu,1294,,https://avatars0.githubusercontent.com/u/1035409?v=4
 53,Michael Goldwasser (AoC++),1277,,https://avatars.githubusercontent.com/u/3654371?v=4
-54,Angus Lim,1265,,https://lh3.googleusercontent.com/a/ALm5wu3a5y0ZIHqZhEaNeP4HcfBX5miKd8tdwqiHerV4Zg=s96-c
+54,Angus Lim,1265,,https://lh3.googleusercontent.com/a/AEdFTp4liyHchD2InZ0_DJFsz1O-P8UR6Q-ExzjZHlITGw=s96-c
 55,Jonathan Rupp,1241,https://github.com/jorupp,https://avatars.githubusercontent.com/u/3874909?v=4
 56,gzgreg,1235,,https://avatars.githubusercontent.com/u/6545082?v=4
 57,Anthony Nguyen,1227,https://github.com/anthonynguyen,https://avatars.githubusercontent.com/u/1484987?v=4
@@ -535,7 +535,7 @@ Rank,Name,Score,Link,Avatar
 534,(anonymous user #51989),55,,
 534,Jonathan L,55,,https://avatars0.githubusercontent.com/u/18316830?v=4
 534,Derek Dong,55,,https://lh3.googleusercontent.com/a-/AOh14GjODkR6p_N8LUiVFwFfgTvt78o5rSnTRoF4zqU2wA=s96-c
-537,Andre LeBlanc,54,,https://lh3.googleusercontent.com/a/ALm5wu2D2Sx7yJ1fM0tz81cHvAlLX-cjunQieEpZcNhB1g=s96-c
+537,Andre LeBlanc,54,,https://lh3.googleusercontent.com/a/AEdFTp6qBP1p0A0xuniwnc0U8NSrkWh62yRmivt70G2k8A=s96-c
 537,crazymerlyn,54,https://github.com/crazymerlyn,https://avatars.githubusercontent.com/u/6919679?v=4
 537,Chuck Walker,54,,https://lh3.googleusercontent.com/a-/AOh14Gj2gkdWuapM2SUz0B0m6YWfJY4kw_L6DkE23MQY=s96-c
 537,Jonas Meller,54,https://github.com/rellem,https://avatars3.githubusercontent.com/u/7540681?v=4

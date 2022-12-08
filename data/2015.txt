@@ -64,7 +64,7 @@ Rank,Name,Score,Link,Avatar
 63,Jonathan N,787,,https://lh6.googleusercontent.com/-z0zl7IoDbDo/AAAAAAAAAAI/AAAAAAAAB-c/ZCQnmcnZc9E/photo.jpg
 64,@Eric_Dykstra,785,https://twitter.com/Eric_Dykstra,http://pbs.twimg.com/profile_images/1059076440501571584/zOdqJq6q.jpg
 65,(anonymous user #44119),773,,
-66,Angus Lim,765,,https://lh3.googleusercontent.com/a/ALm5wu3a5y0ZIHqZhEaNeP4HcfBX5miKd8tdwqiHerV4Zg=s96-c
+66,Angus Lim,765,,https://lh3.googleusercontent.com/a/AEdFTp4liyHchD2InZ0_DJFsz1O-P8UR6Q-ExzjZHlITGw=s96-c
 67,Kesavan Yogeswaran,764,https://github.com/kesyog,https://avatars.githubusercontent.com/u/10927758?v=4
 68,@ReadableName,756,,http://pbs.twimg.com/profile_images/505672956169576449/z7TqHAc_.jpeg
 69,(anonymous user #31658),753,,

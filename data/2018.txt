@@ -109,7 +109,7 @@ Rank,Name,Score,Link,Avatar
 108,vash3r,653,,
 109,Magnus Holm,643,https://github.com/judofyr,https://avatars.githubusercontent.com/u/499?v=4
 110,Green Lightning (AoC++),640,https://github.com/GreenLightning,https://avatars.githubusercontent.com/u/1459067?v=4
-111,Matthew Reeder,638,,https://lh3.googleusercontent.com/a/ALm5wu1Ui3TAyX-LLdktk7I1KsWKhBg3GQHSwuqWFFCf=s96-c
+111,Matthew Reeder,638,,https://lh3.googleusercontent.com/a/AEdFTp6ihgMPrlB2HJUIr-Dx4RiTbQDfkvIK6DWErDnZ=s96-c
 112,Ji An Yang (AoC++),635,,https://lh3.googleusercontent.com/a/AATXAJwfag0Nk4XxpiG5ZHpTfvDKpsvaibZQDXuhMSev=s96-c
 113,okready,634,,https://avatars.githubusercontent.com/u/423952?v=4
 114,ecnerwala,628,https://github.com/ecnerwala,https://avatars.githubusercontent.com/u/7088371?v=4
@@ -397,7 +397,7 @@ Rank,Name,Score,Link,Avatar
 396,(anonymous user #443664),101,,
 397,Elvin Yung,100,,https://avatars0.githubusercontent.com/u/7042541?v=4
 397,Krists Boitmanis,100,,https://lh3.googleusercontent.com/-T9xJkSW_7eY/AAAAAAAAAAI/AAAAAAAAAKg/yZ4e4e7z7jY/photo.jpg
-397,Ian Adam Naval (AoC++),100,https://github.com/ianonavy,https://avatars.githubusercontent.com/u/790279?v=4
+397,Ian Ada Naval (AoC++),100,https://github.com/ianonavy,https://avatars.githubusercontent.com/u/790279?v=4
 400,LK,99,https://github.com/LK,https://avatars.githubusercontent.com/u/975916?v=4
 400,dad00de,99,,
 400,Yuriy Savchenko,99,,https://lh3.googleusercontent.com/a/ALm5wu1p7mXkL7WPthzpUTBYH1Oza8_RRa8evpljrelomho=s96-c
@@ -567,7 +567,7 @@ Rank,Name,Score,Link,Avatar
 564,Pod,47,https://github.com/JulesDT,https://avatars.githubusercontent.com/u/14008484?v=4
 564,Shane Mc Cormack (AoC++),47,https://github.com/ShaneMcC,https://avatars.githubusercontent.com/u/189723?v=4
 564,TroZ,47,https://github.com/TroZ,https://avatars0.githubusercontent.com/u/372003?v=4
-564,Paul Collins,47,,https://lh3.googleusercontent.com/a/ALm5wu2t1VRAjHvx_vM2OD9nyBK3Afg8Ic8CDBUeLUZz=s96-c
+564,Paul Collins,47,,https://lh3.googleusercontent.com/a/AEdFTp7_LAvwY57U0rNQrGcIpqEd7ta4kqlDHxc9Zqh4=s96-c
 570,Justin Le (AoC++),46,https://github.com/mstksg,https://avatars.githubusercontent.com/u/187815?v=4
 570,catminusone,46,,
 570,Jason Henline,46,,https://lh3.googleusercontent.com/a/ALm5wu0KdeZT5N1dYxR5wwEJgZRyhDs7Il2FLUVbARv4=s96-c
@@ -592,7 +592,7 @@ Rank,Name,Score,Link,Avatar
 590,Ryryme,39,,https://avatars0.githubusercontent.com/u/38364327?v=4
 590,shinincs,39,,https://avatars2.githubusercontent.com/u/45891793?v=4
 590,paiv,39,https://github.com/paiv,https://avatars.githubusercontent.com/u/196601?v=4
-590,Michael Grossfeld,39,,https://lh3.googleusercontent.com/a/ALm5wu2FMOlDGv60T0mDvCRZONg_2B3r7zCazl7aSZqHCg=s96-c
+590,Michael Grossfeld,39,,https://lh3.googleusercontent.com/a/AEdFTp4uzStsojMA912msvra6S2F9KkeCrIvtUe1BzV2aw=s96-c
 590,Harshil Shah,39,https://github.com/HarshilShah,https://avatars.githubusercontent.com/u/3503595?v=4
 596,Reilly Watson,38,https://github.com/reillywatson,https://avatars.githubusercontent.com/u/495491?v=4
 596,haaawk,38,https://github.com/haaawk,https://avatars.githubusercontent.com/u/1311149?v=4
@@ -658,7 +658,7 @@ Rank,Name,Score,Link,Avatar
 657,Cal Jacobson,27,https://github.com/cj81499,https://avatars.githubusercontent.com/u/9152032?v=4
 657,Marko Raguž,27,,https://lh6.googleusercontent.com/-BkXXyeA3smU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rc2-ljXzWbEZ_vGPYYAaWsbnqG9kQ/photo.jpg
 657,Jacob Danks,27,,https://lh3.googleusercontent.com/a/AEdFTp5ysQK6yCAcWMRxCoVdqNOCTGAbYQRAfmnA9zCx=s96-c
-657,Matt Rollins,27,,https://avatars3.githubusercontent.com/u/8635155?v=4
+657,Matt Rollins,27,,https://avatars.githubusercontent.com/u/8635155?v=4
 657,(anonymous user #388888),27,,
 657,mich101mich,27,https://github.com/mich101mich,https://avatars.githubusercontent.com/u/23530209?v=4
 657,korylprince (AoC++),27,,https://avatars.githubusercontent.com/u/559762?v=4
@@ -753,7 +753,7 @@ Rank,Name,Score,Link,Avatar
 746,ben thomas,13,,https://lh3.googleusercontent.com/a-/AAuE7mCqwLbiOy-TlTBi-6_-UutTxn1qEvGLBOMjTUr7vw
 746,SimpleJian,13,,https://avatars1.githubusercontent.com/u/5996147?v=4
 754,Julien2313 (AoC++),12,https://github.com/Julien2313,https://avatars.githubusercontent.com/u/8778771?v=4
-754,nath,12,https://github.com/nath,https://avatars1.githubusercontent.com/u/1922800?v=4
+754,nath,12,https://github.com/nath,https://avatars.githubusercontent.com/u/1922800?v=4
 754,Wunkolo,12,https://github.com/Wunkolo,https://avatars.githubusercontent.com/u/644247?v=4
 754,Joel Grus (AoC++),12,https://github.com/joelgrus,https://avatars.githubusercontent.com/u/1308313?v=4
 754,nim-ka,12,https://github.com/nim-ka,https://avatars.githubusercontent.com/u/35317534?v=4
