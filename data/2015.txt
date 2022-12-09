@@ -24,7 +24,7 @@ Rank,Name,Score,Link,Avatar
 23,Anthony Nguyen,1484,https://github.com/anthonynguyen,https://avatars.githubusercontent.com/u/1484987?v=4
 24,ethankward,1465,,https://avatars0.githubusercontent.com/u/14932247?v=4
 25,Pedro Osório,1448,,https://lh3.googleusercontent.com/a/ALm5wu15KKtevaYCAA7L29Pap14hpUIo0T2EVbbl0GyVMA=s96-c
-26,Andrey Anurin,1427,,https://lh3.googleusercontent.com/a/ALm5wu1tbWs-Q8gslp0qEFUarjklytYhMt3W1TccOHGq8b8=s96-c
+26,Andrey Anurin,1427,,https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c
 27,Ambrose Feinstein,1384,,https://lh3.googleusercontent.com/a/ALm5wu3r6DpEEHmJunRymsjSGq2OY4qElTjoPblHUbXu1g=s96-c
 28,edanaher,1356,https://github.com/edanaher,https://avatars1.githubusercontent.com/u/984691?v=4
 29,Aneurysm9 (AoC++),1331,https://github.com/Aneurysm9,https://avatars.githubusercontent.com/u/473616?v=4
@@ -115,7 +115,7 @@ Rank,Name,Score,Link,Avatar
 113,tianyi5309,539,https://github.com/tianyi5309,https://avatars.githubusercontent.com/u/12025225?v=4
 115,(anonymous user #286),535,,
 116,(anonymous user #6947),527,,
-117,Doug Orleans,526,https://github.com/dougo,https://avatars1.githubusercontent.com/u/252295?v=4
+117,Doug Orleans,526,https://github.com/dougo,https://avatars.githubusercontent.com/u/252295?v=4
 118,Keegan Carruthers-Smith,524,https://github.com/keegancsmith,https://avatars.githubusercontent.com/u/187831?v=4
 119,Ryman,518,,https://avatars.githubusercontent.com/u/994978?v=4
 120,(anonymous user #10242),517,,
@@ -559,7 +559,7 @@ Rank,Name,Score,Link,Avatar
 558,douglowder,111,,
 558,ClownMayor,111,,
 560,benjamin-jones,110,https://github.com/benjamin-jones,https://avatars.githubusercontent.com/u/1005694?v=3
-560,Georgi Georgiev,110,,https://lh3.googleusercontent.com/a/ALm5wu1HW5h-8i5XiigRJbSbQayoSpC2b_XgKKR3yPAbjQ=s96-c
+560,Georgi Georgiev,110,,https://lh3.googleusercontent.com/a/AEdFTp5gq2E57mK3tdEXkemcIViNNba2HCcqMjieZKmYWg=s96-c
 560,taylor1791,110,https://github.com/taylor1791,https://avatars0.githubusercontent.com/u/555003?v=4
 563,lazandrei19,109,,https://avatars.githubusercontent.com/u/3816519?v=4
 563,stemog,109,,
@@ -949,7 +949,7 @@ Rank,Name,Score,Link,Avatar
 948,Sergio Adrian Lagunas Pinacho,12,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 948,ch4s1ngs4nity,12,https://github.com/ch4s1ngs4nity,https://avatars.githubusercontent.com/u/12383343?v=3
 948,Evan Ackmann,12,,https://lh3.googleusercontent.com/a/AEdFTp5Fo5FD8mCMw3qFYYAk_rQk0XZ9FK3vF1ckMyKq_w=s96-c
-951,FredrikAugust,11,https://github.com/FredrikAugust,https://avatars.githubusercontent.com/u/7691547?v=4
+951,Fredrik A. Madsen-Malmo,11,https://github.com/FredrikAugust,https://avatars.githubusercontent.com/u/7691547?v=4
 951,QuadDrummer,11,,
 951,Mark Zorn,11,,https://lh3.googleusercontent.com/a/ALm5wu0Zs9-3yJIvaXRk6YScT0ylLBzqZ1ooGdODuLxSCg=s96-c
 951,jsachs,11,https://github.com/jsachs,https://avatars.githubusercontent.com/u/954072?v=3

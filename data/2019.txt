@@ -82,11 +82,11 @@ Rank,Name,Score,Link,Avatar
 81,Joel Jonsson (AoC++),899,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
 82,Kevin Wang,889,https://github.com/VitamintK,https://avatars.githubusercontent.com/u/1139798?v=4
 83,(anonymous user #402645),888,,
-84,Andrey Anurin (AoC++),879,,https://lh3.googleusercontent.com/a/ALm5wu1tbWs-Q8gslp0qEFUarjklytYhMt3W1TccOHGq8b8=s96-c
+84,Andrey Anurin (AoC++),879,,https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c
 85,katrinafyi,853,https://github.com/katrinafyi,https://avatars.githubusercontent.com/u/39479354?v=4
 86,sburuiana (AoC++),852,https://github.com/sburuiana,https://avatars.githubusercontent.com/u/17294527?v=4
 87,Michael Fogleman (AoC++),848,https://github.com/fogleman,https://avatars.githubusercontent.com/u/520208?v=4
-88,Jerry Chen,843,,https://lh3.googleusercontent.com/a-/AOh14GhM0XrbG5pAprp01DkOA8_BK-0w65vSYsOipnci=s96-c
+88,Jerry Chen,843,,https://lh3.googleusercontent.com/a/AEdFTp7brpSSD70VxWzOo9QpVSlU0qb_mvZQT-7oOsng=s96-c
 89,Lance Nathan,842,,https://avatars.githubusercontent.com/u/1123113?v=4
 90,Sahil Kochar,836,,https://lh3.googleusercontent.com/a/ALm5wu0YZcf5-CyeqvNpBd_lZTWnBsfsEn-a2XhoaLYrHg=s96-c
 91,Chris Mohr (AoC++),825,https://github.com/ChrisPMohr,https://avatars.githubusercontent.com/u/4406927?v=4
@@ -523,7 +523,7 @@ Rank,Name,Score,Link,Avatar
 521,noahiscool13,64,,https://avatars.githubusercontent.com/u/24620377?v=4
 521,Iurii Zakipnyi,64,,https://lh3.googleusercontent.com/a/ALm5wu2n0s9IPwPYK2OS1IWGLeZWlA9MTfSATjWEUAP10w=s96-c
 521,Kunal Marwaha (AoC++),64,https://github.com/marwahaha,https://avatars.githubusercontent.com/u/2541209?v=4
-525,cmears,63,,https://avatars.githubusercontent.com/u/955423?v=4
+525,cmears,63,https://github.com/cmears,https://avatars.githubusercontent.com/u/955423?v=4
 526,zirkonit,62,,https://avatars1.githubusercontent.com/u/10399841?v=4
 526,rpeng,62,,https://avatars.githubusercontent.com/u/575174?v=4
 526,starfys (AoC++),62,,https://avatars2.githubusercontent.com/u/6138955?v=4
@@ -649,7 +649,7 @@ Rank,Name,Score,Link,Avatar
 646,Matt Rollins,35,,https://avatars.githubusercontent.com/u/8635155?v=4
 646,coreymatyas,35,,https://avatars.githubusercontent.com/u/1454722?v=4
 646,Aliaksei Danchanka (AoC++),35,,https://lh3.googleusercontent.com/a/ALm5wu3jQW5ug8XtBB2DjZhMG6-JXOWxGZlFjuWn2Qyb=s96-c
-646,drrelyea,35,,https://avatars.githubusercontent.com/u/5328759?v=4
+646,drrelyea,35,https://github.com/drrelyea,https://avatars.githubusercontent.com/u/5328759?v=4
 646,Clifford Richardson,35,,https://lh3.googleusercontent.com/a/ALm5wu2n0lSvT-pu_dnESKYIvLm_-GS5DHvQ9xu9BSlYwg=s96-c
 646,fryguy1013,35,https://github.com/fryguy1013,https://avatars.githubusercontent.com/u/102023?v=4
 646,James Freeman,35,,https://avatars.githubusercontent.com/u/7484417?v=4
@@ -685,7 +685,7 @@ Rank,Name,Score,Link,Avatar
 683,grahame,31,https://github.com/grahame,https://avatars.githubusercontent.com/u/330805?v=4
 683,1lann,31,https://github.com/1lann,https://avatars.githubusercontent.com/u/804919?v=4
 683,kevinmchung,31,https://github.com/kevinmchung,https://avatars.githubusercontent.com/u/4673620?v=4
-683,Vorname Nachname,31,,https://lh3.googleusercontent.com/a/ALm5wu0LfwzMNAu1lpHYqubCZJpqUyrFQsYoR136hMv2=s96-c
+683,Vorname Nachname,31,,https://lh3.googleusercontent.com/a/AEdFTp4A4qaoCbzMK6GMNhYKZ4M5ehPA-B5nOE0lqnQI=s96-c
 683,Matthew Reishus (AoC++),31,https://github.com/mreishus,https://avatars.githubusercontent.com/u/937354?v=4
 683,narwhaler,31,,https://lh3.googleusercontent.com/a/ALm5wu0V3SD04lJSlUr0iCqbKfHUQqNGBgcJPvBQBtDb=s96-c
 683,Giacomo Stevanato,31,,https://lh3.googleusercontent.com/a/ALm5wu0CsqixyThDIMuTMCW1PdlH2XUOpD5h_JOPsVFe=s96-c
@@ -822,7 +822,7 @@ Rank,Name,Score,Link,Avatar
 817,lingxz,12,,https://avatars.githubusercontent.com/u/14090705?v=4
 817,Curtis Liu,12,,https://lh3.googleusercontent.com/a/ALm5wu099YprCol-mYX4KNOfnDdQnObUcOoJTAI_0AcqCA=s96-c
 817,Jakub Kotrs,12,,https://avatars.githubusercontent.com/u/1854431?v=4
-817,Marcelo Fornet,12,,https://avatars.githubusercontent.com/u/28708963?v=4
+817,mfornet,12,,https://avatars.githubusercontent.com/u/28708963?v=4
 817,Andreas Grapentin,12,https://github.com/oaken-source,https://avatars.githubusercontent.com/u/5459661?v=4
 817,ms-boom,12,,https://avatars.githubusercontent.com/u/14200546?v=4
 827,Bowserinator,11,,https://avatars.githubusercontent.com/u/7342352?v=4

@@ -138,9 +138,9 @@ Rank,Name,Score,Link,Avatar
 137,Erik Larsson,550,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 138,Eric Aderhold,542,,https://lh3.googleusercontent.com/a/ALm5wu3XV56_6IIg44ZoPLrjcr-hM9g7VoGZ0qrlqGiGGA=s96-c
 139,Ian Su,541,,https://avatars0.githubusercontent.com/u/1822094?v=4
-140,Andrey Anurin (AoC++),538,,https://lh3.googleusercontent.com/a/ALm5wu1tbWs-Q8gslp0qEFUarjklytYhMt3W1TccOHGq8b8=s96-c
+140,Andrey Anurin (AoC++),538,,https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c
 141,Stovoy (AoC++),534,https://github.com/Stovoy,https://avatars.githubusercontent.com/u/2256129?v=4
-142,Adam Pianka,530,https://github.com/apianka,https://avatars.githubusercontent.com/u/16678931?v=4
+142,Adam Pianka,530,,https://avatars.githubusercontent.com/u/16678931?v=4
 143,sblom,528,https://github.com/sblom,https://avatars.githubusercontent.com/u/31878?v=4
 144,Peter Norvig (AoC++),527,,https://lh4.googleusercontent.com/-tvrhmg224X4/AAAAAAAAAAI/AAAAAAAABlI/MQ6aXBzuA78/photo.jpg
 145,Lars Haulin,524,,https://lh3.googleusercontent.com/a/ALm5wu1_DykGSLvhQryVqmbgQJjHtskBiu8ICt5wIrIL=s96-c
@@ -313,7 +313,7 @@ Rank,Name,Score,Link,Avatar
 312,Twisol,150,https://github.com/Twisol,https://avatars3.githubusercontent.com/u/61392?v=4
 312,Slezak2007,150,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c
 312,Murray Edwards,150,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
-315,Georgi Georgiev,148,,https://lh3.googleusercontent.com/a/ALm5wu1HW5h-8i5XiigRJbSbQayoSpC2b_XgKKR3yPAbjQ=s96-c
+315,Georgi Georgiev,148,,https://lh3.googleusercontent.com/a/AEdFTp5gq2E57mK3tdEXkemcIViNNba2HCcqMjieZKmYWg=s96-c
 315,Sergey Sharov,148,,https://lh6.googleusercontent.com/-eTkT5Ac_TlY/AAAAAAAAAAI/AAAAAAAABQ8/IQ0WNRZyYhg/photo.jpg
 317,xSke,146,https://github.com/xSke,https://avatars.githubusercontent.com/u/16242158?v=4
 317,Kyle Lemons,146,,https://lh3.googleusercontent.com/a-/AOh14Ghu52OyEFtSH2V13rKu_adq9X_JrvL56yteR6UJa2w=s96-c
@@ -403,7 +403,7 @@ Rank,Name,Score,Link,Avatar
 402,cnr,100,https://github.com/cnr,https://avatars.githubusercontent.com/u/3586257?v=4
 403,Joel Koch,99,,https://lh3.googleusercontent.com/a/AEdFTp7mVAshLqElY731mDjDluZrNZ9cD7Tr3r-tWALu6g=s96-c
 403,MegaAmoonguss,99,,
-405,Pedro Alvito,98,,https://lh3.googleusercontent.com/a/ALm5wu2GBpjQ2v7807LoMwm41as7zIS8IxAlGPPxcUW4CUI=s96-c
+405,Pedro Alvito,98,,https://lh3.googleusercontent.com/a/AEdFTp7VuCQv4s5aaZnWsXQt8T2YJH5Ozvs-6gXXq0JLyyw=s96-c
 405,ewdurbin (AoC++),98,https://github.com/ewdurbin,https://avatars3.githubusercontent.com/u/1200832?v=4
 405,Daniel Roy (AoC++),98,,https://lh3.googleusercontent.com/a/AEdFTp6eUw7uNfMx1VmB1DtICGVEpLm6mcxWtuOeUsuk=s96-c
 408,Hart Sturgeon-Reed,97,,https://lh5.googleusercontent.com/--Lztc3lAOXs/AAAAAAAAAAI/AAAAAAAAFRo/gVrCbE6GS1Y/photo.jpg
@@ -480,7 +480,7 @@ Rank,Name,Score,Link,Avatar
 479,CCFF878,67,,
 479,Greg Littlefield,67,,https://lh4.googleusercontent.com/-4F9UFAorZZI/AAAAAAAAAAI/AAAAAAAAACo/kGigcARS37s/photo.jpg
 481,sfirrin,66,https://github.com/sfirrin,https://avatars.githubusercontent.com/u/13263282?v=3
-481,Adam Kimberlin,66,,https://lh3.googleusercontent.com/a/ALm5wu2T5L0pPwKlOtm6wfzP52UZTB7X05xv3g0vJfcDpA=s96-c
+481,Adam Kimberlin,66,,https://lh3.googleusercontent.com/a/AEdFTp6BRnPxW9T-Wt4Ja7Wp3mFU4eHCwPXzjqCZCbn09A=s96-c
 481,Ben Soh,66,,https://avatars2.githubusercontent.com/u/11772455?v=4
 481,Mason Bially,66,https://github.com/mason-bially,https://avatars.githubusercontent.com/u/1072924?v=4
 485,João Salavisa,65,,https://lh3.googleusercontent.com/a/ALm5wu2pt5xFXRHNZW4KwPRoc1zwsMY04rWFN4YVhiMLSPw=s96-c
@@ -645,7 +645,7 @@ Rank,Name,Score,Link,Avatar
 642,nullmove,17,,
 645,Ryan Widmaier (AoC++),16,,https://lh3.googleusercontent.com/a/ALm5wu05sDUVFNW9jl47mGKWpUDbOwailffP3LAdz_0r=s96-c
 645,jwoglom,16,https://github.com/jwoglom,https://avatars2.githubusercontent.com/u/192620?v=4
-647,David Tracy (AoC++),15,,https://lh3.googleusercontent.com/a/ALm5wu3eHTMwJ-nSmJ_7-xXWT2l8b_EaYRJ05aiAGZJayg=s96-c
+647,David Tracy (AoC++),15,,https://lh3.googleusercontent.com/a/AEdFTp7oUS6j7k8hfVNnpmTdnWVYj-v39HVW2pW-pYE_aQ=s96-c
 647,Anthony Nixon,15,https://github.com/AnthonyNixon,https://avatars.githubusercontent.com/u/8495667?v=4
 647,Ben Hutchings,15,,https://avatars2.githubusercontent.com/u/16938838?v=4
 647,Max Lin,15,https://github.com/MaxLinCode,https://avatars.githubusercontent.com/u/11401557?v=4
