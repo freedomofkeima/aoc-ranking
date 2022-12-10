@@ -319,7 +319,7 @@ Rank,Name,Score,Link,Avatar
 317,@keithmo,214,https://twitter.com/keithmo,http://pbs.twimg.com/profile_images/669416792268361728/ARomSMQp.jpg
 317,serges-newj,214,,https://avatars.githubusercontent.com/u/16350383?v=3
 320,Adam Proctor,213,https://github.com/aproctor,https://avatars.githubusercontent.com/u/711967?v=4
-320,Christopher Osaki,213,,https://lh3.googleusercontent.com/a/AATXAJz65aAjAI-kCAPODbbmzNSF4haaSWxO9gGPJygn=s96-c
+320,Christopher Osaki,213,,https://lh3.googleusercontent.com/a/AEdFTp7UhF59FzgJs5wtYEOqFLO5paiOWN8ApDJsypTS=s96-c
 320,Andrew Parker,213,,https://lh3.googleusercontent.com/a-/AFdZucrXg1csb5SpdX9pPj-HxHcCtxAkPHV4DvaRF041hA=s96-c
 323,Michael Berman,211,,https://lh4.googleusercontent.com/-Aa8byXw09oI/AAAAAAAAAAI/AAAAAAAAGac/1WfgBs20VfU/photo.jpg
 324,(anonymous user #339),210,,
@@ -800,7 +800,7 @@ Rank,Name,Score,Link,Avatar
 799,(anonymous user #476),43,,
 799,Christopher,43,https://github.com/Shadow6363,https://avatars.githubusercontent.com/u/70018?v=3
 799,Roger Versluis,43,https://github.com/rogerfar,https://avatars.githubusercontent.com/u/1142915?v=4
-799,Marco Beri,43,,https://lh3.googleusercontent.com/a/ALm5wu1OrL0Hz828eN6E6B_GJ4T03VWxA6hRpNvM3_-TKQ=s96-c
+799,Marco Beri,43,,https://lh3.googleusercontent.com/a/AEdFTp4CEYIZwmzX57VRT_bnYhtORc1254iI6ELtDRaMOQ=s96-c
 803,goldemerald,42,,
 803,JumpRunCatch,42,,
 803,Alexa Elliott,42,,https://lh3.googleusercontent.com/a-/AOh14Gg5Tjr-G_Mgtcl3ivZ-qi1Py0YN_72cYSGHG2vBhvg=s96-c

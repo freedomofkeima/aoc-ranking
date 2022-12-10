@@ -103,7 +103,7 @@ Rank,Name,Score,Link,Avatar
 102,AdamHerrmann,817,,https://avatars.githubusercontent.com/u/3729287?v=4
 103,Antti Haapala (AoC++),810,https://github.com/ztane,https://avatars.githubusercontent.com/u/704200?v=4
 104,Ed Fowle (AoC++),807,,https://lh3.googleusercontent.com/a-/AOh14Gjx8QyqBMvlCH2h87QdFPAtzq6hIIuOgR0YNQ6tsg=s96-c
-105,mofr,790,https://github.com/mofr,https://avatars3.githubusercontent.com/u/1718475?v=4
+105,mofr,790,https://github.com/mofr,https://avatars.githubusercontent.com/u/1718475?v=4
 106,wim glenn (AoC++),786,https://github.com/wimglenn,https://avatars.githubusercontent.com/u/6615374?v=4
 107,lukechampine,758,https://github.com/lukechampine,https://avatars.githubusercontent.com/u/3344749?v=4
 107,minno726,758,https://github.com/minno726,https://avatars.githubusercontent.com/u/1452356?v=4
@@ -146,7 +146,7 @@ Rank,Name,Score,Link,Avatar
 145,Lars Haulin,524,,https://lh3.googleusercontent.com/a/ALm5wu1_DykGSLvhQryVqmbgQJjHtskBiu8ICt5wIrIL=s96-c
 146,matthewd,513,https://github.com/matthewd,https://avatars.githubusercontent.com/u/1034?v=4
 147,jweather (AoC++),509,https://github.com/jweather,https://avatars.githubusercontent.com/u/116757?v=4
-147,Brent Yorgey,509,,https://lh3.googleusercontent.com/a/ALm5wu0D7v3Kldlbj06zfixrNe-fVjWkkXlTJ7aSzcKfLw=s96-c
+147,Brent Yorgey,509,,https://lh3.googleusercontent.com/a/AEdFTp6zNI_y4EORjT6Y_EeWsYTseo6BdvqiLgopkTwUYg=s96-c
 149,James Weinkam,505,,https://avatars.githubusercontent.com/u/22029999?v=4
 150,BhuvanB,500,,https://avatars.githubusercontent.com/u/7953101?v=3
 151,Luther Wirtz,499,,https://lh3.googleusercontent.com/a-/AOh14GjNwWbjk_2FeR4rvxmCXQWhQoIsq9YqZdj7FZKA6g=s96-c
@@ -165,7 +165,7 @@ Rank,Name,Score,Link,Avatar
 164,Max Jäger (AoC++),435,,https://lh3.googleusercontent.com/a/ALm5wu1LWuVWjCoMnibndN-M39Op1n-w3TKSLjQ-F9IAins=s96-c
 165,@fenomas,425,https://twitter.com/fenomas,http://pbs.twimg.com/profile_images/1367132158712639495/GPfwyo5C.jpg
 166,Jacob Dennerlein,408,,https://lh3.googleusercontent.com/a/ALm5wu2UsN0mwV4ZXfWIPaYiIxOjGkDtukq-53SC1Yw_sA=s96-c
-167,Julien C (AoC++),405,,https://lh3.googleusercontent.com/a/ALm5wu3XrY8fh8_SOl_H8PoS_loF4PZHSyLxcfiJ3rSptg=s96-c
+167,Julien C (AoC++),405,,https://lh3.googleusercontent.com/a/AEdFTp5ZIQD6kr11nqao83fjAP47vlAMgtBoSFrKWwKxRw=s96-c
 168,(anonymous user #148451),404,,
 169,Tom Dalling,398,https://github.com/tomdalling,https://avatars.githubusercontent.com/u/219664?v=4
 170,jorendorff (AoC++),391,https://github.com/jorendorff,https://avatars.githubusercontent.com/u/283361?v=4

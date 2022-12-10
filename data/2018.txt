@@ -355,7 +355,7 @@ Rank,Name,Score,Link,Avatar
 352,vstrimaitis (AoC++),120,https://github.com/vstrimaitis,https://avatars.githubusercontent.com/u/14166032?v=4
 355,(anonymous user #148112),118,,
 355,Caleb Robinson,118,https://github.com/calebrob6,https://avatars.githubusercontent.com/u/1088078?v=4
-357,Rich Hogg (AoC++),117,,https://lh3.googleusercontent.com/a/ALm5wu1hA3FG7e2459hUjqvIfZw0x_Wj00QCDCeGzBr8=s96-c
+357,Rich Hogg (AoC++),117,,https://lh3.googleusercontent.com/a/AEdFTp71AmpgyXxvG6GZEd2m83jg4W1nbG2TR2CNpYv2=s96-c
 357,poomrokc (AoC++),117,https://github.com/poomrokc,https://avatars3.githubusercontent.com/u/39852260?v=4
 357,Jota (AoC++),117,,http://pbs.twimg.com/profile_images/734595354763636737/c9wGu3o6.jpg
 357,Elliot Nelson,117,https://github.com/elliot-nelson,https://avatars.githubusercontent.com/u/58273?v=4

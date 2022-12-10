@@ -177,7 +177,7 @@ Rank,Name,Score,Link,Avatar
 175,Martin Camacho,348,https://github.com/mcamac,https://avatars.githubusercontent.com/u/461009?v=4
 177,(anonymous user #198392),347,,
 178,mguaypaq,342,,https://avatars.githubusercontent.com/u/928742?v=4
-179,Brent Yorgey,341,,https://lh3.googleusercontent.com/a/ALm5wu0D7v3Kldlbj06zfixrNe-fVjWkkXlTJ7aSzcKfLw=s96-c
+179,Brent Yorgey,341,,https://lh3.googleusercontent.com/a/AEdFTp6zNI_y4EORjT6Y_EeWsYTseo6BdvqiLgopkTwUYg=s96-c
 180,Ben Jones,339,https://github.com/benjones,https://avatars.githubusercontent.com/u/203206?v=4
 181,Justin Leong,338,https://github.com/omegaphoenix,https://avatars.githubusercontent.com/u/10361461?v=4
 182,Thomas R,337,,https://lh3.googleusercontent.com/a/AATXAJzUn7UbABaBCc6HZeFqky5Kyf-zh14F6aSyLKaT=s96-c
@@ -204,7 +204,7 @@ Rank,Name,Score,Link,Avatar
 203,RidgeX,284,https://github.com/RidgeX,https://avatars.githubusercontent.com/u/5555168?v=4
 204,ilg,283,https://github.com/ilg,https://avatars.githubusercontent.com/u/228228?v=4
 205,nullifiedcat,282,https://github.com/nullifiedcat,https://avatars1.githubusercontent.com/u/11466012?v=4
-206,Rich Hogg (AoC++),279,,https://lh3.googleusercontent.com/a/ALm5wu1hA3FG7e2459hUjqvIfZw0x_Wj00QCDCeGzBr8=s96-c
+206,Rich Hogg (AoC++),279,,https://lh3.googleusercontent.com/a/AEdFTp71AmpgyXxvG6GZEd2m83jg4W1nbG2TR2CNpYv2=s96-c
 206,wim glenn (AoC++),279,https://github.com/wimglenn,https://avatars.githubusercontent.com/u/6615374?v=4
 208,Abel Mengistu,278,,https://lh3.googleusercontent.com/a-/AOh14Gh8ZLmKl-db2--McdZ-Uu1WZwA-OlI1wiXvtMJUwDw=s96-c
 209,Oleg Godovykh,277,https://github.com/0legg,https://avatars.githubusercontent.com/u/2427681?v=4
@@ -577,7 +577,7 @@ Rank,Name,Score,Link,Avatar
 576,laura-yuan,46,https://github.com/laura-yuan,https://avatars1.githubusercontent.com/u/7435564?v=4
 576,cduong,46,,https://avatars1.githubusercontent.com/u/1377186?v=4
 576,JamieBodeau,46,,https://avatars0.githubusercontent.com/u/20919638?v=4
-576,casieber,46,https://github.com/casieber,https://avatars.githubusercontent.com/u/5363253?v=4
+576,Colby Sieber,46,https://github.com/casieber,https://avatars.githubusercontent.com/u/5363253?v=4
 576,(anonymous user #224385),46,,
 576,Ronald Cruz,46,,https://lh3.googleusercontent.com/a/ALm5wu08f3qedJUNe-oedOzYdCt2vEhCyhIpG0jcnpVW=s96-c
 576,Mark Swanson,46,,https://lh3.googleusercontent.com/a-/AOh14GinojkSmLKsCZ8pV04d5flyDBWTKJV-k24xVXZz0Q=s96-c
