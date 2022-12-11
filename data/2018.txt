@@ -430,7 +430,7 @@ Rank,Name,Score,Link,Avatar
 427,Frank Yellin,90,,https://lh3.googleusercontent.com/a/ALm5wu3H_Rsj02iPNxjdY3bi4ic4v3ENOG44DE-5orsF=s96-c
 430,Manuel Bucher,89,,https://avatars.githubusercontent.com/u/32333867?v=4
 430,(anonymous user #234746),89,,
-432,Erik Dyrelius (AoC++),88,,https://lh3.googleusercontent.com/a/ALm5wu0nr2UJr6A_OoKKYj_V1fYGWCxiZV1xz3hFgj35EA=s96-c
+432,Erik Dyrelius (AoC++),88,,https://lh3.googleusercontent.com/a/AEdFTp7GQ4JdATjjcblQOQr9GSIWjpy1K5Bp1DViNrLHeQ=s96-c
 432,Matthew Olsson,88,https://github.com/mattco98,https://avatars.githubusercontent.com/u/28801118?v=4
 432,u794575248,88,,
 432,freedomofkeima,88,https://github.com/freedomofkeima,https://avatars.githubusercontent.com/u/2115470?v=4

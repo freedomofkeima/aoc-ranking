@@ -763,7 +763,7 @@ Rank,Name,Score,Link,Avatar
 758,akajb84,52,https://github.com/akajb84,https://avatars0.githubusercontent.com/u/3442754?v=4
 758,theotherhand,52,,
 758,ornerylawn,52,https://github.com/ornerylawn,https://avatars2.githubusercontent.com/u/1689726?v=4
-758,Jon Palin (AoC++),52,,https://lh3.googleusercontent.com/a/ALm5wu2qdJhqtqpcGgLK-vG5wu6vloPgDeMIV6tcFnZS_A=s96-c
+758,Jon Palin (AoC++),52,,https://lh3.googleusercontent.com/a/AEdFTp49u-aJcUwWBY1ekYpzpa7-aiTXtm75RLBDM46Rmw=s96-c
 766,MonkeyBrain4U,51,,
 766,Nadav Luzzato,51,,https://lh6.googleusercontent.com/-cfWIIM_ohIo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-j06hd5GwOeSR-49Z7sinQ_ZuB9hg/mo/photo.jpg
 766,(anonymous user #10795),51,,
@@ -977,7 +977,7 @@ Rank,Name,Score,Link,Avatar
 976,mikro86000,6,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 976,(anonymous user #435),6,,
 976,Alex Haldeman,6,https://github.com/ahaldeman,https://avatars3.githubusercontent.com/u/5940385?v=4
-976,sulami,6,https://github.com/sulami,https://avatars.githubusercontent.com/u/1843193?v=4
+976,Robin Schroer,6,https://github.com/sulami,https://avatars.githubusercontent.com/u/1843193?v=4
 976,jchook,6,https://github.com/jchook,https://avatars0.githubusercontent.com/u/193530?v=4
 976,Nicholas Aelick,6,,https://lh3.googleusercontent.com/a/AATXAJy95vvB3D9UPxSO5808uv8SucZDNxlyFJz2Joeu=s96-c
 976,Andre da Rosa,6,,https://lh3.googleusercontent.com/a/ALm5wu3RGp7DfWzbzQYOBt49ojVGWI29Q3v46N5U1A39=s96-c
@@ -1007,7 +1007,7 @@ Rank,Name,Score,Link,Avatar
 1005,Corey,2,,https://avatars3.githubusercontent.com/u/1489958?v=4
 1005,Sebastian Sarbora,2,,https://avatars.githubusercontent.com/u/3442554?v=3
 1005,ryantan,2,https://github.com/ryantan,https://avatars.githubusercontent.com/u/556782?v=4
-1005,Guido Moonen,2,,https://lh3.googleusercontent.com/a/ALm5wu0Y4k7uiixF0sy46u7MJ9obELqYyPk0i65-mKIqfQ=s96-c
+1005,Guido Moonen,2,,https://lh3.googleusercontent.com/a/AEdFTp6WcCYE8RLaNBiMknbz5pudvwxmus7k496o6gXgYg=s96-c
 1005,bretik,2,,https://avatars.githubusercontent.com/u/649117?v=4
 1005,Antti Kangasrääsiö,2,,https://lh3.googleusercontent.com/-dNPFB7_Gnpw/AAAAAAAAAAI/AAAAAAAAB6w/YSjTvu3giwc/photo.jpg
 1005,Aaron Keller,2,,https://lh6.googleusercontent.com/-kWWMIFKtRag/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iF4ciNl4n0wkY6qw7dkrkjOfBN1A/mo/photo.jpg
