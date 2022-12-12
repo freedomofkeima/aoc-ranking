@@ -25,7 +25,7 @@ Rank,Name,Score,Link,Avatar
 24,ethankward,1465,,https://avatars0.githubusercontent.com/u/14932247?v=4
 25,Pedro Osório,1448,,https://lh3.googleusercontent.com/a/ALm5wu15KKtevaYCAA7L29Pap14hpUIo0T2EVbbl0GyVMA=s96-c
 26,Andrey Anurin,1427,,https://lh3.googleusercontent.com/a/AEdFTp6J19E1oTvyiMmJ8kT2NONkCwJdJFlt6rx-jR543rQ=s96-c
-27,Ambrose Feinstein,1384,,https://lh3.googleusercontent.com/a/ALm5wu3r6DpEEHmJunRymsjSGq2OY4qElTjoPblHUbXu1g=s96-c
+27,Ambrose Feinstein,1384,,https://lh3.googleusercontent.com/a/AEdFTp7vVQgCPIsAqKq5UbZDIuEoKzRkiSN-o1GC37eL2w=s96-c
 28,edanaher,1356,https://github.com/edanaher,https://avatars1.githubusercontent.com/u/984691?v=4
 29,Aneurysm9 (AoC++),1331,https://github.com/Aneurysm9,https://avatars.githubusercontent.com/u/473616?v=4
 30,Lance Nathan,1320,,https://avatars.githubusercontent.com/u/1123113?v=4
@@ -559,7 +559,7 @@ Rank,Name,Score,Link,Avatar
 558,douglowder,111,,
 558,ClownMayor,111,,
 560,benjamin-jones,110,https://github.com/benjamin-jones,https://avatars.githubusercontent.com/u/1005694?v=3
-560,Georgi Georgiev,110,,https://lh3.googleusercontent.com/a/AEdFTp5gq2E57mK3tdEXkemcIViNNba2HCcqMjieZKmYWg=s96-c
+560,Georgi Georgiev,110,https://github.com/vuryss,https://avatars.githubusercontent.com/u/7021705?v=4
 560,taylor1791,110,https://github.com/taylor1791,https://avatars0.githubusercontent.com/u/555003?v=4
 563,lazandrei19,109,,https://avatars.githubusercontent.com/u/3816519?v=4
 563,stemog,109,,

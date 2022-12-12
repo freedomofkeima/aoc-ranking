@@ -28,7 +28,7 @@ Rank,Name,Score,Link,Avatar
 27,Peter Ruibal (AoC++),1877,https://github.com/fmoo,https://avatars1.githubusercontent.com/u/143504?v=4
 28,Brandon Zhang,1840,,https://lh3.googleusercontent.com/a/ALm5wu1x16iFrM7pv8eTU7eWudq0tESp_H76pErDPAmW=s96-c
 29,Colin Liotta (AoC++),1832,,https://lh3.googleusercontent.com/a/ALm5wu0qEZgvVVEs3VCvFr6A9RUAxdMNoo6Umv28fRZj=s96-c
-30,Ji An Yang,1816,,https://lh3.googleusercontent.com/a/AATXAJwfag0Nk4XxpiG5ZHpTfvDKpsvaibZQDXuhMSev=s96-c
+30,Ji An Yang,1816,,https://lh3.googleusercontent.com/a/AEdFTp6G6D1lDR-lo_k4DLXwy2YBa1lM9bG5qls9TRSO=s96-c
 31,Daniel Tomkins,1809,,https://lh6.googleusercontent.com/-qlfn7P6gelY/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gOiNp46_w-Te1bHO7MgvaGz2-cVg/mo/photo.jpg
 32,Igor Naverniouk (AoC++),1803,,https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c
 33,Daniel Rejment (AoC++),1727,https://github.com/rejment,https://avatars.githubusercontent.com/u/522718?v=4
@@ -313,7 +313,7 @@ Rank,Name,Score,Link,Avatar
 312,Twisol,150,https://github.com/Twisol,https://avatars3.githubusercontent.com/u/61392?v=4
 312,Slezak2007,150,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c
 312,Murray Edwards,150,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
-315,Georgi Georgiev,148,,https://lh3.googleusercontent.com/a/AEdFTp5gq2E57mK3tdEXkemcIViNNba2HCcqMjieZKmYWg=s96-c
+315,Georgi Georgiev,148,https://github.com/vuryss,https://avatars.githubusercontent.com/u/7021705?v=4
 315,Sergey Sharov,148,,https://lh6.googleusercontent.com/-eTkT5Ac_TlY/AAAAAAAAAAI/AAAAAAAABQ8/IQ0WNRZyYhg/photo.jpg
 317,xSke,146,https://github.com/xSke,https://avatars.githubusercontent.com/u/16242158?v=4
 317,Kyle Lemons,146,,https://lh3.googleusercontent.com/a-/AOh14Ghu52OyEFtSH2V13rKu_adq9X_JrvL56yteR6UJa2w=s96-c
