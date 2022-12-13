@@ -270,7 +270,7 @@ Rank,Name,Score,Link,Avatar
 269,fnuttplus,255,,https://avatars.githubusercontent.com/u/4671570?v=4
 270,@jsbluethree,254,https://twitter.com/jsbluethree,http://pbs.twimg.com/profile_images/667830516641603588/Qr58sw_t.png
 270,Hugh Brown,254,https://github.com/hughdbrown,https://avatars.githubusercontent.com/u/90322?v=4
-270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/ACNPEu_vbTvRGGMX5gBbe-DWl7VN5iovbHjXKfOAHVGN5wQVBbIaQTMOcEqUG05j45a59SDXgGL5V9H7siES91K6T60NdpAwDypOOETxaAeTeEYQiEdPyyw4IHHYC-Y6-KZvuwCivEC7YigHeKINBpF3Qt
+270,Jeremiah Simmons (AoC++),254,,https://lh3.googleusercontent.com/a-/AD5-WCk8UCO6soLJoRuxsxK9aEVudbu6zB1dAWJSm9cRV56E-VDM5WDUdZXTyUiFr0RVpJCP9tH6_KtaKwxBEWTgqxT3LAeduWekeoypzJqglLQAWiMr30peh0w7rDomttN77cfkjkjEwSEsbfn1uEb6nV
 273,Slezak2007,253,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c
 274,Greg Yardley,249,https://twitter.com/gyardley,http://pbs.twimg.com/profile_images/1750122998/267395_879087035373_220356_40285022_2477836_n.jpg
 275,Evgeni-M,247,,https://avatars.githubusercontent.com/u/9858333?v=3
@@ -800,7 +800,7 @@ Rank,Name,Score,Link,Avatar
 799,(anonymous user #476),43,,
 799,Christopher,43,https://github.com/Shadow6363,https://avatars.githubusercontent.com/u/70018?v=3
 799,Roger Versluis,43,https://github.com/rogerfar,https://avatars.githubusercontent.com/u/1142915?v=4
-799,Marco Beri,43,,https://lh3.googleusercontent.com/a/AEdFTp4CEYIZwmzX57VRT_bnYhtORc1254iI6ELtDRaMOQ=s96-c
+799,Marco Beri,43,https://github.com/taifu,https://avatars.githubusercontent.com/u/115712?v=4
 803,goldemerald,42,,
 803,JumpRunCatch,42,,
 803,Alexa Elliott,42,,https://lh3.googleusercontent.com/a-/AOh14Gg5Tjr-G_Mgtcl3ivZ-qi1Py0YN_72cYSGHG2vBhvg=s96-c

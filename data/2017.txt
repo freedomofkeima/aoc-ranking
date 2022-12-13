@@ -137,7 +137,7 @@ Rank,Name,Score,Link,Avatar
 136,Nathan Shirley,499,,https://lh3.googleusercontent.com/a-/AAuE7mAoFtHMgQSPf3N8YCaJrK9aTCiAEePORj-HJf2YGg
 137,Kevin Vick,495,,https://lh3.googleusercontent.com/a/ALm5wu2unP8V1ExAYXAwVTDo9G_mB0h1ko8XQPzV6bJN=s96-c
 138,wmorganjr,492,,https://avatars.githubusercontent.com/u/241828?v=4
-139,Ben Jacobson,491,https://github.com/BenJacobson,https://avatars2.githubusercontent.com/u/16209922?v=4
+139,Ben Jacobson,491,https://github.com/BenJacobson,https://avatars.githubusercontent.com/u/16209922?v=4
 140,Joshua Wise,479,,https://avatars.githubusercontent.com/u/87427?v=4
 141,Lars Haulin,473,,https://lh3.googleusercontent.com/a/ALm5wu1_DykGSLvhQryVqmbgQJjHtskBiu8ICt5wIrIL=s96-c
 142,Konstantin Lopyrev,466,,https://lh4.googleusercontent.com/-6HzTyVFiY3k/AAAAAAAAAAI/AAAAAAAAHJg/NZ5ZHfglvp4/photo.jpg
@@ -299,7 +299,7 @@ Rank,Name,Score,Link,Avatar
 298,Manuel Darveau (AoC++),159,https://github.com/mdarveau,https://avatars3.githubusercontent.com/u/390071?v=4
 298,Becojo (AoC++),159,https://github.com/Becojo,https://avatars.githubusercontent.com/u/172889?v=4
 298,jgblight,159,,https://avatars1.githubusercontent.com/u/2576935?v=4
-298,Mike Forrest (AoC++),159,,https://lh3.googleusercontent.com/a/ALm5wu0iX79ZqVDkfHgAqE7iOCuUGLoF7MfiL7KtMp3Svg=s96-c
+298,Mike Forrest (AoC++),159,,https://lh3.googleusercontent.com/a/AEdFTp5aYXS-qu2QKddZ-jCp8MnxYBO5JqaHOSSN86sLoQ=s96-c
 302,Jan Štola,158,,https://lh3.googleusercontent.com/a/ALm5wu1peUiJP2bNlMPGP9E1FTryacLzphWrC37AgHno=s96-c
 303,aragaer,157,https://github.com/aragaer,https://avatars.githubusercontent.com/u/53614?v=4
 303,fylion (AoC++),157,,https://avatars.githubusercontent.com/u/1339326?v=4
@@ -325,7 +325,7 @@ Rank,Name,Score,Link,Avatar
 323,jleedev,139,,https://avatars.githubusercontent.com/u/23022?v=4
 323,DanilaFe,139,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
 323,deniska,139,,https://avatars.githubusercontent.com/u/97346?v=4
-327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/ACNPEu_vbTvRGGMX5gBbe-DWl7VN5iovbHjXKfOAHVGN5wQVBbIaQTMOcEqUG05j45a59SDXgGL5V9H7siES91K6T60NdpAwDypOOETxaAeTeEYQiEdPyyw4IHHYC-Y6-KZvuwCivEC7YigHeKINBpF3Qt
+327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/AD5-WCk8UCO6soLJoRuxsxK9aEVudbu6zB1dAWJSm9cRV56E-VDM5WDUdZXTyUiFr0RVpJCP9tH6_KtaKwxBEWTgqxT3LAeduWekeoypzJqglLQAWiMr30peh0w7rDomttN77cfkjkjEwSEsbfn1uEb6nV
 327,Michal Maršálek,136,,https://lh3.googleusercontent.com/a/AEdFTp5UA5GdTw1tJHPotjisvU6UAzZRMIqfefJyGr8=s96-c
 327,(anonymous user #246102),136,,
 330,Sujeet Gholap,135,,https://lh3.googleusercontent.com/a/ALm5wu3pw8N48TMCygI4g0qa7cPtaNnKJuabWAzAoVJyCTI=s96-c
