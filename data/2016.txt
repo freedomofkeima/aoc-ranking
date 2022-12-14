@@ -310,7 +310,7 @@ Rank,Name,Score,Link,Avatar
 309,Darjo Vuk (AoC++),151,,https://lh3.googleusercontent.com/a-/AOh14GhEmN8KG-L6u0_uINBAtmGZVutxvR54XG3v7HvoeQ=s96-c
 309,(anonymous user #134591),151,,
 309,akerl,151,https://github.com/akerl,https://avatars.githubusercontent.com/u/491209?v=4
-312,Twisol,150,https://github.com/Twisol,https://avatars3.githubusercontent.com/u/61392?v=4
+312,Twisol,150,https://github.com/Twisol,https://avatars.githubusercontent.com/u/61392?v=4
 312,Slezak2007,150,,https://lh3.googleusercontent.com/a-/AOh14GgTQmdkYrIhTFtu6JtG20pJ2H17yqmPRyvj3830kQ=s96-c
 312,Murray Edwards,150,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
 315,Georgi Georgiev,148,https://github.com/vuryss,https://avatars.githubusercontent.com/u/7021705?v=4
@@ -640,7 +640,7 @@ Rank,Name,Score,Link,Avatar
 638,andrepd,18,,https://avatars.githubusercontent.com/u/5490368?v=4
 638,reedspool,18,https://github.com/reedspool,https://avatars.githubusercontent.com/u/602877?v=4
 638,Adam Snyder,18,https://github.com/armsnyder,https://avatars.githubusercontent.com/u/9969202?v=4
-642,Jeremy Fritton (AoC++),17,,https://lh3.googleusercontent.com/a-/AOh14GitZp78NhYoWXQpSacY_oRRUpJx7WOCzzy68KAUgA=s96-c
+642,Jeremy Fritton (AoC++),17,,https://lh3.googleusercontent.com/a/AEdFTp66eC9V1y6o3w6HsTX2j2TmEWUwXrcH7i0Ty1n4vA=s96-c
 642,John Hossler (AoC++),17,https://github.com/jmhossler,https://avatars.githubusercontent.com/u/9029984?v=4
 642,nullmove,17,,
 645,Ryan Widmaier (AoC++),16,,https://lh3.googleusercontent.com/a/ALm5wu05sDUVFNW9jl47mGKWpUDbOwailffP3LAdz_0r=s96-c
@@ -722,5 +722,5 @@ Rank,Name,Score,Link,Avatar
 719,Marco Ippolito,1,,https://lh3.googleusercontent.com/a-/AOh14GjemmcIpQkVMpAgvhlLL3h2lk_aLqRYgnBYKYrjO0s=s96-c
 719,Robert Frånlund,1,,https://lh3.googleusercontent.com/a/ALm5wu2r8fbRSWQqVhZ1Rr_vrUHQHJo8tuKmt5QpaPAHRw=s96-c
 719,deniska,1,,https://avatars.githubusercontent.com/u/97346?v=4
-719,Bart Massey,1,,https://lh3.googleusercontent.com/a-/AOh14GirTS7G7tRGty-rzcAcqNyRvKpzGcO8liyzPzqQyA=s96-c
+719,Bart Massey,1,,https://lh3.googleusercontent.com/a/AEdFTp5_l-n4f3FlZTnkLXDgvjT1OMflzZMflpUWkcFADQ=s96-c
 719,Michael Kwan,1,,https://lh3.googleusercontent.com/a-/AOh14GjcZrCfYCdOqiASITszoJY21aVjBhI8Qf2QS1S-AA=s96-c

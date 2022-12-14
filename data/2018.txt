@@ -129,7 +129,7 @@ Rank,Name,Score,Link,Avatar
 128,stringham,544,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
 129,Tim Vermeulen (AoC++),521,https://github.com/timvermeulen,https://avatars.githubusercontent.com/u/2904179?v=4
 130,Kate Miháliková (AoC++),511,https://github.com/katemihalikova,https://avatars.githubusercontent.com/u/7225023?v=4
-131,Samu Jussila,505,,https://lh3.googleusercontent.com/a-/AOh14Gj-MuToA4DdII617DPIcDkJ-piH4x7gDcdOA0CFaA=s96-c
+131,Samu Jussila,505,,https://lh3.googleusercontent.com/a/AEdFTp5QaB8cZgnomH9ug7FuojvZtLDAZoZe_iXNy-a7rQ=s96-c
 132,sguest (AoC++),501,https://github.com/sguest,https://avatars.githubusercontent.com/u/5026610?v=4
 132,zirkonit,501,,https://avatars1.githubusercontent.com/u/10399841?v=4
 134,funnything,497,https://github.com/funnything,https://avatars0.githubusercontent.com/u/608296?v=4
@@ -349,7 +349,7 @@ Rank,Name,Score,Link,Avatar
 348,Arrain,123,https://github.com/Arrain,https://avatars.githubusercontent.com/u/25259229?v=4
 349,Ethan Morgan (AoC++),122,,https://lh3.googleusercontent.com/a-/AOh14GjY1S_6pBXdRF7lEtss2ghAqhj2-VZix51cBkDPTw=s96-c
 349,dqdt,122,,https://avatars.githubusercontent.com/u/25258252?v=4
-349,Michael Chock,122,,https://lh3.googleusercontent.com/a/ALm5wu31hrdwyf8i_uld0Nkerpup8Lhv5o18oVCTcpkBYA=s96-c
+349,Michael Chock,122,,https://lh3.googleusercontent.com/a/AEdFTp4FEgECZIDNKZGthiXzUqlGHHVNTmFG1fQqCM-2gw=s96-c
 352,Kyle Stewart,120,,https://lh4.googleusercontent.com/-FQnaDVdcPBs/AAAAAAAAAAI/AAAAAAAAAJI/R0DXlrLkkG4/photo.jpg
 352,Tyler Zhang,120,,https://avatars.githubusercontent.com/u/22255669?v=4
 352,vstrimaitis (AoC++),120,https://github.com/vstrimaitis,https://avatars.githubusercontent.com/u/14166032?v=4
@@ -389,7 +389,7 @@ Rank,Name,Score,Link,Avatar
 385,Jared Neil,103,https://github.com/JaredNeil,https://avatars.githubusercontent.com/u/1205857?v=4
 385,angus-g (AoC++),103,,https://avatars.githubusercontent.com/u/11085886?v=4
 385,SwipedRight,103,,
-385,Zachary Wade,103,,https://lh3.googleusercontent.com/a-/AAuE7mB10n9hAtuR7EQWYcAupcCRmHaofcrowICfREFVbg
+385,Zachary Wade,103,,https://lh3.googleusercontent.com/a/AEdFTp7irOjfXTmFNx_hFo6PG5wub9KwmMAGclpkZ-K-VQ=s96-c
 385,Alex Coleman,103,,https://lh3.googleusercontent.com/a-/AAuE7mCfMPR80jPQN-B7RcgCZ1pmBBTzcAOdDUe2l4oNGg
 393,A Gardner,102,,https://lh3.googleusercontent.com/-6J-a5YTwusc/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-j9Rf7-ACDWYENfbxsSV6vji49FDA/mo/photo.jpg
 393,Dave Buchfuhrer (AoC++),102,,https://lh3.googleusercontent.com/a/ALm5wu1ogJLlkj_l-QGyQPMbfzRkihLNfJaU2uW2Mr1bLVM=s96-c

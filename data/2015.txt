@@ -241,7 +241,7 @@ Rank,Name,Score,Link,Avatar
 240,Jesse Rolheiser,285,https://github.com/jrolheiser,https://avatars.githubusercontent.com/u/12201405?v=4
 240,SkyterX,285,https://github.com/SkyterX,https://avatars.githubusercontent.com/u/2210602?v=3
 242,Jake Herman,284,,https://lh3.googleusercontent.com/a/ALm5wu2M9fq2UHolzikZi1sG27LIxYP-lsM3W3TL5oM2=s96-c
-243,Paweł Pamuła,283,,https://lh3.googleusercontent.com/a/ALm5wu3pC2GR4Q48oPYQRlqOvPqdPduGmKy2sqDyz_vgWQ=s96-c
+243,Paweł Pamuła,283,,https://lh3.googleusercontent.com/a/AEdFTp5RWEfuDtYrzSTvTMKm-i1K49uKF_nbD2KAAEmfzA=s96-c
 244,Toby Scrace,281,https://github.com/Toby-S,https://avatars1.githubusercontent.com/u/3465139?v=4
 244,Jeff Till,281,,https://lh3.googleusercontent.com/a/AItbvmk-Iix_6WaDQOMlBfZmC07iuwYvT0K3ST9fCw1u=s96-c
 244,player1537,281,https://github.com/player1537,https://avatars2.githubusercontent.com/u/1215969?v=4
@@ -653,7 +653,7 @@ Rank,Name,Score,Link,Avatar
 651,Chris Toshok,80,,https://lh6.googleusercontent.com/-0xXag0LYnvI/AAAAAAAAAAI/AAAAAAAAA9Q/y7qFE8XI-68/photo.jpg
 651,Chris Indoe,80,,https://lh3.googleusercontent.com/a/AATXAJw4EI_k6y4FkjQdhedQr2iQJ0KTTx8zvI910J5Y=s96-c
 651,Jason Coutu,80,,https://lh3.googleusercontent.com/a/ALm5wu3A5DVuMxYQ2oHypW9Ujf4tO-FhWgiduFstCfURKA=s96-c
-655,Bart Massey,79,,https://lh3.googleusercontent.com/a-/AOh14GirTS7G7tRGty-rzcAcqNyRvKpzGcO8liyzPzqQyA=s96-c
+655,Bart Massey,79,,https://lh3.googleusercontent.com/a/AEdFTp5_l-n4f3FlZTnkLXDgvjT1OMflzZMflpUWkcFADQ=s96-c
 655,@callmewuest,79,https://twitter.com/callmewuest,http://pbs.twimg.com/profile_images/829278623597215744/IGP4r9No.jpg
 655,hdtx,79,https://github.com/hdtx,https://avatars.githubusercontent.com/u/3110180?v=4
 655,guosim,79,,
@@ -746,7 +746,7 @@ Rank,Name,Score,Link,Avatar
 742,@fernomac,56,,http://pbs.twimg.com/profile_images/632171536724561920/q3r5KV5s.jpg
 742,ykechan,56,,
 742,Jonathan Stein,56,,https://lh3.googleusercontent.com/a/ALm5wu1_eg6nzADYPGlzqjYC0bf9OMgpnC_d3KCiyZma=s96-c
-748,ScottSedgwick,55,https://github.com/ScottSedgwick,https://avatars.githubusercontent.com/u/2062043?v=4
+748,Scott Sedgwick,55,https://github.com/ScottSedgwick,https://avatars.githubusercontent.com/u/2062043?v=4
 748,Dane Smith (c1pherx),55,,https://lh5.googleusercontent.com/-e1aOpPbEA8s/AAAAAAAAAAI/AAAAAAAABPs/9ZI7_KnK1WQ/photo.jpg
 748,Sean Handley,55,https://github.com/seanhandley,https://avatars.githubusercontent.com/u/98526?v=4
 751,(anonymous user #447),53,,

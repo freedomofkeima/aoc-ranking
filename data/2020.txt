@@ -67,7 +67,7 @@ Rank,Name,Score,Link,Avatar
 66,Alex Quach (AoC++),875,,https://lh3.googleusercontent.com/a-/AOh14Gh4GE5Qcc4QItVeM_WMUNnPndaawp0VkHeHfYc8jnE=s96-c
 67,(anonymous user #44119),874,,
 68,Søren Fuglede Jørgensen (AoC++),856,https://github.com/fuglede,https://avatars.githubusercontent.com/u/6169306?v=4
-69,LegionMammal978,851,,https://avatars.githubusercontent.com/u/7880963?v=4
+69,LegionMammal978,851,https://github.com/LegionMammal978,https://avatars.githubusercontent.com/u/7880963?v=4
 70,msg555,823,,https://avatars.githubusercontent.com/u/771072?v=4
 71,Pandu Rendradjaja (AoC++),821,https://github.com/prendradjaja,https://avatars.githubusercontent.com/u/3111845?v=4
 72,Jimmy Mårdell (AoC++) (Sponsor),811,,https://lh3.googleusercontent.com/a/ALm5wu2tM6FJsT1SlksLe-4MHqBXZ6jNUyjmdRKtaplcAKE=s96-c
@@ -302,7 +302,7 @@ Rank,Name,Score,Link,Avatar
 300,RedwolfPrograms,162,https://github.com/Radvylf,https://avatars.githubusercontent.com/u/42220798?v=4
 300,abailey2020,162,,https://avatars.githubusercontent.com/u/32140590?v=4
 303,stringham,161,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
-304,tjleing,158,,https://avatars.githubusercontent.com/u/9170787?v=4
+304,tjleing,158,https://github.com/tjleing,https://avatars.githubusercontent.com/u/9170787?v=4
 304,(anonymous user #1123667),158,,
 306,Kroppeb (AoC++),157,https://github.com/Kroppeb,https://avatars.githubusercontent.com/u/7889478?v=4
 307,Danny Lin,156,https://github.com/kdrag0n,https://avatars.githubusercontent.com/u/7930239?v=4
@@ -582,7 +582,7 @@ Rank,Name,Score,Link,Avatar
 579,esusalla,45,,https://avatars.githubusercontent.com/u/17637700?v=4
 582,Eliot Partridge (AoC++),44,https://github.com/BytewaveMLP,https://avatars.githubusercontent.com/u/5623770?v=4
 582,Lukas Froehlich,44,,https://lh3.googleusercontent.com/a-/AOh14Gjcwhb_7U0dGjpuLgpTwqKYdceAKN8mnU3OhS76=s96-c
-582,Luka Kalinovcic,44,,https://lh3.googleusercontent.com/a/ALm5wu2-l4mHO9DmPGvNGoWQ0mhOKQRuDGG1IiWPJKK2WA=s96-c
+582,Luka Kalinovcic,44,,https://lh3.googleusercontent.com/a/AEdFTp7izHj4FQDuPIPy1kTZnyuk7y0UWYf6QH6UBgTYeQ=s96-c
 582,Ben Artin,44,,https://avatars1.githubusercontent.com/u/1645207?v=4
 586,CTF-BLAHAJ,43,https://github.com/CTF-BLAHAJ,https://avatars.githubusercontent.com/u/66535860?v=4
 586,Bailey Parker,43,https://github.com/baileyparker,https://avatars.githubusercontent.com/u/7943649?v=4

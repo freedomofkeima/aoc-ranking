@@ -130,7 +130,7 @@ Rank,Name,Score,Link,Avatar
 129,Joe LeGasse (AoC++),536,,https://avatars.githubusercontent.com/u/1391698?v=4
 130,JKillian,534,https://github.com/jkillian,https://avatars.githubusercontent.com/u/1400151?v=4
 131,Aneurysm9 (AoC++),523,https://github.com/Aneurysm9,https://avatars.githubusercontent.com/u/473616?v=4
-132,Michael Chock,521,,https://lh3.googleusercontent.com/a/ALm5wu31hrdwyf8i_uld0Nkerpup8Lhv5o18oVCTcpkBYA=s96-c
+132,Michael Chock,521,,https://lh3.googleusercontent.com/a/AEdFTp4FEgECZIDNKZGthiXzUqlGHHVNTmFG1fQqCM-2gw=s96-c
 133,Cameron Aavik (AoC++),504,https://github.com/CameronAavik,https://avatars.githubusercontent.com/u/5800980?v=4
 134,Augustin Wenger,503,,https://lh3.googleusercontent.com/a/ALm5wu14BcjbWyMIngcwfj440THf3UfdR3bPt9QkdE04iA=s96-c
 135,Cody Ebberson (AoC++),500,https://github.com/codyebberson,https://avatars.githubusercontent.com/u/749094?v=4
@@ -190,7 +190,7 @@ Rank,Name,Score,Link,Avatar
 189,LK,322,https://github.com/LK,https://avatars.githubusercontent.com/u/975916?v=4
 190,Eli Skeggs (AoC++),321,https://github.com/skeggse,https://avatars.githubusercontent.com/u/1348991?v=4
 190,Joel Jonsson (AoC++),321,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
-192,tjleing,319,,https://avatars.githubusercontent.com/u/9170787?v=4
+192,tjleing,319,https://github.com/tjleing,https://avatars.githubusercontent.com/u/9170787?v=4
 192,jamie (AoC++),319,https://github.com/jamie,https://avatars.githubusercontent.com/u/1093?v=4
 194,dan-simon,317,,https://avatars.githubusercontent.com/u/20461551?v=4
 195,malisper,316,https://github.com/malisper,https://avatars.githubusercontent.com/u/6210567?v=4
@@ -770,7 +770,7 @@ Rank,Name,Score,Link,Avatar
 766,(anonymous user #193488),11,,
 766,Peter Steiwer,11,https://github.com/psteiwer,https://avatars.githubusercontent.com/u/24307254?v=4
 766,Josh Stone (AoC++),11,https://github.com/cuviper,https://avatars.githubusercontent.com/u/36186?v=4
-772,dyniec,10,,https://avatars1.githubusercontent.com/u/7108963?v=4
+772,dyniec,10,,https://avatars.githubusercontent.com/u/7108963?v=4
 772,Jean-Michel MORANI,10,,https://lh3.googleusercontent.com/a/ALm5wu26SPz_bhHcbmK7JRdnZlKZ_L6lvbs5c8q8ZKno=s96-c
 772,JNRowe,10,https://github.com/JNRowe,https://avatars2.githubusercontent.com/u/61381?v=4
 772,(anonymous user #264793),10,,
