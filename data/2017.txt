@@ -243,7 +243,7 @@ Rank,Name,Score,Link,Avatar
 240,Stephen,209,,https://avatars0.githubusercontent.com/u/1426848?v=4
 240,Joseph Laurendi,209,,https://avatars.githubusercontent.com/u/176302?v=4
 244,Jon Staryuk (AoC++),208,https://github.com/jonstaryuk,https://avatars.githubusercontent.com/u/4214270?v=4
-244,Maxim Buzdalov,208,,https://avatars.githubusercontent.com/u/7038557?v=4
+244,Maxim Buzdalov,208,https://github.com/mbuzdalov,https://avatars.githubusercontent.com/u/7038557?v=4
 246,Merlin Katz,207,,https://lh3.googleusercontent.com/a-/AOh14GiNIYA8gGQZoR8iTPiZ9qfBOgnELrjr3x7zci377Q=s96-c
 247,Pavel Egorov,205,https://github.com/xoposhiy,https://avatars.githubusercontent.com/u/856752?v=4
 248,Dan Katz,203,,https://lh3.googleusercontent.com/a/ALm5wu2TbkklwpnQQCmEBpSDWxsj-du-MKEHOUEjUhQZFQ=s96-c

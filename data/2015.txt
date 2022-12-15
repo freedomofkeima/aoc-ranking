@@ -215,7 +215,7 @@ Rank,Name,Score,Link,Avatar
 213,Drew Buck,328,,https://lh3.googleusercontent.com/a/ALm5wu30ZdEdTJPq821UW5cN0dDtSqz3CXaPolcBXpQKFQ=s96-c
 215,tomtheisen,324,https://github.com/tomtheisen,https://avatars.githubusercontent.com/u/2049910?v=4
 215,Jacob Young,324,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-217,rossengeorgiev,321,https://github.com/rossengeorgiev,https://avatars.githubusercontent.com/u/2720787?v=4
+217,Rossen,321,,https://avatars.githubusercontent.com/u/2720787?v=4
 218,Jaroslaw Sadziński,320,,https://lh3.googleusercontent.com/a/AATXAJzVRTJvAJO3Z3aqGEu_mDXBT1z5EE8Hk2_iYbew=s96-c
 219,Kevin Lawler,319,https://github.com/kevinlawler,https://avatars.githubusercontent.com/u/376238?v=3
 220,Piotr Piatkowski,318,,https://lh3.googleusercontent.com/-9cnV8icQPno/AAAAAAAAAAI/AAAAAAAAAAA/F_lkr90wzec/photo.jpg
@@ -638,7 +638,7 @@ Rank,Name,Score,Link,Avatar
 635,(anonymous user #9356),84,,
 635,crazyguyonabike,84,https://github.com/crazyguyonabike,https://avatars.githubusercontent.com/u/648128?v=4
 635,(anonymous user #18445),84,,
-635,cryptonaut,84,,https://avatars2.githubusercontent.com/u/5925468?v=4
+635,cryptonaut,84,,https://avatars.githubusercontent.com/u/5925468?v=4
 635,Moris Zucca,84,,https://lh3.googleusercontent.com/a/ALm5wu2ZG4v5U5DXo-I0-m0MizbuRduni3aw8F3O3EsMMQ=s96-c
 642,spoage,83,https://github.com/spoage,https://avatars.githubusercontent.com/u/1179135?v=3
 642,clhuang,83,,https://avatars2.githubusercontent.com/u/1694228?v=4
