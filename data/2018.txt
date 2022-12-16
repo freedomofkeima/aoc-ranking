@@ -61,7 +61,7 @@ Rank,Name,Score,Link,Avatar
 60,tianyi5309,1048,https://github.com/tianyi5309,https://avatars.githubusercontent.com/u/12025225?v=4
 61,Jim Zhang,1022,,https://lh3.googleusercontent.com/a-/AOh14GgxodaQSu3Ia5bM__UwqzhbCEn9tRsdoJQVh9utxw=s96-c
 62,Michael Goldwasser (AoC++),1021,,https://avatars.githubusercontent.com/u/3654371?v=4
-63,Andrew Skalski,1015,,https://lh3.googleusercontent.com/a/ALm5wu24wSMw5MvDDl7DX_y8qYh6EsxxPWzOpct16Uw=s96-c
+63,Andrew Skalski,1015,,https://lh3.googleusercontent.com/a/AEdFTp6VeZclcsMslLDDFCnGLqKHEGvAYZbuE621K24=s96-c
 64,glguy (AoC++),1006,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
 65,dtinth (AoC++),982,https://github.com/dtinth,https://avatars.githubusercontent.com/u/193136?v=4
 66,Rafał Burczyński,975,,https://lh3.googleusercontent.com/a/AATXAJwBeY4BMKaz7-niYfyAoalS-crdqjLWFb7ALTlj3Q=s96-c
@@ -403,7 +403,7 @@ Rank,Name,Score,Link,Avatar
 400,Yuriy Savchenko,99,,https://lh3.googleusercontent.com/a/ALm5wu1p7mXkL7WPthzpUTBYH1Oza8_RRa8evpljrelomho=s96-c
 400,mastercs999,99,https://github.com/mastercs999,https://avatars1.githubusercontent.com/u/9317357?v=4
 404,Chris Philip,98,,https://avatars.githubusercontent.com/u/4066500?v=4
-405,Michael Schertenleib,97,,https://lh3.googleusercontent.com/a/ALm5wu299i-U6oIrUTRi5zL61-TJqgwTHe0G-Yu2b6yJ9Q=s96-c
+405,Michael Schertenleib,97,,https://lh3.googleusercontent.com/a/AEdFTp6f95AJiLjcJaIMHZrt3BeWmcthArKB2Uu4N--bIQ=s96-c
 405,twattanawaroon,97,,https://avatars.githubusercontent.com/u/5386360?v=4
 407,Daniel Roy (AoC++),96,,https://lh3.googleusercontent.com/a/AEdFTp6eUw7uNfMx1VmB1DtICGVEpLm6mcxWtuOeUsuk=s96-c
 408,Wojciech Rychlik,95,,https://lh3.googleusercontent.com/a/ALm5wu1mgyfnFq0DLKsnlO3oQWuCYIoz_ooJLM7aA-J_=s96-c

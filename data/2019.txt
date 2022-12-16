@@ -588,7 +588,7 @@ Rank,Name,Score,Link,Avatar
 587,Dylan Smith (AoC++),49,,https://lh3.googleusercontent.com/a/ALm5wu08HIpywTz7G9NUr_TRMdqhe2YjRaYYNg9L06qA=s96-c
 587,zmzmdr,49,https://github.com/zmzmdr,https://avatars3.githubusercontent.com/u/11496137?v=4
 587,Daniele Venier,49,https://github.com/Danis98,https://avatars.githubusercontent.com/u/3756869?v=4
-587,Stephen,49,,https://lh3.googleusercontent.com/a/ALm5wu12wFkKoQ931iyMAvHF3B0rr9KuoQsSJxAKF8JWzw=s96-c
+587,Stephen,49,,https://lh3.googleusercontent.com/a/AEdFTp4qQCs6tVEpTU52yQ2O7u3cKNUbtJwWSiMvhonwuQ=s96-c
 591,JustinZhengBC,48,https://github.com/JustinZhengBC,https://avatars1.githubusercontent.com/u/29615021?v=4
 591,akkaakka,48,,https://avatars2.githubusercontent.com/u/32450883?v=4
 593,Thomas Zumsteg,47,,https://lh3.googleusercontent.com/a/ALm5wu1yqfk7UFz0zswkkqT24L9fG861K3VbPZgP4XUj=s96-c
@@ -860,7 +860,7 @@ Rank,Name,Score,Link,Avatar
 857,Chuck Walker,7,,https://lh3.googleusercontent.com/a-/AOh14Gj2gkdWuapM2SUz0B0m6YWfJY4kw_L6DkE23MQY=s96-c
 857,Eric Aderhold,7,,https://lh3.googleusercontent.com/a/ALm5wu3XV56_6IIg44ZoPLrjcr-hM9g7VoGZ0qrlqGiGGA=s96-c
 857,(anonymous user #450045),7,,
-857,Андрей Третьяков,7,,https://lh3.googleusercontent.com/a/ALm5wu0gS-SJo6lVQRjFYFl-G0Eik5vC8hKpsDS9jYa3=s96-c
+857,Андрей Третьяков,7,,https://lh3.googleusercontent.com/a/AEdFTp6jueDLb0_m9ppewZXoC2tbk8pGqs9ROTj6krvR=s96-c
 863,Michael Tardibuono (AoC++),6,https://github.com/hidny,https://avatars.githubusercontent.com/u/7812116?v=4
 863,mikaelmello,6,https://github.com/mikaelmello,https://avatars3.githubusercontent.com/u/17488630?v=4
 863,Tunaki,6,,https://avatars.githubusercontent.com/u/2684685?v=4

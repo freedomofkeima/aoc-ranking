@@ -156,7 +156,7 @@ Rank,Name,Score,Link,Avatar
 155,pfg,419,https://github.com/pfgithub,https://avatars.githubusercontent.com/u/6010774?v=4
 156,jorisvr,412,https://github.com/jorisvr,https://avatars.githubusercontent.com/u/6183894?v=4
 156,(anonymous user #858833),412,,
-158,anominos,411,,https://lh3.googleusercontent.com/a/ALm5wu2hIf8tg1a9uBTbXP0hS378KYgljyvPI40Ie0vd=s96-c
+158,anominos,411,,https://lh3.googleusercontent.com/a/AEdFTp4u6L1LOj-1b3RrvP5CLUwX1wmW55KGiA609xEd=s96-c
 158,Ryan Bai,411,,https://lh3.googleusercontent.com/a-/AOh14GiMcSoYw6-8vs8Qv7271thLcebRPhNC4wS8yHqOBQ=s96-c
 160,DayDun,402,https://github.com/DayDun,https://avatars.githubusercontent.com/u/14539902?v=4
 160,asottile,402,https://github.com/asottile,https://avatars.githubusercontent.com/u/1810591?v=4

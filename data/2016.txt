@@ -1,7 +1,7 @@
 Rank,Name,Score,Link,Avatar
 1,Kevin Wang,4015,,https://lh3.googleusercontent.com/a/ALm5wu2e8JsN18Kcab7vyvvFt9R9ZAHD82cohjeYXX7MDBY=s96-c
 2,petertseng (AoC++),3379,https://github.com/petertseng,https://avatars.githubusercontent.com/u/346181?v=4
-3,Andrew Skalski,3197,,https://lh3.googleusercontent.com/a/ALm5wu24wSMw5MvDDl7DX_y8qYh6EsxxPWzOpct16Uw=s96-c
+3,Andrew Skalski,3197,,https://lh3.googleusercontent.com/a/AEdFTp6VeZclcsMslLDDFCnGLqKHEGvAYZbuE621K24=s96-c
 4,orez-,2858,https://github.com/orez-,https://avatars.githubusercontent.com/u/1037028?v=4
 5,Paul Wild,2757,,https://lh3.googleusercontent.com/a/AEdFTp7I6079n3GQ4GHQhC7My6FyJYBsOFnfohXOqw2V=s96-c
 6,xiaowuc1,2628,,https://avatars.githubusercontent.com/u/3413714?v=4
@@ -521,7 +521,7 @@ Rank,Name,Score,Link,Avatar
 519,wkapp977,54,,
 519,Timo Vink (AoC++),54,,https://lh3.googleusercontent.com/a/ALm5wu1VqcyqIpw5aY39icb_IqH2NQzGwxtWG3ynljHYJA=s96-c
 522,(anonymous user #65784),53,,
-522,Jeroen van der Hooft (AoC++),53,,https://lh3.googleusercontent.com/a/AATXAJxfMafieqNXocTjKc8pWMgBY36dtuHIkXirMXO8=s96-c
+522,Jeroen van der Hooft (AoC++),53,,https://lh3.googleusercontent.com/a/AEdFTp6a3Q8BQ-B_GO-1b8xqZlnU1xHA-oDJfXbh4RLw=s96-c
 522,Rasmus Précenth (AoC++),53,https://github.com/Prillan,https://avatars.githubusercontent.com/u/1675190?v=4
 522,hbldh (AoC++),53,https://github.com/hbldh,https://avatars.githubusercontent.com/u/4191111?v=4
 526,David Zhang,52,,https://lh5.googleusercontent.com/-TKSiEGePaB4/AAAAAAAAAAI/AAAAAAAAAH4/Jnt7_Q23Rn0/photo.jpg

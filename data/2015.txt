@@ -1,5 +1,5 @@
 Rank,Name,Score,Link,Avatar
-1,Andrew Skalski,3327,,https://lh3.googleusercontent.com/a/ALm5wu24wSMw5MvDDl7DX_y8qYh6EsxxPWzOpct16Uw=s96-c
+1,Andrew Skalski,3327,,https://lh3.googleusercontent.com/a/AEdFTp6VeZclcsMslLDDFCnGLqKHEGvAYZbuE621K24=s96-c
 2,Sreeram Ramachandran,3109,https://github.com/r-sreeram,https://avatars.githubusercontent.com/u/11063840?v=4
 3,dougg3,2613,,
 4,Thomas Holmes,2351,,https://lh3.googleusercontent.com/-Pb-4m5AGrZU/AAAAAAAAAAI/AAAAAAAAAEQ/VTFHJLRTr1o/photo.jpg

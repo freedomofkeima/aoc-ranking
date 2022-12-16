@@ -21,7 +21,7 @@ Rank,Name,Score,Link,Avatar
 20,etotheipi1,2007,,
 21,daveagp (AoC++),1981,https://github.com/daveagp,https://avatars2.githubusercontent.com/u/1429912?v=4
 22,drysle,1877,,
-23,Andrew Skalski,1767,,https://lh3.googleusercontent.com/a/ALm5wu24wSMw5MvDDl7DX_y8qYh6EsxxPWzOpct16Uw=s96-c
+23,Andrew Skalski,1767,,https://lh3.googleusercontent.com/a/AEdFTp6VeZclcsMslLDDFCnGLqKHEGvAYZbuE621K24=s96-c
 24,msullivan,1717,https://github.com/msullivan,https://avatars.githubusercontent.com/u/340349?v=4
 25,drougge (AoC++),1683,https://github.com/drougge,https://avatars.githubusercontent.com/u/541703?v=4
 26,stringham,1602,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
@@ -495,7 +495,7 @@ Rank,Name,Score,Link,Avatar
 493,(anonymous user #191871),67,,
 493,CanGreenBeret,67,,
 493,farafonoff,67,https://github.com/farafonoff,https://avatars.githubusercontent.com/u/3719397?v=4
-493,Stephen,67,,https://lh3.googleusercontent.com/a/ALm5wu12wFkKoQ931iyMAvHF3B0rr9KuoQsSJxAKF8JWzw=s96-c
+493,Stephen,67,,https://lh3.googleusercontent.com/a/AEdFTp4qQCs6tVEpTU52yQ2O7u3cKNUbtJwWSiMvhonwuQ=s96-c
 493,TheNeuralBit,67,https://github.com/TheNeuralBit,https://avatars.githubusercontent.com/u/675055?v=4
 499,Erik Dyrelius (AoC++),66,,https://lh3.googleusercontent.com/a/AEdFTp7GQ4JdATjjcblQOQr9GSIWjpy1K5Bp1DViNrLHeQ=s96-c
 499,(anonymous user #226376),66,,
