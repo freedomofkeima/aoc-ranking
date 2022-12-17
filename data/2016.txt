@@ -172,7 +172,7 @@ Rank,Name,Score,Link,Avatar
 171,Asish Mahapatra,380,,https://lh6.googleusercontent.com/-1DYCot4BatU/AAAAAAAAAAI/AAAAAAAAAFI/XRa_uVW8otU/photo.jpg
 172,NiXXeD (AoC++),379,https://github.com/NiXXeD,https://avatars3.githubusercontent.com/u/5414721?v=4
 173,Neil Roberts,376,https://github.com/bpeel,https://avatars.githubusercontent.com/u/12873?v=4
-174,Sander van Schouwenburg,371,,https://lh3.googleusercontent.com/a-/AOh14Gh7Hh-JMwzFT_eL_0jWq3ZiQq8HxiKLxXVFYQkpMw=s96-c
+174,Sander van Schouwenburg,371,,https://lh3.googleusercontent.com/a/AEdFTp7DsJKZvMsLZbsGBzC3TwImfej2GE4dJPCKqJGTtw=s96-c
 175,Hypersonic,366,https://github.com/Hypersonic,https://avatars.githubusercontent.com/u/505866?v=3
 176,Erik Dyrelius (AoC++),364,,https://lh3.googleusercontent.com/a/AEdFTp7GQ4JdATjjcblQOQr9GSIWjpy1K5Bp1DViNrLHeQ=s96-c
 176,death,364,,
@@ -449,7 +449,7 @@ Rank,Name,Score,Link,Avatar
 445,(anonymous user #121173),80,,
 449,Montana Ruth,79,,https://lh3.googleusercontent.com/a-/AFdZucohqyJZ3xDIzWTbbmv9TRbxNb_dwM_vh-ciJ3RVoA=s96-c
 449,Jon Bristow,79,https://github.com/jbristow,https://avatars.githubusercontent.com/u/314260?v=4
-449,Dennis Hu,79,,https://lh3.googleusercontent.com/a/ALm5wu3u-nsTPclEngmVXUt5bi4oM7vZNCHitvGUqwP5kw=s96-c
+449,Dennis Hu,79,,https://lh3.googleusercontent.com/a/AEdFTp5Nm32v6XJ_rQvmn7xVWrQA_St-E6tKmzir3-VLDg=s96-c
 452,jweinberg,77,https://github.com/jweinberg,https://avatars.githubusercontent.com/u/124000?v=4
 453,Cindy Wu,76,,https://avatars1.githubusercontent.com/u/19282157?v=4
 453,bob-white,76,https://github.com/bob-white,https://avatars.githubusercontent.com/u/7028615?v=4

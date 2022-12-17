@@ -462,7 +462,7 @@ Rank,Name,Score,Link,Avatar
 461,danieljin,149,https://github.com/danieljin,https://avatars.githubusercontent.com/u/3216976?v=3
 461,jimmehc,149,https://github.com/jimmehc,https://avatars1.githubusercontent.com/u/438101?v=4
 461,Paul Wicks,149,https://github.com/pwicks86,https://avatars.githubusercontent.com/u/56168?v=4
-464,Alan Huang,148,,https://avatars.githubusercontent.com/u/3771805?v=3
+464,Alan Huang,148,,https://avatars.githubusercontent.com/u/3771805?v=4
 464,Matt Creenan,148,https://twitter.com/mcreenan,http://pbs.twimg.com/profile_images/1504570705760997377/z6YI5BwF.jpg
 466,kaymo,147,https://github.com/kaymo,https://avatars.githubusercontent.com/u/14958027?v=3
 466,monk-time,147,https://github.com/monk-time,https://avatars.githubusercontent.com/u/7759622?v=4

@@ -570,7 +570,7 @@ Rank,Name,Score,Link,Avatar
 564,Paul Collins,47,,https://lh3.googleusercontent.com/a/AEdFTp7_LAvwY57U0rNQrGcIpqEd7ta4kqlDHxc9Zqh4=s96-c
 570,Justin Le (AoC++),46,https://github.com/mstksg,https://avatars.githubusercontent.com/u/187815?v=4
 570,catminusone,46,,
-570,Jason Henline,46,,https://lh3.googleusercontent.com/a/ALm5wu0KdeZT5N1dYxR5wwEJgZRyhDs7Il2FLUVbARv4=s96-c
+570,Jason Henline,46,,https://lh3.googleusercontent.com/a/AEdFTp5xGGgrj6JW2X2SGNgplQyT-iZUqFVVMymJDqg8=s96-c
 573,CanGreenBeret,45,,
 573,ah-,45,https://github.com/ah-,https://avatars.githubusercontent.com/u/1349849?v=4
 573,Radu Nicolae,45,,https://lh3.googleusercontent.com/a/ALm5wu3hltRgzZsdgPJ83XBCEZHbnQffhSXHpBbKSvJXtQ=s96-c
@@ -726,7 +726,7 @@ Rank,Name,Score,Link,Avatar
 724,(anonymous user #285091),16,,
 724,Chris Martin,16,,https://avatars3.githubusercontent.com/u/24900426?v=4
 724,ltomic,16,https://github.com/ltomic,https://avatars.githubusercontent.com/u/9870072?v=4
-724,Chris Hinnerschietz,16,,https://lh3.googleusercontent.com/a/ALm5wu3WovWw2NjQR5ZnDFGGtwukgaENX4H4REr3Q72p=s96-c
+724,Chris Hinnerschietz,16,,https://lh3.googleusercontent.com/a/AEdFTp6qtGPiSFbhuUoeTtN7kUbyJ3XztD8Hyx3x4OFs=s96-c
 724,(anonymous user #223890),16,,
 724,Vrael_Vrangr,16,,
 724,Andy Wilcock,16,,https://lh5.googleusercontent.com/-AgsQTHC-Eto/AAAAAAAAAAI/AAAAAAAAExM/kvrD18zDkmY/photo.jpg
@@ -748,7 +748,7 @@ Rank,Name,Score,Link,Avatar
 746,Gaelan,13,https://github.com/Gaelan,https://avatars.githubusercontent.com/u/4495750?v=4
 746,Sebastian Nielsen,13,https://github.com/sebastiannielsen,https://avatars.githubusercontent.com/u/1034930?v=4
 746,(anonymous user #494348),13,,
-746,np-nam,13,https://github.com/np-nam,https://avatars.githubusercontent.com/u/34429224?v=4
+746,NPN,13,https://github.com/n-pn,https://avatars.githubusercontent.com/u/34429224?v=4
 746,Michael Gerhaeuser,13,https://github.com/migerh,https://avatars.githubusercontent.com/u/368715?v=4
 746,ben thomas,13,,https://lh3.googleusercontent.com/a-/AAuE7mCqwLbiOy-TlTBi-6_-UutTxn1qEvGLBOMjTUr7vw
 746,SimpleJian,13,,https://avatars1.githubusercontent.com/u/5996147?v=4
@@ -784,7 +784,7 @@ Rank,Name,Score,Link,Avatar
 781,Tim Woods,9,,https://avatars2.githubusercontent.com/u/12708075?v=4
 781,Michael Tardibuono (AoC++),9,https://github.com/hidny,https://avatars.githubusercontent.com/u/7812116?v=4
 781,Tanner Stephens (AoC++),9,https://github.com/tannerstephens,https://avatars.githubusercontent.com/u/8868033?v=4
-781,Frode Johannesen,9,,https://lh3.googleusercontent.com/a/ALm5wu297MuGQyikwDig_j5m_z1Zyv6lxq-jmnyJ4McT=s96-c
+781,Frode Johannesen,9,,https://lh3.googleusercontent.com/a/AEdFTp7ZOaZ5J-SS5yvuQQoNWDgH-AQhePvJbF7Fbulz=s96-c
 781,T S,9,,https://avatars.githubusercontent.com/u/444387?v=4
 788,Ambrose Feinstein,8,,https://lh3.googleusercontent.com/a/AEdFTp7vVQgCPIsAqKq5UbZDIuEoKzRkiSN-o1GC37eL2w=s96-c
 788,mikecheb,8,,https://avatars.githubusercontent.com/u/250171?v=4

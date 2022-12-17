@@ -723,7 +723,7 @@ Rank,Name,Score,Link,Avatar
 719,Arno Lepisk,20,https://github.com/f00ale,https://avatars.githubusercontent.com/u/19603725?v=4
 719,Nejc Ramovs (AoC++),20,,https://lh3.googleusercontent.com/a/ALm5wu31DMZHDGPfFXF2DAap1_aR6p-ehEE9egf2J3mrFw=s96-c
 719,Matt Perry,20,https://github.com/mattvperry,https://avatars.githubusercontent.com/u/393869?v=4
-725,Adam Silkey,19,,https://lh3.googleusercontent.com/a/ALm5wu0eGasW3WVKnvr2HcBfHb8YYfLS2FqATaZnGlEQ=s96-c
+725,Adam Silkey,19,,https://lh3.googleusercontent.com/a/AEdFTp6-AhNCEluZshpwWB9UIWVY_g44UI6250RDKy5e=s96-c
 725,Brae Webb,19,,https://avatars.githubusercontent.com/u/4517252?v=4
 725,Ben Greene,19,,https://lh3.googleusercontent.com/a/AEdFTp5Q7hecR0f2iDXs011rY52DD_c9PMjenuim5CATMQ=s96-c
 725,(anonymous user #216078),19,,
@@ -746,7 +746,7 @@ Rank,Name,Score,Link,Avatar
 743,Stuart Kent (AoC++),15,https://github.com/stkent,https://avatars.githubusercontent.com/u/6463980?v=4
 743,charltongroves,15,https://github.com/charltongroves,https://avatars3.githubusercontent.com/u/15869505?v=4
 743,Allison Inman,15,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-743,finaiized,15,,https://avatars2.githubusercontent.com/u/955189?v=4
+743,finaiized,15,,https://avatars.githubusercontent.com/u/955189?v=4
 743,Kozlowski Dawid (AoC++),15,,https://lh3.googleusercontent.com/a/ALm5wu1H6CtgMjTwecXYQwl8juBifwk2zuUFmGfSwenruA=s96-c
 743,David Jackson,15,,https://lh3.googleusercontent.com/a/ALm5wu1ZfuRamnOhKF8C7zY5dTIE5_fCeZhmtoY816Qe=s96-c
 751,Nathaniel Lovin,13,https://github.com/NathanielLovin,https://avatars3.githubusercontent.com/u/26590210?v=4

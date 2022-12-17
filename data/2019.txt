@@ -547,7 +547,7 @@ Rank,Name,Score,Link,Avatar
 545,terry-wen,58,,https://avatars2.githubusercontent.com/u/12367556?v=4
 545,Theron Tock,58,,https://lh3.googleusercontent.com/a/AEdFTp62oqhHVBvbm1nnhqqwK8fg2QXpK2OTQMVt6NL4=s96-c
 545,Jonathan Lie,58,,https://lh4.googleusercontent.com/-U_28OxLEeSc/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckMTxZ1fLXsckglhjlib8KaTzC3pg/s96-c/photo.jpg
-545,@matthewhuang97,58,https://twitter.com/matthewhuang97,http://pbs.twimg.com/profile_images/1125997762539954177/aYIbPDsq.png
+545,@matthewhuang97,58,https://twitter.com/matthewhuang97,http://pbs.twimg.com/profile_images/1385766944712708102/-2XLUtxR.jpg
 545,Kevin An,58,,https://lh3.googleusercontent.com/a/ALm5wu2oeZdkpc2sE8feoiIiDu4FnxZyATGVI4mQFoVu=s96-c
 551,Ian Collier,57,,https://lh3.googleusercontent.com/a/ALm5wu1YxyJXMHx62yaJfAA4zl7N-DbDx12fEj2c4lSn6g=s96-c
 551,Paweł Obrok,57,https://github.com/obrok,https://avatars.githubusercontent.com/u/130804?v=4
@@ -596,7 +596,7 @@ Rank,Name,Score,Link,Avatar
 594,(anonymous user #130597),46,,
 594,Ashley Kim,46,,https://avatars.githubusercontent.com/u/9636374?v=4
 594,Michael Fatemi,46,,https://lh3.googleusercontent.com/a-/AAuE7mC8wz9O5kOXJ6g4AkEuTBHz4SGmJftb2zV3Veaf
-594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/ALm5wu1t1iW12f9V7_neRB__qY3h6NdrUrgUzQaN-4uf=s96-c
+594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/AEdFTp7cbAybf33vc1TSTfSyBDnnTDqudVoO17mwqFbA=s96-c
 594,(anonymous user #772758),46,,
 600,triazo,45,,https://avatars.githubusercontent.com/u/6687043?v=4
 600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ALm5wu14NUM84W_IU9R5eY7qav2aQDoXAeTWrmbEKpMTZw=s96-c
@@ -700,7 +700,7 @@ Rank,Name,Score,Link,Avatar
 691,haaawk,30,https://github.com/haaawk,https://avatars.githubusercontent.com/u/1311149?v=4
 700,jelder,29,,http://pbs.twimg.com/profile_images/2709620581/33127c63c67a37fd5bcf00d97d49e7d9.png
 700,(anonymous user #553988),29,,
-700,Frode Johannesen (AoC++),29,,https://lh3.googleusercontent.com/a/ALm5wu297MuGQyikwDig_j5m_z1Zyv6lxq-jmnyJ4McT=s96-c
+700,Frode Johannesen (AoC++),29,,https://lh3.googleusercontent.com/a/AEdFTp7ZOaZ5J-SS5yvuQQoNWDgH-AQhePvJbF7Fbulz=s96-c
 700,coreydexter,29,,https://avatars.githubusercontent.com/u/24769973?v=4
 700,Daniel Prilik,29,https://github.com/daniel5151,https://avatars.githubusercontent.com/u/2389445?v=4
 700,Johan Lindell,29,,https://lh3.googleusercontent.com/a/ALm5wu3CoXYEft2utL6TCuoR1ibjitthCNLNC1xLU3Vn1iI=s96-c

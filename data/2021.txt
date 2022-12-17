@@ -647,7 +647,7 @@ Rank,Name,Score,Link,Avatar
 646,Siddhant Attavar,49,,https://lh3.googleusercontent.com/a/AATXAJzwqRnEjUvUsZqNMj7-tkgMrVAZbyo3YbtoEG5R=s96-c
 646,UnrelatedString,49,,https://avatars.githubusercontent.com/u/33167175?v=4
 646,Zach Banks,49,,https://lh3.googleusercontent.com/a/AATXAJzwHIeixxYl1fGCBI88WT26Catw8_C8XTeItoyx=s96-c
-646,Dennis Hu,49,,https://lh3.googleusercontent.com/a/ALm5wu3u-nsTPclEngmVXUt5bi4oM7vZNCHitvGUqwP5kw=s96-c
+646,Dennis Hu,49,,https://lh3.googleusercontent.com/a/AEdFTp5Nm32v6XJ_rQvmn7xVWrQA_St-E6tKmzir3-VLDg=s96-c
 650,Ryan Norris,48,https://github.com/rynorris,https://avatars.githubusercontent.com/u/3620166?v=4
 650,james-seymour,48,https://github.com/james-seymour,https://avatars.githubusercontent.com/u/85882329?v=4
 650,Hafnium780,48,https://github.com/Hafnium780,https://avatars.githubusercontent.com/u/97712621?v=4
@@ -796,7 +796,7 @@ Rank,Name,Score,Link,Avatar
 791,icemoon97,28,,
 791,(anonymous user #104021),28,,
 791,Can Berk Güder,28,https://github.com/cbguder,https://avatars.githubusercontent.com/u/13085?v=4
-798,Zeyu Peng,27,,https://lh3.googleusercontent.com/a/AATXAJy5fa7Znhy3ZiazUQcIEz_98C2cmeeWdFz7Main=s96-c
+798,Zeyu Peng,27,,https://lh3.googleusercontent.com/a/AEdFTp7sgDYOCLRmeNAAHfCjw6Fupn2WeoEZyKGhWgsT=s96-c
 798,Niraj Patel,27,,https://lh3.googleusercontent.com/a/ALm5wu0cKepUthkTbZDAi0mgFu7-W_4OpRA2HY0SDM0d=s96-c
 798,Bhaumik Mehta,27,,https://lh3.googleusercontent.com/a/AEdFTp51j22GRjxtV1V0rldD8BNZJcwP4O5Z_R2n_Vmc=s96-c
 798,Therealchainman,27,https://github.com/Therealchainman,https://avatars.githubusercontent.com/u/47466952?v=4
@@ -839,7 +839,7 @@ Rank,Name,Score,Link,Avatar
 834,XebiaAoC 2022,23,,https://avatars.githubusercontent.com/u/273617?v=4
 834,Jason Wolfe,23,,https://lh3.googleusercontent.com/a-/AOh14Ggb6uGozO_m80R31-QgynD6DRVG3NL-bPZyIGJpLg=s96-c
 834,Ari Blondal,23,https://github.com/ablondal,https://avatars.githubusercontent.com/u/25700938?v=4
-834,Ken Gene Quah,23,,https://lh3.googleusercontent.com/a/ALm5wu1cKPeHBsN3Xhk0GQwADlLtWeCDLHRpW0XdHxY3=s96-c
+834,Ken Gene Quah,23,,https://lh3.googleusercontent.com/a/AEdFTp7EqCWDcpkqOo1XZAPX0og6WQvzJ-GMD5tTzC5B=s96-c
 834,linkret,23,,https://avatars.githubusercontent.com/u/38794784?v=4
 843,ictrobot (AoC++),22,https://github.com/ictrobot,https://avatars.githubusercontent.com/u/3834887?v=4
 843,Nicholas,22,https://github.com/nicholascc,https://avatars.githubusercontent.com/u/34197135?v=4
