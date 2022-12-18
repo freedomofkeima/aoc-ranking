@@ -15,7 +15,7 @@ jobs:
             . venv/bin/activate
             pip install -U pip setuptools wheel
             pip install poetry
-            poetry install
+            poetry install --no-ansi
       - save_cache:
           key: deps1-{{ .Branch }}-{{ checksum "poetry.lock" }}
           paths:
