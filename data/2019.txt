@@ -392,7 +392,7 @@ Rank,Name,Score,Link,Avatar
 390,Tanner Hoke,114,,https://avatars.githubusercontent.com/u/8375463?v=4
 390,veryafe (AoC++),114,,https://avatars.githubusercontent.com/u/5630336?v=4
 390,stringham,114,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
-394,Joshua Berne,113,,https://lh3.googleusercontent.com/a/ALm5wu07oyIAA5z7MhjAcqoC9Y4D1yoKEZVHMqccT0s8=s96-c
+394,Joshua Berne,113,,https://lh3.googleusercontent.com/a/AEdFTp60B-3vEejejVaCWYvF9jQVeFeOMA-Vad27sE2b=s96-c
 394,Maxim Kulikov,113,https://github.com/maxlk,https://avatars1.githubusercontent.com/u/502245?v=4
 396,(anonymous user #255211),112,,
 396,elhu (AoC++),112,https://github.com/elhu,https://avatars.githubusercontent.com/u/578161?v=4
@@ -868,7 +868,7 @@ Rank,Name,Score,Link,Avatar
 863,nick hansen,6,,https://avatars.githubusercontent.com/u/18125158?v=4
 863,ajdranse (AoC++),6,https://github.com/ajdranse,https://avatars.githubusercontent.com/u/6568804?v=4
 863,jaspercb,6,https://github.com/jaspercb,https://avatars.githubusercontent.com/u/11592046?v=4
-863,Caleb Spare,6,,https://lh3.googleusercontent.com/a/ALm5wu1x9seEWLC2VgfFmkbhaKlyB7m4AoBl5cMaHE-ezw=s96-c
+863,Caleb Spare,6,,https://lh3.googleusercontent.com/a/AEdFTp4agwxt8AZLMSJ9UY02XbBxEmKMmV3wRGI9ctWtMA=s96-c
 863,leftylink,6,,
 872,Cal Jacobson,5,https://github.com/cj81499,https://avatars.githubusercontent.com/u/9152032?v=4
 872,attilusleung,5,,https://avatars.githubusercontent.com/u/41114652?v=4

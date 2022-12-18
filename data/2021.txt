@@ -135,7 +135,7 @@ Rank,Name,Score,Link,Avatar
 134,seligman99 (AoC++),446,,
 135,mniip,441,https://github.com/mniip,https://avatars.githubusercontent.com/u/1322658?v=4
 136,Defelo (AoC++),438,https://github.com/Defelo,https://avatars.githubusercontent.com/u/41747605?v=4
-136,Tomas Rokicki,438,,https://lh3.googleusercontent.com/a/ALm5wu3jAF38YFP8xwIQjwLitDaODg62fEUqoMkHQROd8yA=s96-c
+136,Tomas Rokicki,438,,https://lh3.googleusercontent.com/a/AEdFTp7eUhX3oO82UXVt1wEI5MrUdjYVgygyWqV4YiVfYdQ=s96-c
 138,(anonymous user #1525144),416,,
 138,Joey Marianer,416,https://github.com/jmarianer,https://avatars.githubusercontent.com/u/20607141?v=4
 140,Søren Fuglede Jørgensen (AoC++),410,https://github.com/fuglede,https://avatars.githubusercontent.com/u/6169306?v=4
@@ -162,7 +162,7 @@ Rank,Name,Score,Link,Avatar
 161,Etienne Vouga,368,,https://lh3.googleusercontent.com/a/AEdFTp6ySha0rz3fZi3BIo4J6DBowJlDb5Mksyd373Zu=s96-c
 162,Ambrose Feinstein,365,,https://lh3.googleusercontent.com/a/AEdFTp7vVQgCPIsAqKq5UbZDIuEoKzRkiSN-o1GC37eL2w=s96-c
 163,pfg,364,https://github.com/pfgithub,https://avatars.githubusercontent.com/u/6010774?v=4
-164,Murray Edwards (AoC++),358,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
+164,Murray Edwards (AoC++),358,,https://lh3.googleusercontent.com/a/AEdFTp5aw_JJqBEKvByZgzFeFoVAszlqhbtEqxHtC9-b=s96-c
 165,SizableShrimp,357,https://github.com/SizableShrimp,https://avatars.githubusercontent.com/u/29855886?v=4
 166,burdanov,356,,https://avatars.githubusercontent.com/u/4457990?v=4
 167,Kevin Wang,349,https://github.com/VitamintK,https://avatars.githubusercontent.com/u/1139798?v=4
@@ -234,7 +234,7 @@ Rank,Name,Score,Link,Avatar
 232,Brian Dean,229,,https://lh3.googleusercontent.com/a/ALm5wu2_hVwPbqgSnlsIhCitVS_nEgOytOtXL6A-DcI=s96-c
 234,It's a Shill,228,,http://pbs.twimg.com/profile_images/1570682357211881474/ojnsMu0I.jpg
 235,(anonymous user #643659),227,,
-236,Pedro Osório,226,,https://lh3.googleusercontent.com/a/ALm5wu15KKtevaYCAA7L29Pap14hpUIo0T2EVbbl0GyVMA=s96-c
+236,Pedro Osório,226,https://github.com/pedrosorio,https://avatars.githubusercontent.com/u/1187614?v=4
 237,anna (AoC++),225,https://github.com/anna328p,https://avatars.githubusercontent.com/u/9790772?v=4
 238,Joel Jonsson (AoC++),224,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
 239,Lars Haulin (AoC++),223,,https://lh3.googleusercontent.com/a/ALm5wu1_DykGSLvhQryVqmbgQJjHtskBiu8ICt5wIrIL=s96-c
@@ -591,7 +591,7 @@ Rank,Name,Score,Link,Avatar
 589,Trevor Stirling,60,,https://lh3.googleusercontent.com/a/AEdFTp4ezpW3IDbHZ3A0JLoNGy0jwAJFFsnt7eybEidr=s96-c
 589,David Zheng,60,,https://lh3.googleusercontent.com/a-/AOh14GhqJMtdVUCrQaIqG5NbpvVAobqZ_K8jjdz60sZVgA=s96-c
 589,Jay Bosamiya (AoC++),60,https://github.com/jaybosamiya,https://avatars.githubusercontent.com/u/5683582?v=4
-589,Santi Badp,60,,https://lh3.googleusercontent.com/a/ALm5wu1-Kw_jJpbJpDYRRsCsn0yP2ZplATNgaJfg24F8tA=s96-c
+589,Santi Badp,60,,https://lh3.googleusercontent.com/a/AEdFTp7tltP2ityhXJpOWtbyaIH-WvpE4uR3Xn9SNv7mFQ=s96-c
 589,Derick Mathew,60,,https://lh3.googleusercontent.com/a/ALm5wu24Lj2FZsG9X5n7gIgUHk4K_jYf3CmV4b76tSmisw=s96-c
 589,Ryan Zuklie,60,,https://lh3.googleusercontent.com/a/AATXAJxCYL-3XP4hV2nmP_WwtDbYThar4-OhyQhSc8Rv=s96-c
 596,Bryan Deng (AoC++),59,https://github.com/Blackgaurd,https://avatars.githubusercontent.com/u/61335502?v=4
@@ -671,7 +671,7 @@ Rank,Name,Score,Link,Avatar
 667,Quintec,45,https://github.com/Quintec,https://avatars.githubusercontent.com/u/29238284?v=4
 667,WRL,45,,https://avatars.githubusercontent.com/u/7082739?v=4
 667,iiliffe,45,,https://avatars.githubusercontent.com/u/60084509?v=4
-667,Howard Cheng,45,,https://lh3.googleusercontent.com/a/ALm5wu3FMaV6PwJ7gaGZpmcKXpR51fXGkPjxPuTOpSVj=s96-c
+667,Howard Cheng,45,,https://lh3.googleusercontent.com/a/AEdFTp7FIZxBnIQ7EN9adlfDMeNSW6xtkafVeCmm4DFJ=s96-c
 667,Peter Weinkam,45,,https://lh3.googleusercontent.com/a/AATXAJysKkTvAD5baeeN6p_lv3AVf6k9-YdDKo3GZL2J=s96-c
 667,Magnus Brange,45,,https://avatars.githubusercontent.com/u/1913762?v=4
 676,vukonen,44,https://github.com/vukonen,https://avatars.githubusercontent.com/u/10947958?v=4

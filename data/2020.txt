@@ -149,7 +149,7 @@ Rank,Name,Score,Link,Avatar
 147,Casey Bolton,447,,https://lh3.googleusercontent.com/a/ALm5wu1v9nc_f8WCDqk76LsSsxVMQJtXttPzON9PSu0V=s96-c
 149,rhendric,441,,https://avatars.githubusercontent.com/u/1570964?v=4
 150,Kavan Doctor,438,,https://lh3.googleusercontent.com/a/ALm5wu0sZGRngECOXZXtuRhRww3GB9AJMmidVHrpk6cmFA=s96-c
-151,Murray Edwards,436,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
+151,Murray Edwards,436,,https://lh3.googleusercontent.com/a/AEdFTp5aw_JJqBEKvByZgzFeFoVAszlqhbtEqxHtC9-b=s96-c
 152,Manish Kundu,434,https://github.com/iammanish17,https://avatars.githubusercontent.com/u/35730135?v=4
 153,azukun,425,,https://lh6.googleusercontent.com/-RIJWxdlxeY8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn0MW5SGHzpDZLsvU7iBa79CHARiA/s96-c/photo.jpg
 154,Ryan Fitzgerald,424,https://github.com/rf-,https://avatars.githubusercontent.com/u/345106?v=4
@@ -495,7 +495,7 @@ Rank,Name,Score,Link,Avatar
 490,Jonathan Tseng,68,,https://lh3.googleusercontent.com/a-/AOh14GgE5q693NifI05iZifbTy3NFWAfJfhRXMinnXZB=s96-c
 490,(anonymous user #392333),68,,
 496,JustinZhengBC,67,https://github.com/JustinZhengBC,https://avatars1.githubusercontent.com/u/29615021?v=4
-496,Michael Lester,67,,https://lh3.googleusercontent.com/a-/AOh14GhOv-_L_VFPX4gUf9milXTu1-Cno6lP_Z0JjTYR0Q=s96-c
+496,Michael Lester,67,,https://lh3.googleusercontent.com/a/AEdFTp4JEE6XWBTsCfRH2DU2bySBj4r-8FXTJw11Tfp6-A=s96-c
 496,Anand Oza,67,,https://lh3.googleusercontent.com/a-/AOh14GgRjjiOjL8U4eExkfOqXQ098ltT-4F4Rfz56LXwNH4=s96-c
 499,Yoshi van den Akker (AoC++),66,https://github.com/yoshivda,https://avatars.githubusercontent.com/u/23527439?v=4
 499,Thomas Hines (AoC++),66,,https://avatars.githubusercontent.com/u/1562864?v=4
@@ -639,7 +639,7 @@ Rank,Name,Score,Link,Avatar
 636,Mathgeek007 (AoC++),34,,
 636,John French,34,,https://avatars.githubusercontent.com/u/130613?v=4
 636,Artemis,34,https://github.com/Artemis21,https://avatars.githubusercontent.com/u/57376638?v=4
-636,Scott Frazier,34,,https://lh3.googleusercontent.com/a/ALm5wu3-9vjzHku3EbB_qTRfuq7_SWYaFeZ2-IvUk7sUrxc=s96-c
+636,Scott Frazier,34,,https://lh3.googleusercontent.com/a/AEdFTp4zPDv9AG02o6xxPXr8hhqawOXrpWNk8_-B2Yxq4HQ=s96-c
 636,(anonymous user #1344905),34,,
 643,John Novak,33,,https://lh3.googleusercontent.com/-lUUMXCNyhE4/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm14ubfKdijIDZyrspBEC5B1A4FzA/s96-c/photo.jpg
 643,tinau n.,33,,https://lh3.googleusercontent.com/a/ALm5wu2qodugzEeik_1dLoIV43mkRszJBT4ZhCWUhgMY=s96-c

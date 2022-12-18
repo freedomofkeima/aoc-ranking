@@ -259,7 +259,7 @@ Rank,Name,Score,Link,Avatar
 257,Mark Polyakov,194,https://github.com/markasoftware,https://avatars.githubusercontent.com/u/6380084?v=4
 259,andreasgruenh,191,https://github.com/andrewgreenh,https://avatars.githubusercontent.com/u/12122390?v=4
 260,Edward Keyes (AoC++),190,,https://lh3.googleusercontent.com/a/ALm5wu39O816xPyI9Efu49563wckJ-eH0CayKSysd8Uyhw=s96-c
-260,Murray Edwards (AoC++),190,,https://lh3.googleusercontent.com/a/ALm5wu0mbAW-NbQPCVyy2wkkP2ch1NduZ8zxNuKfO4ht=s96-c
+260,Murray Edwards (AoC++),190,,https://lh3.googleusercontent.com/a/AEdFTp5aw_JJqBEKvByZgzFeFoVAszlqhbtEqxHtC9-b=s96-c
 260,Vilius Pranckaitis,190,,https://lh3.googleusercontent.com/a/AATXAJyI1EcYkvQaPTHyV3vnxMTP01nJ4vyhTlF_uoD1=s96-c
 263,zchen088,189,,https://avatars3.githubusercontent.com/u/10439313?v=4
 264,tinau n.,188,,https://lh3.googleusercontent.com/a/ALm5wu2qodugzEeik_1dLoIV43mkRszJBT4ZhCWUhgMY=s96-c
@@ -434,7 +434,7 @@ Rank,Name,Score,Link,Avatar
 432,Matthew Olsson,88,https://github.com/mattco98,https://avatars.githubusercontent.com/u/28801118?v=4
 432,u794575248,88,,
 432,freedomofkeima,88,https://github.com/freedomofkeima,https://avatars.githubusercontent.com/u/2115470?v=4
-436,Nohus (AoC++),87,https://github.com/Nohus,https://avatars.githubusercontent.com/u/11064768?v=4
+436,Marcin Wisniowski (AoC++),87,https://github.com/Nohus,https://avatars.githubusercontent.com/u/11064768?v=4
 436,q----,87,,https://avatars.githubusercontent.com/u/7917584?v=4
 438,(anonymous user #385271),86,,
 438,(anonymous user #406649),86,,
