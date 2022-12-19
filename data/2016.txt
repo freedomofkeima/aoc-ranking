@@ -129,7 +129,7 @@ Rank,Name,Score,Link,Avatar
 127,hlian (AoC++),610,https://github.com/hlian,https://avatars.githubusercontent.com/u/63533?v=4
 127,rennex,610,,https://avatars.githubusercontent.com/u/449856?v=4
 130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/AD5-WCk8UCO6soLJoRuxsxK9aEVudbu6zB1dAWJSm9cRV56E-VDM5WDUdZXTyUiFr0RVpJCP9tH6_KtaKwxBEWTgqxT3LAeduWekeoypzJqglLQAWiMr30peh0w7rDomttN77cfkjkjEwSEsbfn1uEb6nV
-131,Joel Harmon,588,,https://lh3.googleusercontent.com/a/ALm5wu1QAtOGotCsW0yiCCZZsPMuKFzu_SC-eka3PmXH=s96-c
+131,Joel Harmon,588,,https://lh3.googleusercontent.com/a/AEdFTp6lO5EjFTf29MMy8210NthrF7Qxaux5bNJD6UJd=s96-c
 131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 133,vaultah,585,https://github.com/vaultah,https://avatars.githubusercontent.com/u/4944562?v=4
 134,Thomas McConville,583,,https://lh6.googleusercontent.com/-TyxtJn3oBX8/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gxMYRzNHwRVenfeqkbgMYTWA2q2w/mo/photo.jpg
@@ -580,7 +580,7 @@ Rank,Name,Score,Link,Avatar
 579,Jake Swanson (AoC++),35,,https://lh3.googleusercontent.com/a/ALm5wu2__c05k64gHGwpJYpNXNIdseQoI18IwLw7_bSeRmM=s96-c
 580,pekdon,34,,https://avatars.githubusercontent.com/u/1024486?v=3
 580,Mark Rebuck,34,,https://avatars0.githubusercontent.com/u/254760?v=4
-580,Primož Črnigoj,34,,https://lh3.googleusercontent.com/a/ALm5wu0A2wC2_bPaeTJJ-_MAkW4x-f1dPRVTlJz-rvuxFQ=s96-c
+580,Primož Črnigoj,34,,https://lh3.googleusercontent.com/a/AEdFTp60eoR2r2XahaStflSgoKErne-4AE8MpT2mK2MWKQ=s96-c
 583,Steve Shipsey,33,https://github.com/sshipsey,https://avatars.githubusercontent.com/u/3046978?v=4
 583,askkaz,33,,https://avatars.githubusercontent.com/u/7975721?v=4
 583,klackerz,33,,

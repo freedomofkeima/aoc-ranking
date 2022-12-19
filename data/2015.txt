@@ -100,7 +100,7 @@ Rank,Name,Score,Link,Avatar
 99,jabagawee,608,https://github.com/jabagawee,https://avatars.githubusercontent.com/u/179852?v=4
 100,Andrew He,603,,https://lh3.googleusercontent.com/-bCLg3s1Bmro/AAAAAAAAAAI/AAAAAAAABxc/aquyMPtR8yc/photo.jpg
 101,Greg Millam,592,,https://avatars.githubusercontent.com/u/12141175?v=3
-102,Michal Forišek,590,,https://lh3.googleusercontent.com/a/ALm5wu3yPmxbr-gqw3e-bGqXhJxHimHxSq76wCcD1tzV68w=s96-c
+102,Michal Forišek,590,,https://lh3.googleusercontent.com/a/AEdFTp4jAALCq4CFtLaw8jyRmnCsxMh18ph3Zowc-3NjKSk=s96-c
 103,bufordsharkley,584,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 104,Chris Moyer,564,https://twitter.com/CDMoyer,http://pbs.twimg.com/profile_images/421641487051272192/IfEg0PgG.jpeg
 105,MrPingouin1,560,,
