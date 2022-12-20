@@ -107,7 +107,7 @@ Rank,Name,Score,Link,Avatar
 106,wim glenn (AoC++),786,https://github.com/wimglenn,https://avatars.githubusercontent.com/u/6615374?v=4
 107,lukechampine,758,https://github.com/lukechampine,https://avatars.githubusercontent.com/u/3344749?v=4
 107,minno726,758,https://github.com/minno726,https://avatars.githubusercontent.com/u/1452356?v=4
-107,Gjosiah,758,,https://avatars.githubusercontent.com/u/6678278?v=4
+107,Addy,758,,https://avatars.githubusercontent.com/u/6678278?v=4
 110,Alex Crimi,737,,https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c
 111,Kevin Brown,730,https://github.com/kevin-brown,https://avatars.githubusercontent.com/u/1991850?v=4
 112,(anonymous user #66912) (AoC++),719,,
@@ -273,7 +273,7 @@ Rank,Name,Score,Link,Avatar
 272,Bernhard Häussner,184,https://github.com/bxt,https://avatars.githubusercontent.com/u/639509?v=4
 273,Jamsheed M,182,,https://lh3.googleusercontent.com/-TkZs9ZcOlwo/AAAAAAAAAAI/AAAAAAAACJ4/iwZJF_6-F3k/photo.jpg
 274,Ben Jones (AoC++),180,https://github.com/benjones,https://avatars.githubusercontent.com/u/203206?v=4
-275,Shanti Chellaram,178,https://github.com/shantiii,https://avatars.githubusercontent.com/u/10505975?v=4
+275,shantiii,178,https://github.com/shantiii,https://avatars.githubusercontent.com/u/10505975?v=4
 276,wouterken,177,,https://avatars.githubusercontent.com/u/706133?v=4
 277,jld,174,,https://avatars.githubusercontent.com/u/254973?v=4
 278,masakotoda,172,https://github.com/masakotoda,https://avatars.githubusercontent.com/u/1369760?v=3

@@ -16,7 +16,7 @@ Rank,Name,Score,Link,Avatar
 15,Tom Holmes,2040,https://github.com/tsholmes,https://avatars.githubusercontent.com/u/2865426?v=4
 16,ZED.Charley William Thairo,1906,,https://avatars.githubusercontent.com/u/7867810?v=4
 17,Fengyang Wang (AoC++),1805,https://github.com/TotalVerb,https://avatars2.githubusercontent.com/u/12903942?v=4
-18,D. Salgado,1684,,https://lh3.googleusercontent.com/a/ALm5wu3QPRHdNRjYEwQyPfPrDwJ3uniA5AAe-MYwy68m=s96-c
+18,D. Salgado,1684,,https://lh3.googleusercontent.com/a/AEdFTp6Rf0k5I5iJkIzBHbP6x6szW3reYjdke_LAIXyq=s96-c
 19,Tomas Rokicki,1634,https://github.com/rokicki,https://avatars.githubusercontent.com/u/1631691?v=4
 20,Ben Mirtchouk,1631,,https://lh3.googleusercontent.com/a-/AAuE7mBpQZY5NAqTVNKWpLyhm8WY9nggp4bo07XftbgZ
 21,George Hotz (AoC++),1623,https://github.com/geohot,https://avatars.githubusercontent.com/u/72895?v=4
@@ -78,7 +78,7 @@ Rank,Name,Score,Link,Avatar
 77,Matt Bradley,935,https://github.com/mattbradley,https://avatars.githubusercontent.com/u/819253?v=4
 78,Starwort,922,https://github.com/Starwort,https://avatars.githubusercontent.com/u/16487249?v=4
 79,mikecheb,920,,https://avatars.githubusercontent.com/u/250171?v=4
-80,Waffle 3z,910,,https://lh3.googleusercontent.com/a/ALm5wu2CnA4T--DMVmJNV4UQr3Eg-ZMvQ97borQbpVat=s96-c
+80,Waffle,910,,https://lh3.googleusercontent.com/a/AEdFTp4Hs55lw8huJjZ5gop_ic5ZP41otuVjKo22vOTk=s96-c
 81,Joel Jonsson (AoC++),899,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
 82,Kevin Wang,889,https://github.com/VitamintK,https://avatars.githubusercontent.com/u/1139798?v=4
 83,(anonymous user #402645),888,,

@@ -621,7 +621,7 @@ Rank,Name,Score,Link,Avatar
 620,TylerNarmore (AoC++),88,https://github.com/TylerNarmore,https://avatars.githubusercontent.com/u/16112189?v=4
 620,rkallos,88,https://github.com/rkallos,https://avatars.githubusercontent.com/u/566433?v=4
 620,@apronchenkov,88,,http://pbs.twimg.com/profile_images/2713333225/624eeefefc647f9e05ee10cf3800222f.jpeg
-623,Kedirech,87,https://github.com/Kedirech,https://avatars.githubusercontent.com/u/786377?v=3
+623,Kedirech,87,https://github.com/BrackCarmony,https://avatars.githubusercontent.com/u/786377?v=4
 623,Lenny Morayniss,87,https://github.com/ldmoray,https://avatars.githubusercontent.com/u/5796707?v=4
 623,Vimda,87,,
 623,Jeremy,87,,https://avatars1.githubusercontent.com/u/3315798?v=4

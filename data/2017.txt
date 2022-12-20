@@ -238,7 +238,7 @@ Rank,Name,Score,Link,Avatar
 237,Jeffrey Considine,215,https://github.com/jconsidi,https://avatars1.githubusercontent.com/u/870970?v=4
 238,Алексей Дубровин,214,,https://lh3.googleusercontent.com/a-/AOh14GheT8zf_pcW1IKIldWI6xie2UPTxizkX2TADM_uSg=s96-c
 239,Nolan Michniewicz,211,,https://lh3.googleusercontent.com/a-/AOh14Ggzv5pYEDbl4quD-rlF1ZndesPBL19UIBQaXkC8=s96-c
-240,Gjosiah,209,,https://avatars.githubusercontent.com/u/6678278?v=4
+240,Addy,209,,https://avatars.githubusercontent.com/u/6678278?v=4
 240,Alex Crimi,209,,https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c
 240,Stephen,209,,https://avatars0.githubusercontent.com/u/1426848?v=4
 240,Joseph Laurendi,209,,https://avatars.githubusercontent.com/u/176302?v=4

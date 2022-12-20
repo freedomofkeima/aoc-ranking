@@ -276,7 +276,7 @@ Rank,Name,Score,Link,Avatar
 275,Alex Koay,177,,https://lh5.googleusercontent.com/-7XOxdwQNGP0/AAAAAAAAAAI/AAAAAAAAAZE/z4AL67v4Fqg/photo.jpg
 276,cushon,176,,https://avatars.githubusercontent.com/u/478458?v=4
 277,Jacob Wirth (AoC++),174,https://github.com/xthexder,https://avatars.githubusercontent.com/u/1594638?v=4
-278,Gjosiah,173,,https://avatars.githubusercontent.com/u/6678278?v=4
+278,Addy,173,,https://avatars.githubusercontent.com/u/6678278?v=4
 278,Allis IO,173,,https://lh6.googleusercontent.com/-ek06hjW1eZo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-jmh8VVlrz5mbkh73w4D3Z3y0UCgg/mo/photo.jpg
 280,Georgi Georgiev (AoC++),172,https://github.com/vuryss,https://avatars.githubusercontent.com/u/7021705?v=4
 281,Chris Breederveld,171,,https://lh3.googleusercontent.com/a/ALm5wu3KIpL_InQSAUjEfpwY4-rTKrBodoJgMElp75h24Q=s96-c
@@ -756,7 +756,7 @@ Rank,Name,Score,Link,Avatar
 754,nath,12,https://github.com/nath,https://avatars.githubusercontent.com/u/1922800?v=4
 754,Wunkolo,12,https://github.com/Wunkolo,https://avatars.githubusercontent.com/u/644247?v=4
 754,Joel Grus (AoC++),12,https://github.com/joelgrus,https://avatars.githubusercontent.com/u/1308313?v=4
-754,(anonymous user #401804),12,,
+754,nim-ka,12,https://github.com/nim-ka,https://avatars.githubusercontent.com/u/35317534?v=4
 754,@neruson,12,,http://pbs.twimg.com/profile_images/2580265177/zw5mv4gmi1wgi4wvg3e7.jpeg
 754,Derya,12,,https://avatars2.githubusercontent.com/u/3374003?v=4
 754,Josip Igrec (AoC++),12,https://github.com/Allypost,https://avatars.githubusercontent.com/u/5151543?v=4

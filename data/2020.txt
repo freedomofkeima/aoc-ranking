@@ -16,7 +16,7 @@ Rank,Name,Score,Link,Avatar
 15,jonathanpaulson (AoC++),2334,https://github.com/jonathanpaulson,https://avatars.githubusercontent.com/u/1028734?v=4
 16,bluepichu,2320,https://github.com/bluepichu,https://avatars.githubusercontent.com/u/1878074?v=4
 17,Nathan Fenner (AoC++),2297,https://github.com/Nathan-Fenner,https://avatars.githubusercontent.com/u/6179181?v=4
-18,D. Salgado,2284,,https://lh3.googleusercontent.com/a/ALm5wu3QPRHdNRjYEwQyPfPrDwJ3uniA5AAe-MYwy68m=s96-c
+18,D. Salgado,2284,,https://lh3.googleusercontent.com/a/AEdFTp6Rf0k5I5iJkIzBHbP6x6szW3reYjdke_LAIXyq=s96-c
 19,m-schm,2271,https://github.com/m-schm,https://avatars.githubusercontent.com/u/55513173?v=4
 20,Christopher Lambert,2233,,https://lh3.googleusercontent.com/a-/AOh14GjecAK0Sp7LBpVMKpMyjE9Enu2urXK-H7hySqOj=s96-c
 21,Antonio Molina,2150,,https://lh3.googleusercontent.com/a/AEdFTp4RNDwuPTM16jQl1Zg9xkEWMHmzZlELDnfowAmy=s96-c
@@ -27,7 +27,7 @@ Rank,Name,Score,Link,Avatar
 26,Vladislav Isenbaev,1893,,https://avatars.githubusercontent.com/u/734585?v=4
 27,huzecong,1881,https://github.com/huzecong,https://avatars.githubusercontent.com/u/5766101?v=4
 28,Martin Camacho (AoC++),1867,https://github.com/mcamac,https://avatars.githubusercontent.com/u/461009?v=4
-29,Carl Schildkraut,1846,,https://lh3.googleusercontent.com/a/ALm5wu34taS3lQqPdsjHT1-vlvw6R_UMG4kz5IjtL5fc=s96-c
+29,Carl Schildkraut,1846,,https://lh3.googleusercontent.com/a/AEdFTp6xcVr8aN0Xa9WRmxIv5yVDba8vRSc7oOaTBcwe=s96-c
 30,George Hotz,1768,https://github.com/geohot,https://avatars.githubusercontent.com/u/72895?v=4
 31,mserrano,1639,,https://avatars.githubusercontent.com/u/178065?v=4
 32,ZED.Charley William Thairo,1584,,https://avatars.githubusercontent.com/u/7867810?v=4
@@ -115,7 +115,7 @@ Rank,Name,Score,Link,Avatar
 113,icicl,547,,https://avatars.githubusercontent.com/u/37204445?v=4
 115,Thomas Feld,546,,https://lh3.googleusercontent.com/a/ALm5wu3kzsgAW_AoFbBwD2ELMM-rpRolx0diV2C3j6Cr=s96-c
 115,Kevin Wang (AoC++),546,https://github.com/VitamintK,https://avatars.githubusercontent.com/u/1139798?v=4
-117,Waffle 3z,544,,https://lh3.googleusercontent.com/a/ALm5wu2CnA4T--DMVmJNV4UQr3Eg-ZMvQ97borQbpVat=s96-c
+117,Waffle,544,,https://lh3.googleusercontent.com/a/AEdFTp4Hs55lw8huJjZ5gop_ic5ZP41otuVjKo22vOTk=s96-c
 118,(anonymous user #645585) (AoC++),542,,
 119,smartspot2,537,,https://avatars.githubusercontent.com/u/22699619?v=4
 120,katrinafyi (AoC++),534,https://github.com/katrinafyi,https://avatars.githubusercontent.com/u/39479354?v=4
@@ -452,7 +452,7 @@ Rank,Name,Score,Link,Avatar
 449,Jonathan Klabunde Tomer,81,,https://avatars.githubusercontent.com/u/7492685?v=4
 452,Alexander Pfanne (AoC++),80,https://github.com/Zeldacrafter,https://avatars.githubusercontent.com/u/25307916?v=4
 452,Jeffrey Massung,80,,https://lh3.googleusercontent.com/a-/AOh14GgKf0BHh2BSTIJr60jzuav73prleQsMnpOjYBivAg=s96-c
-452,Corrissa L Smith,80,,https://lh3.googleusercontent.com/a/ALm5wu3cjIXSL1JMiGcVLgUB4EJcbczM7SZuUHtEGMUY=s96-c
+452,Corrissa L Smith,80,,https://lh3.googleusercontent.com/a/AEdFTp6ZkfcwEN1sWJk-N-BWOu1KjwHz_VzsPc9-B5ZK=s96-c
 455,GeoffreyY,79,,https://avatars1.githubusercontent.com/u/16662434?v=4
 455,LogicalJoe,79,https://github.com/LogicalJoe,https://avatars.githubusercontent.com/u/47825483?v=4
 455,sschmitz,79,,https://avatars.githubusercontent.com/u/4200058?v=4

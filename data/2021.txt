@@ -20,11 +20,11 @@ Rank,Name,Score,Link,Avatar
 19,bluepichu,2158,https://github.com/bluepichu,https://avatars.githubusercontent.com/u/1878074?v=4
 20,Lewin Gan,2088,,https://lh3.googleusercontent.com/a/ALm5wu2ZsKR9-y0pixZOHkVNPzuga4e0CPPZ2e5lwdW-=s96-c
 21,nthistle,2080,https://github.com/nthistle,https://avatars.githubusercontent.com/u/11429656?v=4
-22,Carl Schildkraut,2076,,https://lh3.googleusercontent.com/a/ALm5wu34taS3lQqPdsjHT1-vlvw6R_UMG4kz5IjtL5fc=s96-c
+22,Carl Schildkraut,2076,,https://lh3.googleusercontent.com/a/AEdFTp6xcVr8aN0Xa9WRmxIv5yVDba8vRSc7oOaTBcwe=s96-c
 23,Nathan Fenner (AoC++),2074,https://github.com/Nathan-Fenner,https://avatars.githubusercontent.com/u/6179181?v=4
 24,mrphlip (AoC++),2069,https://github.com/mrphlip,https://avatars.githubusercontent.com/u/734414?v=4
 25,mcpower,2027,https://twitter.com/mcpowr,http://pbs.twimg.com/profile_images/540516549035978752/uxSXOmKr.png
-26,D. Salgado,2014,,https://lh3.googleusercontent.com/a/ALm5wu3QPRHdNRjYEwQyPfPrDwJ3uniA5AAe-MYwy68m=s96-c
+26,D. Salgado,2014,,https://lh3.googleusercontent.com/a/AEdFTp6Rf0k5I5iJkIzBHbP6x6szW3reYjdke_LAIXyq=s96-c
 27,Neal Wu (Sponsor),1891,https://github.com/nealwu,https://avatars.githubusercontent.com/u/726075?v=4
 28,Oskar Haarklou Veileborg (AoC++),1874,https://github.com/BarrensZeppelin,https://avatars.githubusercontent.com/u/2784791?v=4
 29,ZED.Charley William Thairo,1803,,https://avatars.githubusercontent.com/u/7867810?v=4
@@ -76,12 +76,12 @@ Rank,Name,Score,Link,Avatar
 75,Epiphane (AoC++),883,https://github.com/Epiphane,https://avatars.githubusercontent.com/u/2568722?v=4
 76,SanguineChameleon,880,,
 77,larry,871,,
-78,Waffle 3z,849,,https://lh3.googleusercontent.com/a/ALm5wu2CnA4T--DMVmJNV4UQr3Eg-ZMvQ97borQbpVat=s96-c
+78,Waffle,849,,https://lh3.googleusercontent.com/a/AEdFTp4Hs55lw8huJjZ5gop_ic5ZP41otuVjKo22vOTk=s96-c
 79,Erik Szalay,829,,https://lh3.googleusercontent.com/a/ALm5wu1KbTDVQhSOBroPHMILhYQXKB8UzEoLht9LinRh=s96-c
 80,Xavier Cooney,828,,https://lh3.googleusercontent.com/a/ALm5wu3mVBXodRtpsOGt0SDreoNyAGN-yc7i_moZqHdfHw=s96-c
 81,qpwoeirut,827,https://github.com/qpwoeirut,https://avatars.githubusercontent.com/u/19750159?v=4
 82,Roman Elizarov,821,https://github.com/elizarov,https://avatars.githubusercontent.com/u/478679?v=4
-83,(anonymous user #401804),816,,
+83,nim-ka,816,https://github.com/nim-ka,https://avatars.githubusercontent.com/u/35317534?v=4
 84,drebelsky,810,,https://avatars.githubusercontent.com/u/4641927?v=4
 85,Max Murin,806,,https://avatars.githubusercontent.com/u/18634257?v=4
 85,Alice 👩‍🎓 🌸,806,https://twitter.com/cdkrot,http://pbs.twimg.com/profile_images/1593969872685469697/qYytfvzX.jpg
@@ -332,7 +332,7 @@ Rank,Name,Score,Link,Avatar
 329,Lawrence Kesteloot (AoC++),149,,https://avatars.githubusercontent.com/u/419771?v=4
 332,pppery,148,https://github.com/pppery,https://avatars.githubusercontent.com/u/26449113?v=4
 332,Thomas Neill,148,,https://lh3.googleusercontent.com/a/ALm5wu3HEyK0VT62SYmB2V67ZP24Wc2IHVmZEV_qApEx=s96-c
-334,Shaan Keole,146,,https://lh3.googleusercontent.com/a/ALm5wu2aZjIlo2hcNv441A0-MhkabtBG-_YkLgfOyyNoWw=s96-c
+334,Shaan Keole,146,,https://lh3.googleusercontent.com/a/AEdFTp7dLL0V6PasfNk_8axKRhqfKNmRF9FtxpJUYajmxA=s96-c
 335,Toni Fadjukoff (AoC++),144,,https://avatars.githubusercontent.com/u/777453?v=4
 335,Victor Chen,144,,https://lh3.googleusercontent.com/a/AEdFTp5JlY25owOoliggRm1Db7scvpsQo55elWF_x1knBw=s96-c
 335,Paul Zagieboylo (AoC++),144,,https://lh3.googleusercontent.com/a/ALm5wu0pH-Fe7UjRBSfmgnSurFViV0N1V69AMO5ONfih=s96-c
@@ -996,7 +996,7 @@ Rank,Name,Score,Link,Avatar
 990,Joshua Martinez,3,,https://lh3.googleusercontent.com/a/ALm5wu2PTAEUyKz3WcMOjkSUUWCIb-WnZiTlwWEOSGV1qtE=s96-c
 990,Shane Mc Cormack (AoC++),3,https://github.com/ShaneMcC,https://avatars.githubusercontent.com/u/189723?v=4
 997,(anonymous user #1545252),2,,
-997,Corrissa L Smith,2,,https://lh3.googleusercontent.com/a/ALm5wu3cjIXSL1JMiGcVLgUB4EJcbczM7SZuUHtEGMUY=s96-c
+997,Corrissa L Smith,2,,https://lh3.googleusercontent.com/a/AEdFTp6ZkfcwEN1sWJk-N-BWOu1KjwHz_VzsPc9-B5ZK=s96-c
 997,Willem Kaufmann,2,https://github.com/WillemKauf,https://avatars.githubusercontent.com/u/7502731?v=4
 997,Katharine Berry,2,https://github.com/Katharine,https://avatars.githubusercontent.com/u/110792?v=4
 997,elmquist,2,https://github.com/elmquist,https://avatars.githubusercontent.com/u/85184?v=4
