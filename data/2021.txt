@@ -416,7 +416,7 @@ Rank,Name,Score,Link,Avatar
 414,kg,105,,https://avatars.githubusercontent.com/u/504545?v=4
 414,Kirk Spaziani (AoC++),105,,https://lh3.googleusercontent.com/a/ALm5wu0FrWzslPyPhWRkd_cXgM9BZROtApue3KAi0bE=s96-c
 417,Anand Oza,104,,https://lh3.googleusercontent.com/a-/AOh14GgRjjiOjL8U4eExkfOqXQ098ltT-4F4Rfz56LXwNH4=s96-c
-417,James Berglund,104,,https://lh3.googleusercontent.com/a/ALm5wu046ybEzbuVq5eIWGAcYCwoL61OJzhiYcfFZqKu=s96-c
+417,James Berglund,104,,https://lh3.googleusercontent.com/a/AEdFTp6Z1oN5mLkPe9pau-YkGfNfhax2YFyhE6HjZSQY=s96-c
 417,Aiden Sweezey,104,,https://lh3.googleusercontent.com/a/AATXAJwf8obG1cg8b93P6c_-mvhuc6yTmLZKQZ4Rqnnv=s96-c
 417,AhmadBarhamje,104,,https://avatars.githubusercontent.com/u/17495310?v=4
 417,(anonymous user #371225),104,,
@@ -1002,7 +1002,7 @@ Rank,Name,Score,Link,Avatar
 997,elmquist,2,https://github.com/elmquist,https://avatars.githubusercontent.com/u/85184?v=4
 997,Ben,2,,https://avatars.githubusercontent.com/u/66845228?v=4
 997,Maj Stenmark,2,,https://avatars.githubusercontent.com/u/34193547?v=4
-997,Christopher Trew,2,,https://lh3.googleusercontent.com/a/ALm5wu3VB0aw_NxpuuC3fEvbZ6Rdk8TINDEdcnx0NimvNw=s96-c
+997,Christopher Trew,2,,https://lh3.googleusercontent.com/a/AEdFTp4BXSinDAdxm3TWStl6FtMvAZ0cArJqx0L8XhG2zA=s96-c
 997,Justin Kulikauskas,2,https://github.com/JustinKuli,https://avatars.githubusercontent.com/u/44813129?v=4
 997,Dawn Chen,2,,https://lh3.googleusercontent.com/a/ALm5wu22Q1fi7g_cOD40zHNb7qBlOnroLVcDpS0O4R-9cw=s96-c
 1007,HeyItsBATMAN (AoC++),1,https://github.com/HeyItsBATMAN,https://avatars.githubusercontent.com/u/1042382?v=4

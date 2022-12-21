@@ -429,7 +429,7 @@ Rank,Name,Score,Link,Avatar
 428,Rohan Jadvani,89,https://github.com/rohanjadvani,https://avatars.githubusercontent.com/u/5459049?v=4
 428,Michal Maršálek,89,,https://lh3.googleusercontent.com/a/AEdFTp5UA5GdTw1tJHPotjisvU6UAzZRMIqfefJyGr8=s96-c
 428,Jonathan Rupp (AoC++),89,https://github.com/jorupp,https://avatars.githubusercontent.com/u/3874909?v=4
-431,Darwin,88,,https://lh3.googleusercontent.com/a/ALm5wu28cKae2eZkPVYbXc3pacXFHS7DFLCIhdmK4qyR=s96-c
+431,Darwin,88,,https://lh3.googleusercontent.com/a/AEdFTp7v1AI_Jhpd83YWgkLfFaOtaDzfXi7upck1sQ3l=s96-c
 431,(anonymous user #1322744),88,,
 433,Justin Kaufman (AoC++),87,https://github.com/akaritakai,https://avatars.githubusercontent.com/u/2447416?v=4
 433,mayoff (AoC++),87,https://github.com/mayoff,https://avatars.githubusercontent.com/u/247531?v=4
@@ -567,7 +567,7 @@ Rank,Name,Score,Link,Avatar
 565,Icantknow,47,,https://avatars.githubusercontent.com/u/34726550?v=4
 565,robinhouston,47,https://github.com/robinhouston,https://avatars.githubusercontent.com/u/103315?v=4
 565,@LaughLax,47,,http://pbs.twimg.com/profile_images/911352109844512768/2jtCwX7c.jpg
-565,James Berglund,47,,https://lh3.googleusercontent.com/a/ALm5wu046ybEzbuVq5eIWGAcYCwoL61OJzhiYcfFZqKu=s96-c
+565,James Berglund,47,,https://lh3.googleusercontent.com/a/AEdFTp6Z1oN5mLkPe9pau-YkGfNfhax2YFyhE6HjZSQY=s96-c
 570,(anonymous user #289486),46,,
 570,Fredrik Østrem,46,https://github.com/frxstrem,https://avatars.githubusercontent.com/u/1686349?v=4
 570,Shane Mc Cormack (AoC++),46,https://github.com/ShaneMcC,https://avatars.githubusercontent.com/u/189723?v=4
@@ -758,7 +758,7 @@ Rank,Name,Score,Link,Avatar
 755,sirNikolai,18,https://github.com/nikgil,https://avatars.githubusercontent.com/u/1833579?v=4
 755,Rich Hogg (AoC++),18,,https://lh3.googleusercontent.com/a/AEdFTp71AmpgyXxvG6GZEd2m83jg4W1nbG2TR2CNpYv2=s96-c
 755,clubPenguin420,18,https://github.com/clubPenguin420,https://avatars.githubusercontent.com/u/42702641?v=4
-755,I can't code.,18,,https://avatars.githubusercontent.com/u/58494144?v=4
+755,BroncosTragic,18,,https://avatars.githubusercontent.com/u/58494144?v=4
 755,smorgenthau1,18,,https://avatars.githubusercontent.com/u/58318839?v=4
 762,Sarah Shader,17,,https://lh3.googleusercontent.com/a/AEdFTp6Rh3wh0bVdQR9C8A5sXNiuZDaBqaeqF9T74mm8=s96-c
 762,FrozenDude101 (AoC++),17,https://github.com/FrozenDude101,https://avatars.githubusercontent.com/u/69700997?v=4

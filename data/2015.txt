@@ -613,7 +613,7 @@ Rank,Name,Score,Link,Avatar
 612,Clifford Duke,91,,https://lh6.googleusercontent.com/-oOczxXXOdTA/AAAAAAAAAAI/AAAAAAAAFIs/3IofIi7WpJY/photo.jpg
 612,(anonymous user #288),91,,
 612,jweinberg,91,https://github.com/jweinberg,https://avatars.githubusercontent.com/u/124000?v=4
-612,Scott Emerson,91,,https://lh3.googleusercontent.com/a-/AOh14GiBgU8j0xzClQW_hqH-eEMXA5cYKxcmeqo3rn2FsA=s96-c
+612,Scott Emerson,91,,https://lh3.googleusercontent.com/a/AEdFTp5eJmtnBON07LsvsXx3SThF1mzO-unmzjxOgHQMkg=s96-c
 616,J N,90,https://github.com/rinfz,https://avatars.githubusercontent.com/u/2554158?v=4
 617,blindwaves,89,,
 617,maxdunlop,89,,https://avatars.githubusercontent.com/u/5532562?v=3
