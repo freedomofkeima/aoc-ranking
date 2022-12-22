@@ -121,7 +121,7 @@ Rank,Name,Score,Link,Avatar
 120,Cyrille Karmann,576,,https://lh3.googleusercontent.com/a-/AOh14GhxGy13KWHYR6bMLloEYlUdjvppIV65EYHlRZUAPA=s96-c
 121,Roderic Day,572,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
 122,divergentdave,565,https://github.com/divergentdave,https://avatars1.githubusercontent.com/u/181772?v=4
-123,Colton Pauderis,564,,https://lh3.googleusercontent.com/a/ALm5wu0bVWUNjKqnrmjVCf_Q_qwchnfYoPyMjeT1T2nH=s96-c
+123,Colton Pauderis,564,,https://lh3.googleusercontent.com/a/AEdFTp4pCrbkStiINbN1VfOlFqiVMtYaiKbjFsTgKgkV=s96-c
 123,Benoit Hiller,564,https://github.com/BenoitHiller,https://avatars3.githubusercontent.com/u/843247?v=4
 125,Antti Haapala (AoC++),563,https://github.com/ztane,https://avatars.githubusercontent.com/u/704200?v=4
 126,Shemetz (AoC++),538,,

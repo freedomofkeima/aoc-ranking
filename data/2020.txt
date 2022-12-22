@@ -104,7 +104,7 @@ Rank,Name,Score,Link,Avatar
 103,jes,585,https://github.com/jes,https://avatars.githubusercontent.com/u/297425?v=4
 104,Sp3000,578,,https://lh3.googleusercontent.com/a/ALm5wu007MmDtvGgeWkqMZMCL2RHaQsg_dit2Ofa6YvjhA=s96-c
 105,ManyPinkHats,575,,http://pbs.twimg.com/profile_images/881506067963797504/6jJCCNTX.jpg
-106,Erik Amirell Eklöf (Eae02),572,,https://lh3.googleusercontent.com/a/ALm5wu0qL-V4AuwuixcIMt7_bX4bS_XQwRDKCECnNK_SqA=s96-c
+106,Erik Amirell Eklöf (Eae02),572,,https://lh3.googleusercontent.com/a/AEdFTp5WA2RB7-lb_XMudrwyq759-feHBABf9auyzE94xA=s96-c
 107,coolcomputery,571,https://github.com/coolcomputery,https://avatars.githubusercontent.com/u/52200199?v=4
 108,monster860,570,https://github.com/monster860,https://avatars2.githubusercontent.com/u/3681297?v=4
 109,Timothy Elling,569,,https://lh3.googleusercontent.com/a/AEdFTp6yjZw_2rogbuIrawBTNWM-2swFBLqKTlnFTYVzLpE=s96-c
@@ -141,7 +141,7 @@ Rank,Name,Score,Link,Avatar
 140,(anonymous user #912684),467,,
 141,MarshallOfSound,465,https://github.com/MarshallOfSound,https://avatars.githubusercontent.com/u/6634592?v=4
 141,Alex Oro,465,,https://lh3.googleusercontent.com/a/ALm5wu12jWjg7C0aoptDm2xw3xapXvqkSX30lGtUVD77=s96-c
-143,Colton Pauderis (AoC++),463,,https://lh3.googleusercontent.com/a/ALm5wu0bVWUNjKqnrmjVCf_Q_qwchnfYoPyMjeT1T2nH=s96-c
+143,Colton Pauderis (AoC++),463,,https://lh3.googleusercontent.com/a/AEdFTp4pCrbkStiINbN1VfOlFqiVMtYaiKbjFsTgKgkV=s96-c
 144,LyricLy,462,https://github.com/LyricLy,https://avatars.githubusercontent.com/u/8314814?v=4
 145,Matt Gruskin (AoC++),452,,https://lh3.googleusercontent.com/a/AEdFTp44-xyWK8DrTruL4cIBsrUIsbe2KhOMufqf0eZl6g=s96-c
 146,T6,448,https://github.com/tjjfvi,https://avatars.githubusercontent.com/u/44031566?v=4
@@ -386,7 +386,7 @@ Rank,Name,Score,Link,Avatar
 385,Ivan Lyzhin,108,https://github.com/LyzhinIvan,https://avatars.githubusercontent.com/u/6265308?v=4
 386,Cam McKinnon,107,,https://lh3.googleusercontent.com/a-/AOh14GiirWWCKtudiLLJZl9HgOFqByHigbs1jGI1SBc_=s96-c
 386,JuanPotato,107,https://github.com/JuanPotato,https://avatars.githubusercontent.com/u/9531780?v=4
-388,Mike Marcelais (AoC++),106,,https://lh3.googleusercontent.com/a/ALm5wu0ZNEFRFvBQczvj9FkK6mUHqFEufdjFJQ2Ow8uQ=s96-c
+388,Mike Marcelais (AoC++),106,,https://lh3.googleusercontent.com/a/AEdFTp50yDmnCD_gqgaABDW9DXqtEaQQ60RP8dgek-OX=s96-c
 389,Ross Dempsey,103,,https://lh6.googleusercontent.com/-cReWyYwB0eY/AAAAAAAAAAI/AAAAAAAAEyc/AMZuucnq9PL08gNsHQwoVJXqNAoFpdvTww/s96-c/photo.jpg
 389,sonata «pathétique»,103,https://github.com/sonataop13,https://avatars.githubusercontent.com/u/66851124?v=4
 391,Stephen Longfield (AoC++),102,,https://lh3.googleusercontent.com/a-/AOh14Gj7QfMfCe9P18Q4bWQAgT9fJqHaFqk8P2gqP2X8sg=s96-c
@@ -410,7 +410,7 @@ Rank,Name,Score,Link,Avatar
 408,Ian Steptoe,95,,https://avatars.githubusercontent.com/u/40774387?v=4
 410,Kate Miháliková (AoC++),94,https://github.com/katemihalikova,https://avatars.githubusercontent.com/u/7225023?v=4
 410,kejadlen (AoC++),94,https://github.com/kejadlen,https://avatars.githubusercontent.com/u/8639?v=4
-410,🌁🚑,94,,https://lh3.googleusercontent.com/a/ALm5wu04U-DV9wi11RYD4C_x3cGO6MSZlYVJGcwRdGor=s96-c
+410,🌁🚑,94,,https://lh3.googleusercontent.com/a/AEdFTp4pOJVypYM9wX195bl3VHOMrOs6mJe39CfbX9aJ=s96-c
 413,(anonymous user #289309),93,,
 413,Félix Breton,93,,https://avatars.githubusercontent.com/u/16157109?v=4
 413,Paolo (AoC++),93,,https://avatars.githubusercontent.com/u/2104122?v=4
@@ -844,7 +844,7 @@ Rank,Name,Score,Link,Avatar
 843,devast8a,4,https://github.com/devast8a,https://avatars.githubusercontent.com/u/450822?v=4
 843,Unum,4,,https://avatars2.githubusercontent.com/u/33045716?v=4
 843,danvolchek (AoC++),4,https://github.com/danvolchek,https://avatars.githubusercontent.com/u/21993469?v=4
-843,Paul Zagieboylo,4,,https://lh3.googleusercontent.com/a/ALm5wu0pH-Fe7UjRBSfmgnSurFViV0N1V69AMO5ONfih=s96-c
+843,Paul Zagieboylo,4,,https://lh3.googleusercontent.com/a/AEdFTp5hIaqVqycRSY0Vd3EZPyYk_0HNV0sFUmbJTn55=s96-c
 843,Nanthelas1,4,,https://avatars.githubusercontent.com/u/119718737?v=4
 843,docd27,4,https://github.com/docd27,https://avatars0.githubusercontent.com/u/58469465?v=4
 843,lewinski (AoC++),4,https://github.com/lewinski,https://avatars.githubusercontent.com/u/61409?v=4

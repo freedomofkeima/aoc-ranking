@@ -30,7 +30,7 @@ Rank,Name,Score,Link,Avatar
 29,Andy Rock,1592,,https://avatars1.githubusercontent.com/u/7538433?v=4
 30,Ben Mirtchouk,1556,,https://lh3.googleusercontent.com/a-/AAuE7mBpQZY5NAqTVNKWpLyhm8WY9nggp4bo07XftbgZ
 31,Joel Jonsson (AoC++),1555,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
-32,Colton Pauderis,1501,,https://lh3.googleusercontent.com/a/ALm5wu0bVWUNjKqnrmjVCf_Q_qwchnfYoPyMjeT1T2nH=s96-c
+32,Colton Pauderis,1501,,https://lh3.googleusercontent.com/a/AEdFTp4pCrbkStiINbN1VfOlFqiVMtYaiKbjFsTgKgkV=s96-c
 33,Andreas Hansson,1497,,https://lh3.googleusercontent.com/-HoDEorQkRBs/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnV_on7WytqzWfyz-oFjQGsCOoxLA/s96-c/photo.jpg
 34,Jay Foad (AoC++),1475,https://github.com/jayfoad,https://avatars.githubusercontent.com/u/108316?v=4
 35,Jonathan Rupp (AoC++),1470,https://github.com/jorupp,https://avatars.githubusercontent.com/u/3874909?v=4
@@ -95,7 +95,7 @@ Rank,Name,Score,Link,Avatar
 94,(anonymous user #230381),746,,
 95,Unihedron (AoC++),741,https://github.com/Unihedro,https://avatars.githubusercontent.com/u/5595067?v=4
 96,aropan,737,,https://avatars.githubusercontent.com/u/1968460?v=4
-97,Erik Amirell Eklöf (Eae02),735,,https://lh3.googleusercontent.com/a/ALm5wu0qL-V4AuwuixcIMt7_bX4bS_XQwRDKCECnNK_SqA=s96-c
+97,Erik Amirell Eklöf (Eae02),735,,https://lh3.googleusercontent.com/a/AEdFTp5WA2RB7-lb_XMudrwyq759-feHBABf9auyzE94xA=s96-c
 98,huzecong,733,https://github.com/huzecong,https://avatars.githubusercontent.com/u/5766101?v=4
 99,m4tx,729,https://github.com/m4tx,https://avatars.githubusercontent.com/u/3128220?v=4
 100,Tigran Saluev,723,https://github.com/Saluev,https://avatars0.githubusercontent.com/u/2435301?v=4

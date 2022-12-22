@@ -194,7 +194,7 @@ Rank,Name,Score,Link,Avatar
 191,tonyta,358,https://github.com/tonyta,https://avatars.githubusercontent.com/u/5795302?v=4
 194,aburnson,357,https://github.com/aburnson,https://avatars.githubusercontent.com/u/9678001?v=3
 195,Константин К,356,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
-196,Dwayne Towell,352,,https://lh3.googleusercontent.com/a/ALm5wu3J7HIUma5CShnb58JaB4GDinOTG_f76vIY_N-vkQ=s96-c
+196,Dwayne Towell,352,,https://lh3.googleusercontent.com/a/AEdFTp6zYbENLw-JaXy7T3P2f_R1FrlQm-d5kqlbFc9lew=s96-c
 197,Frank Chu,351,,https://lh5.googleusercontent.com/-LZFeXDzsjQw/AAAAAAAAAAI/AAAAAAAAfH4/pmdv84POaJI/photo.jpg
 198,gchan,350,https://github.com/gchan,https://avatars.githubusercontent.com/u/1182969?v=4
 199,Lincoln Atkinson,346,https://twitter.com/LincolnAtkinson,http://pbs.twimg.com/profile_images/526621402560876546/u1bGsHl-.jpeg
@@ -266,7 +266,7 @@ Rank,Name,Score,Link,Avatar
 264,bd808,264,https://github.com/bd808,https://avatars.githubusercontent.com/u/6469?v=3
 266,this_commutes,260,,
 267,(anonymous user #23103),259,,
-268,Johnny Owens,258,,https://lh3.googleusercontent.com/a/ALm5wu0iAO5XEfx64EuZJHKrL0n0kovHVhE3Sz_OQmP1qQ=s96-c
+268,Johnny Owens,258,,https://lh3.googleusercontent.com/a/AEdFTp5BjmNQJ9KZ8SecRFSqdgJES0ahFmiMreFtQ52pGQ=s96-c
 269,fnuttplus,255,,https://avatars.githubusercontent.com/u/4671570?v=4
 270,@jsbluethree,254,https://twitter.com/jsbluethree,http://pbs.twimg.com/profile_images/667830516641603588/Qr58sw_t.png
 270,Hugh Brown,254,https://github.com/hughdbrown,https://avatars.githubusercontent.com/u/90322?v=4
@@ -1011,7 +1011,7 @@ Rank,Name,Score,Link,Avatar
 1005,bretik,2,,https://avatars.githubusercontent.com/u/649117?v=4
 1005,Antti Kangasrääsiö,2,,https://lh3.googleusercontent.com/-dNPFB7_Gnpw/AAAAAAAAAAI/AAAAAAAAB6w/YSjTvu3giwc/photo.jpg
 1005,Aaron Keller,2,,https://lh6.googleusercontent.com/-kWWMIFKtRag/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-iF4ciNl4n0wkY6qw7dkrkjOfBN1A/mo/photo.jpg
-1005,Patrick Braasch,2,,https://lh3.googleusercontent.com/a-/AOh14GhiDJuXRI-yaPuNGqkG94UFra_gCdIk69wGIBSCCg=s96-c
+1005,Patrick Braasch,2,,https://lh3.googleusercontent.com/a/AEdFTp79FyiBrpQczRW2N5E9mDAFcxE7OAf6f6lt4bEtNw=s96-c
 1014,(anonymous user #540),1,,
 1014,kradical,1,https://github.com/kradical,https://avatars.githubusercontent.com/u/9980985?v=4
 1014,leSpectre,1,,
