@@ -203,7 +203,7 @@ Rank,Name,Score,Link,Avatar
 201,jeremyyap,339,https://github.com/jeremyyap,https://avatars.githubusercontent.com/u/4056819?v=4
 203,Sampriti Panda,335,https://github.com/sampritipanda,https://avatars.githubusercontent.com/u/1736001?v=4
 204,Roderic Day,334,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
-205,Chad Keever,333,,https://lh3.googleusercontent.com/a/ALm5wu0Y7oiindW3fQZKZhQXQEV2M7u-Efl656NraA_p=s96-c
+205,Chad Keever,333,,https://lh3.googleusercontent.com/a/AEdFTp5uwNK182fC4FLDBbAhhbnVA0o7mp_gTNOwxUpB=s96-c
 206,jorendorff (AoC++),332,https://github.com/jorendorff,https://avatars.githubusercontent.com/u/283361?v=4
 207,Asger Hautop Drewsen (AoC++),331,https://github.com/tyilo,https://avatars.githubusercontent.com/u/568036?v=4
 208,ncfavier,330,https://github.com/ncfavier,https://avatars.githubusercontent.com/u/4323933?v=4
@@ -599,7 +599,7 @@ Rank,Name,Score,Link,Avatar
 594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/AEdFTp7cbAybf33vc1TSTfSyBDnnTDqudVoO17mwqFbA=s96-c
 594,(anonymous user #772758),46,,
 600,triazo,45,,https://avatars.githubusercontent.com/u/6687043?v=4
-600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ALm5wu14NUM84W_IU9R5eY7qav2aQDoXAeTWrmbEKpMTZw=s96-c
+600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/AEdFTp5DidL8ZXygOhNWse14WaI-9Ew0m-RuZpwYCqe97g=s96-c
 600,Jonathan Soo,45,,https://lh3.googleusercontent.com/a/AEdFTp75WCq39fUu1Ld65_ot09eC8vofclJU8Ge-FQ4R5Q=s96-c
 600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/-WDG1tBDgcdg/AAAAAAAAAAI/AAAAAAAAEao/AMZuuckBOOE-tIJqjTgtnkJHKtl9QK-uYg/s96-c/photo.jpg
 600,mebeim (AoC++),45,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4

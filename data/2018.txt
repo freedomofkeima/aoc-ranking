@@ -240,7 +240,7 @@ Rank,Name,Score,Link,Avatar
 239,kejadlen (AoC++),212,https://github.com/kejadlen,https://avatars.githubusercontent.com/u/8639?v=4
 239,LukasGelbmann,212,https://github.com/LukasGelbmann,https://avatars.githubusercontent.com/u/34147627?v=4
 239,Jonathan Skeate,212,,https://lh5.googleusercontent.com/-cBtwcDSF3iA/AAAAAAAAAAI/AAAAAAAAABI/EDi9K26Ps2E/photo.jpg
-242,Daniel Martin,211,,https://lh3.googleusercontent.com/a/ALm5wu3C4uYVk_uWgUcPjxr6prjju39yOxzMTcRAoh9IXlU=s96-c
+242,Daniel Martin,211,,https://lh3.googleusercontent.com/a/AEdFTp7pPI4NC0QRMqZgsN5Jzjjpt733z6eH0j--1YSL0TA=s96-c
 243,Mark Sherry (AoC++),210,,https://lh3.googleusercontent.com/a/ALm5wu3j8J2OFH2SQ8sFWgrsvPHZsGqT4AKoLr5ZrnShFA=s96-c
 244,boogie,209,https://github.com/boogie,https://avatars.githubusercontent.com/u/99414?v=4
 245,mispy,208,https://github.com/mispy,https://avatars1.githubusercontent.com/u/3055384?v=4

@@ -469,7 +469,7 @@ Rank,Name,Score,Link,Avatar
 467,algmyr,75,https://github.com/algmyr,https://avatars.githubusercontent.com/u/15268706?v=4
 467,Gymhgy,75,https://github.com/Gymhgy,https://avatars.githubusercontent.com/u/49801033?v=4
 467,Ben Frankel,75,,https://avatars1.githubusercontent.com/u/12173779?v=4
-467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a/ALm5wu0f4_-rBCW0tLlEC8VrmqLLkkV3JmarPd3vihJc1Q=s96-c
+467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a/AEdFTp4kHRMEovYynn4X50a8oFCvvS4HCyUnuT0qHdBzWg=s96-c
 467,pazabo,75,,https://avatars3.githubusercontent.com/u/222909?v=4
 467,Albert Chu,75,,https://lh3.googleusercontent.com/a-/AOh14Gh9_fm972c_JBBhZc6qiEivY3aOnqhKMaqtAPQ6dQ=s96-c
 474,Christian Stober (AoC++),74,,https://avatars.githubusercontent.com/u/5249057?v=4
