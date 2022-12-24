@@ -11,7 +11,7 @@ Rank,Name,Score,Link,Avatar
 10,Tris Emmy Wilson (AoC++),2563,https://github.com/an-empty-string,https://avatars.githubusercontent.com/u/681716?v=4
 11,Kevin Yap (AoC++),2546,https://github.com/iKevinY,https://avatars.githubusercontent.com/u/2434728?v=4
 12,(anonymous user #119362),2518,,
-13,Samuel Damashek (AoC++),2462,,https://lh4.googleusercontent.com/-UbeoVC7ItAg/AAAAAAAAAAI/AAAAAAAAXHs/BR-xGMPVyhM/photo.jpg
+13,Samuel Damashek (AoC++),2462,,https://lh3.googleusercontent.com/a/AEdFTp5yrRFyn5T50EDRO_uE3crgeBsT_sqkFyp9pHV3mi8=s96-c
 14,glguy (AoC++),2444,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
 15,SimonPrins (AoC++),2393,,https://avatars.githubusercontent.com/u/6427655?v=4
 16,arknave,2222,https://github.com/arknave,https://avatars.githubusercontent.com/u/1834647?v=4
@@ -41,7 +41,7 @@ Rank,Name,Score,Link,Avatar
 40,blockingthesky (AoC++),1499,,https://avatars.githubusercontent.com/u/12565536?v=4
 41,drougge,1480,https://github.com/drougge,https://avatars.githubusercontent.com/u/541703?v=4
 42,CJ,1464,,https://lh3.googleusercontent.com/-c7Nf-9ailJw/AAAAAAAAAAI/AAAAAAAAEBQ/ZasArXXzcXo/photo.jpg
-43,Stuart MacGillivray (AoC++),1426,,https://lh3.googleusercontent.com/a/ALm5wu0lRSC2kFCxDjysogJpNiUfqOZ6K1H8e5cGKGb1=s96-c
+43,Stuart MacGillivray (AoC++),1426,,https://lh3.googleusercontent.com/a/AEdFTp6HhALKtAxI6dYV8FdkYH4t02_BvuBe52CxGImV=s96-c
 44,Conrad Meyer,1422,https://github.com/cemeyer,https://avatars.githubusercontent.com/u/124738?v=4
 45,marcusstuhr,1372,,
 46,Joshua Berne,1343,,https://lh3.googleusercontent.com/a/AEdFTp60B-3vEejejVaCWYvF9jQVeFeOMA-Vad27sE2b=s96-c

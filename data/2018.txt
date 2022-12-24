@@ -41,7 +41,7 @@ Rank,Name,Score,Link,Avatar
 40,Tris Emmy Wilson (AoC++),1301,https://github.com/an-empty-string,https://avatars.githubusercontent.com/u/681716?v=4
 41,Alexander Udalov,1287,https://github.com/udalov,https://avatars.githubusercontent.com/u/292714?v=4
 42,etotheipi1,1283,,
-43,Sophie Alpert (AoC++),1271,https://twitter.com/sophiebits,http://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg
+43,Sophie Alpert (AoC++),1271,https://github.com/sophiebits,https://avatars.githubusercontent.com/u/6820?v=4
 44,David Pritchard (AoC++),1269,,https://lh6.googleusercontent.com/-CoazuQiTTdY/AAAAAAAAAAI/AAAAAAAAKdI/Y_XFHRMtP-A/photo.jpg
 45,drysle,1263,,
 46,VeeArr (AoC++),1253,,
@@ -193,7 +193,7 @@ Rank,Name,Score,Link,Avatar
 192,Michael Spencer,286,https://github.com/iBelieve,https://avatars.githubusercontent.com/u/3230912?v=4
 193,ruuddotorg,285,,https://avatars.githubusercontent.com/u/3401028?v=4
 194,Martyn Smith (AoC++),280,,https://avatars.githubusercontent.com/u/276501?v=4
-195,Branimir Filipović,278,,https://lh3.googleusercontent.com/a/ALm5wu1gdSj211hBTegzyCNXVSA67ri-eAWNw21ZB4qI9w=s96-c
+195,Branimir Filipović,278,,https://lh3.googleusercontent.com/a/AEdFTp52y3b7MJBgJTVsgiPOHsiqm-XCqZSHVhq3ueCu4w=s96-c
 196,Matt Boehm (AoC++),277,,https://lh3.googleusercontent.com/a-/AOh14Gg16To8SVmE0T_e5qyZqzL4s8OqFtt1y3bWI_H8WQ=s96-c
 197,Winston Ewert,276,,https://lh3.googleusercontent.com/a/ALm5wu1BYSnkWWaVEXQMfcCDB19rFOQW-AIoXuDz1EsN2w=s96-c
 198,(anonymous user #505111),275,,
@@ -612,7 +612,7 @@ Rank,Name,Score,Link,Avatar
 608,advanced_caveman,35,,
 608,SamWheating (AoC++),35,https://github.com/SamWheating,https://avatars.githubusercontent.com/u/16950874?v=4
 613,John Lopez (AoC++),34,,https://lh3.googleusercontent.com/a/ALm5wu0ojR3LlHjKHu3FTH5cZxcsZFo0MMMVgNBkq6-ZcQ=s96-c
-613,Xin Wei Chow,34,,https://lh3.googleusercontent.com/a/ALm5wu09g0zUtXyS_SOnJJlOFmPJq3mCQN4CYbC2Aeq2sQ=s96-c
+613,Xin Wei Chow,34,,https://lh3.googleusercontent.com/a/AEdFTp5Fr3B5a0SXzAPTI_xui1s1OZhe8ZFtKGvTJyuZUg=s96-c
 613,tony chang (AoC++),34,https://github.com/idealisms,https://avatars.githubusercontent.com/u/175378?v=4
 613,darkterbear (AoC++),34,https://github.com/darkterbear,https://avatars.githubusercontent.com/u/8009289?v=4
 613,EdwarDDay,34,https://github.com/EdwarDDay,https://avatars3.githubusercontent.com/u/4127904?v=4

@@ -5,7 +5,7 @@ Rank,Name,Score,Link,Avatar
 4,zielmicha,3159,https://github.com/zielmicha,https://avatars.githubusercontent.com/u/364357?v=4
 5,bluepichu,3124,https://github.com/bluepichu,https://avatars.githubusercontent.com/u/1878074?v=4
 6,tckmn,3009,https://github.com/tckmn,https://avatars.githubusercontent.com/u/2389333?v=4
-7,Sophie Alpert (AoC++),2956,https://twitter.com/sophiebits,http://pbs.twimg.com/profile_images/1396684030913830912/pMZ4ENby.jpg
+7,Sophie Alpert (AoC++),2956,https://github.com/sophiebits,https://avatars.githubusercontent.com/u/6820?v=4
 8,Robert Xiao,2882,https://github.com/nneonneo,https://avatars.githubusercontent.com/u/75449?v=4
 9,Kevin Sun,2645,,https://lh3.googleusercontent.com/a/AEdFTp7Rt7cQqd8Ta8dZNgit-cjOUveg6BoNZ13Ytt-rjA=s96-c
 10,glguy (AoC++),2569,https://github.com/glguy,https://avatars.githubusercontent.com/u/12164?v=4
@@ -231,7 +231,7 @@ Rank,Name,Score,Link,Avatar
 230,scaredginger,264,,https://avatars.githubusercontent.com/u/14135445?v=4
 231,jcmoyer,261,https://github.com/jcmoyer,https://avatars.githubusercontent.com/u/1007628?v=4
 232,Kevin Yim,260,,https://lh5.googleusercontent.com/-dxYjff5myv4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8nNs89rmY9LTsog2J9JAmnWJdhA/photo.jpg
-233,Branimir Filipović,259,,https://lh3.googleusercontent.com/a/ALm5wu1gdSj211hBTegzyCNXVSA67ri-eAWNw21ZB4qI9w=s96-c
+233,Branimir Filipović,259,,https://lh3.googleusercontent.com/a/AEdFTp52y3b7MJBgJTVsgiPOHsiqm-XCqZSHVhq3ueCu4w=s96-c
 233,bwakell,259,https://github.com/bwakell,https://avatars.githubusercontent.com/u/1362321?v=4
 235,Sviridov Sergey,253,https://github.com/sviridovs,https://avatars.githubusercontent.com/u/1692150?v=4
 236,ephemient (AoC++),251,https://github.com/ephemient,https://avatars.githubusercontent.com/u/1057382?v=4

@@ -44,7 +44,7 @@ Rank,Name,Score,Link,Avatar
 43,Elliott Sales de Andrade,1063,https://github.com/QuLogic,https://avatars.githubusercontent.com/u/302469?v=4
 44,Caleb Robinson,1047,https://github.com/calebrob6,https://avatars.githubusercontent.com/u/1088078?v=4
 45,David Grenier,987,,https://lh4.googleusercontent.com/-ZVKoleb5SE0/AAAAAAAAAAI/AAAAAAAAAGU/cIXhAxdF5gQ/photo.jpg
-46,Stuart MacGillivray (AoC++),973,,https://lh3.googleusercontent.com/a/ALm5wu0lRSC2kFCxDjysogJpNiUfqOZ6K1H8e5cGKGb1=s96-c
+46,Stuart MacGillivray (AoC++),973,,https://lh3.googleusercontent.com/a/AEdFTp6HhALKtAxI6dYV8FdkYH4t02_BvuBe52CxGImV=s96-c
 47,jtbandes,972,https://github.com/jtbandes,https://avatars.githubusercontent.com/u/14237?v=4
 48,stringham,959,https://github.com/stringham,https://avatars.githubusercontent.com/u/1206952?v=4
 49,lukechampine,931,https://github.com/lukechampine,https://avatars.githubusercontent.com/u/3344749?v=4
@@ -278,7 +278,7 @@ Rank,Name,Score,Link,Avatar
 277,Jonathan J. Helmus,246,https://github.com/jjhelmus,https://avatars.githubusercontent.com/u/1050278?v=4
 278,Adam Pantel,244,,https://lh5.googleusercontent.com/-dPQAjPDOMm0/AAAAAAAAAAI/AAAAAAAAGgY/59Lrv1AvsRc/photo.jpg
 278,JoggyFrazzle,244,,
-278,Branimir Filipović,244,,https://lh3.googleusercontent.com/a/ALm5wu1gdSj211hBTegzyCNXVSA67ri-eAWNw21ZB4qI9w=s96-c
+278,Branimir Filipović,244,,https://lh3.googleusercontent.com/a/AEdFTp52y3b7MJBgJTVsgiPOHsiqm-XCqZSHVhq3ueCu4w=s96-c
 281,Adam Michaud,243,,https://lh3.googleusercontent.com/a-/AOh14GiBKgxz_weW0yUyAye_Jx9t3ICkc2VRNytDMNR4JA=s96-c
 281,Adam Forsyth,243,,https://lh3.googleusercontent.com/a/AATXAJw87XFz0M52qQ6pFUSwDFUa2A6chZOGBOdhdTNF=s96-c
 283,Domantas Jadenkus,242,,https://lh3.googleusercontent.com/a/ALm5wu31YkPVdI9MdB9LmrwcbESdjJi96ybdKEFMSWg2=s96-c
