@@ -683,7 +683,7 @@ Rank,Name,Score,Link,Avatar
 682,nevivurn,23,https://github.com/nevivurn,https://avatars.githubusercontent.com/u/7698349?v=4
 682,pbnjay,23,https://github.com/pbnjay,https://avatars.githubusercontent.com/u/161552?v=4
 682,mlc,23,https://github.com/mlc,https://avatars.githubusercontent.com/u/1211?v=4
-682,Avongard,23,,https://lh3.googleusercontent.com/a/ALm5wu0R86lVZ20zVwMRIgYxRuFFQEcNA0Ud9Zgsiy2r=s96-c
+682,Avongard,23,,https://lh3.googleusercontent.com/a/AEdFTp5Jqp2XVWt_RN2-_pzDvUI5qlmttnZMkq8ArRUB=s96-c
 682,James Jiang,23,,https://avatars.githubusercontent.com/u/35517309?v=4
 682,Chokladmunk,23,,https://avatars.githubusercontent.com/u/11578056?v=4
 682,LysanderGG,23,https://github.com/LysanderGG,https://avatars.githubusercontent.com/u/677006?v=4

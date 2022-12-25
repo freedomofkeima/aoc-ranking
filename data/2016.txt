@@ -483,7 +483,7 @@ Rank,Name,Score,Link,Avatar
 481,Adam Kimberlin,66,,https://lh3.googleusercontent.com/a/AEdFTp6BRnPxW9T-Wt4Ja7Wp3mFU4eHCwPXzjqCZCbn09A=s96-c
 481,Ben Soh,66,,https://avatars2.githubusercontent.com/u/11772455?v=4
 481,Mason Bially,66,https://github.com/mason-bially,https://avatars.githubusercontent.com/u/1072924?v=4
-485,João Salavisa,65,,https://lh3.googleusercontent.com/a/ALm5wu2pt5xFXRHNZW4KwPRoc1zwsMY04rWFN4YVhiMLSPw=s96-c
+485,João Salavisa,65,,https://lh3.googleusercontent.com/a/AEdFTp5M2Qn7oT-k5e_Qbliadhx_LwlCVVc0cggm4GsOPJI=s96-c
 485,Chandler Prall,65,,https://lh4.googleusercontent.com/-Woh6ZugqF7M/AAAAAAAAAAI/AAAAAAAAAEw/jR_PBy23bcw/photo.jpg
 485,(anonymous user #122079),65,,
 485,Jonah (AoC++),65,,https://avatars.githubusercontent.com/u/699684?v=4

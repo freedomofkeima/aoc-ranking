@@ -191,7 +191,7 @@ Rank,Name,Score,Link,Avatar
 190,Ikusaba-san,382,https://github.com/Ikusaba-san,https://avatars3.githubusercontent.com/u/23408775?v=4
 191,Daniel Taylor,369,,https://lh3.googleusercontent.com/a/AEdFTp59jXxWsURIFrsI145g4WCgfaN9ocoqIh1LAvYM=s96-c
 192,(anonymous user #385893),366,,
-193,(anonymous user #645585) (AoC++),364,,
+193,Ivan Galakhov (AoC++),364,https://github.com/igalakhov,https://avatars.githubusercontent.com/u/25856165?v=4
 194,sdamashek,359,https://github.com/sdamashek,https://avatars0.githubusercontent.com/u/2236303?v=4
 195,Kaynato,357,https://github.com/Kaynato,https://avatars0.githubusercontent.com/u/9996642?v=4
 196,Gabriel Kanegae,351,https://github.com/KanegaeGabriel,https://avatars.githubusercontent.com/u/10405276?v=4
@@ -214,7 +214,7 @@ Rank,Name,Score,Link,Avatar
 213,(anonymous user #233439),321,,
 214,Michael Grossfeld,319,,https://lh3.googleusercontent.com/a/AEdFTp4uzStsojMA912msvra6S2F9KkeCrIvtUe1BzV2aw=s96-c
 215,Elliot Nelson (AoC++),318,https://github.com/elliot-nelson,https://avatars.githubusercontent.com/u/58273?v=4
-216,Javier Marinkovic,316,,https://lh3.googleusercontent.com/a/ALm5wu1gSRvD-p_lt-97eTneQkqos_I0hx_tPRb-g17O=s96-c
+216,Javier Marinkovic,316,,https://lh3.googleusercontent.com/a/AEdFTp5kl_M5MhO3EFIH-Vi-5Eu1vGkQuZkEiF71-IC9=s96-c
 217,(anonymous user #18180),312,,
 218,(anonymous user #678753),309,,
 219,Matthew Ellsworth,308,,https://lh3.googleusercontent.com/a/AEdFTp4tqTJfTxv9bRpfAgZz3ArbPFs4LbFMMpNPAzPqDQ=s96-c
@@ -835,7 +835,7 @@ Rank,Name,Score,Link,Avatar
 833,Daniel Roy (AoC++),10,,https://lh3.googleusercontent.com/a/AEdFTp6eUw7uNfMx1VmB1DtICGVEpLm6mcxWtuOeUsuk=s96-c
 833,(anonymous user #643312),10,,
 833,(anonymous user #682404),10,,
-833,Анна Сентякова,10,,https://lh3.googleusercontent.com/a/ALm5wu3qeDUobnaUKtGolUQkGlZmrkvzcbPPEKhCYosu=s96-c
+833,Анна Сентякова,10,,https://lh3.googleusercontent.com/a/AEdFTp6yR7p_hW2KmHHluCm7QreC9EAC8SoXANL8o09f=s96-c
 833,Keith Wissing (AoC++),10,https://github.com/keithwissing,https://avatars.githubusercontent.com/u/1071094?v=4
 833,Ian Su,10,,https://lh3.googleusercontent.com/a/AEdFTp4ZWUU94cL0xhOsZY3yoWMdk5uvsiHv-4G07ghW=s96-c
 840,(anonymous user #53774),9,,

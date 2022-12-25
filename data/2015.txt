@@ -378,7 +378,7 @@ Rank,Name,Score,Link,Avatar
 377,Noah Pena,179,https://github.com/NoahPena,https://avatars3.githubusercontent.com/u/5727823?v=4
 377,Brandon Pedersen,179,https://github.com/bpedman,https://avatars2.githubusercontent.com/u/528813?v=4
 377,Jonathan Bush,179,https://twitter.com/jononium,http://pbs.twimg.com/profile_images/641107001230012416/0Kv6Ted1.jpg
-377,Wes Evans,179,,https://lh3.googleusercontent.com/a/ALm5wu0Jdc9xknybNSpoRIwTdYXpUWxu33IpUaeejzqDMw=s96-c
+377,Wes Evans,179,,https://lh3.googleusercontent.com/a/AEdFTp6cGmuJs50EDc7xZ8WiQMN8h86sMBuRBMnGrFFVtQ=s96-c
 377,slampropp,179,,
 377,Eric Toulson,179,,https://lh3.googleusercontent.com/-53o8nCBOdXA/AAAAAAAAAAI/AAAAAAAAAf0/36-4k-bh8PA/photo.jpg
 383,(anonymous user #369),176,,
@@ -630,7 +630,7 @@ Rank,Name,Score,Link,Avatar
 628,R4PaSs,86,,https://avatars.githubusercontent.com/u/1444825?v=4
 628,BrotherLogic,86,https://github.com/BrotherLogic,https://avatars.githubusercontent.com/u/5978?v=3
 631,(anonymous user #398),85,,
-631,(anonymous user #6924),85,,
+631,codyphobe,85,,https://avatars.githubusercontent.com/u/207072?v=4
 631,Sala,85,https://github.com/Sala,https://avatars.githubusercontent.com/u/1383523?v=4
 631,Philboyd_Studge,85,,
 635,Ben Wolfram,84,https://twitter.com/benrwolfram,http://pbs.twimg.com/profile_images/628318359080275968/OTM8eGv5.jpg

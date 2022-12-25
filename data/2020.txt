@@ -116,7 +116,7 @@ Rank,Name,Score,Link,Avatar
 115,Thomas Feld,546,,https://lh3.googleusercontent.com/a/ALm5wu3kzsgAW_AoFbBwD2ELMM-rpRolx0diV2C3j6Cr=s96-c
 115,Kevin Wang (AoC++),546,https://github.com/VitamintK,https://avatars.githubusercontent.com/u/1139798?v=4
 117,Waffle,544,,https://lh3.googleusercontent.com/a/AEdFTp4Hs55lw8huJjZ5gop_ic5ZP41otuVjKo22vOTk=s96-c
-118,(anonymous user #645585) (AoC++),542,,
+118,Ivan Galakhov (AoC++),542,https://github.com/igalakhov,https://avatars.githubusercontent.com/u/25856165?v=4
 119,smartspot2,537,,https://avatars.githubusercontent.com/u/22699619?v=4
 120,katrinafyi (AoC++),534,https://github.com/katrinafyi,https://avatars.githubusercontent.com/u/39479354?v=4
 120,Paul Draper,534,https://github.com/pauldraper,https://avatars.githubusercontent.com/u/1403271?v=4
@@ -419,7 +419,7 @@ Rank,Name,Score,Link,Avatar
 418,jannic (AoC++),92,,https://avatars.githubusercontent.com/u/232606?v=4
 418,paileyq,92,https://github.com/paileyq,https://avatars3.githubusercontent.com/u/41981177?v=4
 418,vtjeng,92,,https://avatars.githubusercontent.com/u/5932817?v=4
-418,Avongard,92,,https://lh3.googleusercontent.com/a/ALm5wu0R86lVZ20zVwMRIgYxRuFFQEcNA0Ud9Zgsiy2r=s96-c
+418,Avongard,92,,https://lh3.googleusercontent.com/a/AEdFTp5Jqp2XVWt_RN2-_pzDvUI5qlmttnZMkq8ArRUB=s96-c
 418,jorendorff (AoC++),92,https://github.com/jorendorff,https://avatars.githubusercontent.com/u/283361?v=4
 423,wim glenn (AoC++),90,https://github.com/wimglenn,https://avatars.githubusercontent.com/u/6615374?v=4
 423,Bubbler-4,90,https://github.com/Bubbler-4,https://avatars.githubusercontent.com/u/22365659?v=4
@@ -606,7 +606,7 @@ Rank,Name,Score,Link,Avatar
 602,Dmitry Panin (AoC++),40,https://github.com/pankdm,https://avatars.githubusercontent.com/u/426145?v=4
 602,Kendall Yu,40,,https://avatars.githubusercontent.com/u/30105674?v=4
 602,SavagePastaMan,40,,https://avatars.githubusercontent.com/u/69145546?v=4
-602,Kyle Toom,40,,https://lh3.googleusercontent.com/a/ALm5wu0gF_AGTGlpdUnqKpCsL427LMARbPjsfA-cVdMu=s96-c
+602,Kyle Toom,40,,https://lh3.googleusercontent.com/a/AEdFTp52x5jJmZ7taEWp6gCcpCyauePoLSy126ggDt6V=s96-c
 602,Erik Bernhardsson,40,,https://avatars.githubusercontent.com/u/1027979?v=4
 602,Ondřej Motlíček,40,,https://lh3.googleusercontent.com/a/ALm5wu1I-ETAqwJvrHJxwcLwiYkukMPy3LBP5SeXV2HG=s96-c
 611,mebeim (AoC++),39,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4
