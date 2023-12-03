@@ -589,7 +589,7 @@ Rank,Name,Score,Link,Avatar
 587,zmzmdr,49,https://github.com/zmzmdr,https://avatars3.githubusercontent.com/u/11496137?v=4
 587,Daniele Venier,49,https://github.com/Danis98,https://avatars.githubusercontent.com/u/3756869?v=4
 587,Stephen,49,,https://lh3.googleusercontent.com/a/ACg8ocLNH5PTOc4wOUllL9T-VKXNmycxhOg_lWcMTaCVXgHBbA=s96-c
-591,JustinZhengBC,48,https://github.com/JustinZhengBC,https://avatars1.githubusercontent.com/u/29615021?v=4
+591,JustinZhengBC,48,https://github.com/JustinZhengBC,https://avatars.githubusercontent.com/u/29615021?v=4
 591,akkaakka,48,,https://avatars2.githubusercontent.com/u/32450883?v=4
 593,Thomas Zumsteg,47,,https://lh3.googleusercontent.com/a/ACg8ocKvJOVqUbQ3Ono__lBwQp-VCneRHzs4hTEoho3-9oUy=s96-c
 594,Alexerson,46,,https://avatars.githubusercontent.com/u/5081356?v=4
@@ -599,7 +599,7 @@ Rank,Name,Score,Link,Avatar
 594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/ACg8ocKmfX6pD0b7ivET2FdI9qXtb6Mj2GaJEGyajiEYD1vA=s96-c
 594,(anonymous user #772758),46,,
 600,triazo,45,,https://avatars.githubusercontent.com/u/6687043?v=4
-600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/AEdFTp5DidL8ZXygOhNWse14WaI-9Ew0m-RuZpwYCqe97g=s96-c
+600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ACg8ocJb9KzmgtkFhjlH3sYqMBnJeIp9I4nlZG8m5UOmnrgdSGo=s96-c
 600,Jonathan Soo,45,,https://lh3.googleusercontent.com/a/AGNmyxbILwb0VeX6nP8uixBN0J4kLIyWQnk-x9stWg0hBA=s96-c
 600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/-WDG1tBDgcdg/AAAAAAAAAAI/AAAAAAAAEao/AMZuuckBOOE-tIJqjTgtnkJHKtl9QK-uYg/s96-c/photo.jpg
 600,mebeim (AoC++),45,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4
@@ -664,7 +664,7 @@ Rank,Name,Score,Link,Avatar
 655,Ranjithkumar Rajagopalan,34,,https://lh3.googleusercontent.com/a/ACg8ocLBO79zvFYS632l9ujgCppowxEhFEctHo2CfmtRFrTG=s96-c
 655,vishal chauhan,34,,https://avatars.githubusercontent.com/u/8157805?v=4
 655,@liviuchircu (AoC++),34,https://twitter.com/liviuchircu,http://pbs.twimg.com/profile_images/1689571896784744448/GS_xzy77.jpg
-655,Chris Olson,34,,https://lh3.googleusercontent.com/a/ALm5wu3DNOBwVHOUsp3kFwqS0wewCcdKLA8sSqxmOruc=s96-c
+655,Chris Olson,34,,https://lh3.googleusercontent.com/a/ACg8ocKQ_7djj6Cs85ladoWGKKsr2s1Peof0r09MZtwOC_Di=s96-c
 667,Bradley Gallon,33,,https://lh3.googleusercontent.com/a/ACg8ocLlpaPM2Z0TPHJCTF4qk-PjFw1RIwWrwZsvwKhs74kUOg=s96-c
 667,romellem,33,https://github.com/romellem,https://avatars.githubusercontent.com/u/8504000?v=4
 667,loigom,33,https://github.com/loigom,https://avatars.githubusercontent.com/u/16351560?v=4

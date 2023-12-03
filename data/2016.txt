@@ -86,7 +86,7 @@ Rank,Name,Score,Link,Avatar
 85,Peter Berczi,893,,https://lh3.googleusercontent.com/a/ACg8ocIGyVA1kfza4OXoV7XmqYtKm6b1-Jbn1m9HKVQsE_TufGk=s96-c
 86,flyee,885,,
 87,Niak,882,,https://lh3.googleusercontent.com/a/AAcHTtfX5Xry2pxgJPBRPSieh0ViIh3IC34DxNtfwowzAg=s96-c
-88,Stereo,881,,http://pbs.twimg.com/profile_images/1484623984167731207/UmxTdbQy.jpg
+88,N Murdoch,881,,https://lh3.googleusercontent.com/a/ACg8ocJj8wZrSHxUBhKoN9wxFgKSv96tCY0bIEsvX2GI8Hlg=s96-c
 89,Tomasz Pawicki,879,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 89,Becojo,879,https://github.com/Becojo,https://avatars.githubusercontent.com/u/172889?v=4
 91,Måns Magnusson,876,https://github.com/exoji2e,https://avatars.githubusercontent.com/u/2479779?v=4
@@ -487,7 +487,7 @@ Rank,Name,Score,Link,Avatar
 485,Chandler Prall,65,,https://lh4.googleusercontent.com/-Woh6ZugqF7M/AAAAAAAAAAI/AAAAAAAAAEw/jR_PBy23bcw/photo.jpg
 485,(anonymous user #122079),65,,
 485,Jonah (AoC++),65,,https://avatars.githubusercontent.com/u/699684?v=4
-485,Dmitry Isaenko,65,,https://lh3.googleusercontent.com/a/AEdFTp6KoIMqDfazNoC2a3OEgYYAzscEZySktZXRySwKSQ=s96-c
+485,Dmitry Isaenko,65,,https://lh3.googleusercontent.com/a/ACg8ocIlR4Xe4IqbPcjyqFLmPjXvAIwZrhkdi5dduQfrx2SF9vQ=s96-c
 485,Indi Konsolko,65,,https://lh3.googleusercontent.com/a/ACg8ocKSwnufAnzn-k7TsSBKNBuXRPk6jYjzkmknsmplRkOd=s96-c
 491,yigal irani,64,https://github.com/yigalirani,https://avatars.githubusercontent.com/u/1817381?v=4
 491,popsu,64,,https://avatars.githubusercontent.com/u/3270267?v=4

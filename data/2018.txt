@@ -298,7 +298,7 @@ Rank,Name,Score,Link,Avatar
 296,(anonymous user #434905),158,,
 296,chasehult,158,https://github.com/chasehult,https://avatars.githubusercontent.com/u/4073569?v=4
 299,jannic (AoC++),156,,https://avatars.githubusercontent.com/u/232606?v=4
-300,Derek Dong,155,,https://lh3.googleusercontent.com/a-/AOh14GjODkR6p_N8LUiVFwFfgTvt78o5rSnTRoF4zqU2wA=s96-c
+300,Derek Dong,155,,https://lh3.googleusercontent.com/a/ACg8ocJq_tJpLEx2FS-diW-KogaKltpyfbIP0FfMo-buISm3qPI=s96-c
 301,(anonymous user #365713) (AoC++),154,,
 301,(anonymous user #379229),154,,
 301,Matthew Neeley,154,,https://lh3.googleusercontent.com/a-/AAuE7mBfKuSMjoAH9QiVEz87CMbi5kcVL9cLLfgojJbz
@@ -529,7 +529,7 @@ Rank,Name,Score,Link,Avatar
 526,Liam Powell,57,https://github.com/liampwll,https://avatars.githubusercontent.com/u/1808465?v=4
 526,maddogAxa,57,,
 530,unsignedint,56,,https://avatars.githubusercontent.com/u/929353?v=4
-530,Dmitry Isaenko,56,,https://lh3.googleusercontent.com/a/AEdFTp6KoIMqDfazNoC2a3OEgYYAzscEZySktZXRySwKSQ=s96-c
+530,Dmitry Isaenko,56,,https://lh3.googleusercontent.com/a/ACg8ocIlR4Xe4IqbPcjyqFLmPjXvAIwZrhkdi5dduQfrx2SF9vQ=s96-c
 530,drageryd,56,https://github.com/drageryd,https://avatars.githubusercontent.com/u/4681360?v=4
 533,banteg (AoC++),55,https://github.com/banteg,https://avatars2.githubusercontent.com/u/4562643?v=4
 533,Magnus Hagmar (AoC++),55,https://github.com/Hagmar,https://avatars.githubusercontent.com/u/4364785?v=4

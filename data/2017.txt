@@ -276,7 +276,7 @@ Rank,Name,Score,Link,Avatar
 274,u794575248,177,,
 276,marcins (AoC++),176,,https://avatars.githubusercontent.com/u/340441?v=4
 277,csssuf,175,https://github.com/csssuf,https://avatars1.githubusercontent.com/u/1261595?v=4
-277,Dmitry Isaenko,175,,https://lh3.googleusercontent.com/a/AEdFTp6KoIMqDfazNoC2a3OEgYYAzscEZySktZXRySwKSQ=s96-c
+277,Dmitry Isaenko,175,,https://lh3.googleusercontent.com/a/ACg8ocIlR4Xe4IqbPcjyqFLmPjXvAIwZrhkdi5dduQfrx2SF9vQ=s96-c
 279,Oskar Wåglund,174,,https://lh3.googleusercontent.com/a/ACg8ocI5y6tYeJ2lvFLP2jXevBOGy23l6aMOCusjrwh0JZP0=s96-c
 280,cole,173,,https://avatars0.githubusercontent.com/u/19613273?v=4
 281,Justin Le,172,https://github.com/mstksg,https://avatars.githubusercontent.com/u/187815?v=4
@@ -534,7 +534,7 @@ Rank,Name,Score,Link,Avatar
 528,Ian Savchenko (AoC++),56,,https://avatars3.githubusercontent.com/u/4881952?v=4
 534,(anonymous user #51989),55,,
 534,Jonathan L,55,,https://avatars0.githubusercontent.com/u/18316830?v=4
-534,Derek Dong,55,,https://lh3.googleusercontent.com/a-/AOh14GjODkR6p_N8LUiVFwFfgTvt78o5rSnTRoF4zqU2wA=s96-c
+534,Derek Dong,55,,https://lh3.googleusercontent.com/a/ACg8ocJq_tJpLEx2FS-diW-KogaKltpyfbIP0FfMo-buISm3qPI=s96-c
 537,Andre LeBlanc,54,,https://lh3.googleusercontent.com/a/AEdFTp6qBP1p0A0xuniwnc0U8NSrkWh62yRmivt70G2k8A=s96-c
 537,crazymerlyn,54,https://github.com/crazymerlyn,https://avatars.githubusercontent.com/u/6919679?v=4
 537,Chuck Walker,54,,https://lh3.googleusercontent.com/a-/AOh14Gj2gkdWuapM2SUz0B0m6YWfJY4kw_L6DkE23MQY=s96-c
@@ -670,7 +670,7 @@ Rank,Name,Score,Link,Avatar
 668,akerl (AoC++),29,https://github.com/akerl,https://avatars.githubusercontent.com/u/491209?v=4
 668,Наталья Гинзбург,29,,https://lh3.googleusercontent.com/a/ALm5wu02386W8KocNVuvlNN0JVnDA94Jco64t-0QpqxveQ=s96-c
 668,NeonSky,29,https://github.com/NeonSky,https://avatars1.githubusercontent.com/u/5156981?v=4
-672,Ben Weinstein-Raun,28,https://github.com/benwr,https://avatars2.githubusercontent.com/u/198835?v=4
+672,Ben Weinstein-Raun,28,https://github.com/benwr,https://avatars.githubusercontent.com/u/198835?v=4
 672,Elaine Mou,28,,https://avatars.githubusercontent.com/u/6691788?v=4
 672,davidsullins,28,https://github.com/davidsullins,https://avatars.githubusercontent.com/u/6307373?v=4
 672,David Whittaker (AoC++),28,,https://lh3.googleusercontent.com/a/ACg8ocJYVvFMRZlkJ3WI0oBG-toJOe4-eePz66OSW5da3Wv-mtw=s96-c
