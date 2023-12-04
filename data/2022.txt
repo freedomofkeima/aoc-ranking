@@ -19,7 +19,7 @@ Rank,Name,Score,Link,Avatar
 18,nim-ka,2169,https://github.com/nim-ka,https://avatars.githubusercontent.com/u/35317534?v=4
 19,Robert Xiao,2110,https://github.com/nneonneo,https://avatars.githubusercontent.com/u/75449?v=4
 20,Tim Vermeulen (AoC++),2105,https://github.com/timvermeulen,https://avatars.githubusercontent.com/u/2904179?v=4
-21,Michal Forišek,2096,,https://lh3.googleusercontent.com/a/AEdFTp4jAALCq4CFtLaw8jyRmnCsxMh18ph3Zowc-3NjKSk=s96-c
+21,Michal Forišek,2096,,https://lh3.googleusercontent.com/a/ACg8ocKzsp18i0TVvhniP5my5eP6n2BAsyHKIQMHnRchznXgQYOM=s96-c
 22,mrphlip (AoC++),1976,https://github.com/mrphlip,https://avatars.githubusercontent.com/u/734414?v=4
 23,Brandon Lin,1962,https://github.com/blin00,https://avatars.githubusercontent.com/u/5819886?v=4
 24,Oskar Haarklou Veileborg (AoC++),1902,https://github.com/BarrensZeppelin,https://avatars.githubusercontent.com/u/2784791?v=4
@@ -287,7 +287,7 @@ Rank,Name,Score,Link,Avatar
 284,vtjeng,189,,https://avatars.githubusercontent.com/u/5932817?v=4
 287,Toni Fadjukoff (AoC++),185,,https://avatars.githubusercontent.com/u/777453?v=4
 288,Ethan Olpin,184,,https://avatars.githubusercontent.com/u/53278645?v=4
-289,ethanwiebe,183,https://github.com/ethanwiebe,https://avatars.githubusercontent.com/u/16849328?v=4
+289,Ethan,183,https://github.com/ethanwiebe,https://avatars.githubusercontent.com/u/16849328?v=4
 290,RundownRhino,182,https://github.com/RundownRhino,https://avatars.githubusercontent.com/u/52856631?v=4
 291,Özgün Özusta,181,,https://lh3.googleusercontent.com/a/ACg8ocIA3zSR8Izac-1V5W5OyG9NlVbTsKDBm0_Jwul_Fqgm=s96-c
 291,geoffrey-wu,181,https://github.com/geoffrey-wu,https://avatars.githubusercontent.com/u/42471355?v=4
@@ -607,7 +607,7 @@ Rank,Name,Score,Link,Avatar
 604,Henrik Ygge (AoC++),59,https://github.com/ygge,https://avatars.githubusercontent.com/u/3896643?v=4
 604,Jérémy Guillot,59,,https://lh3.googleusercontent.com/a/ACg8ocL8D30GYPVCECfo5GIvJGTnJjba1L0rnGPCnZQyC3Xl=s96-c
 604,Xiongqi ZHANG (AoC++),59,,https://lh3.googleusercontent.com/a/ACg8ocKGA-hGasnmynmANk-CBaVlCLUZ3GIuT0JTWPKq0GtYHSE=s96-c
-604,Muncho,59,,https://lh3.googleusercontent.com/a/AEdFTp7QMoa6R-_aO06Zy67594GgsdobLO5hnZlw6mG3zQ=s96-c
+604,Muncho,59,,https://lh3.googleusercontent.com/a/ACg8ocL-eSx4J0tHaYriMLh0pWVDKCpfbTE8IhFLeIj2NltaHxs=s96-c
 604,Blaž Peterlin (AoC++),59,,https://lh3.googleusercontent.com/a/ACg8ocKmfX6pD0b7ivET2FdI9qXtb6Mj2GaJEGyajiEYD1vA=s96-c
 611,Niraj Patel,58,,https://lh3.googleusercontent.com/a/ACg8ocLWgPd5YBmdU3VTdBstJ14hwPdg34RYZwCjJNN1-0Om=s96-c
 611,thunder-red-star,58,https://github.com/thunder-red-star,https://avatars.githubusercontent.com/u/67127399?v=4
@@ -747,7 +747,7 @@ Rank,Name,Score,Link,Avatar
 740,Etienne Foessel,37,,https://avatars.githubusercontent.com/u/81958012?v=4
 747,Alfred Birketvedt (AoC++),36,https://github.com/alfredbirk,https://avatars.githubusercontent.com/u/11172530?v=4
 747,(anonymous user #1074674),36,,
-747,Dan Roche,36,,https://lh3.googleusercontent.com/a/ALm5wu13sUwmEpz8LB0weNcCPDLOS3bdQg1H-qWuBA3pBQ=s96-c
+747,Dan Roche,36,,https://lh3.googleusercontent.com/a/ACg8ocJh8K3Eng-xq8d0wGfW7h3bw2Cx7Mle2ZZ4Wax0DfSAjpU=s96-c
 747,richzli,36,https://github.com/richzli,https://avatars.githubusercontent.com/u/15951695?v=4
 747,Gymhgy,36,https://github.com/Gymhgy,https://avatars.githubusercontent.com/u/49801033?v=4
 752,Zhan Xiong Chin,35,,https://lh3.googleusercontent.com/a/ACg8ocIy64Kum4xfNb_w9ABhAWLU2C27C5yN9lGPU4FwK-KApQ=s96-c
@@ -862,7 +862,7 @@ Rank,Name,Score,Link,Avatar
 853,shengwu,21,,https://avatars.githubusercontent.com/u/1445269?v=4
 862,Mattéo Delabre,20,https://github.com/matteodelabre,https://avatars.githubusercontent.com/u/1370040?v=4
 862,Samuel Wang,20,,https://lh3.googleusercontent.com/a/ALm5wu1aKkPzZsDI76oWyYmj1SggXvxhgXgU-ry2YTkHSQ=s96-c
-862,Eric Wang,20,,https://lh3.googleusercontent.com/a/AEdFTp773qXiFVw0Hxu7QsAL9C-vkYmVdM7EcSBkfOst=s96-c
+862,Eric Wang,20,,https://lh3.googleusercontent.com/a/ACg8ocIx6D-SEg_c5t47I3vUZPRafJAWgcNdDoLUOKzMgeETKQ=s96-c
 862,Tunaki,20,,https://avatars.githubusercontent.com/u/2684685?v=4
 862,John Emhoff,20,,https://avatars.githubusercontent.com/u/1692535?v=4
 862,Luiz Silva,20,,https://lh3.googleusercontent.com/a/AEdFTp7WVE3Li5cMgSLxMkH8IOStZo5HU08VEwPyGB-vxw=s96-c

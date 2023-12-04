@@ -325,7 +325,7 @@ Rank,Name,Score,Link,Avatar
 323,jleedev,139,,https://avatars.githubusercontent.com/u/23022?v=4
 323,DanilaFe,139,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
 323,deniska,139,,https://avatars.githubusercontent.com/u/97346?v=4
-327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/ALV-UjX_9cuP32cbkKiekLcV17YCLFDh8NvWcECcX6ugDlrCDz-QOve_QwgwJ-yJXq-n-NNtChGgfWfKwME3ollrVjJnahkWxVRqh8kiwdnDyL4T65Kb9bR4AyMkRSuENl_wMoJcer6TvNGk4AYA8jEHJ7
+327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/ALV-UjV46ftUnGMw9yI6tUzXh2vqusGqI023O9xrYJg4sRZnf-dHECy7ynh5v8E_DeqfzmnVf7Rltpfsw1wOlz6GW9DZoamg6CjrUEeiUyzjk1sald77dcH3g7NOkvGcQVAA-pE1PH754J-LF7fG_O2s6Y
 327,Michal Maršálek,136,,https://lh3.googleusercontent.com/a/ACg8ocJNDSNqf6U-VZOzxOw5K2fzQMSm8UKFF8TaHTKFBXlI=s96-c
 327,(anonymous user #246102),136,,
 330,Sujeet Gholap,135,,https://lh3.googleusercontent.com/a/ACg8ocJ10grHy5ypjDkmJsQNoEg4kUUDvoXkh_Dmg4DQ3bzNQbCM=s96-c
@@ -660,7 +660,7 @@ Rank,Name,Score,Link,Avatar
 655,Evan Howard (AoC++),32,https://github.com/evanphoward,https://avatars.githubusercontent.com/u/28736707?v=4
 655,Fred Hebert,32,https://github.com/ferd,https://avatars.githubusercontent.com/u/111141?v=4
 661,Adam Pianka,31,,https://avatars.githubusercontent.com/u/16678931?v=4
-661,rokob,31,,https://avatars.githubusercontent.com/u/831355?v=4
+661,rokob,31,https://github.com/rokob,https://avatars.githubusercontent.com/u/831355?v=4
 661,Maciej Grzeszczak,31,https://github.com/mgrzeszczak,https://avatars.githubusercontent.com/u/4957680?v=4
 661,Alexander Korling,31,,https://avatars.githubusercontent.com/u/526316?v=4
 665,Chris Penner,30,https://github.com/ChrisPenner,https://avatars.githubusercontent.com/u/6439644?v=4
@@ -703,7 +703,7 @@ Rank,Name,Score,Link,Avatar
 702,fuzzums,23,,
 702,Darragh Griffin,23,https://github.com/DarraghGriffin,https://avatars.githubusercontent.com/u/9257845?v=4
 702,Renaud04,23,,
-702,David Kiger,23,,https://lh3.googleusercontent.com/a/AEdFTp7eGjwPKJrDlkPh_ESECdIT4EyReICd0QtbgtZo=s96-c
+702,David Kiger,23,,https://lh3.googleusercontent.com/a/ACg8ocIaLfGRBdxWkk-4P_xXm5qp_I3aAj_I4M16m81m0CaV=s96-c
 702,AlienRenders,23,https://github.com/AlienRenders,https://avatars3.githubusercontent.com/u/19353864?v=4
 702,Paul Hodgson,23,,https://lh3.googleusercontent.com/a/ALm5wu1GHwWaGA62Rn3UYvdNX2IOotvpPZhTjU19PxgE=s96-c
 702,Timotius Sakti,23,,https://lh3.googleusercontent.com/a/AATXAJwR49KxVeFXmwbPHsZuf9XS9l9fNLkOGBR97S8u1A=s96-c

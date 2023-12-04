@@ -360,7 +360,7 @@ Rank,Name,Score,Link,Avatar
 358,WildUtah,134,https://github.com/WildUtah,https://avatars.githubusercontent.com/u/853423?v=4
 360,Amber Choo,132,,https://lh3.googleusercontent.com/a/AAcHTtcORsnx5MX9q-mTeT-pJTjw5rJm6JsHpmJ2feJ_y0OfBg=s96-c
 360,sonneveld (AoC++),132,https://github.com/sonneveld,https://avatars.githubusercontent.com/u/335451?v=4
-362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjX_9cuP32cbkKiekLcV17YCLFDh8NvWcECcX6ugDlrCDz-QOve_QwgwJ-yJXq-n-NNtChGgfWfKwME3ollrVjJnahkWxVRqh8kiwdnDyL4T65Kb9bR4AyMkRSuENl_wMoJcer6TvNGk4AYA8jEHJ7
+362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjV46ftUnGMw9yI6tUzXh2vqusGqI023O9xrYJg4sRZnf-dHECy7ynh5v8E_DeqfzmnVf7Rltpfsw1wOlz6GW9DZoamg6CjrUEeiUyzjk1sald77dcH3g7NOkvGcQVAA-pE1PH754J-LF7fG_O2s6Y
 363,Zeki Gurbuz,129,,https://avatars.githubusercontent.com/u/36140950?v=4
 364,Dave Buchfuhrer (AoC++),128,,https://lh3.googleusercontent.com/a/ACg8ocLIW58Q7bdF8Rf4XsZrlucqai652T9HmRBXaByr9Efad813=s96-c
 364,nmutalik (AoC++),128,https://github.com/nmutalik,https://avatars.githubusercontent.com/u/2798587?v=4
@@ -482,7 +482,7 @@ Rank,Name,Score,Link,Avatar
 479,Urim Jung,79,,https://lh3.googleusercontent.com/a-/AAuE7mCtzW2eMicIXOQtOYrpW3VuKcl78zqFV2itX0Uh
 482,Xavier Villaneau (AoC++),78,https://github.com/xvillaneau,https://avatars.githubusercontent.com/u/11230858?v=4
 483,Sarah Shader,77,,https://avatars.githubusercontent.com/u/15620796?v=4
-483,Dan Roche,77,,https://lh3.googleusercontent.com/a/ALm5wu13sUwmEpz8LB0weNcCPDLOS3bdQg1H-qWuBA3pBQ=s96-c
+483,Dan Roche,77,,https://lh3.googleusercontent.com/a/ACg8ocJh8K3Eng-xq8d0wGfW7h3bw2Cx7Mle2ZZ4Wax0DfSAjpU=s96-c
 483,Nick Massey,77,https://github.com/nickmass,https://avatars.githubusercontent.com/u/1085568?v=4
 483,void,77,https://github.com/voidumbrella,https://avatars.githubusercontent.com/u/52330651?v=4
 483,Henry Steere,77,https://github.com/HenryS1,https://avatars.githubusercontent.com/u/4750540?v=4
@@ -540,7 +540,7 @@ Rank,Name,Score,Link,Avatar
 536,Mårten Selin (AoC++),60,,https://lh3.googleusercontent.com/a/ACg8ocJs9cp1RfmQ2BvWi8oJX4ecOjn6myjkSYqHQ9KIK3qK=s96-c
 536,UnderKoen (AoC++),60,https://github.com/UnderKoen,https://avatars.githubusercontent.com/u/15718297?v=4
 541,Tom Scallon,59,https://github.com/tomscallon,https://avatars.githubusercontent.com/u/5695960?v=4
-541,Steve N,59,,https://lh3.googleusercontent.com/a/AEdFTp45ruC_tXB4sHAAoiH0rpAe4hDNQdu--61I9ahu=s96-c
+541,Steve N,59,,https://lh3.googleusercontent.com/a/ACg8ocKU_l3vjTziv8KCl7QnGhDcDBR2p2dXKXRUVpwyjJDl=s96-c
 541,(anonymous user #380973),59,,
 541,mfgmfg,59,,https://avatars.githubusercontent.com/u/1700831?v=4
 545,(anonymous user #379229),58,,
@@ -598,7 +598,7 @@ Rank,Name,Score,Link,Avatar
 594,Michael Fatemi,46,,https://lh3.googleusercontent.com/a/AEdFTp4fSxwmfIvzHosmZwnkWkz2GYYHScPdQDfnwtDmWw=s96-c
 594,Blaž Peterlin,46,,https://lh3.googleusercontent.com/a/ACg8ocKmfX6pD0b7ivET2FdI9qXtb6Mj2GaJEGyajiEYD1vA=s96-c
 594,(anonymous user #772758),46,,
-600,triazo,45,,https://avatars.githubusercontent.com/u/6687043?v=4
+600,pager,45,,https://avatars.githubusercontent.com/u/6687043?v=4
 600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ACg8ocJb9KzmgtkFhjlH3sYqMBnJeIp9I4nlZG8m5UOmnrgdSGo=s96-c
 600,Jonathan Soo,45,,https://lh3.googleusercontent.com/a/AGNmyxbILwb0VeX6nP8uixBN0J4kLIyWQnk-x9stWg0hBA=s96-c
 600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/-WDG1tBDgcdg/AAAAAAAAAAI/AAAAAAAAEao/AMZuuckBOOE-tIJqjTgtnkJHKtl9QK-uYg/s96-c/photo.jpg
@@ -843,7 +843,7 @@ Rank,Name,Score,Link,Avatar
 840,epiphone,9,https://github.com/epiphone,https://avatars.githubusercontent.com/u/1923531?v=4
 840,richzli,9,https://github.com/richzli,https://avatars.githubusercontent.com/u/15951695?v=4
 840,Paul Horton,9,https://github.com/PaHorton,https://avatars.githubusercontent.com/u/13230281?v=4
-840,rokob,9,,https://avatars.githubusercontent.com/u/831355?v=4
+840,rokob,9,https://github.com/rokob,https://avatars.githubusercontent.com/u/831355?v=4
 840,Oskar Haarklou Veileborg (AoC++),9,https://github.com/BarrensZeppelin,https://avatars.githubusercontent.com/u/2784791?v=4
 840,Aditya Arora (AoC++),9,https://github.com/arora-aditya,https://avatars.githubusercontent.com/u/10962267?v=4
 840,Peter Trebaticky (AoC++),9,,https://lh3.googleusercontent.com/a/ACg8ocJKbZ8PR2uJB0Bom-gaQnuxW0DGxTs8svHc2XkmkF6mWw=s96-c
