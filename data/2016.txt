@@ -50,7 +50,7 @@ Rank,Name,Score,Link,Avatar
 49,Harrison Weigel,1313,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 50,GlenboLake,1309,,https://avatars.githubusercontent.com/u/1087928?v=4
 51,alokmenghrajani (AoC++),1303,https://github.com/alokmenghrajani,https://avatars.githubusercontent.com/u/441307?v=4
-52,Benoit Hiller,1301,https://github.com/BenoitHiller,https://avatars3.githubusercontent.com/u/843247?v=4
+52,Benoit Hiller,1301,https://github.com/BenoitHiller,https://avatars.githubusercontent.com/u/843247?v=4
 53,HookyQR (AoC++),1280,https://github.com/HookyQR,https://avatars.githubusercontent.com/u/14353068?v=4
 54,malisper,1255,https://github.com/malisper,https://avatars.githubusercontent.com/u/6210567?v=4
 55,Bill King (AoC++),1237,,https://avatars0.githubusercontent.com/u/1261159?v=4
@@ -182,7 +182,7 @@ Rank,Name,Score,Link,Avatar
 180,Ross Foley,350,,https://avatars0.githubusercontent.com/u/803732?v=4
 182,epitron,343,https://github.com/epitron,https://avatars.githubusercontent.com/u/16409?v=4
 182,Matthew Edwards,343,,https://lh6.googleusercontent.com/-d8l4utsIZIw/AAAAAAAAAAI/AAAAAAAAAtU/tpXOr9pkhqU/photo.jpg
-184,Avo Muromägi,341,,https://lh5.googleusercontent.com/-soqSv2xevv8/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucn6aejUPIMwXp3OQQ4vBjj1kahfhg/s96-c/photo.jpg
+184,Avo Muromägi,341,,https://lh3.googleusercontent.com/a/ACg8ocKF1GgTGEW8lXQ_Q08wgG9SGsJzEt4xMOQ02xLqjiVz=s96-c
 185,(anonymous user #44119),339,,
 186,Giedrius,335,https://github.com/GiedriusM,https://avatars.githubusercontent.com/u/4882339?v=4
 186,(anonymous user #139230),335,,
@@ -259,7 +259,7 @@ Rank,Name,Score,Link,Avatar
 257,Michael Fairley,196,https://github.com/michaelfairley,https://avatars1.githubusercontent.com/u/110025?v=4
 259,(anonymous user #63186),195,,
 260,Zack Kuntz,194,https://github.com/kuntza01,https://avatars0.githubusercontent.com/u/2634910?v=4
-261,gongy,192,,https://avatars.githubusercontent.com/u/8001209?v=3
+261,gongy,192,,https://avatars.githubusercontent.com/u/8001209?v=4
 262,Cade Ward,190,https://github.com/cadebward,https://avatars.githubusercontent.com/u/3212589?v=4
 263,(anonymous user #139000),188,,
 263,dd23,188,,https://avatars.githubusercontent.com/u/630500?v=4
@@ -366,7 +366,7 @@ Rank,Name,Score,Link,Avatar
 365,Miłosz Rembisz (AoC++),115,,https://lh3.googleusercontent.com/a/ACg8ocL6s56ZlczqxnspaK6ez14XWyaPITHmbSgxyx5SDP7CfBc=s96-c
 366,Bollie,114,https://github.com/Bolukan,https://avatars.githubusercontent.com/u/2492902?v=4
 367,asterite,113,https://github.com/asterite,https://avatars.githubusercontent.com/u/209371?v=4
-367,scottholdren,113,,https://avatars.githubusercontent.com/u/4356658?v=3
+367,scottholdren,113,,https://avatars.githubusercontent.com/u/4356658?v=4
 367,Dénes Bartha,113,,https://lh3.googleusercontent.com/a/ACg8ocKRYIeGjLY5XngMSVq-YwxJ4yg-J9FLzkECFCoyywmkhhT9=s96-c
 367,Tom Saunders,113,,https://lh3.googleusercontent.com/a/ALm5wu176WaFTGbD7f2noI6xVuAcCmCmvDQuTQVguXO_Iw=s96-c
 367,Vivan Shah (AoC++),113,,https://lh3.googleusercontent.com/a/ACg8ocLcTqrklgZMgJug_LvqAT5zyw7Dm83YzhzEdDgEAhqFFg1s=s96-c
@@ -611,7 +611,7 @@ Rank,Name,Score,Link,Avatar
 607,Ayoub Sbai,27,https://github.com/lypnol,https://avatars.githubusercontent.com/u/14986684?v=4
 607,Mike Herms,27,,https://lh3.googleusercontent.com/a/ACg8ocKjALvO5WTQhmpz2shyGOzs5P2QdTCyK8lWx4GEuG_nOok=s96-c
 612,Abex,26,https://github.com/abextm,https://avatars.githubusercontent.com/u/12366911?v=4
-612,Eluvatar,26,,https://avatars.githubusercontent.com/u/1077538?v=3
+612,Eluvatar,26,,https://avatars.githubusercontent.com/u/1077538?v=4
 612,(anonymous user #21301),26,,
 615,miha zidar,25,,https://lh3.googleusercontent.com/a-/AOh14GiPlksvW-WrVn1CBuYmk1wlHXmjCcizN9FDFp9rCg=s96-c
 615,fylion,25,,https://avatars.githubusercontent.com/u/1339326?v=4
@@ -690,7 +690,7 @@ Rank,Name,Score,Link,Avatar
 683,Steven Santos Erenst,10,,https://lh3.googleusercontent.com/a/ACg8ocJNXsEevStwJ3RjleBA7v7OsjIZK5NgFBHry3Lq6SD2=s96-c
 690,wasawyer,9,,https://avatars.githubusercontent.com/u/2817007?v=3
 690,Samy Laumonier,9,https://github.com/samybob1,https://avatars.githubusercontent.com/u/2417752?v=3
-692,ghotiphud,8,,https://avatars3.githubusercontent.com/u/412313?v=4
+692,Yale Cason III,8,,https://avatars.githubusercontent.com/u/412313?v=4
 692,Theo Browne,8,https://github.com/t3dotgg,https://avatars.githubusercontent.com/u/6751787?v=4
 692,Rodel30,8,https://github.com/Rodel30,https://avatars3.githubusercontent.com/u/667168?v=4
 695,Johan Eliasson (AoC++),7,https://github.com/elitan,https://avatars.githubusercontent.com/u/331818?v=4

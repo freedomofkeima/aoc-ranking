@@ -467,7 +467,7 @@ Rank,Name,Score,Link,Avatar
 464,angelman,76,https://github.com/angelman,https://avatars.githubusercontent.com/u/138940?v=4
 464,(anonymous user #528157),76,,
 468,Zack M. Davis,75,https://github.com/zackmdavis,https://avatars.githubusercontent.com/u/1076988?v=4
-468,Pablo Dal Lago,75,,https://lh3.googleusercontent.com/a/ALm5wu1ZsI5XsMmQweOeTHKiq-n-UYDV4u7ecT8VVrNT4g=s96-c
+468,Pablo Dal Lago,75,,https://lh3.googleusercontent.com/a/ACg8ocLw9adMurxdCqlDvKc4Ykfdr2h2UyT3EXnbQxhlhS8ezOI=s96-c
 468,mpcowan,75,https://github.com/mpcowan,https://avatars.githubusercontent.com/u/1246035?v=4
 471,Bolivar Pereira,74,,https://lh3.googleusercontent.com/a/AATXAJzeWUdQwCHzJDSterWqAuuI_MwThmINUHyGLenJ=s96-c
 471,Theydidthemadlibs,74,,
@@ -596,7 +596,7 @@ Rank,Name,Score,Link,Avatar
 590,Harshil Shah,39,https://github.com/HarshilShah,https://avatars.githubusercontent.com/u/3503595?v=4
 596,Reilly Watson,38,https://github.com/reillywatson,https://avatars.githubusercontent.com/u/495491?v=4
 596,haaawk,38,https://github.com/haaawk,https://avatars.githubusercontent.com/u/1311149?v=4
-596,Nathan Herzing,38,,https://lh3.googleusercontent.com/a/AEdFTp6xOnQU1VL1Zm-lbo4W6DnT9X0gYteMvmYgI77HaQ=s96-c
+596,Nathan Herzing,38,,https://lh3.googleusercontent.com/a/ACg8ocIA9R-2yxZ0Zsahzd7oSnEffHanToT0aZ3IQTfno_sEIqA=s96-c
 599,Andre Pratama,37,,https://avatars.githubusercontent.com/u/20764405?v=4
 599,David,37,https://github.com/david-ds,https://avatars.githubusercontent.com/u/10263984?v=4
 599,Simon Rösch,37,,https://lh3.googleusercontent.com/a-/AOh14Gj6OSa6j2sH8Gk9_g6aAQJifw0Wc-BRacmIYZrb2Q=s96-c
@@ -822,7 +822,7 @@ Rank,Name,Score,Link,Avatar
 820,TheNeuralBit (AoC++),2,https://github.com/TheNeuralBit,https://avatars.githubusercontent.com/u/675055?v=4
 820,David Carlin,2,,https://lh3.googleusercontent.com/a/ALm5wu3udScSYtz73edAr4NuG1NGeR0Ip7YAfvJinAkn=s96-c
 820,Daniel Dara,2,https://github.com/daniel-dara,https://avatars.githubusercontent.com/u/1920621?v=4
-820,George Heineman,2,,https://lh3.googleusercontent.com/a/AATXAJzrC1dKb9_hRFwXS6vS2gtWi6ODWeG0bu0tch5K=s96-c
+820,George Heineman,2,,https://lh3.googleusercontent.com/a/ACg8ocJNj3Ey6dyYFpIDcZlT2DxkhV1uU9lkur4Ag_xT0Z9G=s96-c
 820,Matthew Simmons,2,,https://lh3.googleusercontent.com/a/ACg8ocLDvu_N8DEIloZzaPXEV4-sx9fLItZkMEISf5GGKe94nuf2=s96-c
 820,Kinva Pung,2,,https://lh3.googleusercontent.com/-SgpZjjQ4XBM/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcaY6FKNBRw5GjfM5s8Kc6jgq_EVNw/mo/photo.jpg
 820,(anonymous user #379776),2,,

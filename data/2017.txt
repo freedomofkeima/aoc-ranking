@@ -122,7 +122,7 @@ Rank,Name,Score,Link,Avatar
 121,Roderic Day,572,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
 122,divergentdave,565,https://github.com/divergentdave,https://avatars1.githubusercontent.com/u/181772?v=4
 123,Colton Pauderis,564,,https://lh3.googleusercontent.com/a/ACg8ocK-USv3WLUW97SptQZ0vPf6FnhvTzzkoYoChLGqbMsHhw=s96-c
-123,Benoit Hiller,564,https://github.com/BenoitHiller,https://avatars3.githubusercontent.com/u/843247?v=4
+123,Benoit Hiller,564,https://github.com/BenoitHiller,https://avatars.githubusercontent.com/u/843247?v=4
 125,Antti Haapala (AoC++),563,https://github.com/ztane,https://avatars.githubusercontent.com/u/704200?v=4
 126,Shemetz (AoC++),538,,
 126,akrasuski1,538,,https://avatars2.githubusercontent.com/u/5507813?v=4
@@ -423,7 +423,7 @@ Rank,Name,Score,Link,Avatar
 421,onesk (AoC++),96,https://github.com/onesk,https://avatars.githubusercontent.com/u/4980443?v=4
 423,David Berard,95,,https://avatars1.githubusercontent.com/u/5067123?v=4
 423,Charles Beers,95,,https://lh5.googleusercontent.com/-2mK_1u4kqoI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcwcBBWCZHUH9us81litaS8HGLAhg/photo.jpg
-423,nathanchere (AoC++),95,https://github.com/nathanchere,https://avatars.githubusercontent.com/u/853261?v=4
+423,(anonymous user #1980) (AoC++),95,,
 426,(anonymous user #233045),94,,
 426,Daniel Willenson (AoC++),94,,https://lh3.googleusercontent.com/a-/AAuE7mCPhvuqg5BThjb2ced1s1V5JOYMsSZBR_AOzkZ33g
 426,Adé Mochtar (AoC++),94,https://github.com/amochtar,https://avatars.githubusercontent.com/u/950105?v=4
@@ -824,7 +824,7 @@ Rank,Name,Score,Link,Avatar
 823,usandfriends,3,https://github.com/rgajrawala,https://avatars1.githubusercontent.com/u/3241922?v=4
 823,Marc Kelsey,3,,https://lh6.googleusercontent.com/-fhGYfkNyW6k/AAAAAAAAAAI/AAAAAAAAAIk/pUz-LTT_h_M/photo.jpg
 823,Quelklef,3,https://github.com/Quelklef,https://avatars.githubusercontent.com/u/14851215?v=4
-823,ncmiller (AoC++),3,,https://avatars.githubusercontent.com/u/921187?v=4
+823,ncmiller (AoC++),3,https://github.com/ncmiller,https://avatars.githubusercontent.com/u/921187?v=4
 823,kindermoumoute (AoC++),3,https://github.com/kindermoumoute,https://avatars.githubusercontent.com/u/10092554?v=4
 823,Bert Sarens,3,,https://lh3.googleusercontent.com/a/ACg8ocIdPndW1sjCDH7srcfo7jthBYUy-ghOhHNLUIh81pqX=s96-c
 829,pjreiniger,2,,https://avatars.githubusercontent.com/u/10381694?v=4

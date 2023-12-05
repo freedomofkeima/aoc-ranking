@@ -601,7 +601,7 @@ Rank,Name,Score,Link,Avatar
 600,pager,45,,https://avatars.githubusercontent.com/u/6687043?v=4
 600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ACg8ocJb9KzmgtkFhjlH3sYqMBnJeIp9I4nlZG8m5UOmnrgdSGo=s96-c
 600,Jonathan Soo,45,,https://lh3.googleusercontent.com/a/AGNmyxbILwb0VeX6nP8uixBN0J4kLIyWQnk-x9stWg0hBA=s96-c
-600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/-WDG1tBDgcdg/AAAAAAAAAAI/AAAAAAAAEao/AMZuuckBOOE-tIJqjTgtnkJHKtl9QK-uYg/s96-c/photo.jpg
+600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/a/ACg8ocKCVup4iH33Vz4DkhTgiL2BAAoLSWjbjMyqUFko_U_5Aw=s96-c
 600,mebeim (AoC++),45,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4
 600,saltyeyes,45,,https://avatars.githubusercontent.com/u/1687453?v=4
 606,MissingNoShiny,44,https://github.com/MissingNoShiny,https://avatars.githubusercontent.com/u/13345708?v=4
@@ -730,7 +730,7 @@ Rank,Name,Score,Link,Avatar
 728,Marko Puza,25,,https://lh3.googleusercontent.com/a/ALm5wu35YEgHahXvWFcLncU6gx3xCg30sft-b2mGuNgmvQ=s96-c
 728,Connie Hilarides,25,https://github.com/Connicpu,https://avatars1.githubusercontent.com/u/967877?v=4
 728,Marshall Polaris,25,https://github.com/mqp,https://avatars.githubusercontent.com/u/428637?v=4
-728,nathanchere (AoC++),25,https://github.com/nathanchere,https://avatars.githubusercontent.com/u/853261?v=4
+728,(anonymous user #1980) (AoC++),25,,
 733,Toby Craig,24,https://github.com/tobycraig,https://avatars.githubusercontent.com/u/1301771?v=4
 733,Igor Dubinskiy,24,https://github.com/idubinskiy,https://avatars2.githubusercontent.com/u/6373153?v=4
 735,kms70847,23,,https://avatars.githubusercontent.com/u/5420261?v=4
@@ -787,7 +787,7 @@ Rank,Name,Score,Link,Avatar
 776,lmawarid,17,,https://avatars0.githubusercontent.com/u/16506055?v=4
 787,gabriel-mocioaca,16,https://github.com/gabriel-mocioaca,https://avatars.githubusercontent.com/u/32518891?v=4
 787,Francisco Martínez Lasaca,16,https://github.com/JnxF,https://avatars.githubusercontent.com/u/1232044?v=4
-787,Sebastian Yuen,16,,https://lh3.googleusercontent.com/a/AEdFTp5-M8y1CV46xWZM3FUUOrkPpQCrq-DqJyZcxSfZ=s96-c
+787,Sebastian Yuen,16,,https://lh3.googleusercontent.com/a/ACg8ocLQpJerGhmbJvjKKRr1W3wr7lQ0wbs44hJ0G7MC2BkFdA=s96-c
 787,abhatt349,16,,https://avatars3.githubusercontent.com/u/23636854?v=4
 787,jholman (AoC++),16,,https://avatars.githubusercontent.com/u/172523?v=4
 787,aaa chen,16,,https://lh3.googleusercontent.com/a/ACg8ocIhbtHR9PMIl2A9MCsAAYGSvz1dLTl8fuvwLQV0dc5u=s96-c
