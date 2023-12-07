@@ -7,7 +7,7 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: deps1-{{ .Branch }}
+          key: deps1-v1-{{ .Branch }}
       - run:
           name: Build
           command: |
@@ -17,7 +17,7 @@ jobs:
             pip install poetry
             poetry install --no-ansi
       - save_cache:
-          key: deps1-{{ .Branch }}-{{ checksum "poetry.lock" }}
+          key: deps1-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
           paths:
             - "venv"
       - run:
