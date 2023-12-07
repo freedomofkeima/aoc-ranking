@@ -110,7 +110,7 @@ Rank,Name,Score,Link,Avatar
 107,Addy,758,,https://avatars.githubusercontent.com/u/6678278?v=4
 110,Alex Crimi,737,,https://lh3.googleusercontent.com/a-/AOh14GhDOCE35LeV8HkT_B820TanDQTNBb-U7urugGr81g=s96-c
 111,Kevin Brown,730,https://github.com/kevin-brown,https://avatars.githubusercontent.com/u/1991850?v=4
-112,(anonymous user #66912) (AoC++),719,,
+112,Ed Schache (AoC++),719,,https://lh3.googleusercontent.com/a/ACg8ocK_khgiNmMZf7lQ7ejWT3jrJ4ljL4kxaRRrSb5oHhR2=s96-c
 113,Arios16,710,https://github.com/Arios16,https://avatars3.githubusercontent.com/u/13740658?v=4
 114,FuriousProgrammer (AoC++),705,,
 115,kalven,703,,
@@ -128,7 +128,7 @@ Rank,Name,Score,Link,Avatar
 127,(anonymous user #14246),610,,
 127,hlian (AoC++),610,https://github.com/hlian,https://avatars.githubusercontent.com/u/63533?v=4
 127,rennex,610,,https://avatars.githubusercontent.com/u/449856?v=4
-130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/ALV-UjV46ftUnGMw9yI6tUzXh2vqusGqI023O9xrYJg4sRZnf-dHECy7ynh5v8E_DeqfzmnVf7Rltpfsw1wOlz6GW9DZoamg6CjrUEeiUyzjk1sald77dcH3g7NOkvGcQVAA-pE1PH754J-LF7fG_O2s6Y
+130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/ALV-UjW6U-y3KYxZ3i9MUB9DLmGtx036sAeQuxxMCL80U7GoFnVZYB3IG4rjCPUExPOpHTZI2JbNP-qWOk2Hzd1sgI5nyWFKaPr76EVbWS5eJOuXz4Xdd-Ur3vpyLA1mSdJ1rg5JfV2fl2_pYJBn1Ho9hl
 131,Joel Harmon,588,,https://lh3.googleusercontent.com/a/ACg8ocIBoUlA8ZA2OGcUWZic7q4IKQZS8kVPTfaEKhPishCG=s96-c
 131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 133,vaultah,585,https://github.com/vaultah,https://avatars.githubusercontent.com/u/4944562?v=4
@@ -698,7 +698,7 @@ Rank,Name,Score,Link,Avatar
 695,adlpr,7,,https://avatars1.githubusercontent.com/u/9668343?v=4
 695,Emre Yucel,7,,https://lh6.googleusercontent.com/-5l4I2RRLfd0/AAAAAAAAAAI/AAAAAAAATOM/HBA72O4G8sM/photo.jpg
 695,Jeff Jankowski,7,https://github.com/JeffJankowski,https://avatars3.githubusercontent.com/u/5688647?v=4
-695,Brian Boyles,7,,https://lh6.googleusercontent.com/-oeBTAS9QLBw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclci64ZvwLO7gLByxJwz6Gl_mJ_ig/s96-c/photo.jpg
+695,Brian Boyles,7,,https://lh3.googleusercontent.com/a/ACg8ocK8BwgColOho5sWKvL2HDknetxDnvnuEFi8-bQNgIE5=s96-c
 701,UselessOptions,6,,
 701,that_lego_guy (AoC++),6,,
 701,Tina Wuest (AoC++),6,https://github.com/wuest,https://avatars.githubusercontent.com/u/1447221?v=4

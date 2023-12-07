@@ -39,7 +39,7 @@ Rank,Name,Score,Link,Avatar
 38,Ethan Morgan (AoC++),1365,,https://lh3.googleusercontent.com/a-/AOh14GjY1S_6pBXdRF7lEtss2ghAqhj2-VZix51cBkDPTw=s96-c
 38,Craig Gidney,1365,https://github.com/Strilanc,https://avatars.githubusercontent.com/u/79941?v=4
 40,(anonymous user #44119),1361,,
-41,LukasGelbmann,1349,https://github.com/LukasGelbmann,https://avatars.githubusercontent.com/u/34147627?v=4
+41,Lukas Gelbmann,1349,https://github.com/LukasGelbmann,https://avatars.githubusercontent.com/u/34147627?v=4
 42,gengkev (AoC++),1345,https://github.com/gengkev,https://avatars.githubusercontent.com/u/548628?v=4
 43,bcc32 (AoC++),1338,https://github.com/bcc32,https://avatars.githubusercontent.com/u/1239097?v=4
 44,Sam Cappleman-Lynes,1335,,https://avatars.githubusercontent.com/u/17862382?v=4
@@ -360,7 +360,7 @@ Rank,Name,Score,Link,Avatar
 358,WildUtah,134,https://github.com/WildUtah,https://avatars.githubusercontent.com/u/853423?v=4
 360,Amber Choo,132,,https://lh3.googleusercontent.com/a/AAcHTtcORsnx5MX9q-mTeT-pJTjw5rJm6JsHpmJ2feJ_y0OfBg=s96-c
 360,sonneveld (AoC++),132,https://github.com/sonneveld,https://avatars.githubusercontent.com/u/335451?v=4
-362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjV46ftUnGMw9yI6tUzXh2vqusGqI023O9xrYJg4sRZnf-dHECy7ynh5v8E_DeqfzmnVf7Rltpfsw1wOlz6GW9DZoamg6CjrUEeiUyzjk1sald77dcH3g7NOkvGcQVAA-pE1PH754J-LF7fG_O2s6Y
+362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjW6U-y3KYxZ3i9MUB9DLmGtx036sAeQuxxMCL80U7GoFnVZYB3IG4rjCPUExPOpHTZI2JbNP-qWOk2Hzd1sgI5nyWFKaPr76EVbWS5eJOuXz4Xdd-Ur3vpyLA1mSdJ1rg5JfV2fl2_pYJBn1Ho9hl
 363,Zeki Gurbuz,129,,https://avatars.githubusercontent.com/u/36140950?v=4
 364,Dave Buchfuhrer (AoC++),128,,https://lh3.googleusercontent.com/a/ACg8ocLIW58Q7bdF8Rf4XsZrlucqai652T9HmRBXaByr9Efad813=s96-c
 364,nmutalik (AoC++),128,https://github.com/nmutalik,https://avatars.githubusercontent.com/u/2798587?v=4
@@ -570,7 +570,7 @@ Rank,Name,Score,Link,Avatar
 569,Louis Pierre Joseph Clergue (AoC++),53,,https://lh3.googleusercontent.com/a/ACg8ocJAflzM3AfuKvX0XyLjHr8lqQa8UzeR2lbpHf2nMMpZ=s96-c
 569,Daniel Guerber,53,,https://lh3.googleusercontent.com/a/ACg8ocJ8u5Bw2ZOfzvQsn_0l8UCh5Eum_htW5xxTWNqJsNZQ=s96-c
 569,iarwain,53,https://github.com/iarwain,https://avatars.githubusercontent.com/u/1697224?v=4
-569,Christian Rinjes (AoC++),53,,https://lh3.googleusercontent.com/a/AEdFTp6X0NsPel887QBOjloC38aoCJ8BDve9EDAIyiJVoQ=s96-c
+569,Christian Rinjes (AoC++),53,,https://lh3.googleusercontent.com/a/ACg8ocK3E26OvwTLumWRSsfBkhVVJDf7_31kMTHU-WAuzpjSqggd=s96-c
 573,Zachary Liu,52,https://github.com/zacharyliu,https://avatars.githubusercontent.com/u/376616?v=4
 573,Kosi Nwabueze,52,,https://avatars.githubusercontent.com/u/17646399?v=4
 573,Stefano Rivera,52,https://github.com/stefanor,https://avatars.githubusercontent.com/u/442117?v=4
@@ -601,7 +601,7 @@ Rank,Name,Score,Link,Avatar
 600,pager,45,,https://avatars.githubusercontent.com/u/6687043?v=4
 600,Kurt Steinkraus,45,,https://lh3.googleusercontent.com/a/ACg8ocJb9KzmgtkFhjlH3sYqMBnJeIp9I4nlZG8m5UOmnrgdSGo=s96-c
 600,Jonathan Soo,45,,https://lh3.googleusercontent.com/a/AGNmyxbILwb0VeX6nP8uixBN0J4kLIyWQnk-x9stWg0hBA=s96-c
-600,Huy Truong Nam Nguyen,45,,https://lh3.googleusercontent.com/a/ACg8ocKCVup4iH33Vz4DkhTgiL2BAAoLSWjbjMyqUFko_U_5Aw=s96-c
+600,Nam Nguyen,45,,https://lh3.googleusercontent.com/a/ACg8ocKCVup4iH33Vz4DkhTgiL2BAAoLSWjbjMyqUFko_U_5Aw=s96-c
 600,mebeim (AoC++),45,https://github.com/mebeim,https://avatars.githubusercontent.com/u/14198070?v=4
 600,saltyeyes,45,,https://avatars.githubusercontent.com/u/1687453?v=4
 606,MissingNoShiny,44,https://github.com/MissingNoShiny,https://avatars.githubusercontent.com/u/13345708?v=4
@@ -643,7 +643,7 @@ Rank,Name,Score,Link,Avatar
 635,Taras Petruk,37,https://github.com/skel35,https://avatars.githubusercontent.com/u/16451391?v=4
 635,Danny Hermes,37,https://github.com/dhermes,https://avatars3.githubusercontent.com/u/520669?v=4
 644,(anonymous user #51437),36,,
-644,Jocelyn Stericker (AoC++),36,https://github.com/emilyskidsister,https://avatars.githubusercontent.com/u/4186708?v=4
+644,Jocelyn Stericker (AoC++),36,https://github.com/jocelyn-stericker,https://avatars.githubusercontent.com/u/4186708?v=4
 646,Luke Moran (AoC++),35,,https://lh3.googleusercontent.com/a/AATXAJzE2iBAhsmZDfK_1t1zqDgPYAxevafhiNHro-il=s96-c
 646,George Mocanu (AoC++),35,,https://lh3.googleusercontent.com/a/ACg8ocJnCs31CMOIGmyLBpFtSML0iFZYJCj-79Vz3aHpDXVuNSQ=s96-c
 646,Matt Rollins,35,,https://avatars.githubusercontent.com/u/8635155?v=4
