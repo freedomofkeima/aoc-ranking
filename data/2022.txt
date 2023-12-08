@@ -122,7 +122,7 @@ Rank,Name,Score,Link,Avatar
 121,Arcwise,531,https://twitter.com/arcwisedata,http://pbs.twimg.com/profile_images/1588661122390818816/MDevTMwF.jpg
 122,Waffle,529,,https://lh3.googleusercontent.com/a/ACg8ocJtlTGzv7hOHs2HEoJfJzjco50nVFhLnLDnnhqTvDmLUg=s96-c
 123,crazymerlyn,523,https://github.com/crazymerlyn,https://avatars.githubusercontent.com/u/6919679?v=4
-124,jo3-l,513,https://github.com/jo3-l,https://avatars.githubusercontent.com/u/56809242?v=4
+124,Joe L.,513,https://github.com/jo3-l,https://avatars.githubusercontent.com/u/56809242?v=4
 125,etotheipi1,510,,
 126,Ivan Kazmenko,501,https://github.com/GassaFM,https://avatars.githubusercontent.com/u/2153020?v=4
 127,Tanner Hoke,497,,https://avatars.githubusercontent.com/u/8375463?v=4
@@ -371,7 +371,7 @@ Rank,Name,Score,Link,Avatar
 369,Brian Dean,135,,https://lh3.googleusercontent.com/a/ACg8ocJmtn35CBhOdbWZYVYiPjox9li1Ni05Wgg3hVqBxYA=s96-c
 369,Ben Hollows (Sponsor),135,https://github.com/benhollows,https://avatars.githubusercontent.com/u/19564308?v=4
 372,Ali Zahid Raja (AoC++),134,https://github.com/alizahidraja,https://avatars.githubusercontent.com/u/47390576?v=4
-373,cefqrn,133,,https://avatars.githubusercontent.com/u/77187908?v=4
+373,cefqrn,133,https://github.com/cefqrn,https://avatars.githubusercontent.com/u/77187908?v=4
 373,Ben Jacobson,133,https://github.com/BenJacobson,https://avatars.githubusercontent.com/u/16209922?v=4
 375,Dario Sučić (AoC++),132,https://github.com/DarioSucic,https://avatars.githubusercontent.com/u/7669299?v=4
 375,xd y,132,,https://lh3.googleusercontent.com/a/ACg8ocJ2MWrQeOtQbEoxz7BW7BCy4ToJcK5rAQ3CKqTy1cEA=s96-c
@@ -397,7 +397,7 @@ Rank,Name,Score,Link,Avatar
 396,Rem Zhang,123,https://github.com/remzh,https://avatars.githubusercontent.com/u/20567781?v=4
 397,tiger0132,122,,https://avatars.githubusercontent.com/u/29677906?v=4
 397,sorawit,122,https://github.com/sorawit,https://avatars.githubusercontent.com/u/5730246?v=4
-397,Guillaume AMBAL,122,,https://lh3.googleusercontent.com/a/AGNmyxav89OsvNF-XMlwVME6kfovmOMFqWdYY5nj8Jzw=s96-c
+397,Guillaume AMBAL,122,,https://lh3.googleusercontent.com/a/ACg8ocIjKIrAyVls-nwlj4DbDOj_RG02z-V-gipkGMsIElpJTA=s96-c
 400,Anthaleos,121,,
 400,Kyle Toom,121,,https://lh3.googleusercontent.com/a/ACg8ocK8hXKq2et8iDIN-RHsQSRHXW0hFa1qmt9JcpXlXSNr7g=s96-c
 400,ItsMeNoobieboy,121,https://github.com/ItsMeNoobieboy,https://avatars.githubusercontent.com/u/54125080?v=4
@@ -788,7 +788,7 @@ Rank,Name,Score,Link,Avatar
 779,Benjamin Yu,32,https://github.com/byu621,https://avatars.githubusercontent.com/u/55732851?v=4
 779,Strikeeaglechase,32,,https://avatars.githubusercontent.com/u/24626309?v=4
 789,LtHummus (AoC++),31,https://github.com/LtHummus,https://avatars.githubusercontent.com/u/1617612?v=4
-789,Geronimo,31,,https://lh3.googleusercontent.com/a/ALm5wu36HcHl692Wzqgc6RsD12TJKgMj2DREq4W62BY7SQ=s96-c
+789,Geronimo,31,,https://lh3.googleusercontent.com/a/ACg8ocKobuaL3bdH48Gh1Sh7Dg-Rm_Puvy0jLeCLXMcnZgJm5n0=s96-c
 789,thailandmatt,31,,https://avatars.githubusercontent.com/u/31248374?v=4
 789,dwhatley19,31,https://github.com/dwhatley19,https://avatars.githubusercontent.com/u/5375330?v=4
 789,drysle,31,,

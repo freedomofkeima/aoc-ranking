@@ -423,7 +423,7 @@ Rank,Name,Score,Link,Avatar
 421,onesk (AoC++),96,https://github.com/onesk,https://avatars.githubusercontent.com/u/4980443?v=4
 423,David Berard,95,,https://avatars1.githubusercontent.com/u/5067123?v=4
 423,Charles Beers,95,,https://lh5.googleusercontent.com/-2mK_1u4kqoI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcwcBBWCZHUH9us81litaS8HGLAhg/photo.jpg
-423,(anonymous user #1980) (AoC++),95,,
+423,nathanchere (AoC++),95,,https://avatars.githubusercontent.com/u/853261?v=4
 426,(anonymous user #233045),94,,
 426,Daniel Willenson (AoC++),94,,https://lh3.googleusercontent.com/a-/AAuE7mCPhvuqg5BThjb2ced1s1V5JOYMsSZBR_AOzkZ33g
 426,Adé Mochtar (AoC++),94,https://github.com/amochtar,https://avatars.githubusercontent.com/u/950105?v=4
@@ -699,7 +699,7 @@ Rank,Name,Score,Link,Avatar
 695,(anonymous user #225974),24,,
 695,Arthur O'Dwyer,24,,https://lh3.googleusercontent.com/-RtixuiGDc8Y/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckoXZNbDt9rW-YR1RisviCAA9zBbg/s96-c/photo.jpg
 695,thegrandpoobah,24,https://github.com/thegrandpoobah,https://avatars1.githubusercontent.com/u/278023?v=4
-695,MareinK,24,https://github.com/MareinK,https://avatars3.githubusercontent.com/u/1388357?v=4
+695,werenike,24,https://github.com/werenike,https://avatars.githubusercontent.com/u/1388357?v=4
 702,fuzzums,23,,
 702,Darragh Griffin,23,https://github.com/DarraghGriffin,https://avatars.githubusercontent.com/u/9257845?v=4
 702,Renaud04,23,,

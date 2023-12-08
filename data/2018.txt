@@ -516,7 +516,7 @@ Rank,Name,Score,Link,Avatar
 515,1lann,60,https://github.com/1lann,https://avatars.githubusercontent.com/u/804919?v=4
 515,(anonymous user #334223),60,,
 515,thatfreakingguy,60,,
-515,Jon Payne (AoC++),60,,https://lh3.googleusercontent.com/a/AATXAJz-wmwjU9gzede7FoGpgwSnRyLf29uKJg2SpA9T=s96-c
+515,Jon Payne (AoC++),60,,https://lh3.googleusercontent.com/a/ACg8ocLnDbQMbblmgtQfZbGMWvIpts-hHrJHiW70p94xhYXP=s96-c
 519,81632641282565121024,59,,
 519,Brian Gates,59,,https://lh3.googleusercontent.com/a/ACg8ocIVitggAevuEWmiipqQsOZGePsl6FIR4V-U_gp-7ism=s96-c
 519,Chad Groft,59,https://github.com/clgroft,https://avatars.githubusercontent.com/u/1514771?v=4
@@ -531,7 +531,7 @@ Rank,Name,Score,Link,Avatar
 530,unsignedint,56,,https://avatars.githubusercontent.com/u/929353?v=4
 530,Dmitry Isaenko,56,,https://lh3.googleusercontent.com/a/ACg8ocIlR4Xe4IqbPcjyqFLmPjXvAIwZrhkdi5dduQfrx2SF9vQ=s96-c
 530,drageryd,56,https://github.com/drageryd,https://avatars.githubusercontent.com/u/4681360?v=4
-533,banteg (AoC++),55,https://github.com/banteg,https://avatars2.githubusercontent.com/u/4562643?v=4
+533,banteg (AoC++),55,https://github.com/banteg,https://avatars.githubusercontent.com/u/4562643?v=4
 533,Magnus Hagmar (AoC++),55,https://github.com/Hagmar,https://avatars.githubusercontent.com/u/4364785?v=4
 533,Morganamilo,55,https://github.com/Morganamilo,https://avatars.githubusercontent.com/u/16593899?v=4
 533,lppham,55,,https://avatars1.githubusercontent.com/u/14900223?v=4

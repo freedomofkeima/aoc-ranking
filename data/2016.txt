@@ -172,7 +172,7 @@ Rank,Name,Score,Link,Avatar
 171,Asish Mahapatra,380,,https://lh6.googleusercontent.com/-1DYCot4BatU/AAAAAAAAAAI/AAAAAAAAAFI/XRa_uVW8otU/photo.jpg
 172,NiXXeD (AoC++),379,https://github.com/NiXXeD,https://avatars3.githubusercontent.com/u/5414721?v=4
 173,Neil Roberts,376,https://github.com/bpeel,https://avatars.githubusercontent.com/u/12873?v=4
-174,Sander van Schouwenburg,371,,https://lh3.googleusercontent.com/a/ACg8ocJBDkvQdkuuWVdxGZtOEoowvcfWjX1lJmDHR6mFQHo71wg=s96-c
+174,Sandra van Schouwenburg,371,,https://lh3.googleusercontent.com/a/ACg8ocJBDkvQdkuuWVdxGZtOEoowvcfWjX1lJmDHR6mFQHo71wg=s96-c
 175,Hypersonic,366,https://github.com/Hypersonic,https://avatars.githubusercontent.com/u/505866?v=3
 176,Erik Dyrelius (AoC++),364,,https://lh3.googleusercontent.com/a/ACg8ocLhhTzksqeYEbw27JnbQM59EAbZQxbQ7gvmdPpLofo53bw=s96-c
 176,death,364,,
@@ -290,7 +290,7 @@ Rank,Name,Score,Link,Avatar
 289,Ярослав Некряч,166,,https://lh3.googleusercontent.com/a/ACg8ocIs7O9_c4QKU5MHmOacas2yjVokoHugAYWNkPQph1rviN0=s96-c
 290,Frédéric Renken,165,https://github.com/renken,https://avatars2.githubusercontent.com/u/9752229?v=4
 290,Michael Peng,165,,https://lh3.googleusercontent.com/a-/AAuE7mDIji3UygdXPmW0eVBbF6D_IqHIFNkXjb96QsniPQ
-292,Matthew Tadd,164,,https://lh3.googleusercontent.com/a/ALm5wu3o7D6aUQpMh9lwRcHC52D2GWwbTk1uAAx_FKS1-w=s96-c
+292,Matthew Tadd,164,,https://lh3.googleusercontent.com/a/ACg8ocL_KJjpHpgqcOMtMUMfKnYQ9p6qFpo9mmOsBpDwDzGcujI=s96-c
 293,bendoh,163,,https://avatars.githubusercontent.com/u/1833896?v=4
 294,chaosagent,162,https://github.com/chaosagent,https://avatars.githubusercontent.com/u/2350134?v=3
 295,Jerome Brock,160,,https://lh3.googleusercontent.com/a/ACg8ocJExZgi8VBdgPh7CwkhzKVFr4sMlhzZK5MA-2WV6bIl=s96-c

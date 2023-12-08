@@ -420,7 +420,7 @@ Rank,Name,Score,Link,Avatar
 419,Irfaan Khalid,166,https://github.com/IrfaanKhalid,https://avatars1.githubusercontent.com/u/13040818?v=4
 419,Buzz627,166,https://github.com/Buzz627,https://avatars.githubusercontent.com/u/6876080?v=4
 419,hjorne,166,https://github.com/hjorne,https://avatars.githubusercontent.com/u/5826578?v=4
-419,Michelle Brundin,166,,https://lh5.googleusercontent.com/-XJesgGC3Byw/AAAAAAAAAAI/AAAAAAAAA7M/64PjLmDMTC0/photo.jpg
+419,Michelle Brundin,166,,https://lh3.googleusercontent.com/a/ACg8ocI5lL15AAvvWd5CkqGJoGAv0PEyI_7L6zAHfQdDkz7fPck=s96-c
 423,ScottehMax,165,https://github.com/ScottehMax,https://avatars.githubusercontent.com/u/6020632?v=4
 424,KamChanLiu,164,https://github.com/KamChanLiu,https://avatars.githubusercontent.com/u/437798?v=3
 424,Marc-André Beaudet-Racine,164,,https://lh3.googleusercontent.com/-8lWjd1IOmYo/AAAAAAAAAAI/AAAAAAAABHI/DOP6a3bsRPI/photo.jpg

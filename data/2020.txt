@@ -501,7 +501,7 @@ Rank,Name,Score,Link,Avatar
 499,Thomas Hines (AoC++),66,,https://avatars.githubusercontent.com/u/1562864?v=4
 499,Joseph H,66,,https://lh3.googleusercontent.com/a/ACg8ocJ5QbSQ3qlHLren7Ikg1OjuOT6ZBdTRfHX2z6pVu4di=s96-c
 499,DanilaFe,66,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
-499,travis meade,66,,https://lh3.googleusercontent.com/a/AAcHTtc6woC-rwwZ5MydybSv1n2sGVGNtDy0nP7stKu0ZkwW140=s96-c
+499,travis meade,66,,https://lh3.googleusercontent.com/a/ACg8ocKxQ8SSbBjvcF-vULGH9KqL2FciSf_HYJ2C6bMu3nudg4c=s96-c
 499,Adib Surani,66,https://github.com/AdibSurani,https://avatars.githubusercontent.com/u/6822159?v=4
 505,八起,65,,https://avatars.githubusercontent.com/u/51730465?v=4
 505,Toby Craig,65,https://github.com/tobycraig,https://avatars.githubusercontent.com/u/1301771?v=4
@@ -539,7 +539,7 @@ Rank,Name,Score,Link,Avatar
 537,bengdahl,55,https://github.com/tetrahedron341,https://avatars.githubusercontent.com/u/19270795?v=4
 537,Maarten Sijm,55,https://github.com/mpsijm,https://avatars.githubusercontent.com/u/9739541?v=4
 537,Ishan Mundra (AoC++),55,,https://lh4.googleusercontent.com/-rUEeTRvjXj0/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckziDml--K5jd4qLxhkXa_Xon9paQ/s96-c/photo.jpg
-537,Guillaume AMBAL,55,,https://lh3.googleusercontent.com/a/AGNmyxav89OsvNF-XMlwVME6kfovmOMFqWdYY5nj8Jzw=s96-c
+537,Guillaume AMBAL,55,,https://lh3.googleusercontent.com/a/ACg8ocIjKIrAyVls-nwlj4DbDOj_RG02z-V-gipkGMsIElpJTA=s96-c
 542,Andreas Grapentin (AoC++),54,https://github.com/oaken-source,https://avatars.githubusercontent.com/u/5459661?v=4
 542,bjebert,54,https://github.com/bjebert,https://avatars.githubusercontent.com/u/8327069?v=4
 542,Patrick Roberts,54,,https://avatars.githubusercontent.com/u/1301304?v=4
