@@ -828,7 +828,7 @@ Rank,Name,Score,Link,Avatar
 820,(anonymous user #379776),2,,
 820,Sedsarq,2,,
 820,Rascal_Two,2,https://github.com/RascalTwo,https://avatars.githubusercontent.com/u/9403665?v=4
-820,Martin Butler (AoC++),2,,https://lh3.googleusercontent.com/a/AEdFTp5NZGucm7EKnzwi9cKUM_eQnTr2rB4D0zbnCtgbxQ=s96-c
+820,Martin Butler (AoC++),2,,https://lh3.googleusercontent.com/a/ACg8ocKjl8CrFJSd8m9utWsSQINSQu2TuDAUE1cMrGIak3VJC-A=s96-c
 831,Valdas,1,,https://avatars.githubusercontent.com/u/9084046?v=4
 831,Florian Cassayre,1,https://github.com/FlorianCassayre,https://avatars.githubusercontent.com/u/9027075?v=4
 831,Doug Strain,1,,https://lh3.googleusercontent.com/a-/AAuE7mD3rKAeAMGsPpvWWiV7zRlTuheiGA5loBRzEoN7

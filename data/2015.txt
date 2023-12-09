@@ -126,7 +126,7 @@ Rank,Name,Score,Link,Avatar
 125,Joshua Berne,509,,https://lh3.googleusercontent.com/a/ACg8ocKNEqhbOV3KaWhyXaZoXobQAWPIPjtGQYkJft_VNJNZ=s96-c
 126,Tom Saunders,508,,https://lh3.googleusercontent.com/a/ALm5wu176WaFTGbD7f2noI6xVuAcCmCmvDQuTQVguXO_Iw=s96-c
 127,Marek Kukan,499,,https://lh3.googleusercontent.com/a/AATXAJwEnSjW0MvvkhnsxwIICV3fgJdsgtE2Gs6vrN3r=s96-c
-128,Joel Lathrop,496,,https://lh6.googleusercontent.com/-d2LbB-IkNAA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmkn6d4oROtkBvOmL1vqTcNomoRBQ/photo.jpg
+128,Joel Lathrop,496,,https://lh3.googleusercontent.com/a/ACg8ocL5ktrIlg5OZsouGSG3gSHJpzy_HREtsc5Ic6UMIimh=s96-c
 128,Corey Maher,496,https://github.com/coreymaher,https://avatars.githubusercontent.com/u/100885?v=4
 130,FuriousProgrammer,494,,
 130,Benoit Hiller,494,https://github.com/BenoitHiller,https://avatars.githubusercontent.com/u/843247?v=4
@@ -345,14 +345,14 @@ Rank,Name,Score,Link,Avatar
 344,reci,193,,
 344,JLRishe,193,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 344,Jan Šimek,193,,https://lh3.googleusercontent.com/a-/AOh14Gg27EE1cQ-fVmzo1iU9rte5RMETBqyEQR9t-INkJw=s96-c
-344,Maciej Biernaczyk,193,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
+344,Maciej Biernaczyk,193,,https://lh3.googleusercontent.com/a/ACg8ocJEpOJVWgW8sLaESannPndzOyBVPFptM0BzCzo0UV0t=s96-c
 348,@__gcd,192,https://twitter.com/__gcd,http://pbs.twimg.com/profile_images/567098605828206592/WL7eL4va.jpeg
 348,Russ Ford,192,,https://lh3.googleusercontent.com/a/AEdFTp4Ot1MV5q3nVlVQYC5-j5NWy0fpkw9-xm1wziaY=s96-c
 348,kivikakk,192,https://twitter.com/kivikakk,http://pbs.twimg.com/profile_images/1373465855971840002/q_nLzvV1.jpg
 351,klieth,191,,https://avatars.githubusercontent.com/u/2389325?v=4
 351,Peter Trebaticky,191,,https://lh3.googleusercontent.com/a/ACg8ocJKbZ8PR2uJB0Bom-gaQnuxW0DGxTs8svHc2XkmkF6mWw=s96-c
 353,Ryan Braganza,190,https://github.com/ryanbraganza,https://avatars.githubusercontent.com/u/290242?v=4
-353,vinheim3,190,https://github.com/vinheim3,https://avatars.githubusercontent.com/u/15029675?v=4
+353,(anonymous user #27126),190,,
 353,chocodis,190,,
 356,Adina,189,https://github.com/adinaelisheva,https://avatars0.githubusercontent.com/u/3931713?v=4
 356,mikhnevich,189,,https://avatars.githubusercontent.com/u/7000965?v=4

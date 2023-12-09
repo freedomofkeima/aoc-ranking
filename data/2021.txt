@@ -846,7 +846,7 @@ Rank,Name,Score,Link,Avatar
 843,Andrew Macheret,22,https://github.com/andrewmacheret,https://avatars.githubusercontent.com/u/2716075?v=4
 843,kshxtij,22,,https://avatars.githubusercontent.com/u/48125086?v=4
 843,Lawrence Yu,22,,https://lh3.googleusercontent.com/a/ALm5wu1gRvXbPNE2IKrkIU8-GIT4YN6_2-FflnCx35YD4Q=s96-c
-848,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjUV72CULUk2CbBwElF2YXNdLx3vPbypFc6KP7PA7lMDjgnCFrQrgaXz_7_q4CnPtt7m78r5FyhoyKm-gvPlquE354OPljArZRKp1nyF1fvg94Tr2PNwoi7nZUHjlYSQWVlbUYQxIk_uXGDEvA2FKb
+848,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjUf_OX0Qm8YNjoJhFfb-lvk8hTc4CCk9Bke-ZU2AAoFu7zjXiAUbSuLqVgx0fWJg4OMzlz6Hu6QQfkqLDKcMxykgRq6DwR1FVQNJT3Zvew9WmVplWBeJNnbiethfY0PJyo9Lrm9LGEBLRzxJZHtED
 848,Patrick Coleman,21,,https://lh3.googleusercontent.com/a/ACg8ocK4dF0XrLmEwkWTJ7aAV7s6Jln_TRmb9TAeJjq-J6GMIQ=s96-c
 848,Ivan Dashkevich,21,,https://lh3.googleusercontent.com/a/ACg8ocJJOvKlzwWQp_hoqe9dkpT2u8KfPOPGcrzwdSK78Hoxh6U=s96-c
 848,Ivan Vyshnevskyi (AoC++),21,https://github.com/sainaen,https://avatars.githubusercontent.com/u/2400185?v=4
@@ -926,7 +926,7 @@ Rank,Name,Score,Link,Avatar
 923,Rem Zhang,11,https://github.com/remzh,https://avatars.githubusercontent.com/u/20567781?v=4
 923,Ali Arafati (AoC++),11,https://twitter.com/CitizenOfTheWeb,http://pbs.twimg.com/profile_images/1128071654423371776/EqgRYBfF.jpg
 923,Dash (AoC++),11,https://github.com/dashosaur,https://avatars.githubusercontent.com/u/1860813?v=4
-928,Ovidiu Firescu,10,,https://lh3.googleusercontent.com/a/ACg8ocKJ73H6BQ5NGPK42pcoy2Coi9UlWFHgb8Rzy8PcpfEmcw=s96-c
+928,Ovidiu Firescu,10,https://github.com/FirescuOvidiu,https://avatars.githubusercontent.com/u/45572438?v=4
 928,Arjun Nair,10,https://github.com/batman-nair,https://avatars.githubusercontent.com/u/14367825?v=4
 928,BryantH24,10,https://github.com/BryantH24,https://avatars.githubusercontent.com/u/47344309?v=4
 928,Dzmitry Razhkou,10,,https://lh3.googleusercontent.com/a/ACg8ocKZAkDyrQBd3aGggX0LbJmm1mHW_YleF6Zyo4uWNPT5=s96-c

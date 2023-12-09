@@ -376,7 +376,7 @@ Rank,Name,Score,Link,Avatar
 375,honu 🐢 (Danny) (AoC++),114,,http://pbs.twimg.com/profile_images/1329320696078589954/x7Ujallk.jpg
 376,Paweł Kubiak,113,https://github.com/pkubiak,https://avatars.githubusercontent.com/u/4224364?v=4
 376,alokmenghrajani (AoC++),113,https://github.com/alokmenghrajani,https://avatars.githubusercontent.com/u/441307?v=4
-378,David K. Zhang,112,,https://avatars0.githubusercontent.com/u/4504054?v=4
+378,David K. Zhang,112,,https://avatars.githubusercontent.com/u/4504054?v=4
 378,Scott Wu,112,,https://lh6.googleusercontent.com/-NxGT6mF1uMg/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuck96gaFV852ifjFUkGPjvx0nWBeNQ/s96-c/photo.jpg
 380,Jacob Magnuson (AoC++),111,,https://lh3.googleusercontent.com/a/AEdFTp4xqWZ3jK-7fmJedzC3tjA1SfeCMvHGgYgbOprC=s96-c
 381,cup2of2tea (AoC++),110,,https://avatars.githubusercontent.com/u/2098612?v=4
@@ -728,7 +728,7 @@ Rank,Name,Score,Link,Avatar
 721,jhuang97 (AoC++),22,https://github.com/jhuang97,https://avatars.githubusercontent.com/u/4683931?v=4
 721,Adam Snyder (AoC++),22,https://github.com/armsnyder,https://avatars.githubusercontent.com/u/9969202?v=4
 729,alinajadebarnett,21,https://github.com/alinajadebarnett,https://avatars.githubusercontent.com/u/23726041?v=4
-729,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjUV72CULUk2CbBwElF2YXNdLx3vPbypFc6KP7PA7lMDjgnCFrQrgaXz_7_q4CnPtt7m78r5FyhoyKm-gvPlquE354OPljArZRKp1nyF1fvg94Tr2PNwoi7nZUHjlYSQWVlbUYQxIk_uXGDEvA2FKb
+729,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjUf_OX0Qm8YNjoJhFfb-lvk8hTc4CCk9Bke-ZU2AAoFu7zjXiAUbSuLqVgx0fWJg4OMzlz6Hu6QQfkqLDKcMxykgRq6DwR1FVQNJT3Zvew9WmVplWBeJNnbiethfY0PJyo9Lrm9LGEBLRzxJZHtED
 729,Tylan McKinney,21,https://github.com/tylanmm,https://avatars.githubusercontent.com/u/55035342?v=4
 729,Vrael_Vrangr,21,,
 729,RZachLamberty (AoC++),21,https://github.com/RZachLamberty,https://avatars.githubusercontent.com/u/6100896?v=4
@@ -804,7 +804,7 @@ Rank,Name,Score,Link,Avatar
 803,Diamond,10,https://github.com/diamondburned,https://avatars.githubusercontent.com/u/8463786?v=4
 803,cyphase,10,,https://avatars.githubusercontent.com/u/977850?v=4
 803,UnderKoen (AoC++),10,https://github.com/UnderKoen,https://avatars.githubusercontent.com/u/15718297?v=4
-803,Ovidiu Firescu (AoC++),10,,https://lh3.googleusercontent.com/a/ACg8ocKJ73H6BQ5NGPK42pcoy2Coi9UlWFHgb8Rzy8PcpfEmcw=s96-c
+803,Ovidiu Firescu (AoC++),10,https://github.com/FirescuOvidiu,https://avatars.githubusercontent.com/u/45572438?v=4
 803,annie-qiu26,10,,https://avatars.githubusercontent.com/u/30778029?v=4
 803,(anonymous user #255211),10,,
 803,acpotluri,10,,https://avatars.githubusercontent.com/u/42557491?v=4
