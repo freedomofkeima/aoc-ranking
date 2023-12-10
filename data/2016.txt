@@ -242,7 +242,7 @@ Rank,Name,Score,Link,Avatar
 241,Shane Mc Cormack (AoC++),214,https://github.com/ShaneMcC,https://avatars.githubusercontent.com/u/189723?v=4
 242,iamevn,213,,https://avatars.githubusercontent.com/u/5936748?v=4
 242,nixone,213,,https://avatars.githubusercontent.com/u/3688312?v=4
-242,grypoB,213,https://github.com/grypoB,https://avatars2.githubusercontent.com/u/10292816?v=4
+242,grypoB,213,https://github.com/grypoB,https://avatars.githubusercontent.com/u/10292816?v=4
 245,Matthew Semeniuk,207,,https://lh3.googleusercontent.com/a/AEdFTp52kvGcm_Rg2JRDwE6cGH6XBszU90U2Ab_Uuyt5=s96-c
 245,Arkady Pogostkin,207,,https://lh3.googleusercontent.com/a-/AOh14GjWOoZZ0_nEQozNrg_slhhoQfVSSDRZoxqdP_3vDg=s96-c
 247,Zoooook,205,https://github.com/Zoooook,https://avatars.githubusercontent.com/u/8059701?v=3

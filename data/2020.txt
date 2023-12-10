@@ -728,7 +728,7 @@ Rank,Name,Score,Link,Avatar
 721,jhuang97 (AoC++),22,https://github.com/jhuang97,https://avatars.githubusercontent.com/u/4683931?v=4
 721,Adam Snyder (AoC++),22,https://github.com/armsnyder,https://avatars.githubusercontent.com/u/9969202?v=4
 729,alinajadebarnett,21,https://github.com/alinajadebarnett,https://avatars.githubusercontent.com/u/23726041?v=4
-729,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjUf_OX0Qm8YNjoJhFfb-lvk8hTc4CCk9Bke-ZU2AAoFu7zjXiAUbSuLqVgx0fWJg4OMzlz6Hu6QQfkqLDKcMxykgRq6DwR1FVQNJT3Zvew9WmVplWBeJNnbiethfY0PJyo9Lrm9LGEBLRzxJZHtED
+729,Aaron Fink,21,,https://lh3.googleusercontent.com/a-/ALV-UjV8YahlogJQSpbq_0zb8xVUPxggP3UZjPoEWXez85k5MmuKPIxaDi4qmZ3AMu-VLkpZqZbgsusBTSR0r7eADfTiBGPo5vQY7VNCMO2oa2bR63oUvUu-IWBbR-oxyT-Mc-Vs5-im7lbaaDQT9p5zO_
 729,Tylan McKinney,21,https://github.com/tylanmm,https://avatars.githubusercontent.com/u/55035342?v=4
 729,Vrael_Vrangr,21,,
 729,RZachLamberty (AoC++),21,https://github.com/RZachLamberty,https://avatars.githubusercontent.com/u/6100896?v=4
@@ -842,7 +842,7 @@ Rank,Name,Score,Link,Avatar
 838,katelx,5,https://github.com/katelx,https://avatars.githubusercontent.com/u/12555187?v=4
 838,Matt Adereth (AoC++),5,,https://lh3.googleusercontent.com/a/ALm5wu3FqghdvwDYBa65-xTodN3HtXmgRvu8ZKGRl5_v=s96-c
 843,devast8a,4,https://github.com/devast8a,https://avatars.githubusercontent.com/u/450822?v=4
-843,One,4,,https://avatars.githubusercontent.com/u/33045716?v=4
+843,Also looking 4 an internship! ,4,https://github.com/01-1,https://avatars.githubusercontent.com/u/33045716?v=4
 843,danvolchek (AoC++),4,https://github.com/danvolchek,https://avatars.githubusercontent.com/u/21993469?v=4
 843,Paul Zagieboylo,4,,https://lh3.googleusercontent.com/a/ACg8ocLq3wRc73fqLCmDx9bxDAjzXxFwfw2mDk8zqZLpTNfV=s96-c
 843,Nanthelas1,4,,https://avatars.githubusercontent.com/u/119718737?v=4

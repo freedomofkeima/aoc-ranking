@@ -483,7 +483,7 @@ Rank,Name,Score,Link,Avatar
 481,Kolo9,70,https://github.com/Kolo9,https://avatars.githubusercontent.com/u/5440788?v=4
 481,Oleg Godovykh (AoC++),70,https://github.com/0legg,https://avatars.githubusercontent.com/u/2427681?v=4
 481,provegard,70,https://github.com/provegard,https://avatars.githubusercontent.com/u/795010?v=4
-485,Alex Stephens,69,,https://lh3.googleusercontent.com/a/ACg8ocIEb6v9pnGGMF1oaWJ9dE283ses5b8taT-vRvIcNHOmvuzT=s96-c
+485,alex-stephens,69,https://github.com/alex-stephens,https://avatars.githubusercontent.com/u/13194481?v=4
 485,Matthew Merrill,69,https://github.com/MatthewMerrill,https://avatars.githubusercontent.com/u/5248800?v=4
 487,Pontus Walck (AoC++),68,,https://avatars.githubusercontent.com/u/1211119?v=4
 487,Joel Harmon,68,,https://lh3.googleusercontent.com/a/ACg8ocIBoUlA8ZA2OGcUWZic7q4IKQZS8kVPTfaEKhPishCG=s96-c

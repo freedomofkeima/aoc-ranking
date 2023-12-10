@@ -414,7 +414,7 @@ Rank,Name,Score,Link,Avatar
 411,Evan Jeffrey,106,,https://avatars.githubusercontent.com/u/1690140?v=4
 411,llyyr,106,https://github.com/llyyr,https://avatars.githubusercontent.com/u/6298234?v=4
 411,(anonymous user #468053) (AoC++),106,,
-416,Alex Stephens,105,,https://lh3.googleusercontent.com/a/ACg8ocIEb6v9pnGGMF1oaWJ9dE283ses5b8taT-vRvIcNHOmvuzT=s96-c
+416,alex-stephens,105,https://github.com/alex-stephens,https://avatars.githubusercontent.com/u/13194481?v=4
 417,nvojkovic (AoC++),104,https://github.com/nvojkovic,https://avatars.githubusercontent.com/u/7647364?v=4
 417,ddlatham (AoC++),104,,https://avatars.githubusercontent.com/u/210843?v=4
 419,lewinski (AoC++),103,https://github.com/lewinski,https://avatars.githubusercontent.com/u/61409?v=4
