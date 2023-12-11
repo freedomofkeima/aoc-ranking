@@ -820,7 +820,7 @@ Rank,Name,Score,Link,Avatar
 818,Jacob Kopczynski,38,https://github.com/jkopczyn,https://avatars.githubusercontent.com/u/1253351?v=4
 818,Eric Kuritzky,38,,http://abs.twimg.com/sticky/default_profile_images/default_profile_1.png
 818,Cayle Sharrock,38,,https://lh5.googleusercontent.com/-VHlQ7dPLKko/AAAAAAAAAAI/AAAAAAAAADo/3MjqP3xhaPk/photo.jpg
-822,Rob Hodgkinson,37,,https://lh4.googleusercontent.com/-VMYUcC-cLyw/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-ieCbRZafMTX7k5vygcp1f9Axy7qQ/mo/photo.jpg
+822,Rob Hodgkinson,37,,https://lh3.googleusercontent.com/a/ACg8ocIP5NRJfXO-0vM4eyEP1_eEgqJkxv9CK4bKIKEXNjKK=s96-c
 822,Péter Szirmai,37,,https://lh3.googleusercontent.com/-lSkmouAbo00/AAAAAAAAAAI/AAAAAAAAIow/cHfzoVCHrMc/photo.jpg
 822,hazzen,37,,https://avatars3.githubusercontent.com/u/757123?v=4
 822,Michael Klassen,37,,https://avatars.githubusercontent.com/u/7886517?v=3

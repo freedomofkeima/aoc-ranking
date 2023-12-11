@@ -469,7 +469,7 @@ Rank,Name,Score,Link,Avatar
 467,algmyr,75,https://github.com/algmyr,https://avatars.githubusercontent.com/u/15268706?v=4
 467,Gymhgy,75,https://github.com/Gymhgy,https://avatars.githubusercontent.com/u/49801033?v=4
 467,Ben Frankel,75,,https://avatars1.githubusercontent.com/u/12173779?v=4
-467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a-/ALV-UjWdVQFN2NLuwndJRmJ_OJn6DvPrebmIZudJGRTfjifrYZbjZGmCjjlNqwwvFG3-dlhiGpizjBrW9c3_VR-KLWiHfyEk0PwlW2TH9haShfedbVk8lcEJPVc_Zv4p2zNXT99wRzm4XBIvyNMaWDzdKA
+467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a-/ALV-UjVxMiATYjSXrLpR9GKUdN1NBmZ8xyQS4CoZnCllJB_080C_JUC_6tjDMzW8FstQfTA5sjhcMGH9ZYB6DmQ3kAbJP4y0dH11hXrmBVuzq1gleV41zClrjZ3TYrFQRi4LXthWwjfvVqiz66LDnhXT98
 467,pazabo,75,,https://avatars3.githubusercontent.com/u/222909?v=4
 467,Albert Chu,75,,https://lh3.googleusercontent.com/a-/AOh14Gh9_fm972c_JBBhZc6qiEivY3aOnqhKMaqtAPQ6dQ=s96-c
 474,Christian Stober (AoC++),74,,https://avatars.githubusercontent.com/u/5249057?v=4
@@ -582,7 +582,7 @@ Rank,Name,Score,Link,Avatar
 579,esusalla,45,,https://avatars.githubusercontent.com/u/17637700?v=4
 582,Eliot Partridge (AoC++),44,https://github.com/BytewaveMLP,https://avatars.githubusercontent.com/u/5623770?v=4
 582,Lukas Froehlich,44,,https://lh3.googleusercontent.com/a-/AOh14Gjcwhb_7U0dGjpuLgpTwqKYdceAKN8mnU3OhS76=s96-c
-582,Luka Kalinovcic,44,,https://lh3.googleusercontent.com/a/AEdFTp7izHj4FQDuPIPy1kTZnyuk7y0UWYf6QH6UBgTYeQ=s96-c
+582,Luka Kalinovcic,44,,https://lh3.googleusercontent.com/a/ACg8ocK43QICDZaksA39gFSkKh68VqSxYtcrfMWW8pe8_TJDFo4=s96-c
 582,Ben Artin,44,,https://avatars1.githubusercontent.com/u/1645207?v=4
 586,CTF-BLAHAJ,43,https://github.com/CTF-BLAHAJ,https://avatars.githubusercontent.com/u/66535860?v=4
 586,Bailey Parker,43,https://github.com/baileyparker,https://avatars.githubusercontent.com/u/7943649?v=4

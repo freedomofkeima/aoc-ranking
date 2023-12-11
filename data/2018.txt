@@ -258,7 +258,7 @@ Rank,Name,Score,Link,Avatar
 257,autoreleasefool (AoC++),194,https://github.com/autoreleasefool,https://avatars.githubusercontent.com/u/6619581?v=4
 257,Mark Polyakov,194,https://github.com/markasoftware,https://avatars.githubusercontent.com/u/6380084?v=4
 259,andreasgruenh,191,https://github.com/andrewgreenh,https://avatars.githubusercontent.com/u/12122390?v=4
-260,Edward Keyes (AoC++),190,,https://lh3.googleusercontent.com/a/ALm5wu39O816xPyI9Efu49563wckJ-eH0CayKSysd8Uyhw=s96-c
+260,Edward Keyes (AoC++),190,,https://lh3.googleusercontent.com/a/ACg8ocKU9S7aBc6MJ-KgnFb3E8Q2iX6H1Y4WGwqTAfWNWJutM_M=s96-c
 260,Murray Edwards (AoC++),190,,https://lh3.googleusercontent.com/a/ACg8ocIzQqmyojb2ejauX-ECp1TsHkfjT7DtyyhlXtNbXVEm=s96-c
 260,Vilius Pranckaitis,190,,https://lh3.googleusercontent.com/a/AATXAJyI1EcYkvQaPTHyV3vnxMTP01nJ4vyhTlF_uoD1=s96-c
 263,zchen088,189,,https://avatars3.githubusercontent.com/u/10439313?v=4

@@ -279,7 +279,7 @@ Rank,Name,Score,Link,Avatar
 278,masakotoda,172,https://github.com/masakotoda,https://avatars.githubusercontent.com/u/1369760?v=3
 278,Pat Smuk,172,https://github.com/PatSmuk,https://avatars.githubusercontent.com/u/75297?v=4
 280,David Grenier,171,,https://lh4.googleusercontent.com/-ZVKoleb5SE0/AAAAAAAAAAI/AAAAAAAAAGU/cIXhAxdF5gQ/photo.jpg
-280,Vadim Kolontsov,171,https://github.com/kolontsov,https://avatars.githubusercontent.com/u/2148854?v=4
+280,Vadim Kolontsov,171,,https://avatars.githubusercontent.com/u/2148854?v=4
 280,@belbeeno (AoC++),171,https://twitter.com/belbeeno,http://pbs.twimg.com/profile_images/1269455730848849925/9r-MsYji.png
 280,Amaro Vita,171,,https://lh3.googleusercontent.com/a/AEdFTp75YirX5EKFJKMO34GxAIny09IHLs0X917xXmsQwg=s96-c
 280,Tim Roberts,171,,https://lh3.googleusercontent.com/a/ACg8ocJzxDD5O7Zat-In278_F0GQuEgb3mLktzB9CSoK-e0tlQ=s96-c

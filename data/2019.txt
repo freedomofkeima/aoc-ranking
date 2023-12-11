@@ -133,7 +133,7 @@ Rank,Name,Score,Link,Avatar
 132,Michael Goldwasser,544,,https://avatars.githubusercontent.com/u/3654371?v=4
 133,akalin,538,https://github.com/akalin,https://avatars.githubusercontent.com/u/425576?v=4
 133,(anonymous user #798131),538,,
-135,Edward Keyes (AoC++),535,,https://lh3.googleusercontent.com/a/ALm5wu39O816xPyI9Efu49563wckJ-eH0CayKSysd8Uyhw=s96-c
+135,Edward Keyes (AoC++),535,,https://lh3.googleusercontent.com/a/ACg8ocKU9S7aBc6MJ-KgnFb3E8Q2iX6H1Y4WGwqTAfWNWJutM_M=s96-c
 136,Tom Sirgedas,529,,https://lh5.googleusercontent.com/-JSXmJZgEV9o/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnXymTHNX0dFnlGg35ju1RwqyyZ3Q/s96-c/photo.jpg
 137,Arios16,514,https://github.com/Arios16,https://avatars3.githubusercontent.com/u/13740658?v=4
 138,dan144 (AoC++),509,https://github.com/dan144,https://avatars.githubusercontent.com/u/8737544?v=4
@@ -883,7 +883,7 @@ Rank,Name,Score,Link,Avatar
 882,Deveritas,4,,https://avatars.githubusercontent.com/u/3656594?v=4
 882,daveagp,4,https://github.com/daveagp,https://avatars2.githubusercontent.com/u/1429912?v=4
 882,AuroransSolis,4,https://github.com/AuroransSolis,https://avatars.githubusercontent.com/u/25749440?v=4
-882,(anonymous user #628790) (AoC++),4,,
+882,tyrellj (AoC++),4,,https://avatars.githubusercontent.com/u/746317?v=4
 882,olson-dan,4,https://github.com/olson-dan,https://avatars.githubusercontent.com/u/8072896?v=4
 882,Sam Shideler,4,,https://lh3.googleusercontent.com/a/ACg8ocJ-7S8g6iGWsC9QPZ9S_lJ5byq_uNzsH8xy5Sf3c5MY=s96-c
 882,Adam Hofmann (AoC++),4,,https://lh3.googleusercontent.com/a/AATXAJxGfWfXSySgAcaDiCWlCfXZOtBBt3uBLnnNddr_=s96-c
