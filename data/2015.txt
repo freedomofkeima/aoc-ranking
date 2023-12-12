@@ -326,7 +326,7 @@ Rank,Name,Score,Link,Avatar
 324,(anonymous user #10353),210,,
 326,l2omain,209,,
 327,Braeden Young,204,,https://avatars2.githubusercontent.com/u/3515572?v=4
-328,Jonathan Cantwell,203,,https://lh3.googleusercontent.com/a/AGNmyxbU6r4y9gVBMBzzuASQtgQjl1aPmPPd6BUaolZZ=s96-c
+328,Jonathan Cantwell,203,,https://lh3.googleusercontent.com/a/ACg8ocIW6TOYlZLJbFr2WLG56pKBfqxr0fMHDQ_x2gA0M2gNYg=s96-c
 328,bluebear94,203,https://github.com/bluebear94,https://avatars.githubusercontent.com/u/2975203?v=3
 330,Blecki,202,https://github.com/Blecki,https://avatars.githubusercontent.com/u/1297068?v=3
 331,erikrw,200,https://github.com/erikrw,https://avatars3.githubusercontent.com/u/1836410?v=4

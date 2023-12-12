@@ -499,7 +499,7 @@ Rank,Name,Score,Link,Avatar
 496,Anand Oza,67,,https://lh3.googleusercontent.com/a-/AOh14GgRjjiOjL8U4eExkfOqXQ098ltT-4F4Rfz56LXwNH4=s96-c
 499,Yoshi van den Akker (AoC++),66,https://github.com/yoshivda,https://avatars.githubusercontent.com/u/23527439?v=4
 499,Thomas Hines (AoC++),66,,https://avatars.githubusercontent.com/u/1562864?v=4
-499,Joseph H,66,,https://lh3.googleusercontent.com/a/ACg8ocJ5QbSQ3qlHLren7Ikg1OjuOT6ZBdTRfHX2z6pVu4di=s96-c
+499,JosephHardman,66,,https://avatars.githubusercontent.com/u/34112551?v=4
 499,DanilaFe,66,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
 499,travis meade,66,,https://lh3.googleusercontent.com/a/ACg8ocKxQ8SSbBjvcF-vULGH9KqL2FciSf_HYJ2C6bMu3nudg4c=s96-c
 499,Adib Surani,66,https://github.com/AdibSurani,https://avatars.githubusercontent.com/u/6822159?v=4

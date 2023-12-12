@@ -311,7 +311,7 @@ Rank,Name,Score,Link,Avatar
 309,Phillip Rossi,169,,https://lh3.googleusercontent.com/a/AEdFTp6A7aineY51-klNvSvwpFS7vMZAc9bJw28vxGZH=s96-c
 311,Lingrui Xie,168,,https://lh3.googleusercontent.com/a/ACg8ocIL3CdR8JZYPngUwK3cxsy_eRe4pJLd2h-rTDHliYscNlg=s96-c
 311,Qiqi Impact,168,,https://lh3.googleusercontent.com/a/ACg8ocKH4wkC_csgvzKAS2zT9TVR67l6rNYCYHrtfvWHRS-j6g=s96-c
-311,Joseph H (Sponsor),168,,https://lh3.googleusercontent.com/a/ACg8ocJ5QbSQ3qlHLren7Ikg1OjuOT6ZBdTRfHX2z6pVu4di=s96-c
+311,JosephHardman (Sponsor),168,,https://avatars.githubusercontent.com/u/34112551?v=4
 311,Paul Zagieboylo (AoC++),168,,https://lh3.googleusercontent.com/a/ACg8ocLq3wRc73fqLCmDx9bxDAjzXxFwfw2mDk8zqZLpTNfV=s96-c
 311,lthistle,168,https://github.com/lthistle,https://avatars.githubusercontent.com/u/26513277?v=4
 311,Ivan Lyzhin,168,https://github.com/LyzhinIvan,https://avatars.githubusercontent.com/u/6265308?v=4
@@ -378,7 +378,7 @@ Rank,Name,Score,Link,Avatar
 377,christopher papke,131,,https://lh3.googleusercontent.com/a/AGNmyxYukCmv5uOmGUz1wxAO-wAG2jIm_NIflKaoYn9p=s96-c
 378,Ari Wachtel,130,,https://lh3.googleusercontent.com/a/ACg8ocJL6YeHy8M8Is9qqDaC7Aigtfd_5SI2Q_2BG1l2LsAUF38=s96-c
 379,chunkybanana,129,,https://avatars.githubusercontent.com/u/62921243?v=4
-380,Ethan C,128,,https://lh3.googleusercontent.com/a-/ALV-UjVxcamnvlimSWD2nlbJ6Cn9XL8r22i7Qk-GzBdZqGxObhOEx4ghLh5UAf_yvsPlqfgieLYVGA2A-bp24_CWUk-RB1y55fZ_6IAySnu2U3GS-zXOWtrRM0AJ1Hin3Duh-q_y3I6zmGLz4JTiEF0fZJ
+380,Ethan C,128,,https://lh3.googleusercontent.com/a-/ALV-UjXYbZk_tBJvkzPHOABXc91dydqRd53bPRNR0uVdqq2YVaGDc0rBWrPFPFNM6DXi9DtmdWwf5T5BLQQ3rMS92F7mlbHOiyWtw8RHtQUMERiaic1E2MUEznQAs8skonk_bzNkD0_HnafUPHA-ZoHkU7
 380,Max Friedman,128,,https://lh3.googleusercontent.com/a/ACg8ocKT0YBBKNJ2eU3lWY1CeryAQRF44A8hNo-9hY6If-dcNG8=s96-c
 380,Dev Thiru,128,,https://lh3.googleusercontent.com/a/AEdFTp66fs824MUT4ci-CnXthu2ku0HTJiZocVHdzEIl=s96-c
 380,Kerem Ergene,128,,https://lh3.googleusercontent.com/a/ACg8ocJcj2IYUkd6XI5OU54R8A3QUW8PmuqmwgdQ-K5_mto0=s96-c
@@ -781,7 +781,7 @@ Rank,Name,Score,Link,Avatar
 779,btrotta,32,https://github.com/btrotta,https://avatars.githubusercontent.com/u/25714380?v=4
 779,robinz62,32,,https://avatars.githubusercontent.com/u/4536418?v=4
 779,Ash,32,,https://avatars.githubusercontent.com/u/29961468?v=4
-779,Jeremy Lee,32,,https://lh3.googleusercontent.com/a/AEdFTp58p6tShPKruODD040aYbda0VfJ67uNsKoj7OlH=s96-c
+779,Jeremy Lee,32,,https://lh3.googleusercontent.com/a/ACg8ocIhQYn9THAI-g92UqaV33o4xgPtFZbZH5QS9FnnljJo2Q=s96-c
 779,Berke Inan Tol,32,,https://lh3.googleusercontent.com/a/ALm5wu2NSPv_waEozOsyvM_KNfcC2FlOixisexFA-EDV=s96-c
 779,Kenneth Jensen,32,,https://lh3.googleusercontent.com/a/ACg8ocJo_U6DPWC8kRr4qDWscx6y1D6i2aX1pYBaxdkvNUnnLQ=s96-c
 779,raiju,32,,https://avatars.githubusercontent.com/u/806013?v=4
