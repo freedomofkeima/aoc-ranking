@@ -599,7 +599,7 @@ Rank,Name,Score,Link,Avatar
 596,tmwn,59,,https://avatars.githubusercontent.com/u/90123960?v=4
 596,Carlo Fazioli (AoC++),59,,https://lh3.googleusercontent.com/a/ACg8ocJQCd3QivRqGti-COrEWBis946Rb5Er1p6-63ceQ5Ne_0Y=s96-c
 596,Redcrafter,59,https://github.com/Redcrafter,https://avatars.githubusercontent.com/u/19157738?v=4
-601,Jacob Magnuson (AoC++),58,,https://lh3.googleusercontent.com/a/AEdFTp4xqWZ3jK-7fmJedzC3tjA1SfeCMvHGgYgbOprC=s96-c
+601,Jacob Magnuson (AoC++),58,,https://lh3.googleusercontent.com/a/ACg8ocIPjYaE3rpCIGeHS2aFZVfIB_CIPMlc9yP1x4mzlsbg2A=s96-c
 601,Den Raskovalov,58,https://github.com/evilmucedin,https://avatars.githubusercontent.com/u/1246474?v=4
 601,Matt Murfitt,58,,https://lh3.googleusercontent.com/a/ACg8ocJrh_-haSkWgDqZVONC8drGvK_zVy8MvWwaRHfWEE22d4o=s96-c
 601,(anonymous user #1322744),58,,

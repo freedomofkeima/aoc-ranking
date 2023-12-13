@@ -336,7 +336,7 @@ Rank,Name,Score,Link,Avatar
 334,Deto,131,,
 336,Paul Harrington,130,,https://lh4.googleusercontent.com/-sBBWszreNVA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucmYB0gwL-kRZZBV6NaSk8pJmUDWrA/s96-c/photo.jpg
 336,SuperTux88 (AoC++),130,https://github.com/SuperTux88,https://avatars.githubusercontent.com/u/458548?v=4
-336,Manuel Darveau (AoC++),130,https://github.com/mdarveau,https://avatars3.githubusercontent.com/u/390071?v=4
+336,Manuel Darveau (AoC++),130,https://github.com/mdarveau,https://avatars.githubusercontent.com/u/390071?v=4
 339,zerocrates,129,https://github.com/zerocrates,https://avatars3.githubusercontent.com/u/298975?v=4
 339,Pavel Rozenblioum,129,,https://lh4.googleusercontent.com/-hR8L4Pi49sw/AAAAAAAAAAI/AAAAAAAAAA8/q3W8jZbUzxU/photo.jpg
 339,Cyrus Kasaaian,129,,https://lh3.googleusercontent.com/a-/AOh14GifUejsx-nSFt6Yi-s_JbxwiUSUBIEnCPhpulsh=s96-c
@@ -428,7 +428,7 @@ Rank,Name,Score,Link,Avatar
 427,andrewbuss,88,,https://avatars.githubusercontent.com/u/5904167?v=4
 428,Connie Hilarides (AoC++),87,https://github.com/Connicpu,https://avatars1.githubusercontent.com/u/967877?v=4
 428,Parhum Farzad,87,,https://lh4.googleusercontent.com/-roRwOc2K6b4/AAAAAAAAAAI/AAAAAAAAAC0/l_dFPoKBkh8/photo.jpg
-430,iburinoc,86,https://github.com/iburinoc,https://avatars3.githubusercontent.com/u/4327688?v=4
+430,iburinoc,86,https://github.com/sean-purcell,https://avatars.githubusercontent.com/u/4327688?v=4
 430,John Cornwell,86,,https://lh3.googleusercontent.com/a-/AOh14Gg3drU04vENQ3gjjak3-ipTD6MJI4AvBn5O4n2K=s96-c
 430,Timo Olkkonen,86,,https://avatars3.githubusercontent.com/u/990934?v=4
 433,Juho Heikkinen,85,,https://lh3.googleusercontent.com/a/AATXAJztK5gBHIbDff_8EL62DyhAR9uDXSPyv8PLVnqy=s96-c

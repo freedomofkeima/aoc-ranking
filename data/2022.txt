@@ -691,7 +691,7 @@ Rank,Name,Score,Link,Avatar
 686,Péter Gerencsér (gerpetya) (AoC++),46,,https://lh3.googleusercontent.com/a/ACg8ocKdTSuXD-MBROgMWFzelzogRuQxevP64nPjRZ16KDChzXdA=s96-c
 691,Benjamin Avrahami,45,,https://lh3.googleusercontent.com/a/ACg8ocJGXSc9zFE7uSSeVis3mK9qfT5yjM_r-gJyiHnrn8bM=s96-c
 691,Evan Kwan,45,,https://lh3.googleusercontent.com/a/ACg8ocJ5VwS03pm01GzJH5BUqOjQJtYjLhqgG4AE0brzftUB=s96-c
-691,Thomas Raskin,45,,https://lh3.googleusercontent.com/a/ACg8ocIiQqiyEfNUz97n0Q_Ac4d9ZGDvTG4BT1KLRlJTORVs=s96-c
+691,(anonymous user #2444783),45,,
 691,umorjyoti (Sponsor),45,,https://avatars.githubusercontent.com/u/52374373?v=4
 691,Sobhan Mohammadpour,45,,https://lh3.googleusercontent.com/a/ACg8ocICYdz4K1KrtK8JA5WwV8HQAEbuFy-_zhdMM9gib28v8vA=s96-c
 691,Marcus Oscarsson,45,https://github.com/moscars,https://avatars.githubusercontent.com/u/56034686?v=4

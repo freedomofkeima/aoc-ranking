@@ -354,7 +354,7 @@ Rank,Name,Score,Link,Avatar
 353,William Li,137,,https://lh3.googleusercontent.com/a-/AOh14GhGinU3cXXzW7_nNdzfr1qYN3MwNooINYNSlJuP7w=s96-c
 353,(anonymous user #51076),137,,
 355,larry,136,,
-356,Jacob Magnuson (AoC++),135,,https://lh3.googleusercontent.com/a/AEdFTp4xqWZ3jK-7fmJedzC3tjA1SfeCMvHGgYgbOprC=s96-c
+356,Jacob Magnuson (AoC++),135,,https://lh3.googleusercontent.com/a/ACg8ocIPjYaE3rpCIGeHS2aFZVfIB_CIPMlc9yP1x4mzlsbg2A=s96-c
 356,Alex Yu,135,https://github.com/alexander-yu,https://avatars.githubusercontent.com/u/9326138?v=4
 358,(anonymous user #628158),134,,
 358,WildUtah,134,https://github.com/WildUtah,https://avatars.githubusercontent.com/u/853423?v=4

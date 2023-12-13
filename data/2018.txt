@@ -11,7 +11,7 @@ Rank,Name,Score,Link,Avatar
 10,Strikeskids,2846,https://github.com/Strikeskids,https://avatars2.githubusercontent.com/u/1040016?v=4
 11,Antonio Molina,2666,,https://lh3.googleusercontent.com/a/ACg8ocJdhI-sXd6G9P53ixK1raZ6rMp50TPdQ9XISV8QmMT3=s96-c
 12,Michael Fogleman (AoC++),2583,https://github.com/fogleman,https://avatars.githubusercontent.com/u/520208?v=4
-13,iburinoc,2568,https://github.com/iburinoc,https://avatars3.githubusercontent.com/u/4327688?v=4
+13,iburinoc,2568,https://github.com/sean-purcell,https://avatars.githubusercontent.com/u/4327688?v=4
 14,sciyoshi,2477,https://github.com/sciyoshi,https://avatars.githubusercontent.com/u/39950?v=4
 15,Nathan Fenner,2450,https://github.com/Nathan-Fenner,https://avatars.githubusercontent.com/u/6179181?v=4
 16,ethframe,2194,https://github.com/ethframe,https://avatars.githubusercontent.com/u/10119536?v=4
