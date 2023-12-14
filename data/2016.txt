@@ -248,7 +248,7 @@ Rank,Name,Score,Link,Avatar
 247,Zoooook,205,https://github.com/Zoooook,https://avatars.githubusercontent.com/u/8059701?v=3
 248,Andrew Foote,204,,https://avatars.githubusercontent.com/u/4284488?v=4
 249,mogest (AoC++),203,https://github.com/mogest,https://avatars.githubusercontent.com/u/23133?v=4
-250,Sam,202,https://github.com/saemideluxe,https://avatars3.githubusercontent.com/u/3115209?v=4
+250,Sam,202,https://github.com/saemideluxe,https://avatars.githubusercontent.com/u/3115209?v=4
 251,dsemi,200,,https://avatars.githubusercontent.com/u/1354293?v=4
 251,dkess,200,https://github.com/dkess,https://avatars.githubusercontent.com/u/749522?v=4
 253,susanev (AoC++),199,https://github.com/susanev,https://avatars3.githubusercontent.com/u/5489125?v=4
@@ -258,7 +258,7 @@ Rank,Name,Score,Link,Avatar
 257,Daniel Dara,196,https://github.com/daniel-dara,https://avatars.githubusercontent.com/u/1920621?v=4
 257,Michael Fairley,196,https://github.com/michaelfairley,https://avatars1.githubusercontent.com/u/110025?v=4
 259,(anonymous user #63186),195,,
-260,Zack Kuntz,194,https://github.com/kuntza01,https://avatars0.githubusercontent.com/u/2634910?v=4
+260,Zack Kuntz,194,https://github.com/kuntza01,https://avatars.githubusercontent.com/u/2634910?v=4
 261,gongy,192,,https://avatars.githubusercontent.com/u/8001209?v=4
 262,Cade Ward,190,https://github.com/cadebward,https://avatars.githubusercontent.com/u/3212589?v=4
 263,(anonymous user #139000),188,,
@@ -622,7 +622,7 @@ Rank,Name,Score,Link,Avatar
 621,amalloy,23,https://github.com/amalloy,https://avatars.githubusercontent.com/u/368685?v=4
 621,Andrew Watkins,23,,https://avatars.githubusercontent.com/u/5008491?v=4
 621,rkha,23,https://github.com/rkha,https://avatars1.githubusercontent.com/u/606326?v=4
-624,Carpaye Willy,22,,https://lh3.googleusercontent.com/a/AGNmyxYnDgQzDq0MPwrwfunnFnsS2IMoh0xsAd7Ioy5EQA=s96-c
+624,Carpaye Willy,22,,https://lh3.googleusercontent.com/a/ACg8ocJgV8I5n56qg-5Dq_JOIepFSCO5q4F6cge_Bo553q6RuHI=s96-c
 624,red75prime,22,https://github.com/red75prime,https://avatars.githubusercontent.com/u/10704684?v=4
 624,MrShoor,22,,https://avatars.githubusercontent.com/u/8153559?v=4
 627,(anonymous user #129308),21,,
@@ -636,7 +636,7 @@ Rank,Name,Score,Link,Avatar
 634,irenfro,19,https://github.com/irenfro,https://avatars0.githubusercontent.com/u/6426994?v=4
 634,Christie Wilson,19,https://github.com/bobcatfish,https://avatars.githubusercontent.com/u/432502?v=4
 634,LieutenantSwr2d2,19,,
-638,allie,18,https://github.com/allie,https://avatars1.githubusercontent.com/u/10043207?v=4
+638,allie,18,https://github.com/allie,https://avatars.githubusercontent.com/u/10043207?v=4
 638,andrepd,18,,https://avatars.githubusercontent.com/u/5490368?v=4
 638,reedspool,18,https://github.com/reedspool,https://avatars.githubusercontent.com/u/602877?v=4
 638,Adam Snyder,18,https://github.com/armsnyder,https://avatars.githubusercontent.com/u/9969202?v=4

@@ -807,7 +807,7 @@ Rank,Name,Score,Link,Avatar
 803,Adam Zacharski,29,,https://lh3.googleusercontent.com/a/AEdFTp5Jni98p77J-0IqsdvW8FQg86_MhywP5Nq3Mo6vZ2k=s96-c
 803,Raj Rusia (Sponsor),29,,https://lh3.googleusercontent.com/a/AEdFTp52zU46PPjeS37Py6BP-k9q8hzYeZJblXE4e4wJUA=s96-c
 803,(anonymous user #439987) (AoC++),29,,
-809,phoyh,28,,https://avatars.githubusercontent.com/u/59613851?v=4
+809,phoyh,28,https://github.com/phoyh,https://avatars.githubusercontent.com/u/59613851?v=4
 809,harrison truscott,28,,https://lh3.googleusercontent.com/a/ACg8ocJMVy4ZO5FjwgZcmJQPTWiKq3BHSzJc18PSXVsI_qS8=s96-c
 809,rotanov,28,https://github.com/rotanov,https://avatars.githubusercontent.com/u/401399?v=4
 809,Liam Powell,28,https://github.com/liampwll,https://avatars.githubusercontent.com/u/1808465?v=4
