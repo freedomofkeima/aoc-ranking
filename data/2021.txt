@@ -697,7 +697,7 @@ Rank,Name,Score,Link,Avatar
 691,shelerr,41,,https://avatars.githubusercontent.com/u/78213268?v=4
 697,Sunny Guan,40,https://github.com/sunnyguan,https://avatars.githubusercontent.com/u/19920441?v=4
 697,Paweł Kubiak,40,https://github.com/pkubiak,https://avatars.githubusercontent.com/u/4224364?v=4
-697,Tanner Sandlin,40,https://github.com/tanndlin,https://avatars.githubusercontent.com/u/39809146?v=4
+697,tanndlin,40,https://github.com/tanndlin,https://avatars.githubusercontent.com/u/39809146?v=4
 697,khvorov,40,https://github.com/khvorov,https://avatars.githubusercontent.com/u/4970016?v=4
 697,RussellDash332,40,https://github.com/RussellDash332,https://avatars.githubusercontent.com/u/63991775?v=4
 697,dwhiffing,40,,https://avatars.githubusercontent.com/u/4886651?v=4
@@ -805,7 +805,7 @@ Rank,Name,Score,Link,Avatar
 798,John Kesler,27,,https://avatars.githubusercontent.com/u/72483758?v=4
 798,mmmkkaaayy,27,,https://avatars.githubusercontent.com/u/18418787?v=4
 798,Will Killian (AoC++),27,https://github.com/willkill07,https://avatars.githubusercontent.com/u/2007799?v=4
-798,Christopher Vandervoort,27,,https://lh3.googleusercontent.com/a/AGNmyxa_IroP-l1MJJIZboCEYh57vicpzZVhg_j_Eky7=s96-c
+798,Christopher Vandervoort,27,,https://lh3.googleusercontent.com/a/ACg8ocIi_6hYMqqZ5kphwGWAKwWsgRS0U9XD_Hqb9dJfdKMI=s96-c
 808,Linda Zhou (Sponsor),26,,https://avatars.githubusercontent.com/u/16420802?v=4
 808,Poke Poke,26,,https://lh3.googleusercontent.com/a/AATXAJzUW6og1WX9jA5w45gwxSbwW2jm2iwud_9g_Os6=s96-c
 808,Cory Forsyth (AoC++),26,https://github.com/bantic,https://avatars.githubusercontent.com/u/2023?v=4
