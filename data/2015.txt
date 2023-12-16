@@ -261,7 +261,7 @@ Rank,Name,Score,Link,Avatar
 260,Joel Verhagen,267,https://github.com/joelverhagen,https://avatars.githubusercontent.com/u/94054?v=3
 261,@rabcyr,266,https://twitter.com/rabcyr,http://pbs.twimg.com/profile_images/609837069586857984/TafXv28z.jpg
 262,Boris Egorov,265,https://github.com/JIghtuse,https://avatars.githubusercontent.com/u/908960?v=4
-262,Jessica Codr,265,,https://lh3.googleusercontent.com/a/ALm5wu12xMJwXyekAWlYwzkKXFeRhY8tTmqS6z7fiwzulA0=s96-c
+262,Jessica Codr,265,,https://lh3.googleusercontent.com/a/ACg8ocKGJqBABsgjZeUB9zV_DfYfDbv7sXNyOr1YzAj8WDI9YTys=s96-c
 264,@Doolwind,264,https://twitter.com/Doolwind,http://pbs.twimg.com/profile_images/663860282905796608/TH7JkUk3.jpg
 264,bd808,264,https://github.com/bd808,https://avatars.githubusercontent.com/u/6469?v=3
 266,this_commutes,260,,
