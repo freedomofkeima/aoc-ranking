@@ -177,7 +177,7 @@ Rank,Name,Score,Link,Avatar
 176,Brian Lee,383,https://twitter.com/BrianLeeWow,http://pbs.twimg.com/profile_images/1446020638695591939/8HgnE1VT.png
 177,IMovedYourCheese,382,,
 178,dfyz,380,https://github.com/dfyz,https://avatars.githubusercontent.com/u/42850?v=4
-179,David Clyde,377,,https://lh3.googleusercontent.com/a-/AOh14GgtbW9UrzY2AY6dQKvscsysLLBbEwNa0kRDAv3q6Q=s96-c
+179,David Clyde,377,,https://lh3.googleusercontent.com/a/ACg8ocLdku3XZA1FQ3nEg68J9erzxIs8dVynjBInGxVXD3X6O4I=s96-c
 179,Bradcomp,377,https://github.com/Bradcomp,https://avatars.githubusercontent.com/u/6647517?v=4
 181,vasi,376,https://github.com/vasi,https://avatars.githubusercontent.com/u/3305?v=4
 182,Colin Gooding,374,,https://lh6.googleusercontent.com/-XXIccT0V47c/AAAAAAAAAAI/AAAAAAAAABE/YYUXdJFkaD0/photo.jpg
@@ -220,7 +220,7 @@ Rank,Name,Score,Link,Avatar
 219,Kevin Lawler,319,https://github.com/kevinlawler,https://avatars.githubusercontent.com/u/376238?v=3
 220,Piotr Piatkowski,318,,https://lh3.googleusercontent.com/-9cnV8icQPno/AAAAAAAAAAI/AAAAAAAAAAA/F_lkr90wzec/photo.jpg
 220,Steven LoFurno,318,https://github.com/slofurno,https://avatars.githubusercontent.com/u/2799533?v=4
-220,radek Olsak,318,,https://lh3.googleusercontent.com/a-/AOh14GghJ4UqCp1FNerZrbEBEZatAgjUgEQCjHRvIzarHg=s96-c
+220,radek Olsak,318,,https://lh3.googleusercontent.com/a/ACg8ocIh2WPM-T8UU5sRTfmF4WXdJ-g40q2m01HMwHyGn_AQHjg=s96-c
 223,(anonymous user #3311),316,,
 224,Ryan Wirth,315,,https://lh4.googleusercontent.com/-3Z9JTGQM0tg/AAAAAAAAAAI/AAAAAAAAACE/9op80nGV96U/photo.jpg
 225,m1el,313,,https://avatars.githubusercontent.com/u/540652?v=4
@@ -641,7 +641,7 @@ Rank,Name,Score,Link,Avatar
 635,cryptonaut,84,,https://avatars.githubusercontent.com/u/5925468?v=4
 635,Moris Zucca,84,,https://lh3.googleusercontent.com/a/ALm5wu2ZG4v5U5DXo-I0-m0MizbuRduni3aw8F3O3EsMMQ=s96-c
 642,spoage,83,https://github.com/spoage,https://avatars.githubusercontent.com/u/1179135?v=3
-642,clhuang,83,,https://avatars2.githubusercontent.com/u/1694228?v=4
+642,clhuang,83,,https://avatars.githubusercontent.com/u/1694228?v=4
 644,RakijaH,82,,
 644,@hythloday,82,https://twitter.com/hythloday,http://pbs.twimg.com/profile_images/832693824606584833/DSIoCPxb.jpg
 644,autoreleasefool (AoC++),82,https://github.com/autoreleasefool,https://avatars.githubusercontent.com/u/6619581?v=4

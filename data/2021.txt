@@ -44,7 +44,7 @@ Rank,Name,Score,Link,Avatar
 43,Maxwell Zen,1322,https://github.com/MaxwellZen,https://avatars.githubusercontent.com/u/41096494?v=4
 44,arknave (AoC++),1263,https://github.com/arknave,https://avatars.githubusercontent.com/u/1834647?v=4
 45,Tim Vermeulen (AoC++),1252,https://github.com/timvermeulen,https://avatars.githubusercontent.com/u/2904179?v=4
-46,Henry X,1241,,https://lh3.googleusercontent.com/a-/AOh14Gh0PmtRST-iG1r1dChZz7C_c_r3HcCcst4FdeWW_w=s96-c
+46,Henry X,1241,,https://lh3.googleusercontent.com/a/ACg8ocLdlOProQlp_HT8pQySNKBfE86DvGt96vUzDauk5SEwqPM=s96-c
 47,Craig Gidney (AoC++),1232,https://github.com/Strilanc,https://avatars.githubusercontent.com/u/79941?v=4
 48,T6,1228,https://github.com/tjjfvi,https://avatars.githubusercontent.com/u/44031566?v=4
 49,William Tsin,1210,https://github.com/bucketpotato01,https://avatars.githubusercontent.com/u/67671582?v=4
@@ -238,7 +238,7 @@ Rank,Name,Score,Link,Avatar
 237,anna (AoC++),225,https://github.com/anna328p,https://avatars.githubusercontent.com/u/9790772?v=4
 238,Joel Jonsson (AoC++),224,https://github.com/joeljons,https://avatars.githubusercontent.com/u/1818806?v=4
 239,Lars Haulin (AoC++),223,,https://lh3.googleusercontent.com/a/ACg8ocKOhrQC-MfIEjGnr-s_oXtpEadBbKeyoNscedZD7_kv=s96-c
-240,andy-k,221,,https://avatars.githubusercontent.com/u/4179698?v=4
+240,andy-k,221,https://github.com/andy-k,https://avatars.githubusercontent.com/u/4179698?v=4
 241,jhawthorn (AoC++),218,https://github.com/jhawthorn,https://avatars.githubusercontent.com/u/131752?v=4
 242,Andrey Anurin (AoC++),217,,https://lh3.googleusercontent.com/a/ACg8ocLOnbaA8Lg0SmfjMhG3jXGYfl8Mf1iQtd5igF39S9ksarhf=s96-c
 242,leonfroschauer,217,https://github.com/leonfroschauer,https://avatars.githubusercontent.com/u/89684749?v=4

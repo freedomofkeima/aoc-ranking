@@ -29,7 +29,7 @@ Rank,Name,Score,Link,Avatar
 28,Sander Land,1593,,https://lh3.googleusercontent.com/a/ACg8ocLRGu6iOYo3r3CHHJxTFMllupa3n5-BeiK2ah-sW09l3XE=s96-c
 29,Springo,1592,https://github.com/Springo,https://avatars.githubusercontent.com/u/6750671?v=4
 30,(anonymous user #60233) (AoC++),1557,,
-31,Henry X,1549,,https://lh3.googleusercontent.com/a-/AOh14Gh0PmtRST-iG1r1dChZz7C_c_r3HcCcst4FdeWW_w=s96-c
+31,Henry X,1549,,https://lh3.googleusercontent.com/a/ACg8ocLdlOProQlp_HT8pQySNKBfE86DvGt96vUzDauk5SEwqPM=s96-c
 32,jkseppan,1543,https://github.com/jkseppan,https://avatars.githubusercontent.com/u/92814?v=4
 33,jtbandes (AoC++),1501,https://github.com/jtbandes,https://avatars.githubusercontent.com/u/14237?v=4
 34,Colin Liotta (AoC++),1486,,https://lh3.googleusercontent.com/a/ACg8ocIHNKx6OxvWPKQgIP9isJPmT26CSicgQPJ6DN9UdRkPbA=s96-c
@@ -79,7 +79,7 @@ Rank,Name,Score,Link,Avatar
 78,andyleap,969,https://github.com/andyleap,https://avatars.githubusercontent.com/u/1445195?v=4
 79,kristjan (AoC++),964,https://github.com/kristjan,https://avatars0.githubusercontent.com/u/34301?v=4
 80,Jayson Zhu,943,,https://avatars3.githubusercontent.com/u/1828869?v=4
-81,Ji An Yang (AoC++),941,,https://lh3.googleusercontent.com/a/AGNmyxYDWQzmugUuTirDBSl10KvwZLqVKENsHWjag2A1=s96-c
+81,Ji An Yang (AoC++),941,,https://lh3.googleusercontent.com/a/ACg8ocJDw4ukRW-5nLLp3XGj3vP1DgrW54WoKK6Nxh5ccjad=s96-c
 81,Nick Frost (AoC++),941,https://github.com/slashnick,https://avatars.githubusercontent.com/u/839071?v=4
 83,Ivan Kazmenko,919,,https://lh3.googleusercontent.com/a/AEdFTp5BhbFKMb5Z4_zfRiho-hJFmjhgygJXK2GCHZcD=s96-c
 84,okready,906,,https://avatars.githubusercontent.com/u/423952?v=4

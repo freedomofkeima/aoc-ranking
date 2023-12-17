@@ -143,7 +143,7 @@ Rank,Name,Score,Link,Avatar
 141,Alex Wice,449,,https://lh3.googleusercontent.com/a/ACg8ocJZsAfP14HcfbEn-vIP1sUQQgkoYJ7ngwHVrrPacfh1Pam6=s96-c
 143,Talchas,446,,https://lh3.googleusercontent.com/a/ACg8ocJxHRpS57CmE7KyVf-FiRSvrxgqxUWFjqLv8-hBiejN=s96-c
 144,Bradley He,442,,https://lh3.googleusercontent.com/a/ACg8ocKw5IeFkMkjacu7YozYFzmoWU048MT19J6LR2LwdyTaDw=s96-c
-144,andy-k,442,,https://avatars.githubusercontent.com/u/4179698?v=4
+144,andy-k,442,https://github.com/andy-k,https://avatars.githubusercontent.com/u/4179698?v=4
 146,KevinL10 (AoC++) (Sponsor),441,https://github.com/KevinL10,https://avatars.githubusercontent.com/u/58920989?v=4
 147,vash3r,431,,
 148,Bennett Marsh,430,,https://avatars.githubusercontent.com/u/12836774?v=4
@@ -840,7 +840,7 @@ Rank,Name,Score,Link,Avatar
 839,isnbh0,22,,https://avatars.githubusercontent.com/u/5154439?v=4
 839,shinymegaaltaria,22,,
 839,NoCondomChris,22,,
-839,Himanshu Jaju,22,,https://lh3.googleusercontent.com/a/AEdFTp5vU1xkGN_ZXXhJOhMrGIhi5v0-NClrDa2c0Dwj=s96-c
+839,Himanshu Jaju,22,,https://lh3.googleusercontent.com/a/ACg8ocIthVe1S1V2ksQc5-Ym6MGvywTHkeP99ERcIH4NHMJIaQ=s96-c
 839,Pavel Egorov,22,https://github.com/xoposhiy,https://avatars.githubusercontent.com/u/856752?v=4
 839,AC-Dap,22,,https://avatars.githubusercontent.com/u/35975809?v=4
 839,Brian Uri! (AoC++) (Sponsor),22,https://github.com/briuri,https://avatars.githubusercontent.com/u/13141618?v=4

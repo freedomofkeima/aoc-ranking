@@ -28,7 +28,7 @@ Rank,Name,Score,Link,Avatar
 27,Peter Ruibal (AoC++),1877,https://github.com/fmoo,https://avatars1.githubusercontent.com/u/143504?v=4
 28,Brandon Zhang,1840,,https://lh3.googleusercontent.com/a/ALm5wu1x16iFrM7pv8eTU7eWudq0tESp_H76pErDPAmW=s96-c
 29,Colin Liotta (AoC++),1832,,https://lh3.googleusercontent.com/a/ACg8ocIHNKx6OxvWPKQgIP9isJPmT26CSicgQPJ6DN9UdRkPbA=s96-c
-30,Ji An Yang,1816,,https://lh3.googleusercontent.com/a/AGNmyxYDWQzmugUuTirDBSl10KvwZLqVKENsHWjag2A1=s96-c
+30,Ji An Yang,1816,,https://lh3.googleusercontent.com/a/ACg8ocJDw4ukRW-5nLLp3XGj3vP1DgrW54WoKK6Nxh5ccjad=s96-c
 31,Daniel Tomkins,1809,,https://lh6.googleusercontent.com/-qlfn7P6gelY/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-gOiNp46_w-Te1bHO7MgvaGz2-cVg/mo/photo.jpg
 32,Igor Naverniouk (AoC++),1803,,https://lh3.googleusercontent.com/a-/AOh14Gjfs47slyY6yRHGCSVcYDVFLnxsXz5tmBbr5wg15Q=s96-c
 33,Daniel Rejment (AoC++),1727,https://github.com/rejment,https://avatars.githubusercontent.com/u/522718?v=4
@@ -515,7 +515,7 @@ Rank,Name,Score,Link,Avatar
 513,Wayne Rowcliffe,56,,https://avatars.githubusercontent.com/u/1002908?v=3
 513,Samuel Massinon,56,,https://lh3.googleusercontent.com/a/ACg8ocJBzaalEFnGTfrBbdLqIWkVH7LFmRLx3K-MfbnS8YcqfU2i=s96-c
 513,mguaypaq,56,,https://avatars.githubusercontent.com/u/928742?v=4
-517,Sascha Häberling,55,https://github.com/shaeberling,https://avatars.githubusercontent.com/u/556530?v=4
+517,Sascha Häberling (AoC++),55,https://github.com/shaeberling,https://avatars.githubusercontent.com/u/556530?v=4
 517,(anonymous user #28910),55,,
 519,@xAndy,54,https://github.com/ydnax,https://avatars.githubusercontent.com/u/676264?v=4
 519,wkapp977,54,,

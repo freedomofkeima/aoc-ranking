@@ -108,7 +108,7 @@ Rank,Name,Score,Link,Avatar
 107,coolcomputery,571,https://github.com/coolcomputery,https://avatars.githubusercontent.com/u/52200199?v=4
 108,monster860,570,https://github.com/monster860,https://avatars2.githubusercontent.com/u/3681297?v=4
 109,Timothy Elling,569,,https://lh3.googleusercontent.com/a/ACg8ocKNybsmv1swehu-aW6Ukfk6cG3NDVPKHAdvG8hBNVLpewmF=s96-c
-110,andy-k,567,,https://avatars.githubusercontent.com/u/4179698?v=4
+110,andy-k,567,https://github.com/andy-k,https://avatars.githubusercontent.com/u/4179698?v=4
 111,awychong,557,,https://avatars.githubusercontent.com/u/34116799?v=4
 112,Nathan Wang,548,https://github.com/thecodingwizard,https://avatars.githubusercontent.com/u/7865976?v=4
 113,Patrick Hogg (AoC++),547,https://github.com/morgoth1145,https://avatars.githubusercontent.com/u/7890416?v=4
@@ -646,7 +646,7 @@ Rank,Name,Score,Link,Avatar
 643,Augustin Wenger,33,,https://lh3.googleusercontent.com/a/ACg8ocKI3AFy_NmJupVqWEmHmIv7Xr0qj4ndXBcBTxru0t-k-To=s96-c
 643,anna (AoC++),33,https://github.com/anna328p,https://avatars.githubusercontent.com/u/9790772?v=4
 643,Jean-Noël Monette,33,,https://avatars.githubusercontent.com/u/5848752?v=4
-643,David Clyde,33,,https://lh3.googleusercontent.com/a-/AOh14GgtbW9UrzY2AY6dQKvscsysLLBbEwNa0kRDAv3q6Q=s96-c
+643,David Clyde,33,,https://lh3.googleusercontent.com/a/ACg8ocLdku3XZA1FQ3nEg68J9erzxIs8dVynjBInGxVXD3X6O4I=s96-c
 643,Lorenz Leutgeb,33,,https://lh3.googleusercontent.com/a/ACg8ocL6P9WU0OWyE7EHvF7KDQtmQX_rTDQ1FGHfuQ4Z-ff6orvP=s96-c
 643,Константин Брызгалин,33,,https://lh3.googleusercontent.com/a-/AFdZucoA7HFeN4DbgVqFkOsVYOT7Tc9nvfa3h87LJiNROA=s96-c
 643,Eric Aderhold,33,,https://lh3.googleusercontent.com/a/ACg8ocJVGsTvsRXdJjxA5Kw7ufaaNXIsveTD2ajrjDlnmVHq870=s96-c
@@ -758,7 +758,7 @@ Rank,Name,Score,Link,Avatar
 755,sirNikolai,18,https://github.com/nikgil,https://avatars.githubusercontent.com/u/1833579?v=4
 755,Rich Hogg (AoC++),18,,https://lh3.googleusercontent.com/a/ACg8ocIY7WEXVFeKl4SgSYYA7Zk4p1yiYA61vYCkVyQNh87oDw=s96-c
 755,clubPenguin420,18,https://github.com/shrig1,https://avatars.githubusercontent.com/u/42702641?v=4
-755,BroncosTragic,18,,https://avatars.githubusercontent.com/u/58494144?v=4
+755,I can't code.,18,,https://avatars.githubusercontent.com/u/58494144?v=4
 755,smorgenthau1,18,,https://avatars.githubusercontent.com/u/58318839?v=4
 762,Sarah Shader,17,,https://lh3.googleusercontent.com/a/ACg8ocIoyxHW1sJ5arfkVfwzYeSfUupYQ2fTfVnF4B4x7XTb=s96-c
 762,FrozenDude101 (AoC++),17,https://github.com/FrozenDude101,https://avatars.githubusercontent.com/u/69700997?v=4

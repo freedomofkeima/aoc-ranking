@@ -73,7 +73,7 @@ Rank,Name,Score,Link,Avatar
 72,Jennifer Zhou,1029,https://github.com/25519,https://avatars.githubusercontent.com/u/23331326?v=4
 72,Erik Szalay,1029,,https://lh3.googleusercontent.com/a/ACg8ocI_S2Xtu-TLPDnwMxufoiNfOH0TvI2kHkn8QvLRY66h=s96-c
 74,awychong,998,,https://avatars.githubusercontent.com/u/34116799?v=4
-75,andy-k,959,,https://avatars.githubusercontent.com/u/4179698?v=4
+75,andy-k,959,https://github.com/andy-k,https://avatars.githubusercontent.com/u/4179698?v=4
 76,Yoshiap,944,,https://avatars.githubusercontent.com/u/575555?v=4
 77,Matt Bradley,935,https://github.com/mattbradley,https://avatars.githubusercontent.com/u/819253?v=4
 78,Starwort,922,https://github.com/Starwort,https://avatars.githubusercontent.com/u/16487249?v=4
