@@ -650,7 +650,7 @@ Rank,Name,Score,Link,Avatar
 646,coreymatyas,35,,https://avatars.githubusercontent.com/u/1454722?v=4
 646,Aliaksei Danchanka (AoC++),35,,https://lh3.googleusercontent.com/a/ACg8ocLPy1y4e1T3QmC2p73x-R23gXxaelVwtQwW6OPFehb3=s96-c
 646,drrelyea,35,https://github.com/drrelyea,https://avatars.githubusercontent.com/u/5328759?v=4
-646,Clifford Richardson,35,,https://lh3.googleusercontent.com/a/ALm5wu2n0lSvT-pu_dnESKYIvLm_-GS5DHvQ9xu9BSlYwg=s96-c
+646,Clifford Richardson,35,,https://lh3.googleusercontent.com/a/ACg8ocK9Ft9shiPdipOjnJ1xjCw8U0PqhoenVwsPJxE2Gm54Sw=s96-c
 646,fryguy1013,35,https://github.com/fryguy1013,https://avatars.githubusercontent.com/u/102023?v=4
 646,James Freeman,35,,https://avatars.githubusercontent.com/u/7484417?v=4
 655,Antti Haapala,34,https://github.com/ztane,https://avatars.githubusercontent.com/u/704200?v=4

@@ -531,7 +531,7 @@ Rank,Name,Score,Link,Avatar
 528,AxlLind (AoC++),76,https://github.com/AxlLind,https://avatars.githubusercontent.com/u/23080686?v=4
 531,sahilbansal17,75,https://github.com/sahilbansal17,https://avatars.githubusercontent.com/u/19902688?v=4
 531,Nikita Gaevoy,75,,https://lh3.googleusercontent.com/a/ACg8ocLnT6AgRmOqFA2MHto9tse8SqsFRvL8Aat2m7cfo_r4=s96-c
-533,Spyabo,74,,https://avatars.githubusercontent.com/u/86006893?v=4
+533,Spyabo,74,https://github.com/Spyabo,https://avatars.githubusercontent.com/u/86006893?v=4
 533,rHermes (AoC++),74,https://github.com/rHermes,https://avatars.githubusercontent.com/u/5375290?v=4
 533,Michael Broughton,74,,https://lh3.googleusercontent.com/a/ACg8ocJiNDVehkzA1fBLgASMhFEOPzQSdUWGRSzSkhux7Bc4=s96-c
 533,Oliver Smith (AoC++),74,,https://lh3.googleusercontent.com/a/ACg8ocLy67rRKKqyYwJR1DySzQ2peYB9MxCACUWS0niAoV4tWFc=s96-c

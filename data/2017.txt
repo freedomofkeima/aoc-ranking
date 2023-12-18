@@ -473,7 +473,7 @@ Rank,Name,Score,Link,Avatar
 472,cliffcrosland,74,,https://avatars3.githubusercontent.com/u/581562?v=4
 472,Doug Luce,74,,https://avatars.githubusercontent.com/u/1047838?v=4
 472,Chris Smith (AoC++),74,,https://lh3.googleusercontent.com/a/ACg8ocJE3q1_iSSpAKWb1ky4sD2oTRVpFvl1W1nHy5uPnaryoos=s96-c
-475,Nathan Johnston,73,,https://lh5.googleusercontent.com/-73MhxaB8M5I/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcqc4o4O7Zk8drHnykvoqACFUFGag/photo.jpg
+475,Nathan Johnston,73,,https://lh3.googleusercontent.com/a/ACg8ocLz6ngpwfhqV8BiS-QsTifhRGMZeZdS-jO3oPUn26Ds=s96-c
 475,kremlion1,73,https://github.com/kremlion1,https://avatars2.githubusercontent.com/u/14262442?v=4
 475,zenithlight (AoC++),73,https://github.com/zenithlight,https://avatars.githubusercontent.com/u/10589281?v=4
 475,Matt Wood (AoC++),73,,https://lh3.googleusercontent.com/a/ACg8ocJHV6lp3yW2NMkPk4AUw2zTyUrB4UuSQ8OCk39Akmq2XA=s96-c
