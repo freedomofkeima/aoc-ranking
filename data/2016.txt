@@ -645,7 +645,7 @@ Rank,Name,Score,Link,Avatar
 642,nullmove,17,,
 645,Ryan Widmaier (AoC++),16,,https://lh3.googleusercontent.com/a/ACg8ocI5Q78rZ8n2P_xZvCjgwaKyfY4mE2uqZExoNPpUiT6H=s96-c
 645,jwoglom,16,https://github.com/jwoglom,https://avatars2.githubusercontent.com/u/192620?v=4
-647,David Tracy (AoC++),15,,https://lh3.googleusercontent.com/a/AEdFTp7oUS6j7k8hfVNnpmTdnWVYj-v39HVW2pW-pYE_aQ=s96-c
+647,David Tracy (AoC++),15,,https://lh3.googleusercontent.com/a/ACg8ocJUTHOIzb3bSRPQs15L6DwFC3taFribDsslaAtMMohrBbc=s96-c
 647,Anthony Nixon,15,https://github.com/AnthonyNixon,https://avatars.githubusercontent.com/u/8495667?v=4
 647,Ben Hutchings,15,,https://avatars2.githubusercontent.com/u/16938838?v=4
 647,Max Lin,15,https://github.com/MaxLinCode,https://avatars.githubusercontent.com/u/11401557?v=4

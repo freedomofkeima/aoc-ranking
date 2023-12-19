@@ -648,7 +648,7 @@ Rank,Name,Score,Link,Avatar
 643,Jean-Noël Monette,33,,https://avatars.githubusercontent.com/u/5848752?v=4
 643,David Clyde,33,,https://lh3.googleusercontent.com/a/ACg8ocLdku3XZA1FQ3nEg68J9erzxIs8dVynjBInGxVXD3X6O4I=s96-c
 643,Lorenz Leutgeb,33,,https://lh3.googleusercontent.com/a/ACg8ocL6P9WU0OWyE7EHvF7KDQtmQX_rTDQ1FGHfuQ4Z-ff6orvP=s96-c
-643,Константин Брызгалин,33,,https://lh3.googleusercontent.com/a-/AFdZucoA7HFeN4DbgVqFkOsVYOT7Tc9nvfa3h87LJiNROA=s96-c
+643,Константин Брызгалин,33,,https://lh3.googleusercontent.com/a/ACg8ocKuOfvvxTE8QDsqaqinTnETHCscQPGDWDCIfj8Ppz1RuZY=s96-c
 643,Eric Aderhold,33,,https://lh3.googleusercontent.com/a/ACg8ocJVGsTvsRXdJjxA5Kw7ufaaNXIsveTD2ajrjDlnmVHq870=s96-c
 643,Andrew Chan,33,,https://avatars.githubusercontent.com/u/8591901?v=4
 643,Zacariah Allen (AoC++),33,,https://lh3.googleusercontent.com/a/ACg8ocLKoSgZbaK42G1Ny4U3eHipIqkcEIYSg7s35aszeTvOUAU=s96-c
