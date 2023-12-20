@@ -203,7 +203,7 @@ Rank,Name,Score,Link,Avatar
 201,jeremyyap,339,https://github.com/jeremyyap,https://avatars.githubusercontent.com/u/4056819?v=4
 203,Sampriti Panda,335,https://github.com/sampritipanda,https://avatars.githubusercontent.com/u/1736001?v=4
 204,Roderic Day,334,https://github.com/RodericDay,https://avatars.githubusercontent.com/u/6867226?v=4
-205,Chad Keever,333,,https://lh3.googleusercontent.com/a/AEdFTp5uwNK182fC4FLDBbAhhbnVA0o7mp_gTNOwxUpB=s96-c
+205,Chad Keever,333,,https://lh3.googleusercontent.com/a/ACg8ocIK-KUy0aC3BuS2GhawazUETPp7416ysmEkWaQieHWK=s96-c
 206,jorendorff (AoC++),332,https://github.com/jorendorff,https://avatars.githubusercontent.com/u/283361?v=4
 207,Asger Hautop Drewsen (AoC++),331,https://github.com/tyilo,https://avatars.githubusercontent.com/u/568036?v=4
 208,ncfavier,330,https://github.com/ncfavier,https://avatars.githubusercontent.com/u/4323933?v=4
