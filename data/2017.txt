@@ -685,7 +685,7 @@ Rank,Name,Score,Link,Avatar
 680,Ron Midthun (AoC++),27,,https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg
 685,DaisiesForAMouse,26,,https://avatars0.githubusercontent.com/u/25048001?v=4
 685,James Curtis-Smith,26,,https://lh3.googleusercontent.com/a/ACg8ocIcRtxlnW_FJ-neWrGplYyHehsbFTL4U8dO5U-yPzzLPwM=s96-c
-685,Mike Podruchny,26,,https://lh3.googleusercontent.com/a/ACg8ocL9xO7UfbsBmK61Hcl0VneP7oOf1aTQj-PCJUQ52fscycnv=s96-c
+685,Mike Podruchny (AoC++),26,,https://lh3.googleusercontent.com/a/ACg8ocL9xO7UfbsBmK61Hcl0VneP7oOf1aTQj-PCJUQ52fscycnv=s96-c
 685,Henric Ericsson (AoC++),26,,https://lh3.googleusercontent.com/a/ACg8ocKJ37jxh-iEpE_mDnDnpLXB9Z-PGF0jgQ2TEjAo6P5v=s96-c
 689,Greg Littlefield,25,,https://avatars.githubusercontent.com/u/2695380?v=4
 689,paiv,25,https://github.com/paiv,https://avatars.githubusercontent.com/u/196601?v=4
