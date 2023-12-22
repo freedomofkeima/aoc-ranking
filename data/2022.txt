@@ -225,7 +225,7 @@ Rank,Name,Score,Link,Avatar
 224,Marko Tsengov,268,https://github.com/marko213,https://avatars.githubusercontent.com/u/27025532?v=4
 224,(anonymous user #750627),268,,
 224,JacksonDonaldson,268,https://github.com/JacksonDonaldson,https://avatars.githubusercontent.com/u/66980702?v=4
-227,Rohin Garg,267,,https://lh3.googleusercontent.com/a/AEdFTp5917nt3mbsCbafWaZaPLzT8HKU7FAbsZ0bRhub=s96-c
+227,Rohin Garg,267,,https://lh3.googleusercontent.com/a/ACg8ocID4ueje3iM0BC4NpqnFnHqbI8_XQpLJrekzAlDB71O0A=s96-c
 228,kevinmchung (AoC++),266,https://github.com/kevinmchung,https://avatars.githubusercontent.com/u/4673620?v=4
 228,Tony Jiang,266,,https://lh3.googleusercontent.com/a/ACg8ocLXb2PEFvfUqhsi84jbZPhUGOEP-bmmha1BsC_tROTytKo=s96-c
 230,Loks-,264,,https://avatars.githubusercontent.com/u/7597074?v=4
@@ -378,7 +378,7 @@ Rank,Name,Score,Link,Avatar
 377,christopher papke,131,,https://lh3.googleusercontent.com/a/AGNmyxYukCmv5uOmGUz1wxAO-wAG2jIm_NIflKaoYn9p=s96-c
 378,Ari Wachtel,130,,https://lh3.googleusercontent.com/a/ACg8ocJL6YeHy8M8Is9qqDaC7Aigtfd_5SI2Q_2BG1l2LsAUF38=s96-c
 379,chunkybanana,129,,https://avatars.githubusercontent.com/u/62921243?v=4
-380,Ethan C,128,,https://lh3.googleusercontent.com/a-/ALV-UjXYbZk_tBJvkzPHOABXc91dydqRd53bPRNR0uVdqq2YVaGDc0rBWrPFPFNM6DXi9DtmdWwf5T5BLQQ3rMS92F7mlbHOiyWtw8RHtQUMERiaic1E2MUEznQAs8skonk_bzNkD0_HnafUPHA-ZoHkU7
+380,Ethan C,128,,https://lh3.googleusercontent.com/a-/ALV-UjXU1I67l4ywP9bE4BplP-Wmh2ZpInUWwPdfwhgR-hCJq1Yz4hoRqcJi-no2aJK1XWqPsqJKcgmWTaHF6EDnwYSihWlLWNO0HF4IqT9M8InK1l7ywCTB2vDq8lL4M4kvJU2k4UTUwXBkkEwVaLL0kB
 380,Max Friedman,128,,https://lh3.googleusercontent.com/a/ACg8ocKT0YBBKNJ2eU3lWY1CeryAQRF44A8hNo-9hY6If-dcNG8=s96-c
 380,Dev Thiru,128,,https://lh3.googleusercontent.com/a/AEdFTp66fs824MUT4ci-CnXthu2ku0HTJiZocVHdzEIl=s96-c
 380,Kerem Ergene,128,,https://lh3.googleusercontent.com/a/ACg8ocJcj2IYUkd6XI5OU54R8A3QUW8PmuqmwgdQ-K5_mto0=s96-c

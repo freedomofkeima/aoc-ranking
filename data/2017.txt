@@ -50,7 +50,7 @@ Rank,Name,Score,Link,Avatar
 48,Paige Ruten (AoC++),1344,https://github.com/paigeruten,https://avatars.githubusercontent.com/u/115779?v=4
 50,mserrano,1322,,https://avatars.githubusercontent.com/u/178065?v=4
 51,Scott Swingle,1318,,https://lh3.googleusercontent.com/a/ALm5wu0ALyI-0KAQMPGcou8_0iS8gdukyD5YWE2s92fY-Vk=s96-c
-52,swwu,1294,,https://avatars0.githubusercontent.com/u/1035409?v=4
+52,swwu,1294,,https://avatars.githubusercontent.com/u/1035409?v=4
 53,Michael Goldwasser (AoC++),1277,,https://avatars.githubusercontent.com/u/3654371?v=4
 54,Angus Lim,1265,,https://lh3.googleusercontent.com/a/ACg8ocJduYKC7cbrjQ2FaXPtAYp2S2VjUKLDJ7u_qchqa76o-rQ=s96-c
 55,Jonathan Rupp,1241,https://github.com/jorupp,https://avatars.githubusercontent.com/u/3874909?v=4

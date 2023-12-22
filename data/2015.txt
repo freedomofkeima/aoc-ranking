@@ -693,7 +693,7 @@ Rank,Name,Score,Link,Avatar
 689,Marcos V. Ferretti,69,,https://lh3.googleusercontent.com/a/ACg8ocIlWxWIi_Oyv1hHIRz1p9tLij0gvv-ALNSimWnQ71Wv9D8=s96-c
 689,noiz,69,https://github.com/noiz,https://avatars.githubusercontent.com/u/500879?v=3
 689,golubitsky,69,https://github.com/golubitsky,https://avatars.githubusercontent.com/u/8316665?v=4
-689,blueyleader,69,https://github.com/blueyleader,https://avatars3.githubusercontent.com/u/16214803?v=4
+689,blueyleader,69,https://github.com/blueyleader,https://avatars.githubusercontent.com/u/16214803?v=4
 696,Bwob,68,,
 696,(anonymous user #9927),68,,
 698,t2davis,67,,https://avatars.githubusercontent.com/u/11417268?v=3

@@ -346,7 +346,7 @@ Rank,Name,Score,Link,Avatar
 343,Michał Świeży,126,,https://lh3.googleusercontent.com/a/ACg8ocK1ZwxSBnyXHYSNAQ-Q8ms2C6Dh63G3D5Ch7jBys3Zh=s96-c
 346,Sanjeev Shrestha,125,https://github.com/sanjeevshrestha,https://avatars.githubusercontent.com/u/227963?v=4
 346,vilhelms,125,,https://avatars.githubusercontent.com/u/810867?v=3
-348,blueyleader,124,https://github.com/blueyleader,https://avatars3.githubusercontent.com/u/16214803?v=4
+348,blueyleader,124,https://github.com/blueyleader,https://avatars.githubusercontent.com/u/16214803?v=4
 348,Kevin Davis,124,,https://lh3.googleusercontent.com/a/ALm5wu2ePCE6ZT8WbBUenMZpMtYL1uXJcWE-C8UgFtPI-X0=s96-c
 350,(anonymous user #18180),123,,
 351,Alan Seymour,122,https://github.com/alan-seymour,https://avatars.githubusercontent.com/u/2101315?v=4
