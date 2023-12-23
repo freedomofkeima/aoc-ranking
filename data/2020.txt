@@ -156,7 +156,7 @@ Rank,Name,Score,Link,Avatar
 155,pfg,419,https://github.com/pfgithub,https://avatars.githubusercontent.com/u/6010774?v=4
 156,jorisvr,412,https://github.com/jorisvr,https://avatars.githubusercontent.com/u/6183894?v=4
 156,(anonymous user #858833),412,,
-158,anominos,411,,https://lh3.googleusercontent.com/a/ACg8ocLevgnC7pxGyYIAbZ2P5TA4qN94fhoamSmsIyHCnmR8=s96-c
+158,anominos,411,https://github.com/anominos,https://avatars.githubusercontent.com/u/46242743?v=4
 158,Ryan Bai,411,,https://lh3.googleusercontent.com/a-/AOh14GiMcSoYw6-8vs8Qv7271thLcebRPhNC4wS8yHqOBQ=s96-c
 160,DayDun,402,https://github.com/DayDun,https://avatars.githubusercontent.com/u/14539902?v=4
 160,asottile,402,https://github.com/asottile,https://avatars.githubusercontent.com/u/1810591?v=4
@@ -469,7 +469,7 @@ Rank,Name,Score,Link,Avatar
 467,algmyr,75,https://github.com/algmyr,https://avatars.githubusercontent.com/u/15268706?v=4
 467,Gymhgy,75,https://github.com/Gymhgy,https://avatars.githubusercontent.com/u/49801033?v=4
 467,Ben Frankel,75,,https://avatars1.githubusercontent.com/u/12173779?v=4
-467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a-/ALV-UjVxMiATYjSXrLpR9GKUdN1NBmZ8xyQS4CoZnCllJB_080C_JUC_6tjDMzW8FstQfTA5sjhcMGH9ZYB6DmQ3kAbJP4y0dH11hXrmBVuzq1gleV41zClrjZ3TYrFQRi4LXthWwjfvVqiz66LDnhXT98
+467,Clancy Woodburn,75,,https://lh3.googleusercontent.com/a-/ALV-UjXFDvnL3tkZA9Gik1FcwEKY2ce1xyQeLLFIBcr3jb5pjZXEhXRSK69r3SPv9gCTccOrwvchM1xmOJMlwTFCR5iY-qloyuaM2L2TZiNvUs60z9mmwNg3egeka4LvMs6xHOkRh6uvT8EAvxprGqcvAJ
 467,pazabo,75,,https://avatars3.githubusercontent.com/u/222909?v=4
 467,Albert Chu,75,,https://lh3.googleusercontent.com/a-/AOh14Gh9_fm972c_JBBhZc6qiEivY3aOnqhKMaqtAPQ6dQ=s96-c
 474,Christian Stober (AoC++),74,,https://avatars.githubusercontent.com/u/5249057?v=4

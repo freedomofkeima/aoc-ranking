@@ -128,7 +128,7 @@ Rank,Name,Score,Link,Avatar
 127,(anonymous user #14246),610,,
 127,hlian (AoC++),610,https://github.com/hlian,https://avatars.githubusercontent.com/u/63533?v=4
 127,rennex,610,,https://avatars.githubusercontent.com/u/449856?v=4
-130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/ALV-UjW6U-y3KYxZ3i9MUB9DLmGtx036sAeQuxxMCL80U7GoFnVZYB3IG4rjCPUExPOpHTZI2JbNP-qWOk2Hzd1sgI5nyWFKaPr76EVbWS5eJOuXz4Xdd-Ur3vpyLA1mSdJ1rg5JfV2fl2_pYJBn1Ho9hl
+130,Jeremiah Simmons (AoC++),603,,https://lh3.googleusercontent.com/a-/ALV-UjWLNNHOpX5vKyJ5Zmbs57XdUiK5fpyUaUr5-fBK7ibiXlM2AXf0ldNmRzgmpADxiXLjKwop-NYsaAopHofGAZ4wqgu0FD4kJUL41jiYFhjjFqNOWvwItq6QABy_EV2bpIr5aMALCsRZ5e-wRC5YHy
 131,Joel Harmon,588,,https://lh3.googleusercontent.com/a/ACg8ocIBoUlA8ZA2OGcUWZic7q4IKQZS8kVPTfaEKhPishCG=s96-c
 131,bufordsharkley,588,https://github.com/bufordsharkley,https://avatars.githubusercontent.com/u/4923417?v=4
 133,vaultah,585,https://github.com/vaultah,https://avatars.githubusercontent.com/u/4944562?v=4

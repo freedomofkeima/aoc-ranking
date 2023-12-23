@@ -360,7 +360,7 @@ Rank,Name,Score,Link,Avatar
 358,WildUtah,134,https://github.com/WildUtah,https://avatars.githubusercontent.com/u/853423?v=4
 360,Amber Choo,132,,https://lh3.googleusercontent.com/a/AAcHTtcORsnx5MX9q-mTeT-pJTjw5rJm6JsHpmJ2feJ_y0OfBg=s96-c
 360,sonneveld (AoC++),132,https://github.com/sonneveld,https://avatars.githubusercontent.com/u/335451?v=4
-362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjW6U-y3KYxZ3i9MUB9DLmGtx036sAeQuxxMCL80U7GoFnVZYB3IG4rjCPUExPOpHTZI2JbNP-qWOk2Hzd1sgI5nyWFKaPr76EVbWS5eJOuXz4Xdd-Ur3vpyLA1mSdJ1rg5JfV2fl2_pYJBn1Ho9hl
+362,Jeremiah Simmons (AoC++),130,,https://lh3.googleusercontent.com/a-/ALV-UjWLNNHOpX5vKyJ5Zmbs57XdUiK5fpyUaUr5-fBK7ibiXlM2AXf0ldNmRzgmpADxiXLjKwop-NYsaAopHofGAZ4wqgu0FD4kJUL41jiYFhjjFqNOWvwItq6QABy_EV2bpIr5aMALCsRZ5e-wRC5YHy
 363,Zeki Gurbuz,129,,https://avatars.githubusercontent.com/u/36140950?v=4
 364,Dave Buchfuhrer (AoC++),128,,https://lh3.googleusercontent.com/a/ACg8ocLIW58Q7bdF8Rf4XsZrlucqai652T9HmRBXaByr9Efad813=s96-c
 364,nmutalik (AoC++),128,https://github.com/nmutalik,https://avatars.githubusercontent.com/u/2798587?v=4

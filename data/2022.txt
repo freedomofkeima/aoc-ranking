@@ -181,7 +181,7 @@ Rank,Name,Score,Link,Avatar
 180,Måns Magnusson,335,https://github.com/exoji2e,https://avatars.githubusercontent.com/u/2479779?v=4
 181,int-e,333,,https://avatars.githubusercontent.com/u/2060964?v=4
 182,jhawthorn (AoC++),331,https://github.com/jhawthorn,https://avatars.githubusercontent.com/u/131752?v=4
-182,sohcah,331,https://github.com/sohcah,https://avatars.githubusercontent.com/u/51970078?v=4
+182,Sam Hindess,331,https://github.com/sohcah,https://avatars.githubusercontent.com/u/51970078?v=4
 184,Darragh Griffin,330,https://github.com/DarraghGriffin,https://avatars.githubusercontent.com/u/9257845?v=4
 185,flashmt,329,,https://avatars.githubusercontent.com/u/5547767?v=4
 186,matthewmisiaszek (AoC++),327,https://github.com/matthewmisiaszek,https://avatars.githubusercontent.com/u/76763420?v=4
@@ -270,7 +270,7 @@ Rank,Name,Score,Link,Avatar
 269,seligman99 (AoC++),213,,
 269,eniraa,213,https://github.com/eniraa,https://avatars.githubusercontent.com/u/47072520?v=4
 271,Anthony Li,212,https://github.com/anli5005,https://avatars.githubusercontent.com/u/7005789?v=4
-272,anominos,211,,https://lh3.googleusercontent.com/a/ACg8ocLevgnC7pxGyYIAbZ2P5TA4qN94fhoamSmsIyHCnmR8=s96-c
+272,anominos,211,https://github.com/anominos,https://avatars.githubusercontent.com/u/46242743?v=4
 273,joefarebrother,206,https://github.com/joefarebrother,https://avatars.githubusercontent.com/u/5400608?v=4
 274,miriam-rittenberg,204,,https://avatars.githubusercontent.com/u/48919424?v=4
 274,Thomas Draper,204,,https://lh3.googleusercontent.com/a/ALm5wu0FL24fhgBOOOS3wsWyWwXHpMkHO_qLuHBpIHcu=s96-c
@@ -518,7 +518,7 @@ Rank,Name,Score,Link,Avatar
 512,Leon Loopik,80,https://github.com/Lewn,https://avatars.githubusercontent.com/u/489021?v=4
 518,Timothy Leong,79,,https://lh3.googleusercontent.com/a/ALm5wu16AE6xczh7GDDUdiAl6nd5VguK-6y70coYEafP=s96-c
 518,Jay Foad (AoC++),79,https://github.com/jayfoad,https://avatars.githubusercontent.com/u/108316?v=4
-518,Clancy Woodburn,79,,https://lh3.googleusercontent.com/a-/ALV-UjVxMiATYjSXrLpR9GKUdN1NBmZ8xyQS4CoZnCllJB_080C_JUC_6tjDMzW8FstQfTA5sjhcMGH9ZYB6DmQ3kAbJP4y0dH11hXrmBVuzq1gleV41zClrjZ3TYrFQRi4LXthWwjfvVqiz66LDnhXT98
+518,Clancy Woodburn,79,,https://lh3.googleusercontent.com/a-/ALV-UjXFDvnL3tkZA9Gik1FcwEKY2ce1xyQeLLFIBcr3jb5pjZXEhXRSK69r3SPv9gCTccOrwvchM1xmOJMlwTFCR5iY-qloyuaM2L2TZiNvUs60z9mmwNg3egeka4LvMs6xHOkRh6uvT8EAvxprGqcvAJ
 521,"Kin Fung, Nicholas Ko",78,,https://lh3.googleusercontent.com/a/ACg8ocIzvHIA9Miqjzcsv1TU1tkjTInbp0K0aSLbN_by2Kja=s96-c
 521,clemdatacrunch (Sponsor),78,https://github.com/clemdatacrunch,https://avatars.githubusercontent.com/u/101590218?v=4
 521,Den Mukhametianov,78,,https://avatars.githubusercontent.com/u/6906112?v=4
@@ -937,7 +937,7 @@ Rank,Name,Score,Link,Avatar
 929,Sawyer Welden,11,https://github.com/sawyerWeld,https://avatars.githubusercontent.com/u/22646243?v=4
 929,icemoon97,11,,
 929,(anonymous user #999046),11,,
-929,Kyle Simpson,11,,https://lh3.googleusercontent.com/a/AAcHTtcgY3sBFKATfRcYbJiK-nU5Sx7B_UtsS8VWJjege0K-=s96-c
+929,Kyle Simpson,11,,https://lh3.googleusercontent.com/a/ACg8ocKQl4DeKmSsTYJCLrAOISajc3QUZwSLekMuFGRc3TN8=s96-c
 940,PenguinEncounter,10,https://github.com/penguinencounter,https://avatars.githubusercontent.com/u/49845522?v=4
 940,Joel Harmon,10,,https://lh3.googleusercontent.com/a/ACg8ocIBoUlA8ZA2OGcUWZic7q4IKQZS8kVPTfaEKhPishCG=s96-c
 940,jmshoun,10,,https://avatars.githubusercontent.com/u/8939719?v=4

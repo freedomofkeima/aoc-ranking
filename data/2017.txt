@@ -325,7 +325,7 @@ Rank,Name,Score,Link,Avatar
 323,jleedev,139,,https://avatars.githubusercontent.com/u/23022?v=4
 323,DanilaFe,139,https://github.com/DanilaFe,https://avatars.githubusercontent.com/u/4361282?v=4
 323,deniska,139,,https://avatars.githubusercontent.com/u/97346?v=4
-327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/ALV-UjW6U-y3KYxZ3i9MUB9DLmGtx036sAeQuxxMCL80U7GoFnVZYB3IG4rjCPUExPOpHTZI2JbNP-qWOk2Hzd1sgI5nyWFKaPr76EVbWS5eJOuXz4Xdd-Ur3vpyLA1mSdJ1rg5JfV2fl2_pYJBn1Ho9hl
+327,Jeremiah Simmons (AoC++),136,,https://lh3.googleusercontent.com/a-/ALV-UjWLNNHOpX5vKyJ5Zmbs57XdUiK5fpyUaUr5-fBK7ibiXlM2AXf0ldNmRzgmpADxiXLjKwop-NYsaAopHofGAZ4wqgu0FD4kJUL41jiYFhjjFqNOWvwItq6QABy_EV2bpIr5aMALCsRZ5e-wRC5YHy
 327,Michal Maršálek,136,,https://lh3.googleusercontent.com/a/ACg8ocJNDSNqf6U-VZOzxOw5K2fzQMSm8UKFF8TaHTKFBXlI=s96-c
 327,(anonymous user #246102),136,,
 330,Sujeet Gholap,135,,https://lh3.googleusercontent.com/a/ACg8ocJ10grHy5ypjDkmJsQNoEg4kUUDvoXkh_Dmg4DQ3bzNQbCM=s96-c
