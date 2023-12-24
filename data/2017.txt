@@ -265,7 +265,7 @@ Rank,Name,Score,Link,Avatar
 264,MadVikingGod,188,https://github.com/MadVikingGod,https://avatars.githubusercontent.com/u/3766680?v=4
 265,Shane Wighton,186,,https://lh3.googleusercontent.com/a/ALm5wu0Tekd2Tw4TZNlpSPH4bq5lneG9_AqbftQRyMzY=s96-c
 266,ecnerwala,185,https://github.com/ecnerwala,https://avatars.githubusercontent.com/u/7088371?v=4
-267,sxlijin,184,,https://avatars3.githubusercontent.com/u/512410?v=4
+267,sxlijin,184,,https://avatars.githubusercontent.com/u/512410?v=4
 268,(anonymous user #196127),182,,
 269,(anonymous user #63186),181,,
 270,NXGWRZ,180,,

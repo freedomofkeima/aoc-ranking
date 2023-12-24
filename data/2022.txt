@@ -611,7 +611,7 @@ Rank,Name,Score,Link,Avatar
 604,Blaž Peterlin (AoC++),59,,https://lh3.googleusercontent.com/a/ACg8ocKmfX6pD0b7ivET2FdI9qXtb6Mj2GaJEGyajiEYD1vA=s96-c
 611,Niraj Patel,58,,https://lh3.googleusercontent.com/a/ACg8ocLWgPd5YBmdU3VTdBstJ14hwPdg34RYZwCjJNN1-0Om=s96-c
 611,thunder-red-star,58,https://github.com/thunder-red-star,https://avatars.githubusercontent.com/u/67127399?v=4
-611,(anonymous user #2330831),58,,
+611,TLSM,58,https://github.com/TLSM,https://avatars.githubusercontent.com/u/104547575?v=4
 611,Murray Edwards,58,,https://lh3.googleusercontent.com/a/ACg8ocIzQqmyojb2ejauX-ECp1TsHkfjT7DtyyhlXtNbXVEm=s96-c
 615,Sophie,57,,https://lh3.googleusercontent.com/a/ACg8ocJk2KLwsAsi6PaQ4tieIIi4Eo0o8KD3um8SoDRIRiC2=s96-c
 615,Bryan Kok,57,https://github.com/Transfusion,https://avatars.githubusercontent.com/u/3119646?v=4

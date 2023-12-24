@@ -36,7 +36,7 @@ Rank,Name,Score,Link,Avatar
 35,minno726,1241,https://github.com/minno726,https://avatars.githubusercontent.com/u/1452356?v=4
 36,asross,1235,https://github.com/asross,https://avatars.githubusercontent.com/u/1022564?v=3
 37,Thomas Peters,1226,https://github.com/weters,https://avatars2.githubusercontent.com/u/78378?v=4
-38,Erik Godard,1212,https://github.com/godarderik,https://avatars0.githubusercontent.com/u/522853?v=4
+38,Erik Godard,1212,https://github.com/godarderik,https://avatars.githubusercontent.com/u/522853?v=4
 39,Tryneus,1147,https://github.com/Tryneus,https://avatars.githubusercontent.com/u/552910?v=4
 40,(anonymous user #19765),1100,,
 41,asterite,1082,https://github.com/asterite,https://avatars.githubusercontent.com/u/209371?v=4
