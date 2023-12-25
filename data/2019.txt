@@ -219,7 +219,7 @@ Rank,Name,Score,Link,Avatar
 218,(anonymous user #678753),309,,
 219,Matthew Ellsworth,308,,https://lh3.googleusercontent.com/a/ACg8ocJKWK4VYRxUzjoKXHPjqKdf6yLogbnzZ1GAd9llEfKzmOU=s96-c
 219,(anonymous user #204638) (AoC++),308,,
-221,Maciej Goszczycki (AoC++),303,https://github.com/maciej-irl,https://avatars.githubusercontent.com/u/2553960?v=4
+221,Maciej Goszczycki (AoC++),303,https://github.com/nsmaciej,https://avatars.githubusercontent.com/u/2553960?v=4
 222,asottile,298,https://github.com/asottile,https://avatars.githubusercontent.com/u/1810591?v=4
 223,Brian Bucklew (AoC++),297,,https://lh3.googleusercontent.com/a/ACg8ocLlwEL7Aww1vYiz8eGN_lTyJcGiIW4yzear5cEZiAX2Eg=s96-c
 224,twattanawaroon,291,,https://avatars.githubusercontent.com/u/5386360?v=4
